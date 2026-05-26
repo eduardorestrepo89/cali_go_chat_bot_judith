@@ -1,0 +1,21 @@
+<soc>Asesor: Hola, buenas tardes, Intentando comunicarme con ustedes información acerca de los vehículos.  
+<soc>Cliente: Si no más que estaba trabajando no le pude contestar, disculpas.  
+<soc>Asesor: Ahora si tiene tiempo de atenderme. 
+<soc>Cliente: Ok si, cuenteme
+<soc>Asesor: bueno, le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Estaríamos solicitando tres documentos para poder financiarle. Principalmente sería su identificación, puede ser de aquí o de su país, pero tiene que estar vigente. Si tiene también lo que es un comprobante de domicilio, cualquier tipo de Bill le funciona, aunque no sea su nombre. Y si tiene también un comprobante de ingreso. Pero si le pagan cash y no tiene cómo comprobar ingreso, no hay ningún problema.  
+<soc>Cliente: ¿Disculpe, una pregunta, es del Cali go Autos?  
+<soc>Asesor: Ya ha visitado Cali Go Auto?  
+<soc>Cliente: Ayer hablé con ellos.   
+<soc>Asesor: Nosotros estamos acá en San Fernando, California. ¿Cada localidad trabaja diferente, verdad? No sé si les gustaría visitarnos a nosotros. Tenemos facilidades en lo que es el financiamiento y tenemos un excelente inventario.  
+<soc>Cliente: Y nomás que ayer hablé con ellos acá en Oxnard, por eso dije.  
+<soc>Asesor: ¿Y quedó de regresar con ellos?  
+<soc>Cliente: Sí, quedé en regresar a la llamada hoy en la tarde, pero pues a ver qué.  
+<soc>Asesor: Ok, bueno, miren, nosotros acá si nos visita, porque como le digo, tenemos excelente inventario. ¿Que busca algún vehículo en especial, marca, año o modelo?  
+<soc>Cliente: No, pues la verdad no buscaba un vehículo en especial, sino que nomás buscaba para el que calificaba. Por eso que le dije, le dije al muchacho ayer, le dije que ahorita tenía unas deudas que pagué y hace como dos semanas me chocaron el carro y por eso ocupaba un carrito para andar, pues no tengo para el enganche, le digo. Y ya a ver, ya me dijo pues te regreso mañana en la tarde, me dijo. Ya le dije, pues si me dan, pues si me piden como $1000 de enganche o unos 1500 de enganche, si me dan como un mes y ya se lo llevo todo, le dije. Ya me dijo, pues ya te regreso.  
+<soc>Asesor: Ok, perfecto. Con 1500 de enganche nosotros estaríamos trabajando por un carro sedán 
+<soc>Cliente: Es lo que le digo al muchacho, nomás que ahorita, ahorita no cuento con los 1500, sino que le digo que si me daba un mes y yo se lo llevaba.  
+<soc>Asesor: Ok, perfecto. ¿Entonces pero usted quisiera que usar el vehículo el mismo día, verdad? Que nos visite.  
+<soc>Cliente: Que lo ocupo para trabajar porque me chocaron mi carro.  
+<soc>Asesor: Ok, fíjese que nosotros si no manejamos esa política en este caso sí tendría que traer usted el dinero completo para que nosotros le podamos dar el vehículo.  
+<soc>Cliente: Ok, sí, algo así me dijo el muchacho ayer también. ¿Me dijo, sabe qué? Pues es que no puedo hacer eso, pero voy a tratar de investigar y ya yo te hablo mañana, me dijo. Ya, pues dijo que deben hablarme ahora en la tarde, pues quién sabe.  
+<soc>Asesor: ¿Ok, pero sí, en ese caso, si no podríamos ayudarle de esa forma, Si usted nos visita con el dinero en mano si podemos hacer negocio

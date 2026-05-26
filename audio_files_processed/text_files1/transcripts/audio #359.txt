@@ -1,0 +1,29 @@
+<soc>Asesor: Hola, buen día. Tengo el gusto con el caballero Arnaldo. Les saludo de acá del dealer. Estuvimos intercambiando algunos mensajitos. Quería darle más información acerca de cómo trabajamos el financiamiento de los vehículos. No sé si tiene tiempo de atenderme.
+
+<soc>Cliente: A ver, dígame.
+
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros le estaríamos solicitando tres documentos, que son principalmente una identificación, puede ser de aquí o de su país, pero tiene que estar vigente. También ocupa un recibo (bill), cualquier tipo de recibo. Si no está a su nombre, no hay problema, solo para confirmar la dirección. Y si tiene también un comprobante de ingresos. Pero si le pagan en efectivo, no hay problema. ¿Habría algún inconveniente con algún requisito para que ahorita lo podamos solucionar?
+
+<soc>Cliente: Bueno, el pasaporte y el comprobante de domicilio tengo, pero como usted me acaba de decir, me pagan en efectivo.
+
+<soc>Asesor: Entonces, en este caso, lo que hacemos cuando le pagan en efectivo es que, de acuerdo a la información que usted brinde de su ingreso, así quedaría en el sistema y no necesita traer ningún comprobante de ingreso. ¿Y en esta ocasión, sería su primera vez financiando o ya tiene crédito?
+
+<soc>Cliente: No, es la primera vez.
+
+<soc>Asesor: ¿Algún vehículo en especial que busque, marca, año o modelo?
+
+<soc>Cliente: Bueno, estoy buscando un Toyota Corolla.
+
+<soc>Asesor: Un Corolla, perfecto. Aquí le tengo varios. Le tengo del 2018 en adelante, desde 15,000 dólares, con un enganche desde 1,800 dólares. ¿No sé qué le parece o con cuánto de enganche usted cuenta?
+
+<soc>Cliente: Bueno, si son 1,800, sí, pero si pide más, pues no, porque ya sería mucho.
+
+<soc>Asesor: Sí, fíjese que nosotros ahorita tenemos esta promoción, enganches bajos este fin de semana desde 1,800 dólares. Como es su primer crédito, no hay ningún inconveniente. A veces, con el historial crediticio, se le solicita un poco más de enganche, ¿verdad? Pero en su caso, no; con los 1,800 le estaríamos ayudando. No sé si puede venir al dealer a ver personalmente los vehículos.
+
+<soc>Cliente: Me gustaría llegar como dentro de un mes.
+
+<soc>Asesor: ¿Ok, entonces dentro de un mes aproximadamente yo me comunicaría con usted para confirmar, verdad? Siempre es bueno visitar.
+
+<soc>Cliente: Okay.
+
+<soc>Asesor: Ok, bye.

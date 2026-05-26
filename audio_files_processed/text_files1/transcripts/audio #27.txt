@@ -1,0 +1,19 @@
+<soc>Asesor: Hola, buen día. Tengo el gusto con Mave. Les hablo del dealer de autos. Me brindaron su número porque le interesa un vehículo. Me dijeron que podía contestar ahora. ¿Tiene tiempo para atenderme?
+<soc>Cliente: si, Dígame.
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa. Ofrecemos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para financiarle un vehículo, le estaríamos solicitando tres documentos: una identificación, un comprobante de ingreso, y un bill. ¿Sería su primera vez financiando? ¿Ya ha tenido algún crédito?
+<soc>Cliente: No, no tenemos crédito.
+<soc>Asesor: Ok. ¿Y quisiera venir personalmente a ver los vehículos? Estamos abiertos hasta las 8:00 p.m. Le voy a dejar la dirección por un mensaje de texto.
+<soc>Asesor: ¿Busca algún vehículo en especial? ¿Marca, año, modelo? Tengo Honda Civic y Honda Accord del 2018 en adelante, desde los 2500 de enganche. ¿Está bien para usted o con cuánto cuenta?
+<soc>Cliente: tengo 2500 de enganche. ¿Y cuál sería la mensualidad? 
+<soc>Asesor: Los pagos mensuales dependen del plazo del financiamiento. Ahorita son desde 450 como mínimo. Es necesario que negociemos el plazo del financiamiento y veamos el vehículo que usted se va a llevar para establecer exactamente el pago mensual.
+<soc>Cliente: ¿Y por dónde queda San Fernando?
+<soc>Asesor: ¿Usted en qué ciudad se encuentra?
+<soc>Cliente: En Richmond, California.
+<soc>Asesor: Ok, estamos cerca de Los Ángeles.
+<soc>Cliente: Pero está lejos.
+<soc>Asesor: ¿A cuánto tiempo está?
+<soc>Cliente: No sé, pero sí está lejos de donde yo vivo.
+<soc>Asesor: Si gusta, le puedo compartir nuestra dirección para que cheque más o menos en cuánto tiempo le queda y si se anima a visitarnos. Estamos abiertos de lunes a sábado hasta las 8:00 p.m. y los domingos hasta las 6:00 p.m.
+<soc>Cliente: Bueno, entonces el mínimo para pagar son 450, ¿verdad?
+<soc>Asesor: Sí, es la mensualidad mínima.
+<soc>Cliente: Bueno, está bien. Gracias de todos modos por la información. Bye.

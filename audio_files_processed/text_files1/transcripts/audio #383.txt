@@ -1,0 +1,41 @@
+<soc>Asesor: Hola, muy buenos días. Tengo el gusto de hablar con el caballero Merino. Le saludo de acá del dealer. Quería darle un poco más de información sobre cómo trabajamos el financiamiento. No sé si tiene tiempo para atenderme.
+
+<soc>Cliente: Sí, está bien.
+
+<soc>Asesor: Ok. ¿Está buscando algún vehículo en especial, como un carro, camioneta o SUV?
+
+<soc>Cliente: Un coche chiquito, un sedán.
+
+<soc>Asesor: Perfecto. Tengo varias opciones en marcas como Honda, Toyota, Nissan, Kia, Chevy y Ford, con enganches desde 2000 dólares. ¿Está bien para usted?
+
+<soc>Cliente: ¿Más o menos qué tipo tienes?
+
+<soc>Asesor: Tengo modelos Honda, como el Civic y el Accord.
+
+<soc>Cliente: Ok, pues en sí busco un Honda Civic.
+
+<soc>Asesor: Un Civic, perfecto. ¿Y sería su primera vez financiando? ¿Ya tiene crédito establecido?
+
+<soc>Cliente: Pues tengo una camioneta que estoy pagando. Tengo ya casi dos años y medio con ella.
+
+<soc>Asesor: Ok. Los requisitos que le estaremos solicitando en esta ocasión son: su identificación, que puede ser de aquí o de su país, pero debe ser vigente. También necesitamos un comprobante de domicilio, que puede ser cualquier tipo de recibo donde aparezca su dirección. Si no está a su nombre, no hay problema. Y si tiene también un comprobante de ingreso, sería ideal. ¿A usted le pagan en efectivo, con cheque o por depósito?
+
+<soc>Cliente: Con cheque.
+
+<soc>Asesor: Ok. En este caso, su último talón de cheque le funciona perfectamente.
+
+<soc>Cliente: ¿Y en qué lugar están ubicados?
+
+<soc>Asesor: Nosotros estamos en el Valle de San Fernando. Le voy a dejar la dirección por mensaje de texto.
+
+<soc>Cliente: ¿Qué tan lejos está del Monte? Yo vivo aquí en el Monte.
+
+<soc>Asesor: Aproximadamente a 35 minutos del Monte. No está tan retirado. Le dejaré la dirección para que cheque más o menos la distancia. Estamos abiertos de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m. y los domingos desde las 10:00 a.m. hasta las 6:00 p.m. ¿Qué día podría visitarnos?
+
+<soc>Cliente: Tal vez hoy, a ver si me doy una vuelta para ver qué carros tienen.
+
+<soc>Asesor: Ok, perfecto. Tengo varios Honda Civic que le van a gustar. Lo esperamos más tarde. Le dejo la dirección por mensaje de texto.
+
+<soc>Cliente: ¿Tienes algunas fotos de los Honda Civic que tienes, que me puedes mandar?
+
+<soc>Asesor: Sí, le voy a enviar las fotografías.

@@ -1,0 +1,15 @@
+<soc>Asesor: Hola, buenos días.  
+<soc>Cliente: Buenos días. 
+<soc>Asesor: Tengo el gusto con Juan.  
+<soc>Cliente: Sí, dígame.  
+<soc>Asesor: Le saludo del dealer de autos, no sé si tiene tiempo de atenderme.  
+<soc>Cliente: Fíjese que estoy ahorita en el negocio, estoy en el trabajo, pero fíjese que lo que yo le quería preguntar, este, es de una van, o sea, una camioneta para transportar cosas de negocio, digamos de quesadillas y de tortas. Sí, pero que sea una económica, una pequeña.  
+<soc>Asesor: No tenemos en nuestro inventario ese tipo de vehículos, solo le manejo carro sedán, suv para cinco o siete pasajeros y trocas de doble cabina, pero no le manejo lo que es van de trabajo.  
+<soc>Cliente: Ay, joder. Ah, bueno. ¿Y en cuánto salen más o menos? ¿Y cuánto salen esos pequeños?  
+<soc>Asesor: Los carros sedán, fíjese que andan arriba de los 20,000 del año 2019 al 2023, lo que le tenemos con tres años de garantía en motor, transmisión y aire acondicionado.  
+<soc>Cliente: ¿Y el previsto cuánto se da? ¿Cuánto se da?  
+<soc>Asesor: De entre 2,000 de enganche.  
+<soc>Cliente: 2,000 de enganche. ¿Y de ahí se queda uno pagando cuánto?  
+<soc>Asesor: Mensualmente? Los pagos andan de 450 a 500. Mínimos?  
+<soc>Cliente: Mínimo. Ah, bueno. ¿Saben? Yo le agradezco bastante. Lo que ando buscando ahorita es una van de trabajo.  
+<soc>Asesor: Okay. Bueno, gracias.  

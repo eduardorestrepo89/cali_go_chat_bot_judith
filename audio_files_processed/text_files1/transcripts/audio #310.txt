@@ -1,0 +1,24 @@
+<soc>Asesor: Buenas tardes, ¿tengo el gusto de hablar con el caballero Jesús?.
+<soc>Cliente: Sí, claro.
+<soc>Asesor: Le saludo del dealer de autos. Quería proporcionarle más información sobre nuestros servicios. ¿Tiene tiempo para atenderme?
+<soc>Cliente: Ah, sí, claro.
+<soc>Asesor: Perfecto. Le comento que ofrecemos financiamiento en casa.
+<soc>Cliente: ¿Ah, sí?
+<soc>Asesor: Sí, además otorgamos tres años de garantía en el motor, la transmisión y el aire acondicionado. Para calificar, necesitaríamos que nos proporcione tres documentos: una identificación vigente, un comprobante de ingreso y un comprobante de domicilio.
+<soc>Cliente: ¿Eso es todo lo que se necesita?
+<soc>Asesor: Exactamente, pero ¿cuenta con los tres documentos o le falta alguno? Y, por cierto, ¿sería su primera vez financiando o ya ha tenido algún crédito antes?
+<soc>Cliente: No, la verdad es que es la primera vez.
+<soc>Asesor: Entendido. ¿Está buscando algún vehículo en especial, como marca, año o modelo?
+<soc>Cliente: Me gustaría una troca, pero no estoy seguro de cuál.
+<soc>Asesor: Tenemos varias trocas disponibles, todas con tres años de garantía en el motor, transmisión y aire acondicionado. Además, ofrecemos el primer mes de seguro gratis. Las trocas comienzan desde 3000 de enganche. ¿Qué le parece eso?
+<soc>Cliente: ¿Y en el caso de los coches, el enganche es más bajo?
+<soc>Asesor: Correcto, los coches sedán tienen enganches desde 2000.
+<soc>Cliente: Entiendo.
+<soc>Asesor: ¿Y qué día podría venir a verlos personalmente?
+<soc>Cliente: Envíame la dirección y veré qué día puedo ir.
+<soc>Asesor: Claro, le enviaré la dirección por mensaje de texto. ¿Podría venir hoy?
+<soc>Cliente: No, hoy no puedo.
+<soc>Asesor: ¿Tiene alguna idea de cuándo podría? Estamos abiertos de lunes a sábado hasta las 8:00 p.m. y el domingo hasta las 6:00 p.m.
+<soc>Cliente: Tal vez el domingo.
+<soc>Asesor: Perfecto, le enviaré la dirección y quedo atento a su visita. Que tenga una bonita tarde.
+<soc>Cliente: Igualmente, gracias.

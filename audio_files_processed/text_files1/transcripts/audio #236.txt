@@ -1,0 +1,49 @@
+<soc>Asesor: Hola, buen día, caballero. Le saludo desde el dealer. Hemos estado mensajeando, y quería darle más información sobre cómo trabajamos. ¿Tiene tiempo de atender mi llamada?
+
+<soc>Cliente: Sí, no es mucho tiempo, ¿verdad?
+
+<soc>Asesor: No, no más serán 3 minutos.
+
+<soc>Cliente: Vale.
+
+<soc>Asesor: Ok, le comento que hacemos financiamiento en casa y damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para financiarle un vehículo, necesitaríamos tres documentos: identificación vigente, comprobante de ingreso y comprobante de domicilio. ¿Tendría esos requisitos?
+
+<soc>Cliente: Solo con un tengo inconveniente.
+
+<soc>Asesor: ¿Cuál, caballero?
+
+<soc>Cliente: Con el comprobante de ingresos.
+
+<soc>Asesor: ¿Le pagan en efectivo?
+
+<soc>Cliente: Sí, me pagan cash.
+
+<soc>Asesor: Ok, no hay problema. Puede presentar el número de su jefe como comprobante de ingresos. Si no puede obtener una carta de trabajo, solo trae la identificación y con gusto le ayudamos. ¿Busca algún vehículo en especial, carro, troca o SUV?
+
+<soc>Cliente: Quiero una troca.
+
+<soc>Asesor: Tengo trocas del año 2018 en adelante, como la Toyota Tacoma, Chevrolet Silverado, Ford F-150, entre otras, desde $3000 de enganche. ¿Qué le parece?
+
+<soc>Cliente: ¿$3000 de enganche?
+
+<soc>Asesor: Sí, es el mínimo enganche. Las millas están entre 10,000 y 60,000, dependiendo de la troca.
+
+<soc>Cliente: Entiendo.
+
+<soc>Asesor: ¿Sería su primera vez financiando? ¿Ya tiene crédito?
+
+<soc>Cliente: No, apenas tengo un año en este país.
+
+<soc>Asesor: Perfecto. Podemos ayudarle a calificar y ver opciones. ¿Qué día podría venir a visitarnos? Estamos en el Valle de San Fernando.
+
+<soc>Cliente: Me puede dejar la dirección y yo me daría una vuelta, tal vez el lunes.
+
+<soc>Asesor: Claro, le dejaré la dirección por mensaje de texto. 
+
+<soc>Cliente: Perfecto, gracias.
+
+<soc>Asesor: Ok, que tenga un bonito sábado.
+
+<soc>Cliente: Igualmente, bye.
+
+<soc>Asesor: Gracias, hasta luego.

@@ -1,0 +1,21 @@
+<soc>Asesor: Hola, buenos días. Tengo el gusto con el caballero Freddy. Le saludo de acá del dealer de autos por el vehículo que busca.  
+<soc>Cliente: Oh, sí, sí, sí.  
+<soc>Asesor: Si tiene tiempo de atender mi llamada para darle un poco más de detalle.  
+<soc>Cliente: Sí, está bien, sí tengo tiempo.  
+<soc>Asesor: Ok, bueno, le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros, principalmente ocupa su identificación. Puede ser de aquí o de su país, pero tiene que estar vigente. También ocupa un comprobante de domicilio, que puede ser cualquier tipo de bill. Si no está su nombre, no hay problema, solo para confirmar dirección y si tiene también un comprobante de ingreso.  
+<soc>Cliente: Ok, sí, sí. tengo los documentos que me solicitas. 
+<soc>Asesor: Ok. ¿Tres requisitos o le hace falta alguno?  
+<soc>Cliente: Si tengo los documentos. ¿Hasta dónde mas o menos se encuentra el dealer?  
+<soc>Asesor: Estamos acá en el valle de San Fernando. ¿No le queda tan retirado?  
+<soc>Cliente: No, no, porque yo vivo en Los Ángeles.  
+<soc>Asesor: Ah, ok. Estamos como a 35 min. de Los Ángeles. ¿Y busca algún vehículo en especial? ¿Marca, año, modelo?  
+<soc>Cliente: Un 2002 Honda Civic, el Export.  
+<soc>Asesor: Ok, perfecto. Aquí le tengo desde los 2500 de enganche, no sé si está bien para usted.  
+<soc>Cliente: Solo cuento con 1500 de enganche.  
+<soc>Asesor: Fíjese que con 1500 nosotros podríamos trabajar de dos formas. Podría ser un Down Payment diferido o un depósito. Con el Down Payment diferido le daríamos el vehículo el mismo día y le damos cierto tiempo para que traiga la otra parte del enganche. Pero eso es bajo aplicación. En este caso sí tendría que calificar bajo esa modalidad para que le podamos ayudar así. Lo contrario sería de que si usted nos visita y le gusta algún Honda de los que tenemos, lo puede dejar apartado y puede venir por él cuando tenga el resto del enganche. ¿No sé, qué le parece?  
+<soc>Cliente: ¿Podría mejor visitarlo el domingo? No sé si abran el domingo.  
+<soc>Asesor: Sí, abrimos desde las 10:00 a.m. hasta las 6:00 p.m. ¿A qué hora nos podría visitar?  
+<soc>Cliente: Sería el domingo en la tarde, como a la una.  
+<soc>Asesor: Ok, entonces ahí le voy a dejar nuestra dirección por mensajito de texto y nos vemos el día domingo.  
+<soc>Cliente: Ok, está bien.  
+<soc>Asesor: Bueno, gracias. Feliz día.

@@ -1,0 +1,10 @@
+<soc>Asesor: Buen día, caballero. Le saludo del dealer de autos.
+<soc>Cliente: Oh, sí, buen día.
+<soc>Asesor: Nos comunicamos hace algunas semanas y quería saber si sigue interesado en comprar un vehículo.
+<soc>Cliente: Sí, estoy interesado en un Nissan Z estándar, transmisión manual.
+<soc>Asesor: Lamentablemente no tenemos ese tipo de inventario.
+<soc>Cliente: ¿No?
+<soc>Asesor: No, generalmente solo recibimos vehículos automáticos y, en cuanto a deportivos, llevamos varios meses sin recibirlos.
+<soc>Cliente: Yo estoy buscando específicamente un Nissan 370Z.
+<soc>Asesor: Entiendo. En este momento no contamos con ese modelo, pero si se anima por otro vehículo, no dude en contactarnos. Que tenga un buen día.
+<soc>Cliente: Ok, gracias.

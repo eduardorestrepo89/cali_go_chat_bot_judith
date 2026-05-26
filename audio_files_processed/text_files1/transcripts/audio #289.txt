@@ -1,0 +1,40 @@
+<soc>Asesor: Hola, buenas tardes, caballer. Mi nombre es Judith y soy del dealer de autos. Nos comunicamos hace una semana y quería saber si sigue interesado en comprar un vehículo.
+
+<soc>Cliente: Sí, estoy interesado.
+
+<soc>Asesor: Perfecto. Le voy a dejar nuestra dirección. ¿Qué día podría visitarnos? Estamos ubicados en San Fernando, California.
+
+<soc>Cliente: San Fernando, ¿aquí en el Valle?.
+
+<soc>Asesor: Exactamente. Estamos abiertos de lunes a sábado hasta las 8:00 p.m. y los domingos hasta las 6:00 p.m.
+
+<soc>Cliente: ¿Cuáles son los requisitos para adquirir uno?
+
+<soc>Asesor: Para los requisitos, solo necesitaría su identificación vigente, que puede ser de aquí o de su país. También necesitamos un comprobante de domicilio, como un recibo, y un comprobante de ingreso.
+
+<soc>Cliente: ¿Y si me pagan en efectivo?
+
+<soc>Asesor: Si le pagan en efectivo, no hay problema. Solo traiga su identificación y el recibo, y con eso le ayudamos.
+
+<soc>Cliente: Ok, eso suena bien. ¿Me puede dejar la dirección, por favor?
+
+<soc>Asesor: Claro, se la dejo por mensaje de texto. ¿Está buscando algún vehículo en especial, marca o modelo?
+
+<soc>Cliente: Estoy buscando un Toyota Camry.
+
+<soc>Asesor: También tenemos Toyota Corolla y a veces Prius híbridos. Los tenemos con un enganche desde $2,000. ¿Le parece bien?
+
+<soc>Cliente: ¿$2,000 de enganche?
+
+<soc>Asesor: Sí.
+
+<soc>Cliente: Ok, ¿dependerá del modelo el monto del enganche?
+
+<soc>Asesor: Exactamente, el enganche depende del vehículo y del año. ¿Qué día podría visitarnos para que pueda ver los vehículos en persona?
+
+<soc>Cliente: Aún no tengo un día específico, pero déjeme la dirección y trataré de salir temprano del trabajo para visitarlos.
+
+<soc>Asesor: Perfecto, aquí tiene nuestra dirección. Estaré pendiente de su visita. ¡Gracias y que tenga un buen día!
+
+<soc>Cliente: Gracias, igualmente.
+

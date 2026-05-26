@@ -1,0 +1,10 @@
+<soc>Asesor: Sí, hola, buen día caballero, le saludo de acá del dealer.  
+<soc>Cliente: ¿Oh, ay, cómo está?  
+<soc>Asesor: Muy bien, acá queriendo saber si esta interesado en visitarnos.  
+<soc>Cliente: Sí, oiga, pero la verdad esta semana no voy a poder, la verdad, porque estoy trabajando en Palm, ahorita llegamos de otra ciudad y en Los Ángeles voy a estar como el sábado.  
+<soc>Asesor: Ok, sería el fin de semana.  
+<soc>Cliente: Sí, pero mire, estaba mirando sus carros y se me gustó una Dodge Durango roja, no sé si todavía la tenga y quería saber el estilo de ella. No sé si la tenga todavía esa.  
+<soc>Asesor: Voy a verificar ahorita si tenemos disponible de ese modelo y yo le dejo fotos.  
+<soc>Asesor: ¿Puede cualquier color?  
+<soc>Cliente: Cualquier color que sea, pero preferiblemente roja
+<soc>Asesor: Okay, perfect, gracias, bye.  

@@ -1,0 +1,21 @@
+<soc>Cliente: Buenos días.
+<soc>Asesor: Buen día, caballero. Le saludo del concesionario de autos.
+<soc>Cliente: ¿Hola, es Judith, verdad?
+<soc>Asesor: Sí, soy yo. Quería ofrecerle más información sobre los vehículos, ¿tiene un momento para que hablemos?
+<soc>Cliente: Sí, tengo tiempo.
+<soc>Asesor: Perfecto. ¿Está buscando un carro sedán? Con los $1500, nosotros podemos ayudarle. Solo necesitamos tres documentos: una identificación vigente, que puede ser de aquí o de su país.
+<soc>Cliente: Tengo mi pasaporte y mi matrícula consular, soy de Guatemala.
+<soc>Asesor: Excelente, el pasaporte está bien. ¿Es su primera vez financiando un vehículo?
+<soc>Cliente: Sí, es la primera vez. He tenido carro, pero nunca he financiado uno.
+<soc>Asesor: Comprendo. Además del pasaporte, también necesitaríamos un comprobante de domicilio, que puede ser cualquier recibo. Si no está a su nombre, no hay problema, solo es para verificar la dirección.
+<soc>Cliente: Está bien, tengo eso también.
+<soc>Asesor: Perfecto. ¿Le pagan en efectivo o mediante depósito?
+<soc>Cliente: Normalmente me pagan en efectivo, ya que vendo playeras en eventos.
+<soc>Asesor: Entonces trabaja de forma independiente, ¿verdad?
+<soc>Cliente: Sí, así es.
+<soc>Asesor: Bien, solo asegúrese de traer su identificación, que sería el pasaporte, el comprobante de domicilio y el enganche. Con eso, podemos ayudarle a obtener un carro sedán. Estamos ubicados en San Fernando, California. Abrimos de lunes a sábado de 10:00 a.m. a 8:00 p.m. y los domingos de 10:00 a.m. a 6:00 p.m. ¿Cree que podrá visitarnos en esos días?
+<soc>Cliente: Sí, tengo tiempo libre hoy, que es un día de descanso para mí.
+<soc>Asesor: Perfecto. Si puede venir ahora, podrá ver las opciones que tenemos. Si encuentra un vehículo que le guste, podría llevárselo hoy mismo.
+<soc>Cliente: Muchas gracias. Consultaré con mi pareja y veré si podemos ir. ¿Me podría enviar la dirección por mensaje? No la vi.
+<soc>Asesor: Claro, le enviaré un mensaje con la dirección para que la revise. Y cuando esté en camino, por favor avíseme para estar preparado.
+<soc>Cliente: Está bien, muchas gracias.

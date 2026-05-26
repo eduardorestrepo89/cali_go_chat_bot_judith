@@ -1,0 +1,26 @@
+<soc>Asesor: Buenos días. Hola, buenos días, caballero. Disculpe la molestia, le saludamos desde el dealer. Estoy interesado en financiar un vehículo. Estamos ubicados en San Fernando, California. ¿Está buscando alguna camioneta?
+
+<soc>Cliente: ¿Una Tacoma?
+
+<soc>Asesor: Fíjese que esas están desde los 3000 a 3500 de enganche. No sé si le parece bien, o si dispone de otra cantidad. Nuestros vehículos son del año 2018 en adelante, son modelos recientes.
+
+<soc>Cliente: Para el trabajo está bien, pero también me interesan otras opciones.
+
+<soc>Asesor: Si gusta, le puedo dejar la dirección y puede venir a ver los vehículos personalmente, sin ningún compromiso. ¿Le puedo compartir la dirección?
+
+<soc>Cliente: Ok, está bien. ¿Puede enviarme toda la dirección?
+
+<soc>Asesor: Claro que sí. ¿Podría venir hoy? Estamos abiertos hasta las 8:00 p.m.
+
+<soc>Cliente: Hoy no puedo porque tengo un compromiso. A lo mejor podría ir el próximo sábado.
+
+<soc>Asesor: Perfecto. ¿Qué día podría venir?
+
+<soc>Cliente: El próximo sábado. Trabajo los siete días de la semana y no puedo ir en la tarde.
+
+<soc>Asesor: Entonces lo esperamos el próximo sábado. Solo traiga su identificación vigente y su dirección actual, así como el enganche. Con eso le podremos ayudar. De igual manera, puede venir sin ningún compromiso para ver nuestros vehículos y recibir información.
+
+<soc>Cliente: Ok, está bien, gracias.
+
+<soc>Asesor: Gracias a usted. Que tenga un feliz día.
+

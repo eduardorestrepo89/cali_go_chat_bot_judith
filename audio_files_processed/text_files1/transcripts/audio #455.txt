@@ -1,0 +1,22 @@
+<soc>Asesor: ¿Aló? Hola, buen día, tengo el gusto con Teca, le hablo del dealer de autos. no se si tiene tiempo de atenderme.
+<soc>Cliente: claro que sí, sí.  
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en moto, en transmisión y en aire acondicionado. Además el primer mes de aseguranza es gratis. Para calificar con nosotros le estaríamos solicitando tres documentos, los cuales serían una identificación vigente, un comprobante de ingreso y un comprobante de domicilio.  
+<soc>Asesor: ¿Cuenta con los tres requisitos o habría inconveniente con alguno?  
+<soc>Cliente: Pues con el único es ¿cómo sería el comprobante de ingresos?  
+<soc>Asesor: ¿Le pagan cash, con cheque o por depósito?  
+<soc>Cliente: Sí, en cash.  
+<soc>Asesor: Ok. ¿Y tiene cuenta bancaria?  
+<soc>Cliente: No. ¿me tocaría sacar una?  
+<soc>Asesor: No, no, no. En este caso lo que puede hacer es traernos el número de su jefe. ¿No sé si usted tiene jefe o Jefa que verifique que usted esta trabajando y esto nos funciona como el comprobante de ingreso, no ocupa traer nada más que el número de la persona, verdad?. 
+<soc>Asesor: Dado el caso que su jefe no conteste o no le guste que den su número, lo que podemos hacer es que de acuerdo a la información que usted nos brinda acá en el dealer, le hacemos una carta de trabajo y solo ocupa traer su bill. 
+<soc>Cliente: entiendo.   
+<soc>Asesor: ¿En especial que vehiculo esta buscando y que año?  
+<soc>Cliente: No, pues un sedán. 
+<soc>Asesor: Aquí le tengo del año 2019 en adelante. 
+<soc>Cliente: ¿2018-2019 no tiene menos?  
+<soc>Asesor: No, el mínimo año que nos viene ahorita es 2019 con unos 800 dolares de enganche.  
+<soc>Cliente: ¿Unos 800 de enganche?  
+<soc>Asesor: Sí, unos 800 de enganche. ¿No sé qué le parece si se anima a visitarnos? puede venir sin ningún compromiso.  
+<soc>Cliente: Ok, entonces la puedo volver a llamar ese número.  
+<soc>Asesor: Ok, perfecto entonces ahí le comparto nuestra dirección y si puede pasar esta semana quedo a la orden.  
+<soc>Cliente: ok, gracias.  

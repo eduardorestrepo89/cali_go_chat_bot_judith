@@ -1,0 +1,14 @@
+<soc>Asesor: Hola, buen día, le saludo del dealer de autos. ¿Tiene tiempo para atender mi llamada?
+<soc>Cliente: Sí, tengo tiempo.
+<soc>Asesor: Ofrecemos financiamiento en casa y hasta tres años de garantía en motor, transmisión y aire acondicionado. Para financiar, necesitamos su identificación, un comprobante de ingresos y un comprobante de domicilio.
+<soc>Cliente: Tengo esos documentos, pero el comprobante de domicilio no está a mi nombre. ¿Es un problema?
+<soc>Asesor: No, solo es para confirmar la dirección. Mientras tenga su comprobante de ingresos, está bien.
+<soc>Cliente: Trabajo en efectivo y tengo una carta de mi empleador.
+<soc>Asesor: Mientras tenga el comprobante de ingresos en efectivo, no hay problema. Estamos en San Fernando. ¿Qué día le viene bien para visitarnos?
+<soc>Cliente: Puedo el domingo.
+<soc>Asesor: Perfecto, le enviaré la dirección. El down payment mínimo para una camioneta es de 1000, y la más reciente que tenemos es del 2018.
+<soc>Cliente: ¿Podría hacerme una simulación si la camioneta cuesta 3000?
+<soc>Asesor: Claro, el financiamiento va de seis meses a cinco años, y los pagos mensuales empiezan en aproximadamente 600.
+<soc>Cliente: Entonces mándenme la dirección y me haré un espacio para el domingo.
+<soc>Asesor: Perfecto, le enviaré la dirección. ¡Gracias!
+<soc>Cliente: Gracias a usted.

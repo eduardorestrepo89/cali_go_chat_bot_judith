@@ -1,0 +1,17 @@
+
+<soc>Asesor: Buen día. ¿Tengo el gusto con la señorita Indiana? Le saludo del dealer de autos. Quería saber si sigue interesada en comprar vehículos.
+<soc>Cliente: Sí, sí, fíjese que sí.
+<soc>Asesor: Estamos ubicados en San Fernando, California. Anteriormente ya le compartí nuestra dirección. No sé si tendrá tiempo en estos días de venir a ver. Actualmente tenemos un excelente inventario. Hay una promoción de tres años de garantía en motor, transmisión y aire acondicionado, además del primer mes de seguro gratis.
+<soc>Cliente: Qué bueno. ¿Y eso lo tienen con carros de qué año?
+<soc>Asesor: Solo tenemos carros del 2019 en adelante. Todos entran en la promoción. Los vehículos se pueden llevar desde 1800 de enganche y andan mínimo por 30,000 y máximo por 60,000. Son títulos limpios.
+<soc>Cliente: Ok, y los requisitos exactos que piden, ¿cuáles son?
+<soc>Asesor: Sería su identificación vigente, puede ser de aquí o de su país, un comprobante de ingreso, y si le pagan en cash y no tiene cómo comprobar ingreso, no hay problema. También puede traer un bill donde aparezca su dirección, no es necesario que esté a su nombre.
+<soc>Cliente: Ok, entonces, sí me pagan en cash porque es para mi hijo. A él le pagan en cash y tenemos un comprobante de donde vivimos.
+<soc>Asesor: Eso le funciona perfectamente.
+<soc>Cliente: Lo que pasa es que por el trabajo no hemos tenido tiempo, pero sí estamos interesados.
+<soc>Asesor: Estamos abiertos de lunes a sábado hasta las 8:00 p.m. y los domingos hasta las 6:00 p.m.
+<soc>Cliente: Ok, entonces mándenme bien la dirección por mensaje para tenerla en cuenta porque estamos muy interesados.
+<soc>Asesor: Perfecto, me notifica para estar pendiente de su visita.
+<soc>Cliente: Lo que pasa es que como mi hijo en el trabajo lo han ocupado hasta los domingos, no ha tenido tiempo. Yo no puedo ir sola, tengo que acompañarlo porque él es quien va a comprar el carro. Pero cuando tenga un domingo libre, le llamaré para avisarle. ¿Me deja su nombre para buscarla cuando llame?
+<soc>Asesor: Claro, aquí estaré pendiente. Que tenga una bonita tarde.
+<soc>Cliente: Ok, mil gracias por su atención. Buenas tardes.

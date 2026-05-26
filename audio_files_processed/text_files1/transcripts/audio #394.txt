@@ -1,0 +1,23 @@
+<soc>Asesor: Hola, buenas tardes, caballero. ¿Me escucha?
+<soc>Cliente: Ah, sí, lo escucho.
+<soc>Asesor: Perfecto. Hola, le hablo del dealer de autos. Hace unos días estuvimos intercambiando mensajes y quería saber si sigue interesado en comprar un vehículo.
+<soc>Cliente: Sí, pero, ¿en dónde están ubicados?
+<soc>Asesor: Estamos en el valle de San Fernando, cerca de Burbank. ¿Usted está en San Diego, verdad?
+<soc>Cliente: Sí.
+<soc>Asesor: No sé si le interesaría venir hasta acá.
+<soc>Cliente: Pues sí, pero me gustaría saber más.
+<soc>Asesor: Claro, ¿busca algún vehículo en especial? ¿Marca y modelo?
+<soc>Cliente: Sí, estoy buscando algo específico.
+<soc>Asesor: Perfecto. Para el enganche, necesitaría alrededor de 4000 dólares. ¿Está bien para usted o con cuánto cuenta?
+<soc>Cliente: Está bien.
+<soc>Asesor: ¿Y ha financiado algún vehículo antes?
+<soc>Cliente: No, ya he comprado varios carros del dealer, pero no he financiado.
+<soc>Asesor: Excelente. Aquí estamos dispuestos a ayudarle con el enganche. Solo necesitaría tres documentos: su identificación, que puede ser de aquí o de su país, pero debe estar vigente; un comprobante de domicilio, que puede ser cualquier tipo de factura, y si tiene un comprobante de ingreso, sería ideal.
+<soc>Cliente: Yo recibo mi pago en efectivo y también un cheque personal.
+<soc>Asesor: No hay problema. Solo traiga su identificación, el comprobante de domicilio y el enganche. Le ofrecemos hasta tres años de garantía en motor, transmisión y aire acondicionado. Los pagos son mensuales y puede hacerlos en línea, así que no necesita venir hasta San Fernando cada vez.
+<soc>Cliente: Eso suena bien.
+<soc>Asesor: ¿Qué día podría visitarnos? Abrimos de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m., y los domingos desde las 10:00 a.m. hasta las 6:00 p.m.
+<soc>Cliente: Creo que este sábado sería buena opción.
+<soc>Asesor: Excelente. Le enviaré nuestra dirección por mensaje para que la tenga.
+<soc>Cliente: Perfecto, gracias. ¡Hasta luego!
+<soc>Asesor: ¡Hasta luego!

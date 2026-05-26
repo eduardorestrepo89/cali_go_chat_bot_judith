@@ -1,0 +1,17 @@
+<soc>Asesor: Hola, buen día, tengo el gusto con el caballero Arsenio. 
+<soc>Cliente: Sí
+<soc>Asesor: le saludo de acá del dealer. Acabamos de recibir su pre aplicación
+<soc>Cliente: ¿qué necesito para aplicar?  
+<soc>Asesor: ¿Ok, ocupa su identificación vigente, un comprobante de ingreso, 1 comprobante de domicilio?  
+<soc>Cliente: Y con cuánto de enganche puedo adquirir un automóvil?  
+<soc>Asesor: Busca carro?   
+<soc>Cliente: otro caso, pues yo quiero una troca pero que no esté muy alto el precio.  
+<soc>Asesor: ¿Ok, y sería su primer crédito? ¿Usted ya ha financiado alguna vez?  
+<soc>Cliente: No, es primero.  
+<soc>Asesor: ¿Ok, en ese caso fíjense que las trocas que tenemos son del año 2018 en adelante, mínimo ocuparía 3000 de enganche.  
+<soc>Cliente: No sé, ¿cuánto pagaría mensual?  
+<soc>Asesor: Mínimo los pagos que estamos manejando en trocas son de 600 al mes, no sé qué le parece si le gustaría visitar por el momento pago de cuánto busca.  
+<soc>Cliente: Pues yo una más o menos una 2010 más o menos para que no me quede muy alto, pues la mensualidad porque, pues el trabajo está un poco lento y como yo trabajo en la construcción este.  
+<soc>Asesor: Solo comentarle que a nosotros ya no nos vienen trocas del año 2010, solo nos vienen del 2018 al 2023. Todas las trocas, mínimo 3000 de enganche. Si usted se anima a agarrar una más reciente, pues aquí quedaría la orden. Yo lo voy a compartir nuestra dirección, aunque entonces estamos en contacto, ojalá se anime para que tenemos variedad en el inventario, lástima no tenemos del año que busca, pero sí que le tengo mínimo año 2018, a veces no viene 2017 también.  
+<soc>Cliente: Si está bien, entonces me manda la direccion para checar y para ver si me animo con una.  
+<soc>Asesor: Excelente, entonces ahí se lo dejo, que tenga un excelente día. Bueno, gracias

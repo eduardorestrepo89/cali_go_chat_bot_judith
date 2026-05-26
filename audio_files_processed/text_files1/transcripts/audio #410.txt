@@ -1,0 +1,6 @@
+<soc>Asesor: Buenos días, ¿tengo el gusto con el caballero Rafael?.
+<soc>Cliente: Sí.
+<soc>Asesor: Le saludo de acá del dealer. Quería darle más información de cómo trabajamos el financiamiento de los vehículos. No sé si tiene tiempo de atenderme. 
+<soc>Cliente: Ok.
+<soc>Asesor: Estaba leyendo acá sus mensajes, quiere hacer un intercambio, pero aún sigue pagando el vehículo. Esto no se puede con nosotros. Ya tiene que tener el título del vehículo para que se lo podamos intercambiar en total. 
+<soc>Cliente: Bueno, gracias. Muy amable.

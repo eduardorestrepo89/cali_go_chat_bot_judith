@@ -1,0 +1,24 @@
+<soc>Asesor: Buen día, ¿tengo el gusto con Marta? Le saludo desde el concesionario. Hace unos días intercambiamos mensajes sobre un vehículo. ¿Tiene tiempo para atenderme?
+
+<soc>Cliente: Sí, adelante.
+
+<soc>Asesor: Hacemos financiamiento interno y damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Nuestros vehículos son del 2019 en adelante, con pocos kilómetros y títulos limpios. Para calificar, necesitamos su identificación vigente, un recibo de servicios y un comprobante de ingreso.
+
+<soc>Cliente: No tengo buen crédito ahorita.
+
+<soc>Asesor: No hay problema, ayudamos a todos los clientes. Aquí puede mejorar su crédito.
+
+<soc>Cliente: Pero, ¿piden enganche? No tengo eso.
+
+<soc>Asesor: Sí, el mínimo para un sedán es de 2500 dólares. ¿Tiene algún vehículo en mente?
+
+<soc>Cliente: Cualquiera, estoy rentando y es caro.
+
+<soc>Asesor: Podemos ayudarle, pero necesitaría esos 2500. Puede venir al concesionario, ver los vehículos y llenar la aplicación; solo trae el dinero cuando esté lista. Le mando la dirección por mensaje.
+
+<soc>Cliente: Ok, está bien.
+
+<soc>Asesor: Gracias, que tenga un buen día.
+
+<soc>Cliente: Bye.
+

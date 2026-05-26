@@ -1,0 +1,28 @@
+<soc>Asesor: Buenas tardes. Hola. ¿Me escucha? Les saludo del dealer de autos, no sé si tiene tiempo de atenderme.  
+<soc>Cliente: Claro que sí.  
+<soc>Asesor: Ok, una consulta, ¿usted esta acá en San Fernando, California?.  
+<soc>Cliente: Sí, en Hollywood.  
+<soc>Asesor: Ok, perfecto. Le comento que nosotros hacemos financiamiento en casa. damos tres años de garantía en motor, transmisión. Para calificar con nosotros le estaríamos solicitando tres documentos, los cuales serían su identificación vigente y si tiene también un comprobante de ingresos.  
+<soc>Cliente: Ya. Ok.  
+<soc>Asesor: ¿Cuenta con los tres requisitos?  
+<soc>Cliente: ¿Con el Bill? Con el Bill, si tenía así como que no.  
+<soc>Asesor: ¿Ok, no tiene Bill?  
+<soc>Cliente: No.  
+<soc>Asesor: Ok, no hay problema. Solo identificaciones con el Bill y con lo que es el gran ingreso sería perfecto. ¿Veo acá que busca un carro deportivo, verdad?  
+<soc>Cliente: Exactamente.  
+<soc>Asesor: Fíjense que lo más deportivo que le podría ofrecer es algún fondant, porque no le tengo Camaro, Charger, Challenger, Musa, no nos han venido por el momento. Si no tengo, solo le tengo marcas como Toyota, Honda, Nissan, Kia, Tesla.  
+<soc>Cliente: ¿Y en Toyota cuál tendría?  
+<soc>Asesor: Le tengo Toyota Corolla y también le tengo el Camry en normal y el S desde los 2000 de enganche.  
+<soc>Cliente: ¿Y el Honda Civic es sport dijo, verdad?  
+<soc>Asesor: Sí, le tengo Honda Civic.  
+<soc>Cliente: No tiene fotos.  
+<soc>Asesor: Ford Focus y Ford Fiesta. ¿No sé qué día puede venir personalmente a verlos acá al dealer? A ver si le parece. Puede venir sin ningún compromiso.  
+<soc>Cliente: Ok, solo que me enviaría la dirección, no sé, ¿mañana atendería?.  
+<soc>Asesor: Sí, atendemos todos los dias hasta las 8:00 p.m. y los dias festivos cerramos a las 6:00 p.m.  
+<soc>Cliente: Oh, ya. ¿Y el día sábado tiene también desde las 10:00 a.m.?  
+<soc>Asesor: si, hasta las 8:00 p.m.  
+<soc>Cliente: Ok, sería el día sábado.  
+<soc>Asesor: Ok, perfecto. Entonces ahí le dejo la dirección.  
+<soc>Cliente: Ok, muchas gracias señora.  
+<soc>Asesor: Gracias. Bye. Bye.  
+<soc>Cliente: Bye.

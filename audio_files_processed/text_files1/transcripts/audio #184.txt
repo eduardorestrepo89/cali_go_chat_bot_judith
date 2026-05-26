@@ -1,0 +1,21 @@
+<soc>Asesor: Hola, muy buenas tardes. ¿Tengo el gusto con el caballero Raúl?
+<soc>Cliente: Sí, sí, dígame.
+<soc>Asesor: Ok, acabo de recibir su mensaje indicando que está interesado en un vehículo. Le comento que nosotros hacemos financiamiento en casa y damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros, le estaríamos solicitando tres requisitos: su identificación vigente, que puede ser de aquí o de su país, y un comprobante de ingreso.
+<soc>Cliente: Ok, entonces voy a conseguir eso. Yo tengo la identificación, pero el bill no, porque no está a mi nombre.
+<soc>Asesor: Si no está a su nombre, no hay problema. Puede traer un bill donde aparezca su dirección, y si no lo tiene, también se lo podemos recibir.
+<soc>Cliente: Ajá, ok, está bien. Voy a ver cómo consigo el comprobante de ingreso. Yo la llamo cuando ya tenga eso; si me pagan en cash, puedo traer el número de mi jefe.
+<soc>Asesor: Ok, perfecto. Si le pagan en cash, le puede traer el número de su jefe. Y si se le dificulta traer un comprobante de ingreso, no hay problema; solo con la identificación le ayudamos, que es el requisito primordial.
+<soc>Cliente: Ajá. ¿Y cuánto sería el enganche?
+<soc>Asesor: ¿Busca carro o SUV?
+<soc>Cliente: No sé si tendrán minivans.
+<soc>Asesor: Minivan, fíjese que no tengo, pero le puedo ofrecer una SUV, que tiene aproximadamente tres filas de asientos, para unos nueve pasajeros. Tengo en la marca Chevrolet y Dodge, varias que le podrían interesar desde $2500 de enganche.
+<soc>Cliente: ¿$2500?
+<soc>Asesor: Sí. ¿Qué le parece?
+<soc>Cliente: Sí, está bien. ¿Me puede mandar la dirección?
+<soc>Asesor: Sí, se la dejo por mensaje de texto. No sé qué día nos podría visitar. Tenemos abierto el viernes y sábado.
+<soc>Cliente: Llegaré el viernes por la tarde.
+<soc>Asesor: Ok, ¿y sería su primera vez financiando o ya ha tenido algún crédito?
+<soc>Cliente: No, nunca he financiado.
+<soc>Asesor: Ok, excelente. Entonces, con nosotros lo puede comenzar. Le dejo la dirección por mensaje de texto, y nos vemos el día viernes.
+<soc>Cliente: Okay, bye.
+

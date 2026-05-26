@@ -1,0 +1,19 @@
+<soc>Asesor: Hola, buen día. Les saludo del dealer de autos. ¿Tengo el gusto de hablar con el caballero Luis?
+
+<soc>Cliente: Sí, soy yo. ¿Qué información me puedes dar?
+
+<soc>Asesor: Quería comentarle que ofrecemos financiamiento flexible. Solo necesitamos su identificación y un comprobante de ingresos.
+
+<soc>Cliente: Perfecto, ¿cuánto es el enganche mínimo?
+
+<soc>Asesor: Para un sedán, necesitaríamos un enganche de al menos $1,800.
+
+<soc>Cliente: Está bien, puedo conseguirlo. ¿Dónde están ubicados?
+
+<soc>Asesor: Estamos en el Valle de San Fernando. Le puedo enviar la dirección por mensaje.
+
+<soc>Cliente: Sí, por favor. Me gustaría ir el fin de semana.
+
+<soc>Asesor: Con gusto, estaré esperando su visita. ¡Que tenga un buen día!
+
+<soc>Cliente: Gracias, igualmente.

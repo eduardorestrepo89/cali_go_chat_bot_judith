@@ -1,0 +1,13 @@
+Speaker A: Hola, buenas tardes. Tengo el gusto con el caballero Carlos.
+Speaker UNK: Él habla.
+Speaker A: Te saludo del dealer de autos, no sé si tiene tiempo de atender mi llamada.
+Speaker UNK: Sí, dime.
+Speaker A: Ok, le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Le estaríamos solicitando tres documentos para poder financiarle un vehículo, los cuales serían su identificación, un Bill 1, comprobante de ingreso.
+Speaker UNK: Digamos si no tengo enganche, dice que.
+Speaker A: Con nosotros sí necesita mínimo uno 800 de enganche para llevarse un vehículo. No cuenta con enganche por el momento.
+Speaker UNK: Para el miércoles puedo tener 1000.
+Speaker A: Ok, perfecto. ¿Busca carro troca o sub?
+Speaker UNK: Pues busco una troca, pero no hay problema si hay un suburbano.
+Speaker A: Ok, aquí le tengo trocas y también suburban, solo que por eso nosotros le pedimos mínimo 3000 de enganche. Podríamos ayudarle con un down payment diferido, pero eso también es bajo aplicación, es decir, el día que usted nos visite, trae el 80 % del enganche, se lleva el vehículo y le damos hasta dos semanas para que traiga el resto del enganche. Pero si ocuparía traer unos 2500 por lo menos.
+Speaker UNK: Ok, pues déjame juntarlo y antes [sos/eos].
+Speaker A: Okay, perfect. Okay, bye.

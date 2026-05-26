@@ -1,0 +1,35 @@
+<soc>Asesor: Hola, buen día. Tengo el gusto con Douglas. Les saludo del dealer de autos. Quería darle más información de cómo trabajamos. No sé si tiene tiempo para atender mi llamada.
+
+<soc>Cliente: ¿Ah, pero cómo se llama la compañía de ustedes?
+
+<soc>Asesor: De Cali Go Autos.
+
+<soc>Cliente: ¿Qué área están ubicados?
+
+<soc>Asesor: Estamos acá en el valle de San Fernando. Si usted quiere, le dejo la dirección exacta por un momentito.
+
+<soc>Cliente: Ok, estaría bien.
+
+<soc>Asesor: Le comento que ofrecemos financiamiento en casa, damos tres años de garantía en motor, en transmisión y en aire acondicionado. Y solo ocuparía tres documentos para poder financiar su vehículo: una identificación, un recibo de luz y un comprobante de ingreso.
+
+<soc>Cliente: ¿Qué carros tienen?
+
+<soc>Asesor: Yo tengo SUVs y camionetas. No sé si busca algo en especial.
+
+<soc>Cliente: Yo busco uno en especial de siete pasajeros.
+
+<soc>Asesor: Ok, aquí le tengo SUVs como el Dodge Durango, GMC Yukon, Chevrolet Tahoe, y también tengo Nissan Pathfinder. Desde los 3000 de enganche, no sé si está bien para usted.
+
+<soc>Cliente: Ok, yo le confirmo en la tarde qué horas puedo ir.
+
+<soc>Asesor: Ah, ok. ¿Podría pasar ahora?
+
+<soc>Cliente: Podría ir mañana en la tarde.
+
+<soc>Asesor: Mañana, perfecto. ¿Sería su primera vez financiando? ¿Ha tenido crédito alguna vez?
+
+<soc>Cliente: No, yo tengo crédito con un carro que tengo.
+
+<soc>Asesor: Okay, perfecto. Gracias, gracias.
+
+<soc>Cliente: Bye bye.

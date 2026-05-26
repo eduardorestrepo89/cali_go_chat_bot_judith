@@ -1,0 +1,27 @@
+<soc>Asesor: Hola, buenas tardes, caballero. Le saludo del dealer de autos. Quiero darle más información sobre cómo trabajamos. ¿Tiene tiempo para atenderme?
+
+<soc>Cliente: Hola, sí, claro.
+
+<soc>Asesor: Ok, le comento que hacemos financiamiento en casa y ofrecemos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para financiarle un vehículo, necesitaríamos tres documentos: su identificación vigente, un comprobante de ingreso y un comprobante de domicilio. ¿Tiene los tres requisitos?
+
+<soc>Cliente: Sí, los tengo todos. De hecho, acabo de cambiar de trabajo en noviembre, así que tengo comprobante de ingreso.
+
+<soc>Asesor: Perfecto. ¿Está buscando algún vehículo en especial, como una marca, año o modelo en particular?
+
+<soc>Cliente: Bueno, tengo varias opciones en mente, pero no estoy seguro de cuál calificaría.
+
+<soc>Asesor: Entiendo. ¿Este sería su primer crédito?
+
+<soc>Cliente: Sí, así es. 
+
+<soc>Asesor: No se preocupe, nosotros podemos ayudarle con el vehículo que elija. Tenemos carros, trocas y SUVs del año 2018 en adelante. Para un carro, necesitaría un enganche mínimo de unos $2,000. ¿Eso le parece bien?
+
+<soc>Cliente: Sí, creo que podría manejar eso. Solo estoy considerando otros gastos como el alquiler y demás.
+
+<soc>Asesor: Comprendo. ¿Cuándo cree que podría visitarnos para seguir con el proceso?
+
+<soc>Cliente: Tendría que pensarlo un poco más, pero estaré en contacto.
+
+<soc>Asesor: Está bien, no hay problema. Estaré pendiente. ¡Gracias y que tenga un buen día!
+
+<soc>Cliente: Gracias, igualmente. Adiós.

@@ -1,0 +1,13 @@
+<soc>Asesor: Hola Buen dia, Quería darle más información sobre cómo trabajamos el financiamiento. ¿Tiene tiempo?
+<soc>Cliente: Sí, te escucho.
+<soc>Asesor: Ofrecemos financiamiento en casa con tres años de garantía en motor, transmisión y aire acondicionado. Para calificar, necesitamos tres documentos: una identificación vigente (puede ser de su país), un comprobante de domicilio (Bill), y si es posible, un comprobante de ingreso. ¿Tiene estos documentos?
+<soc>Cliente: El comprobante de ingreso no, me pagan en efectivo.
+<soc>Asesor: No hay problema, con su identificación y el Bill podemos ayudarle. ¿Es su primera vez financiando?
+<soc>Cliente: Sí, soy nueva en el país.
+<soc>Asesor: ¿Busca algún vehículo en especial?
+<soc>Cliente: No, algo económico.
+<soc>Asesor: Tenemos sedanes del 2019 en adelante, desde $1,800 de enganche. ¿Qué le parece?
+<soc>Cliente: Como te dije, aún no tengo el dinero para el enganche, pero cuando lo tenga, te contacto.
+<soc>Asesor: Perfecto, le dejo nuestra dirección y datos. Avíseme cuando esté lista.
+<soc>Cliente: Sí, claro. Ahora tengo otras prioridades.
+<soc>Asesor: Ok, le dejo la información. ¡Hasta luego!

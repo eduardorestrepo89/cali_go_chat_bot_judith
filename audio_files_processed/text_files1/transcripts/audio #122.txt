@@ -1,0 +1,13 @@
+<soc>Asesor: Hola, buen día caballero, les saludo de acá del Dealer, acá en San Fernando, California. Ayer estuvimos intercambiando mensajitos y había intentado comunicarme con usted. Le quería dar más información de cómo trabajamos. No sé si tiene tiempo de atenderme.  
+<soc>Cliente: Sí, díganme.  
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Estaríamos solicitando tres documentos para poder financiarlos. Principalmente su identificación, puede ser de acá o de su país. También ocupa un comprobante de domicilio. Si no está su nombre, no hay problema. Y si tiene también un comprobante de ingreso.  
+<soc>Cliente: ¿Ok, una pregunta, cuántos más o menos tiene que llevar de down payment para sacar un carro?  
+<soc>Asesor: ¿Busca carro sedán o troca o camioneta familiar?  
+<soc>Cliente: Pues posiblemente una camioneta familiar.  
+<soc>Asesor: Ok, y sería su primera vez financiando o ya ha tenido crédito?  
+<soc>Cliente: No, no tengo crédito.  
+<soc>Asesor: Ok, entonces ocuparía mínimo unos 2300 de enganche.  
+<soc>Cliente: Ok, mándeme la dirección para ver si voy el fin de semana, el sábado.  
+<soc>Asesor: Okay, perfecto.  
+<soc>Cliente: Jose Carranza.  
+<soc>Asesor: Okay, Jose, gracias. Bye.  

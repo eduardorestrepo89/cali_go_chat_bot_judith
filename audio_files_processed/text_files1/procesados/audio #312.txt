@@ -1,0 +1,24 @@
+Speaker C: Hola, buen día caballero.
+Speaker A: Le saludo del dealer.
+Speaker B: Sí, buenos días, le quería dar más.
+Speaker C: Información de cómo.
+Speaker A: Trabajamos, no sé si tiene tiempo de atenderme.
+Speaker B: ¿Sí, solo quería saber, fue la del mensaje que envió ahorita?
+Speaker C: Sí, exactamente, acá nos acaba de mandar.
+Speaker A: Mensajitos.
+Speaker B: Lo que necesito saber dónde es. Bueno, no sé a qué distancia es desde aquí de San Marcos.
+Speaker A: Ok, estamos acá.
+Speaker C: En San Fernando, California. Si gusta le dejo la dirección por un mensajito para.
+Speaker A: Que cheque la distancia.
+Speaker B: San Fernando.
+Speaker A: Si en San Fernando.
+Speaker B: California, pues me mandan la dirección para ver cuánto tiempo es de aquí a allá.
+Speaker A: Y si en dado caso no le.
+Speaker C: Queda tan lejos, que.
+Speaker A: Día nos visitaría.
+Speaker B: Podría ser mañana.
+Speaker A: Ok, entonces ahorita.
+Speaker C: Mismo le estoy dejando la dirección y nos vemos mañana si.
+Speaker A: Le queda cerca.
+Speaker B: Ok, gracias.
+Speaker A: Bueno, gracias, bye.

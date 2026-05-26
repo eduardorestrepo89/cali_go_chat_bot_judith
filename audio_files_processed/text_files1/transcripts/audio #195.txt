@@ -1,0 +1,23 @@
+<soc>Asesor: Hola, hola, buenos días. Le saludo de acá del dealer de autos. Ese día se comunicó con nosotros y estaba interesado en un vehículo.
+<soc>Cliente: Sí, hola, ¿cómo está?
+<soc>Asesor: Muy bien, quería darle un poco más de información, no sé si tiene tiempo de atenderme.
+<soc>Cliente: Sí, ahorita que estoy trabajando, ando en las calles de Monterrey y hay mucho tráfico. Vi un video en Facebook y quería saber más. Tengo un crédito que no está tan mal y busco un carro de 12000 para abajo. Intenté buscar uno en su website, pero no llegué.
+<soc>Asesor: Con gusto le puedo compartir algunas fotografías. De momento no tengo vehículos de ese precio, pero en cuanto nos llegue alguno, le notificaré.
+<soc>Cliente: Ok, lo que pasa es que tengo una casa y una minivan que maneja mi esposa, pero busco otro carro en ese rango de precio. No quiero un carro de 13000 o 14000, ya financiado en 16 o 17, porque no podré pagarlo.
+<soc>Asesor: Entiendo, entonces busca que ya financiado le salga en 12000, ¿verdad?
+<soc>Cliente: No, no, ya financiado que me quede entre 12, 13 o 14, máximo 16000.
+<soc>Asesor: Perfecto, quedo de notificarle. Voy a verificar en nuestro website si hay alguno disponible y le comparto fotos.
+<soc>Cliente: De acuerdo. Vivo en Fresno, me mandaron su dirección y está como a 3 horas de donde yo vivo.
+<soc>Asesor: Sí, estamos en San Fernando.
+<soc>Cliente: Exacto. No hay problema, podemos ir a verlo o si pueden enviarlo, no sé si cobren extra por el envío.
+<soc>Asesor: Actualmente, solo calificamos cualquier tipo de crédito. La opción de enviar vehículos no está disponible; el cliente tiene que venir al dealer.
+<soc>Cliente: De acuerdo. Preguntaba porque algunos dealers tienen esa opción, aunque a veces cobran por el envío.
+<soc>Asesor: Sí, entiendo. Pero por ahora no ofrecemos eso. Voy a chequear si hay vehículos en el rango que busca y le enviaré fotos.
+<soc>Cliente: Está bien, no quiero comprometerme a algo que no pueda pagar. Si me entiende, uno no quiere andar con problemas después. Por eso busco algo en ese precio. También andaba buscando una camioneta.
+<soc>Asesor: Tenemos varias trocas, como Toyota Tacoma, Silverado, Colorado, desde 3500 de enganche.
+<soc>Cliente: 3500 de enganche.
+<soc>Asesor: Sí, pero los precios para trocas no son como los que busca, ¿verdad?
+<soc>Cliente: Claro. ¿Cuál sería la camioneta más barata que tengan?
+<soc>Asesor: Tendría que verificar, no tengo esos precios a la mano. Voy a consultar con alguien y le compartiré la información.
+<soc>Cliente: No es mucha molestia. Quiero hacer mis cuentas y ver si puedo pagar una camioneta.
+<soc>Asesor: Perfecto. ¡Hablamos pronto!

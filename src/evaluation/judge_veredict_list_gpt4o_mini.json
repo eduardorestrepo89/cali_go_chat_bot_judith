@@ -1,0 +1,1202 @@
+[
+    {
+        "question": " Disculpe, ¿de qué es? ¿Me dijo?  \n",
+        "real_answer": " Del dealer de autos, de los vehículos.  \n",
+        "llm_answer": " Le saludo de acá del dealer. Nos comunicamos hace unos días y quería saber si sigue interesado en comprar vehículo.  \n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona el dealer y el interés en comprar un vehículo, lo cual está relacionado con la respuesta original. Sin embargo, no responde directamente a la pregunta inicial sobre 'de qué es', por lo que no es completamente relevante.",
+        "hf_similarity": 0.3315272073352854
+    },
+    {
+        "question": " Y pues como yo ya había visto opciones y me habían dicho que no tenía que abrir un crédito, pues yo abrí un crédito en una agencia y ahí estoy con ese crédito. Ya tengo un crédito porque siempre lo piden, porque no tengo un crédito vigente.\n\n",
+        "real_answer": " Ok, perfecto. En este caso no hay problema. No sé, le voy a dejar nuestra dirección por mensajito de texto, y cuando usted ya esté lista para visitarnos, me lo hace saber para estar pendiente.\n\n",
+        "llm_answer": " Ok, perfecto. Entonces no hay problema. Le voy a compartir nuestra dirección por mensajito de texto y cuando ya esté listo para visitarnos, aquí estamos a la orden.\n\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada mantiene un tono similar y sigue la estructura de la respuesta original, pero no aborda directamente el tema del crédito mencionado en la pregunta. Sin embargo, responde a la situación de manera general, lo que la hace parcialmente relevante.",
+        "hf_similarity": 0.14310400271512347
+    },
+    {
+        "question": " Mira que estoy interesado, pero estoy ocupado ahorita. lo que pasa es que no sé cuánto será lo que piden de enganche ustedes.  \n",
+        "real_answer": " Por un carro sedan mínimo 1800 de enganche.  \n",
+        "llm_answer": " Ok, fíjese que nosotros por el momento no manejamos esa política de pedir enganche, pero sí pedimos mínimo 2000 de enganche.  \n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona una cantidad de enganche (2000) que es diferente a la cantidad mencionada en la respuesta original (1800). Aunque aborda el tema del enganche, la discrepancia en las cifras y la afirmación de no manejar política de enganche hace que no sea completamente relevante.",
+        "hf_similarity": 0.3640670319521524
+    },
+    {
+        "question": " Estoy buscando un carrito pequeño, no importa si es de cuatro o dos puertas.\n",
+        "real_answer": " ¿Es su primera vez financiando?\n",
+        "llm_answer": " Perfecto. ¿Sería su primera vez financiando? ¿Ya tiene crédito establecido?\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada hace una pregunta relacionada con la financiación, que es un aspecto relevante al considerar la compra de un carrito. Sin embargo, no aborda directamente la solicitud inicial sobre el tipo de carrito que se busca, lo que la hace solo parcialmente relevante.",
+        "hf_similarity": 0.23494400248321
+    },
+    {
+        "question": " Solo en la Curacao. Recién tengo un crédito desde hace dos meses.\n",
+        "real_answer": " Excelente. ¿Está buscando algún tipo de vehículo en especial? Tenemos carros, trocas, SUVs de diferentes marcas como Honda, Toyota, Kia, Nissan, Ford, Chevy, Mazda, Hyundai, con enganches desde los $2,000.\n",
+        "llm_answer": " ¿Busca algún vehículo en especial, marca, año o modelo?\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada pregunta sobre el tipo de vehículo que busca el usuario, lo cual es relevante para la conversación. Sin embargo, no menciona la variedad de vehículos ni los detalles sobre los enganches que se mencionan en la respuesta original, por lo que no es completamente relevante.",
+        "hf_similarity": 0.3547665797185773
+    },
+    {
+        "question": " Ok, mándeme la dirección para ver si voy el fin de semana, el sábado.  \n",
+        "real_answer": " Okay, perfecto.  \n",
+        "llm_answer": " Ok, perfecto. Entonces ahí le voy a dejar nuestra dirección y me notifica cuando venga el sábado.  \n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada mantiene un tono similar y responde a la solicitud de la dirección, pero no proporciona la dirección solicitada ni confirma la visita del sábado, lo que la hace solo parcialmente relevante en relación a la respuesta original.",
+        "hf_similarity": 0.5456706314901323
+    },
+    {
+        "question": " Sí, sí, en pocas palabras, si son 1800, yo entrego los 1000 y tengo prácticamente dos semanas para entregar los otros 800.\n",
+        "real_answer": " Prácticamente. Fíjense que con unos 800 sí, no sé si podría juntar mínimo unos 1300 de enganche.\n",
+        "llm_answer": " Ok, perfecto. Entonces ahí le voy a dejar nuestra dirección y nos vemos el sábado.\n",
+        "Relevancia": "NO_RELEVANTE",
+        "Explicacion": "La respuesta generada no aborda ni se relaciona con la información sobre el pago y la cantidad de dinero que se está discutiendo en la respuesta original. En cambio, se centra en una reunión, lo que no tiene relevancia para el tema principal de la conversación.",
+        "hf_similarity": 0.6070096456240941
+    },
+    {
+        "question": " Ok, me gustaría hacerlo, pero sería para el sábado que pueda ir al dealer. Ahí me acercaré para más información.\n\n",
+        "real_answer": " Perfecto. Cuando colguemos, le dejaré nuestra dirección y me comunicaré nuevamente el sábado para confirmar su cita.\n\n",
+        "llm_answer": " Ok, perfecto. Entonces ahí le dejo nuestra dirección y estamos pendientes.\n\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona dejar la dirección y estar pendientes, lo cual se relaciona con la respuesta original que también habla de dejar la dirección y confirmar la cita. Sin embargo, no se menciona la comunicación posterior ni la confirmación de la cita, lo que hace que la respuesta no sea completamente relevante.",
+        "hf_similarity": 0.3022265190378469
+    },
+    {
+        "question": "  ¿A qué dealer está llamando? Porque fíjense que ya cotice en varios, pero no sé cuál de todos esos que me llama ahorita.  \n",
+        "real_answer": "  Somos cali go autos, estamos acá en San Fernando, California.  \n",
+        "llm_answer": "  Nosotros estamos acá en San Fernando, California.  \n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona la ubicación, que es un aspecto relevante de la respuesta original, pero no identifica el nombre del dealer, que es crucial para responder a la pregunta sobre a qué dealer se está llamando.",
+        "hf_similarity": 0.21168282566102326
+    },
+    {
+        "question": " No, no, es la primera vez.\n\n",
+        "real_answer": " Ok, ¿algún vehículo que busque en especial, marca, año, modelo?\n\n",
+        "llm_answer": " ¿Algún vehículo en especial que busque? ¿Marca, año o modelo?\n\n",
+        "Relevancia": "RELEVANTE",
+        "Explicacion": "La respuesta generada mantiene el enfoque de la pregunta original y reformula de manera similar la solicitud sobre el vehículo, incluyendo los mismos elementos clave: marca, año y modelo. Aunque la redacción es ligeramente diferente, la intención y el contenido son coherentes y relevantes.",
+        "hf_similarity": 0.030494979526701216
+    },
+    {
+        "question": " ¿Cuánto sale todo eso?  \n",
+        "real_answer": " Fíjense que todas las trocas que tenemos en inventario van de los 30,000 en adelante. Si sería necesario llenar aplicación para saber con exactitud en cuanto le sale ya financiada.  \n",
+        "llm_answer": " Tendríamos que llenar una aplicación para ver el vehículo que se va a llevar y el plazo del financiamiento para establecer el precio total del vehículo. Ahorita, el mínimo que le puedo ofrecer es un carro sedán, que se va desde los 2000 de enganche.  \n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona la necesidad de llenar una aplicación para determinar el precio total, lo cual es similar a la respuesta original. Sin embargo, se centra en un carro sedán y un enganche de 2000, lo que no se alinea completamente con la información sobre las trocas y el rango de precios mencionado en la respuesta original. Esto la hace parcialmente relevante, ya que toca el tema de financiamiento pero no se refiere directamente a la pregunta sobre el costo total de las trocas.",
+        "hf_similarity": 0.36980468791803334
+    },
+    {
+        "question": " El comprobante de ingreso no, me pagan en efectivo.\n",
+        "real_answer": " No hay problema, con su identificación y el Bill podemos ayudarle. ¿Es su primera vez financiando?\n",
+        "llm_answer": " No hay problema, solo necesita traer la identificación y el recibo. ¿Está buscando algún vehículo en especial, marca, año o modelo?\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada aborda la necesidad de identificación y menciona un recibo, lo cual es relevante en el contexto de la conversación sobre el comprobante de ingreso. Sin embargo, la pregunta sobre el vehículo en especial no está directamente relacionada con el tema de financiamiento, lo que reduce su relevancia en comparación con la respuesta original.",
+        "hf_similarity": 0.41963463490644215
+    },
+    {
+        "question": " ¿Tienes algunas fotos de los Honda Civic que tienes, que me puedes mandar?\n\n",
+        "real_answer": " Sí, le voy a enviar las fotografías.",
+        "llm_answer": " Claro, yo con gusto le envío fotos. ¿Está buscando un Civic en especial?\n\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada confirma que se enviarán fotos, similar a la respuesta original, pero también añade una pregunta sobre el interés en un modelo específico, lo que puede desviar un poco del enfoque directo de la solicitud inicial.",
+        "hf_similarity": 0.35103178754520403
+    },
+    {
+        "question": " Si pues está bien. Me manda la dirección por aquí, por este número.  \n",
+        "real_answer": " Claro, yo se la dejo. Igual si usted no tiene de enganche y quiere pasar antes a ver nuestro inventario, puede venir sin ningún compromiso. Bye.",
+        "llm_answer": " Ok, perfecto. Entonces estamos en contacto. Que tenga un buen día.  \n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada muestra un acuerdo y un cierre de conversación, pero no aborda la solicitud específica de enviar la dirección ni menciona el inventario, lo que la hace menos relevante en comparación con la respuesta original que sí incluye estos elementos.",
+        "hf_similarity": 0.5563171430532927
+    },
+    {
+        "question": " Ok, está bien, gracias.\n\n",
+        "real_answer": " ¡De nada! Estoy a su disposición",
+        "llm_answer": " Gracias a usted. Que tenga un feliz día.\n\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada muestra cortesía y agradecimiento, lo cual es apropiado en el contexto de una conversación. Sin embargo, no responde directamente a la oferta de disponibilidad de la respuesta original, lo que reduce su relevancia.",
+        "hf_similarity": 0.4994111673885777
+    },
+    {
+        "question": " No tengo carro para ir, estoy buscando algo barato, unos 10,000.\n\n",
+        "real_answer": " Entiendo. Fíjese que los vehículos que tenemos en ese rango de precio son un poco limitados. ¿Ese precio es para financiamiento o en efectivo?\n\n",
+        "llm_answer": " Ok, fíjese que en este caso nosotros no le podemos ayudar de esa forma. Si no tiene carro, no hay problema, solo se trae el vehículo y el título y nosotros acá lo evaluamos y le decimos cuánto le damos por él. Pero si no tiene carro, no hay problema, solo se trae el vehículo y el título y nosotros acá lo evaluamos y le damos la opción de que si le gusta alguno, puede venir sin ningún compromiso a ver el vehículo. ¿Y qué día tendrá tiempo para venir al dealer?\n\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona que no hay problema si el cliente no tiene carro, pero se desvía del enfoque inicial de la respuesta original, que se centra en el presupuesto y las opciones de financiamiento. Aunque aborda la situación del cliente, no responde directamente a la pregunta sobre el rango de precio y la disponibilidad de vehículos en ese rango.",
+        "hf_similarity": 0.47696230457984456
+    },
+    {
+        "question": " Puedo visitarlo el viernes que estoy libre.\n",
+        "real_answer": " Ok, perfecto. Entonces le dejaré nuestra dirección y las fotografías.\n",
+        "llm_answer": " Perfecto, le enviaré nuestra dirección y fotos. ¿Qué día nos podría visitar?\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada mantiene el tema de la visita y la entrega de la dirección y fotos, pero introduce una pregunta que no estaba en la respuesta original. Esto muestra cierta relevancia, pero no es completamente congruente con la respuesta original que simplemente confirma la visita sin solicitar más información.",
+        "hf_similarity": 0.15496742541606645
+    },
+    {
+        "question": " Busco una pickup de Trabajo \n",
+        "real_answer": " Fíjese que nosotros no vendemos pickups de trabajo, no le manejamos y lo que le podría ofrecer es una troca. le tengo SUVs de hasta ocho pasajeros.  \n",
+        "llm_answer": " Fíjese que por el momento no tengo en especial de ese tipo de vehículos. Pero si se anima por uno, le notificaré.  \n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona que no tiene pickups de trabajo, lo cual es similar a la respuesta original. Sin embargo, no ofrece una alternativa clara como lo hace la respuesta original al mencionar las SUVs. La falta de una oferta concreta hace que la relevancia sea parcial.",
+        "hf_similarity": 0.337218446228457
+    },
+    {
+        "question": " ¿Oh, hasta allá está? Aquí por Santa Ana, ¿verdad?\n",
+        "real_answer": " Estamos como a 1 hora y media de Santa Ana, hasta San Diego.\n Ok. ¿No le interesaría venir hasta acá, San Fernando? Tenemos facilidades de financiamiento.\n",
+        "llm_answer": " Exactamente. Le voy a dejar nuestra dirección por un mensajito de texto.\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona que se enviará la dirección por mensaje de texto, lo que indica una intención de continuar la conversación. Sin embargo, no aborda directamente la pregunta sobre la distancia desde Santa Ana ni la oferta de financiamiento mencionada en la respuesta original, lo que limita su relevancia.",
+        "hf_similarity": 0.5124786982646325
+    },
+    {
+        "question": " Ya, ya he financiado.  \n",
+        "real_answer": " Ok, perfecto. ¿Busca algún vehículo, que busca un sedán, verdad?  \n",
+        "llm_answer": " ¿Algún vehículo en especial que usted busque?  \n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada se relaciona con la original al preguntar sobre un vehículo, pero no aborda directamente la referencia a un sedán, que es un detalle específico mencionado en la respuesta original. Por lo tanto, aunque hay un intento de continuar la conversación, la falta de especificidad reduce la relevancia.",
+        "hf_similarity": 0.20426691991075208
+    },
+    {
+        "question": " Para el miércoles puedo tener 1000.  \n",
+        "real_answer": " Ok, perfecto. ¿Busca carro troca o SUV?  \n",
+        "llm_answer": " Ok, perfecto. Entonces ahí le voy a dejar nuestra dirección y cuando usted esté listo, pues ahí estamos a la orden.  \n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada reconoce la disposición a ayudar, pero no aborda la pregunta específica sobre el tipo de vehículo que se busca, como lo hace la respuesta original. Por lo tanto, aunque hay una conexión en la intención de servicio, falta la relevancia directa al tema del tipo de carro.",
+        "hf_similarity": 0.47993184425009006
+    },
+    {
+        "question": " No, no, el primer crédito.\n\n",
+        "real_answer": " ¿Algún vehículo en especial que usted busque, marca, año o modelo? \n\n",
+        "llm_answer": " ¿Algún vehículo en especial que busque?\n\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada es similar a la respuesta original, pero omite detalles como 'marca, año o modelo', lo que la hace menos completa. Sin embargo, mantiene la esencia de la pregunta sobre un vehículo en especial.",
+        "hf_similarity": 0.11492625683884894
+    },
+    {
+        "question": " Ay, joder. Ah, bueno. ¿Y en cuánto salen más o menos? ¿Y cuánto salen esos pequeños?  \n",
+        "real_answer": " Los carros sedán, fíjese que andan arriba de los 20,000 del año 2019 al 2023, lo que le tenemos con tres años de garantía en motor, transmisión y aire acondicionado.  \n",
+        "llm_answer": " Fíjense que no le puedo decir con exactitud porque hay muchos factores a considerar, pero le puedo dar una idea de lo que se va. Ahorita la verdad no tengo los precios exactos, pero sí me viene la información.  \n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona que no puede proporcionar un precio exacto y que hay factores a considerar, lo que indica cierta relación con la pregunta sobre los precios. Sin embargo, no ofrece información concreta sobre los precios de los carros sedán, lo que limita su relevancia en comparación con la respuesta original, que proporciona cifras específicas y detalles sobre la garantía.",
+        "hf_similarity": 0.5741118849221261
+    },
+    {
+        "question": " Pues ahorita, la verdad, no. Salí del estado y no estoy en California en este momento, pero sí estoy interesado. Cuando regrese a California, le llamo.\n",
+        "real_answer": " Entendido. No hay problema. Le voy a enviar nuestra dirección por mensaje para que la tenga registrada. También le comparto mi nombre y mi número para que pueda contactarme cuando esté de vuelta.\n",
+        "llm_answer": " Ok, perfecto. Entonces estamos abiertos de lunes a sábado hasta las 8:00 p.m. y los domingos hasta las 6:00 p.m. Le voy a compartir nuestra dirección por mensaje de texto y nos vemos el sábado.\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada proporciona información sobre horarios y menciona el envío de la dirección, lo cual es relevante para el contexto de la conversación. Sin embargo, no aborda el interés del interlocutor en regresar a California ni la oferta de contacto con nombre y número, lo que la hace menos relevante que la respuesta original.",
+        "hf_similarity": 0.5403563546595787
+    },
+    {
+        "question": " Perfecto, ¿cuánto es el enganche mínimo?\n\n",
+        "real_answer": " Para un sedán, necesitaríamos un enganche de al menos $1,800.\n\n",
+        "llm_answer": " Fíjese que en este caso no tengo carro a la mano. ¿Cuánto sería el enganche?\n\n",
+        "Relevancia": "NO_RELEVANTE",
+        "Explicacion": "La respuesta generada no aborda la pregunta sobre el enganche mínimo y, en cambio, muestra confusión sobre la disponibilidad de un carro, lo que la hace irrelevante en relación con la respuesta original que especifica un monto concreto.",
+        "hf_similarity": 0.520258191420143
+    },
+    {
+        "question": " Sí, está bien tengo tiempo. \n",
+        "real_answer": " Ok, le quería comentar de que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros principalmente ocupa una identificación, puede ser de aquí o de su país, pero tiene que estar vigente. Ok. También ocupa un Bill, cualquier tipo de Bill, si no está su nombre no hay problema, solo para confirmar dirección y si tiene también un comprobante de ingresos. Ok. ¿Sería su primera vez financiando? ¿Usted ya ha tenido algún crédito?\n\n",
+        "llm_answer": " Le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros le estaríamos solicitando tres documentos, los cuales serían una identificación vigente, puede ser de aquí o de su país. También ocupa un recibo, cualquier tipo de recibo. Si no está a su nombre, no hay problema, solo es para confirmar dirección. Y si tiene también un comprobante de ingreso. ¿Tiene todos los requisitos o habría inconveniente con alguno?  \n",
+        "Relevancia": "RELEVANTE",
+        "Explicacion": "La respuesta generada es muy similar a la respuesta original, ya que incluye la misma información sobre el financiamiento, los documentos necesarios y las garantías ofrecidas. La estructura y el contenido son coherentes con lo que se solicita en la pregunta, manteniendo el contexto y la intención de la comunicación.",
+        "hf_similarity": 0.20424994616876335
+    },
+    {
+        "question": " ¿De qué dealer es, disculpe?\n",
+        "real_answer": " De Cali go Auto, estamos en San Fernando, California.\n",
+        "llm_answer": " Somos Cali Go Autos Autos. ¿Qué vehículo busca?\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona el nombre del dealer 'Cali Go Autos', lo cual es relevante, pero no proporciona información completa sobre la ubicación en San Fernando, California, como lo hace la respuesta original. Además, la pregunta sobre el vehículo no es relevante para la pregunta inicial.",
+        "hf_similarity": 0.2968682734153786
+    },
+    {
+        "question": " Trabaja por mi cuenta.  \n",
+        "real_answer": " En este caso no presentar ningún tipo de comprobante de ingresos, solo con la identificación y con el comprobante de domicilio es suficiente. ¿Y sería su primera vez financiando o usted ya ha tenido crédito? ¿Algún vehículo en especial que usted busque, marca, año o modelo? \n",
+        "llm_answer": " Ok, si trabaja por su cuenta, no hay problema. Entonces yo le voy a dejar nuestra dirección por un mensajito de texto y el domingo si se anima a visitarnos, ahí estamos a la orden.  \n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada reconoce que la persona trabaja por su cuenta, pero no aborda la pregunta sobre la presentación de comprobantes de ingresos ni las consultas sobre la experiencia previa en financiamiento o el tipo de vehículo que busca, que son elementos clave de la respuesta original.",
+        "hf_similarity": 0.5821305463755215
+    },
+    {
+        "question": " ¿Las envío al WhatsApp de siempre?\n",
+        "real_answer": " Sí, ahí donde hemos estado hablando.\n",
+        "llm_answer": " Sí, envío la dirección por mensaje de WhatsApp y, si se anima, aquí estamos a la orden. Le voy a dejar la dirección por un mensajito de texto.\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada confirma el envío a WhatsApp, pero añade información adicional sobre enviar una dirección y ofrecer ayuda, lo que no está presente en la respuesta original. Aunque está relacionada, se desvía del enfoque directo de la pregunta.",
+        "hf_similarity": 0.4651013093817973
+    },
+    {
+        "question": " Ah, bueno, muy amable. Entonces por ahí si me animaría, por ahí llegaré estos días.\n\n",
+        "real_answer": " Ok, perfecto. Entonces ahí les dejo nuestra dirección y estamos en contacto. Que tenga un buen día.\n\n",
+        "llm_answer": " Ok, perfecto. Entonces ahí le dejo nuestra dirección y nos vemos el domingo.\n\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada mantiene el tono y la estructura de la respuesta original, pero introduce un cambio en el día de encuentro ('nos vemos el domingo') que no estaba presente en la respuesta original. Esto afecta la relevancia, ya que la respuesta original no menciona un día específico, pero la respuesta generada se desvía ligeramente del contenido original.",
+        "hf_similarity": 0.23333726404250754
+    },
+    {
+        "question": " Sí, estoy interesado en un vehículo. Ajá, cuénteme.\n\n",
+        "real_answer": " Ok, le comento que nosotros hacemos financiamiento en casa. Ofrecemos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros, necesitaría tres documentos: su identificación vigente, un comprobante de domicilio y un comprobante de trabajo. ¿Sería su primera vez financiando? ¿Ya tenía algún crédito?\n\n",
+        "llm_answer": " Ok, le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para financiarle un vehículo, solo necesita tres documentos: su identificación vigente, un comprobante de domicilio y un comprobante de ingreso.\n\n ¿Sería su primera vez financiando? ¿Ya tiene crédito?\n\n",
+        "Relevancia": "RELEVANTE",
+        "Explicacion": "La respuesta generada contiene la misma información clave que la respuesta original sobre el financiamiento, la garantía y los documentos necesarios. Aunque hay ligeras variaciones en la redacción y en la terminología (por ejemplo, 'comprobante de trabajo' vs. 'comprobante de ingreso'), el mensaje y la intención son coherentes y relevantes para la consulta del cliente.",
+        "hf_similarity": 0.03932927742987635
+    },
+    {
+        "question": " Si, yo le visité hace como dos semanas, sino que tuve un percance y aparte que por el trabajo, yo trabajo diferente horas que mi esposo y no hemos podido volver a ir.  \n",
+        "real_answer": " Ok, aquí tenemos abierto de lunes a sábado hasta las 8:00 p.m. y también los domingos hasta las 6:00 p.m. ¿tienen tiempo de pasar en estos días?  \n",
+        "llm_answer": " Ok, perfecto. Entonces le voy a dejar nuestra dirección y cuando usted ya esté listo para visitarnos, aquí estamos a la orden.  \n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona la disposición para recibir a la persona cuando esté lista para visitarlos, lo cual es relevante en el contexto de una visita. Sin embargo, no aborda directamente la información sobre los horarios de apertura que se menciona en la respuesta original, lo que limita su relevancia total.",
+        "hf_similarity": 0.49827988070045837
+    },
+    {
+        "question": " Lo que pasa es que como nosotros viajamos, yo soy de New Jersey y la empresa nos brinda el departamento, ¿me entiendes? Yo no puedo tener un bill de la casa porque nunca es algo fijo.  \n",
+        "real_answer": " ¿Pero no le llega ningún tipo de bill, sin importar qué bill sea?  \n",
+        "llm_answer": " Ok, no hay problema, fíjense que nosotros no pedimos que el cliente tenga un bill de la casa, solo es para confirmar la dirección.  \n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada aborda el tema de la necesidad de un comprobante de dirección, pero no responde directamente a la pregunta sobre si se recibe algún tipo de bill. Aunque hay cierta relación, no se está contestando la inquietud específica planteada en la respuesta original.",
+        "hf_similarity": 0.4625701294472153
+    },
+    {
+        "question": " No tengo buena puntuación.\n",
+        "real_answer": " Eso no es un problema. ¿Busca algún tipo específico de vehículo?\n",
+        "llm_answer": " ¿Algún vehículo en especial que busque? ¿Marca, año o modelo?\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada se centra en la búsqueda de un vehículo específico, lo cual es relevante para la pregunta inicial sobre la puntuación. Sin embargo, no aborda directamente la falta de buena puntuación ni ofrece una respuesta tranquilizadora como lo hace la respuesta original. Por lo tanto, tiene cierta relevancia, pero no es completamente adecuada.",
+        "hf_similarity": 0.19940219272844106
+    },
+    {
+        "question": " Sí, claro, por supuesto.\n",
+        "real_answer": " Con gusto. Mi nombre es Judith. Nosotros ofrecemos financiamiento en casa y brindamos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar, principalmente le solicitaría una identificación, que puede ser de aquí o de su país, pero debe estar vigente. También podría necesitar dos requisitos adicionales: un comprobante de domicilio, que puede ser cualquier factura que muestre su dirección (no es necesario que esté a su nombre), y un comprobante de ingreso. ¿Tendría los tres documentos o solo la identificación?\n",
+        "llm_answer": " Ok, le comento que nosotros hacemos financiamiento en casa. Ofrecemos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para financiarle, le estaríamos solicitando tres documentos: su identificación vigente, un comprobante de domicilio y un comprobante de ingreso. ¿Sería su primera vez financiando? ¿Ha tenido crédito anteriormente?\n",
+        "Relevancia": "RELEVANTE",
+        "Explicacion": "La respuesta generada es relevante porque aborda los mismos puntos clave que la respuesta original, como el financiamiento en casa, la garantía ofrecida y los documentos necesarios para calificar. Aunque la respuesta generada incluye una pregunta adicional sobre la experiencia previa con el crédito, esto no disminuye su relevancia en relación con la información solicitada.",
+        "hf_similarity": 0.24550853599423417
+    },
+    {
+        "question": " Ok, ok, ok. Me gustaría ir para una pregunta. \n",
+        "real_answer": " Si, nosotros acá le tenemos varios vehículos en inventario. ¿Usted busca sedán, verdad? Le tenemos en la marca Honda, Toyota, Nissan, Kia, Mazda, Ford. También le tengo Tesla. Ocuparía mínimo unos 2500 de enganche. No sé si está bien para usted.  \n",
+        "llm_answer": " Ok, perfecto. Entonces ahí le dejo nuestra dirección y cualquier cosa quedó a la orden.  \n",
+        "Relevancia": "NO_RELEVANTE",
+        "Explicacion": "La respuesta generada no aborda la pregunta ni la información proporcionada en la respuesta original. Mientras que la respuesta original se centra en ofrecer detalles sobre los vehículos disponibles y requisitos de enganche, la respuesta generada se limita a ofrecer una dirección y una disposición general, sin conexión con el tema de la compra de vehículos.",
+        "hf_similarity": 0.5215022698844726
+    },
+    {
+        "question": " No, no tengo crédito.\n",
+        "real_answer": " No hay problema, lo puede comenzar con nosotros. ¿Está buscando un carro sedán, verdad?\n",
+        "llm_answer": " ¿Algún vehículo en especial que busque, marca, año o modelo?\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada muestra interés en ayudar al usuario a encontrar un vehículo, pero no aborda directamente la falta de crédito mencionada en la respuesta original. Sin embargo, sugiere un enfoque de búsqueda de un vehículo, lo que puede ser relevante en un contexto más amplio.",
+        "hf_similarity": 0.27056237126833493
+    },
+    {
+        "question": " Probablemente podría visitarlos el próximo fin de semana.\n\n",
+        "real_answer": " Perfecto. Entonces, ¿le gustaría que le reserve un espacio para el sábado?\n\n",
+        "llm_answer": " Perfecto. Le enviaré la dirección y las fotos.\n\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona el envío de la dirección y fotos, lo cual puede ser útil para la visita, pero no aborda directamente la oferta de reservar un espacio para el sábado como lo hace la respuesta original. Hay cierta relación, pero no es completamente relevante al contexto de la reserva.",
+        "hf_similarity": 0.5167625380142193
+    },
+    {
+        "question": " Tengo un Ford Focus 2001, pero el radiador está dañado. Tengo el título y la factura.\n",
+        "real_answer": " Si el motor y la transmisión funcionan, lo aceptamos, pero necesitaría más efectivo por ser un 2001.\n",
+        "llm_answer": " Perfecto. Entonces, ¿está buscando un vehículo en especial, como un carro, una troca o un SUV?\n",
+        "Relevancia": "NO_RELEVANTE",
+        "Explicacion": "La respuesta generada no aborda la situación del radiador dañado ni la aceptación del vehículo, y en su lugar, se centra en preguntar sobre el tipo de vehículo que se busca, lo que no tiene relación con la información proporcionada en la respuesta original.",
+        "hf_similarity": 0.40757107284847516
+    },
+    {
+        "question": " Sí, está bien, señora. Ya nada más como le digo, miro las fotos y si me gusta algo, pues puedo ir mañana o quizás ahora en la tarde.\n\n",
+        "real_answer": " Ok, excelente, entonces ahí le dejo nuestra información.\n\n",
+        "llm_answer": " Ok, perfecto. Entonces ahí le dejo la dirección por un mensajito de texto y le esperamos el domingo.\n\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada mantiene el contexto de la conversación y responde a la intención de la pregunta, pero introduce un nuevo elemento (la dirección por un mensajito de texto y la espera el domingo) que no estaba presente en la respuesta original, lo que la hace menos relevante en comparación con la respuesta original.",
+        "hf_similarity": 0.41000327220328514
+    },
+    {
+        "question": " Pues yo vivo aquí en la Rosmi, cerca de Los Ángeles.\n",
+        "real_answer": " Ah, ok, estamos cerca, a unos 30-35 minutos aproximadamente.\n",
+        "llm_answer": " Ok, perfecto. Entonces ahí le dejo nuestra dirección por un mensajito de texto para que cheque ahí más o menos a cuánto le quedamos.\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona el envío de una dirección y la comunicación por mensaje de texto, lo que es relevante en el contexto de la conversación sobre la ubicación. Sin embargo, no aborda directamente la distancia mencionada en la respuesta original, lo que la hace menos relevante en comparación con la respuesta original.",
+        "hf_similarity": 0.490214701429705
+    },
+    {
+        "question": " ¿Y en qué lugar están ubicados?\n\n",
+        "real_answer": " Nosotros estamos en el Valle de San Fernando. Le voy a dejar la dirección por mensaje de texto.\n\n",
+        "llm_answer": " Estamos acá en el valle de San Fernando. Le voy a dejar la dirección por un mensajito de texto. ¿Qué día tendrá tiempo de visitarnos?\n\n",
+        "Relevancia": "RELEVANTE",
+        "Explicacion": "La respuesta generada es relevante porque proporciona la misma información sobre la ubicación en el Valle de San Fernando y menciona que se enviará la dirección por mensaje de texto. Además, incluye una pregunta sobre la disponibilidad del visitante, lo que añade un contexto útil a la conversación.",
+        "hf_similarity": 0.0815091328365557
+    },
+    {
+        "question": " ¿Y el recibo, el recibo de la vivienda y aparte un ingreso, como qué papel de ingreso puede ser?\n\n",
+        "real_answer": " ¿Le pagan en efectivo, con cheque o por depósito?\n\n",
+        "llm_answer": " Si tiene un ingreso, si le pagan en efectivo, se puede mostrar en el sistema. ¿Tiene un comprobante de ingresos?\n\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona la forma de pago (efectivo) y la posibilidad de mostrar un comprobante de ingresos, lo cual está relacionado con la pregunta sobre el recibo y el ingreso. Sin embargo, no aborda directamente la pregunta sobre qué tipo de papel de ingreso se puede utilizar, lo que la hace menos relevante que la respuesta original.",
+        "hf_similarity": 0.35065028046498503
+    },
+    {
+        "question": " Sí, sí, sí, cuento con eso.  \n",
+        "real_answer": " Ok, perfecto. ¿Y sería su primera vez financiando? ¿Usted ya ha tenido algún crédito?  \n",
+        "llm_answer": " Ok, le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros le estaríamos solicitando tres documentos, los cuales serían una identificación vigente, puede ser de aquí o de su país. También ocupa un comprobante de domicilio, puede ser cualquier tipo de recibo. Si no está su nombre, no hay problema, solo es para confirmar dirección y si tiene también un comprobante de ingreso.  \n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada proporciona información sobre el financiamiento y los documentos necesarios, lo cual es relacionado con el contexto de la pregunta. Sin embargo, no aborda directamente la consulta sobre si es la primera vez financiando ni pregunta sobre el historial de crédito, que son aspectos clave de la respuesta original.",
+        "hf_similarity": 0.5255272722758622
+    },
+    {
+        "question": " Pero, ¿piden enganche? No tengo eso.\n\n",
+        "real_answer": " Sí, el mínimo para un sedán es de 2500 dólares. ¿Tiene algún vehículo en mente?\n\n",
+        "llm_answer": " ¿No tiene enganche?\n\n",
+        "Relevancia": "RELEVANTE",
+        "Explicacion": "La respuesta generada no proporciona información sobre el enganche requerido ni responde adecuadamente a la pregunta sobre si se pide enganche. Simplemente repite la falta de enganche sin ofrecer detalles o contexto adicional, lo que la hace irrelevante en comparación con la respuesta original.",
+        "hf_similarity": 0.5131242206457012
+    },
+    {
+        "question": " Estaré listo para el fin de mes.\n",
+        "real_answer": " Perfecto, entonces así quedamos. \n",
+        "llm_answer": " Perfecto, le llamaré el fin de mes. Si tiene alguna pregunta antes, no dude en contactarnos.\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada mantiene un tono positivo y de confirmación similar a la respuesta original, pero introduce información adicional sobre una llamada y la disponibilidad para preguntas, lo que no estaba presente en la respuesta original. Esto la hace menos directa y más extensa que la respuesta original.",
+        "hf_similarity": 0.5293575856480452
+    },
+    {
+        "question": " Una van, una mini van.  \n",
+        "real_answer": " Ok. Aquí le tengo por ejemplo la Dodge Durango, eso es para ocho pasajeros. ¿La que le tengo en 2021 ocuparía unos 3500 de enganche para una como esa, no sé, qué le parece?  \n",
+        "llm_answer": " Ok, perfecto. ¿Y sería su primera vez financiando?  \n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada se desvía del tema específico de la van y la mini van mencionadas en la pregunta, pero introduce un nuevo aspecto relacionado con el financiamiento, que podría ser relevante en un contexto de compra de vehículos. Sin embargo, no aborda directamente la información sobre la Dodge Durango o el enganche mencionado en la respuesta original.",
+        "hf_similarity": 0.5703983657186107
+    },
+    {
+        "question": " Ok, como ahorita no tengo ingresos, no, no se puede.  \n",
+        "real_answer": " ¿Pero cómo lo pagaría, caballero? Porque los pagos son mensuales y tendría que tener un ingreso.  \n",
+        "llm_answer": " Ok, no hay problema, pero si tiene el último talón de cheque y el número de su jefe nos funciona perfectamente.  \n",
+        "Relevancia": "NO_RELEVANTE",
+        "Explicacion": "La respuesta generada no aborda la preocupación principal sobre la falta de ingresos y cómo se realizarían los pagos. En cambio, sugiere que se puede proceder con información adicional, lo cual no responde a la pregunta sobre la viabilidad de los pagos mensuales sin ingresos.",
+        "hf_similarity": 0.48786768205415265
+    },
+    {
+        "question": " Ok, está bien. Muchísimas gracias. ¡Feliz día!\n\n",
+        "real_answer": " Gracias, igualmente. ¡Hasta luego!",
+        "llm_answer": " Gracias, igualmente. Bye.",
+        "Relevancia": "RELEVANTE",
+        "Explicacion": "La respuesta generada mantiene el mismo sentido y cortesía de la respuesta original, expresando un agradecimiento y un deseo de reciprocidad. Aunque utiliza 'Bye' en lugar de 'Hasta luego', la intención es similar.",
+        "hf_similarity": 0.17083466042844841
+    },
+    {
+        "question": " Si no más que estaba trabajando no le pude contestar, disculpas.  \n",
+        "real_answer": " Ahora si tiene tiempo de atenderme. \n",
+        "llm_answer": " Ok, perfecto. Entonces si no tiene tiempo de contestar, no hay problema.  \n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada reconoce que la persona no pudo contestar, pero no aborda directamente si ahora tiene tiempo para atender la solicitud, que es el punto central de la respuesta original. Por lo tanto, es parcialmente relevante.",
+        "hf_similarity": 0.2974809140008088
+    },
+    {
+        "question": " Ah, pues abren los sábados.\n\n",
+        "real_answer": " Sí, estamos abiertos desde las 10:00 a.m. hasta las 8:00 p.m.\n\n",
+        "llm_answer": " Ok, perfecto. Entonces ahí le dejo nuestra dirección por un mensajito de texto y estamos a la orden.\n\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada reconoce la apertura del lugar, pero no proporciona información específica sobre los horarios, que es lo que menciona la respuesta original. Además, se enfoca en dejar una dirección, lo que no está directamente relacionado con la pregunta sobre los horarios de apertura.",
+        "hf_similarity": 0.4919652459568802
+    },
+    {
+        "question": " Ya he financiado antes, pero esta sería la primera vez para mí.\n\n",
+        "real_answer": " Perfecto. ¿Hay algún vehículo en especial que usted busque? ¿Alguna marca, año o modelo?\n\n",
+        "llm_answer": " ¿Y busca algún vehículo en especial, alguna marca o año en particular?\n\n",
+        "Relevancia": "RELEVANTE",
+        "Explicacion": "La respuesta generada mantiene el mismo enfoque y pregunta que la respuesta original, solicitando información sobre un vehículo específico, como marca o año. Ambos textos son prácticamente equivalentes en contenido y contexto, lo que justifica la clasificación de 'RELEVANTE'.",
+        "hf_similarity": 0.1479509536995709
+    },
+    {
+        "question": " Tengo un Toyota Corolla 2012 que puedo intercambiar.\n\n",
+        "real_answer": " Perfecto. Estamos abiertos de lunes a sábado, de 10 a.m. a 8 p.m., y domingos de 10 a.m. a 6 p.m. ¿Qué día podría venir?\n\n",
+        "llm_answer": " Ok, perfecto. Entonces le dejo nuestra dirección y nuestra dirección. Estamos abiertos de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m. y los domingos desde las 10:00 a.m. hasta las 6:00 p.m.\n\n",
+        "Relevancia": "RELEVANTE",
+        "Explicacion": "La respuesta generada proporciona la misma información sobre los horarios de atención que la respuesta original, lo que es relevante para la pregunta sobre el intercambio del vehículo. Además, menciona la dirección, aunque no se especifica, lo que sugiere que el usuario podría necesitarla para visitar el lugar.",
+        "hf_similarity": 0.19598626276513942
+    },
+    {
+        "question": " Ok, yo le confirmo en la tarde qué horas puedo ir.\n\n",
+        "real_answer": " Ah, ok. ¿Podría pasar ahora?\n\n",
+        "llm_answer": " Ok, perfecto. Entonces ahí le dejo la dirección y estamos pendientes.\n\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada muestra un acuerdo y disposición para continuar la conversación, pero no responde directamente a la pregunta de confirmar un horario específico, lo que la hace menos relevante que la respuesta original.",
+        "hf_similarity": 0.5194445470400326
+    },
+    {
+        "question": " No, ya he tenido, pero la realidad es que obtuve un vehículo anteriormente y no me respondieron bien a cómo se realizó el contrato, así que regresé el vehículo.\n\n",
+        "real_answer": " Ok, no hay ningún problema. Nosotros hacemos financiamiento en casa y aquí le podemos ayudar. ¿Busca algún vehículo en especial, alguna marca o modelo?\n\n",
+        "llm_answer": " ¿Ok, y qué día podría visitarnos para estar pendientes?\n\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada muestra interés en continuar la conversación, pero no aborda directamente la inquietud del usuario sobre su experiencia previa con el contrato del vehículo. Aunque sugiere una acción futura (visitar), no responde a la necesidad de aclaración sobre el financiamiento o el vehículo en cuestión.",
+        "hf_similarity": 0.5212429080457115
+    },
+    {
+        "question": " ¿Ok, y en qué estado están?  \n",
+        "real_answer": " Estamos en California.  \n",
+        "llm_answer": " Estamos acá en San Fernando, California. ¿Usted dónde vive usted?  \n",
+        "Relevancia": "RELEVANTE",
+        "Explicacion": "La respuesta generada proporciona información específica sobre la ubicación dentro del estado mencionado en la respuesta original, añadiendo detalles adicionales sin desviarse del tema. Además, mantiene la conversación al preguntar sobre la ubicación del interlocutor.",
+        "hf_similarity": 0.2812486714459945
+    },
+    {
+        "question": " Ajá, que no, Ford no, no me gusta. ¿No tiene alguna Tacoma, otra cosa así?  \n",
+        "real_answer": " Sí, aquí le tengo Tacoma. Disculpe, yo pensé que por Ford me había preguntado. Por acá le tengo Toyota Tacoma. Le tengo Silverado y Colorado.  \n",
+        "llm_answer": " Ok, aquí le tengo Tacoma, no sé si le interesaría.  \n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona que tiene Tacoma, que es relevante para la solicitud del usuario. Sin embargo, no proporciona la misma cantidad de información que la respuesta original, que también menciona otras opciones disponibles como Silverado y Colorado. La falta de detalles adicionales disminuye su relevancia.",
+        "hf_similarity": 0.2483179920252765
+    },
+    {
+        "question": " Vivo en Los Ángeles, así que estamos cerca. Pero me dijiste que solo tienen esos dos híbridos.\n\n",
+        "real_answer": " Correcto. Pero si está interesado en un vehículo de gasolina, tenemos Hondas, Kias, Fords, Chevys, Volkswagens, y una amplia variedad que no consume tanto combustible.\n\n",
+        "llm_answer": " No, fíjese que no tengo híbrido. Tengo solo Tesla, Chevrolet, Toyota, Nissan, Ford, Kia, Hyundai, Mazda, y Tesla. Todos son eléctricos.\n\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona varios tipos de vehículos, pero se centra en eléctricos y no aborda la oferta de vehículos de gasolina que se menciona en la respuesta original. Aunque hay cierta relación en la discusión sobre vehículos, la falta de conexión directa con la pregunta y la desviación hacia solo vehículos eléctricos limita su relevancia.",
+        "hf_similarity": 0.4592095369295257
+    },
+    {
+        "question": " Ok, vale, de un dealer. Hola, buenas tardes.\n",
+        "real_answer": " Le saludo del dealer de autos. Tenía que unos mensajitos de que le interesa adquirir un vehículo financiado.\n",
+        "llm_answer": "",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada no aborda directamente el contenido de la respuesta original, que se centra en la intención de adquirir un vehículo financiado. Sin embargo, mantiene un contexto relacionado al dealer de autos, lo que le otorga cierta relevancia, aunque no es suficiente para ser considerada completamente relevante.",
+        "hf_similarity": 0.8938880475051062
+    },
+    {
+        "question": " No sé si tienen trocas.\n\n",
+        "real_answer": " Sí, tengo Toyota Tacoma, Chevrolet Silverado, GMC Colorado, Ford F-150 y Nissan Frontier, desde los 3500 de enganche. Tengo del año 2018 en adelante. ¿Qué le parece?\n\n",
+        "llm_answer": " En su caso, no tengo trocas, pero tengo camionetas. ¿Sería su primera vez financiando? ¿Ya tiene crédito?\n\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona que no tiene trocas, lo cual es relevante para la pregunta inicial. Sin embargo, no proporciona información sobre las opciones de camionetas disponibles, como lo hace la respuesta original. Además, introduce preguntas sobre financiamiento y crédito que no están relacionadas directamente con la consulta sobre trocas.",
+        "hf_similarity": 0.5265802743343821
+    },
+    {
+        "question": " Sí, hay un inconveniente con la identificación. Ok, sí tengo una, pero está vencida.\n",
+        "real_answer": " ¿Hasta cuándo se le venció?\n",
+        "llm_answer": " Ok, no hay problema. ¿Y qué día nos podría visitar?\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada no aborda directamente la pregunta sobre la fecha de vencimiento de la identificación, pero intenta continuar la conversación sugiriendo una visita, lo cual es un intento de avanzar en la interacción. Sin embargo, no responde a la inquietud específica planteada en la respuesta original.",
+        "hf_similarity": 0.5127668016921589
+    },
+    {
+        "question": " Ok, como está lejos, yo tendría que ir un mismo día y no sé si entregan ustedes el vehículo el mismo día.\n\n",
+        "real_answer": " Sí, le entregamos el vehículo el mismo día que nos visite.\n\n",
+        "llm_answer": " Claro, ahí le voy a dejar nuestra dirección y estamos a la orden. Voy a esperar el mismo día y le voy a dar un mensaje cuando se acerque el día.\n\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona que están a la orden y que esperarán el mismo día, lo que sugiere que hay una intención de facilitar la entrega. Sin embargo, no responde directamente a la pregunta sobre si el vehículo se entrega el mismo día, lo que la hace menos relevante que la respuesta original.",
+        "hf_similarity": 0.3801830339513451
+    },
+    {
+        "question": " Ok, pues estoy buscando un carrito, más o menos una camionetilla.\n",
+        "real_answer": " Ok, solo busca camionetas, ¿una Honda?\n",
+        "llm_answer": " Ok, aquí le tengo carros sedán desde los 2000 de enganche. ¿No sé qué día nos podría visitar? Le voy a dejar nuestra dirección por un mensajito de texto.\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada no aborda la solicitud de buscar un carrito o camionetilla, sino que se centra en ofrecer carros sedán y preguntar sobre una visita, lo que no es relevante para la pregunta inicial.",
+        "hf_similarity": 0.461031370208258
+    },
+    {
+        "question": " Es que la verdad es que no me he animado por eso, porque no tengo mucho dinero para darle enganche.  \n",
+        "real_answer": " Ok, entonces lo que podemos hacer también, si usted gusta, es ahorrar un poquito más y cuando tenga los 3000 visitarnos, o nos puede visitar con lo que usted tenga y lo deja de depósito. ¿Entonces, qué le parece? Nosotros los Down Payment están un poco altos porque solo le tengo del 2019 en adelante, no le tengo de menor año. ¿No sé qué día usted puede venir al dealer sin ningún compromiso, verdad? Puede venir a checar las camionetas, aquí tenemos aplicación sin ningún compromiso, no sé qué le parece y qué día nos puede visitar.  \n",
+        "llm_answer": " Ok, perfecto. Entonces si le parece, aquí le voy a dejar nuestra dirección y me puede contactar el domingo.  \n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona un contacto y una dirección, lo cual es relevante en el contexto de la conversación sobre visitar el dealer. Sin embargo, no aborda el tema del enganche ni ofrece opciones para solucionar la falta de dinero, lo que hace que no sea completamente relevante.",
+        "hf_similarity": 0.5184437040540129
+    },
+    {
+        "question": " Sería el domingo en la tarde, como a la una.  \n",
+        "real_answer": " Ok, entonces ahí le voy a dejar nuestra dirección por mensajito de texto y nos vemos el día domingo.  \n",
+        "llm_answer": " Ok, perfecto. Entonces ahí le dejo nuestra dirección por un mensajito de texto y cualquier cosa, no dude en llamarme.  \n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada mantiene el contexto de la conversación y menciona el envío de la dirección por mensaje de texto, lo cual es relevante. Sin embargo, agrega un ofrecimiento de llamar que no estaba presente en la respuesta original, lo que la hace ligeramente menos directa en comparación con la respuesta original.",
+        "hf_similarity": 0.2366830321184381
+    },
+    {
+        "question": " Como a veces me pagan cash y a veces un cheque, porque como trabajo, hace un trabajito por mi cuenta pues.  \n",
+        "real_answer": " Ah, ok, excelente. Pero si tiene el talón de cheque, el último, con ese le funciona. Y con respecto al trabajo que le pagan cash, ya están ustedes acá en la localidad, nos da la información y nosotros también ingresamos eso en el sistema. ¿Sería primera vez que usted está aplicando un crédito o ya tiene récord?  \n",
+        "llm_answer": " Ok, fíjese que nosotros somos un dealer.  \n",
+        "Relevancia": "NO_RELEVANTE",
+        "Explicacion": "La respuesta generada no aborda la pregunta sobre el pago en efectivo y cheque ni proporciona información relevante sobre la situación laboral o el proceso de aplicación de crédito. En cambio, introduce un concepto completamente diferente al mencionar que son un 'dealer', lo cual no tiene relación con la consulta original.",
+        "hf_similarity": 0.5136805595871414
+    },
+    {
+        "question": " ¿Me puede mandar un link para verlos?\n",
+        "real_answer": " Claro, con gusto le enviaré algunas fotos y nuestra dirección. Estamos en San Fernando, California. Abrimos de lunes a sábado de 10:00 a.m. a 8:00 p.m., y los domingos de 10:00 a.m. a 6:00 p.m. ¿Qué día podría visitarnos?\n",
+        "llm_answer": " Claro, yo se los dejo. ¿Qué día podría visitarnos?\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada muestra disposición para ayudar, pero no proporciona la información solicitada sobre las fotos ni la dirección. Además, no menciona los horarios de atención, lo cual es relevante para el contexto de la pregunta.",
+        "hf_similarity": 0.43360974609399894
+    },
+    {
+        "question": " ¿Dónde están ubicados ustedes?\n\n",
+        "real_answer": " Estamos en el Valle de San Fernando. Le voy a dejar nuevamente la dirección por mensaje de texto.\n\n",
+        "llm_answer": " Estamos acá en el valle de San Fernando. Le voy a dejar la dirección por un mensajito de texto. ¿Qué día nos podría visitar?\n\n",
+        "Relevancia": "RELEVANTE",
+        "Explicacion": "La respuesta generada mantiene la información clave sobre la ubicación en el Valle de San Fernando y la intención de enviar la dirección por mensaje de texto, lo que la hace relevante. Además, incluye una pregunta sobre la visita, que aunque no estaba en la respuesta original, añade un contexto útil para la conversación.",
+        "hf_similarity": 0.07510769972694975
+    },
+    {
+        "question": " O digamos un Toyota, algo así.  \n",
+        "real_answer": " Ok, excelente. ¿Es la primera vez que financia? ¿Usted ya ha tenido crédito?  \n",
+        "llm_answer": " Ok, aquí le tengo Toyota, Honda, Kia, Chevy, Ford, Tesla, y también le tengo un Honda CR-V.  \n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona varias marcas de automóviles, incluyendo Toyota, que es relevante para la pregunta inicial. Sin embargo, no aborda las preguntas sobre financiamiento y crédito que se plantean en la respuesta original, lo que limita su relevancia general.",
+        "hf_similarity": 0.6396800844627597
+    },
+    {
+        "question": " ¿Cabina sencilla o doble cabina?\n\n",
+        "real_answer": " No, doble cabina; no tengo cabina sencilla por el momento.\n\n",
+        "llm_answer": " Debo unos 2000 de enganche. ¿Qué le parece?\n\n",
+        "Relevancia": "NO_RELEVANTE",
+        "Explicacion": "La respuesta generada no aborda la pregunta sobre la preferencia entre cabina sencilla o doble cabina, y en su lugar introduce un tema completamente diferente relacionado con un enganche, lo que la hace irrelevante para la consulta original.",
+        "hf_similarity": 0.573124639060951
+    },
+    {
+        "question": " Ajá. ¿Qué pasó? ¿Cómo es eso?\n",
+        "real_answer": " Bueno, le comento que ofrecemos financiamiento en casa. Damos hasta tres años de garantía en el motor, la transmisión y el aire acondicionado. Para financiar un vehículo, solo necesitamos tres documentos: una identificación vigente, un comprobante de domicilio (puede ser un bill, y no hay problema si no está a su nombre) y un comprobante de ingreso.\n",
+        "llm_answer": " Ok, le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros, le estaríamos solicitando tres documentos: su identificación vigente, un comprobante de domicilio y un comprobante de ingresos.\n",
+        "Relevancia": "RELEVANTE",
+        "Explicacion": "La respuesta generada refleja de manera precisa la información contenida en la respuesta original sobre financiamiento en casa, la garantía ofrecida y los documentos requeridos. Aunque hay ligeras variaciones en la redacción, el contenido y el contexto son equivalentes, lo que la hace relevante.",
+        "hf_similarity": 0.11398845503863375
+    },
+    {
+        "question": " Sí, es que yo vivo un poco lejos.\n",
+        "real_answer": " No sé si le interesaría venir.\n",
+        "llm_answer": " Ok, le voy a dejar nuestra dirección y me comunico con usted el sábado para confirmar si nos puede visitar.\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada se relaciona con la situación de la distancia mencionada en la pregunta, pero no aborda directamente la incertidumbre sobre el interés en visitar, que es el enfoque de la respuesta original. Sin embargo, muestra una intención de facilitar la visita, lo que la hace parcialmente relevante.",
+        "hf_similarity": 0.5795793609379831
+    },
+    {
+        "question": " ¿Ok, me las manda por hoy?  \n",
+        "real_answer": " Ok, con gusto le dejo las fotografías para que los revise y estamos en contacto. Que tenga un buen día.  \n",
+        "llm_answer": " Sí, yo le mando las fotos.  \n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada confirma que se enviarán las fotos, lo cual es relevante para la pregunta. Sin embargo, no incluye el tono cordial y el cierre que tiene la respuesta original, lo que la hace menos completa.",
+        "hf_similarity": 0.2826608895513799
+    },
+    {
+        "question": " ¿Y cuáles son los autos más económicos?\n",
+        "real_answer": " Los más económicos que tenemos en este momento serían Nissan, Hyundai y Kia, con enganches desde $1,800 y mensualidades alrededor de los $450.\n",
+        "llm_answer": " Actualmente, los más económicos que tengo son del año 2019 en adelante. Tengo una Toyota Tacoma 2019, que tiene 60,000 millas y un enganche de 3500. También tengo una Chevrolet Silverado 2019, que tiene 40,000 millas y un enganche de 3000. ¿Le parece bien que nos visite?\n",
+        "Relevancia": "RELEVANTE",
+        "Explicacion": "La respuesta generada no aborda la pregunta sobre los autos más económicos, ya que menciona vehículos específicos y sus características, pero no proporciona información sobre la economía de los autos mencionados en la respuesta original ni sus costos mensuales o enganches relacionados con la economía. Además, los modelos mencionados son diferentes a los de la respuesta original.",
+        "hf_similarity": 0.41308981444581694
+    },
+    {
+        "question": " Es que yo trabajo, pero me pagan en cash.\n",
+        "real_answer": " No hay inconveniente si le pagan en efectivo. Solo con la identificación y el comprobante de domicilio le ayudamos. ¿Es su primera vez financiando o ya ha tenido algún crédito?\n",
+        "llm_answer": " Ok, si le pagan cash no hay problema, solo traiga la identificación y el recibo y con esos documentos nosotros le ayudamos.\n",
+        "Relevancia": "RELEVANTE",
+        "Explicacion": "La respuesta generada aborda directamente el tema del pago en efectivo y menciona la necesidad de presentar identificación y un recibo, que es coherente con la respuesta original. Además, mantiene el contexto de ofrecer ayuda, lo que demuestra una alta similitud en contenido y propósito.",
+        "hf_similarity": 0.26190094688473986
+    },
+    {
+        "question": " ¿Por cuál? Como pedí información en otro que por cuál carro fue el que pedí la información.  \n",
+        "real_answer": " ¿Fíjense que a nosotros nos escribió directamente a la página y no colocó acá por cuál vehículo es que usted quería aplicar, verdad? No sé si busca uno en especial.  \n",
+        "llm_answer": " En este caso no le dejo la dirección.  \n",
+        "Relevancia": "NO_RELEVANTE",
+        "Explicacion": "La respuesta generada no aborda la pregunta sobre el vehículo específico del que se solicitó información y no proporciona ninguna información relevante relacionada con la solicitud original. Simplemente menciona que no se deja una dirección, lo que no tiene relación con la pregunta formulada.",
+        "hf_similarity": 0.48176903873288635
+    },
+    {
+        "question": " Sí, buscaba un Toyota Sienna, no sé si tienen.\n\n",
+        "real_answer": " No tenemos de esa marca y modelo, pero le puedo ofrecer varios vehículos económicos en gasolina desde los 1,800 de enganche. Le voy a compartir nuestra dirección por mensajito de texto y nos vemos el sábado.\n\n",
+        "llm_answer": " Fíjese que por el momento no tengo Toyota Sienna disponible, pero sí tengo Honda, Chevy, Kia, Ford, Nissan, Tesla, y Volkswagen. ¿No sé qué día nos podría visitar? Le voy a dejar la dirección por un mensajito de texto.\n\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona que no hay Toyota Sienna disponible, lo cual es relevante para la pregunta. Sin embargo, a diferencia de la respuesta original, no ofrece información sobre vehículos económicos en gasolina ni menciona un enganche específico. También se solicita una visita, lo que es un punto positivo, pero no se alinea completamente con la oferta de la respuesta original.",
+        "hf_similarity": 0.7063345242797697
+    },
+    {
+        "question": " Sí tengo. ¿A ver, me podrías mandar la ubicación? ¿En qué ciudad están?\n",
+        "real_answer": " Estamos acá en San Fernando, California. Le voy a dejar la dirección por un mensajito de texto, no sé qué día nos podría visitar.\n",
+        "llm_answer": " Estamos acá en el valle de San Fernando. Le voy a dejar la dirección por un mensajito de texto. ¿No sé qué día nos podría visitar?\n",
+        "Relevancia": "RELEVANTE",
+        "Explicacion": "La respuesta generada menciona correctamente que están en el valle de San Fernando, que es parte de la ubicación original en San Fernando, California. Además, mantiene la estructura de la respuesta original al ofrecer enviar la dirección por mensaje de texto y preguntar sobre la visita, lo que refleja un alto grado de similitud y relevancia con la respuesta original.",
+        "hf_similarity": 0.10714642602755198
+    },
+    {
+        "question": " Ahorita, ahorita honestamente nada más te podría dar 500 y que me dieras un chance para darte más, trabajar para darte más dinero.  \n",
+        "real_answer": " Ok, entiendo perfectamente. Comentarle que los vehículos que tenemos son del año 2019 al año 2023. Todos son desde las 10,000 millas hasta las 50,000 millas, Título limpio, damos tres años de garantía en motor, en transmisión y aire acondicionado y el primer mes de aseguranza gratis. Pero por el momento las down payment que manejamos mínimos son por los 1500 y sí tendría que traer 1500 para llevarse el vehículo, no sé qué le parece si gusta juntar un poquito más o definitivamente solo busca comprar con lo que usted ya tiene presupuestado.  \n",
+        "llm_answer": " Ok, perfecto. Entonces acá le dejo nuestra dirección y nuestra información.  \n",
+        "Relevancia": "NO_RELEVANTE",
+        "Explicacion": "La respuesta generada no aborda ni responde a la información proporcionada en la respuesta original. Mientras que la respuesta original se centra en detalles sobre los vehículos, condiciones de pago y garantías, la respuesta generada simplemente ofrece información de contacto sin relacionarse con el contexto de la conversación sobre el pago inicial.",
+        "hf_similarity": 0.6199036939534228
+    },
+    {
+        "question": " ¿El comprobante de domicilio puede estar a nombre de otra persona?\n",
+        "real_answer": " Sí, no hay problema. Solo lo necesitamos para comprobar la dirección.\n",
+        "llm_answer": " No, debe ser su nombre. Si tiene el nombre de otra persona, no hay problema, solo es para confirmar la dirección.\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada contradice la respuesta original. Mientras que la respuesta original afirma que no hay problema si el comprobante de domicilio está a nombre de otra persona, la respuesta generada sugiere que debe estar a nombre de la persona. Sin embargo, ambas respuestas abordan la misma temática de la comprobación de la dirección, lo que les otorga cierta relevancia entre sí.",
+        "hf_similarity": 0.3657676343066453
+    },
+    {
+        "question": " Te seré sincero. Tengo la documentación en regla, pero por problemas ajenos no he podido financiar autos recientemente. El último que tuve sufrió un accidente y se declaró pérdida total. Me interesa su financiamiento porque entiendo que ustedes trabajan directamente, sin bancos. ¿Es correcto?\n\n",
+        "real_answer": " Sí, todo el proceso es directo con nosotros, y también reportamos su crédito para ayudar a mejorarlo.\n\n",
+        "llm_answer": " Sí, es correcto. Nosotros somos un poco más directos, ¿verdad?\n\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada confirma que el proceso es directo, lo cual es relevante para la pregunta, pero no menciona el aspecto importante de reportar el crédito para ayudar a mejorarlo, que se menciona en la respuesta original. Por lo tanto, aunque hay una conexión, la respuesta generada no aborda completamente la información relevante.",
+        "hf_similarity": 0.36850574579440276
+    },
+    {
+        "question": " Me pagan con cheque.\n",
+        "real_answer": " Perfecto, entonces el último talón de cheque funciona perfectamente.\n",
+        "llm_answer": " Ok, perfecto. Entonces nos puede traer el último talón de cheque y el estado de cuenta. Y si tiene un comprobante de domicilio, como su último talón de cheque, también lo puede traer. ¿Y si tiene también un comprobante de ingresos?\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada se relaciona con el tema del pago por cheque, pero añade información adicional sobre documentos que deben ser traídos, lo cual no está presente en la respuesta original. Aunque hay un vínculo con el cheque, la respuesta generada se extiende más allá de lo que se mencionó originalmente.",
+        "hf_similarity": 0.2701318551281897
+    },
+    {
+        "question": " Sí, no, pero está bien. Es normal. Como le digo, vi la publicación y quise preguntar. ¿Entonces ya no trabajan en Wisconsin, verdad?\n",
+        "real_answer": " No, la única localidad que tenemos es aquí en California, en San Fernando. Por el momento no tenemos otra localidad.\n",
+        "llm_answer": " No, estamos en California.\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada confirma que no están en Wisconsin y menciona que están en California, pero no proporciona información completa sobre la única localidad en San Fernando ni menciona que no tienen otras localidades, lo que hace que la respuesta sea menos completa que la original.",
+        "hf_similarity": 0.2780716488986916
+    },
+    {
+        "question": " ¿Me pueden mandar la dirección para así ponernos de acuerdo?  \n",
+        "real_answer": " Claro que sí, le mando la dirección por mensaje de texto, abrimos de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m. y los domingos desde las 10:00 a.m. hasta las seis de la tarde. No sé más o menos cuál dia le queda mejor pasar.  \n",
+        "llm_answer": " Claro que sí, yo con el número de mi jefe le dejo la dirección y si se anima a visitarnos acá quedo a la orden.  \n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona que se enviará la dirección, lo cual es relevante para la pregunta. Sin embargo, no proporciona la información completa sobre los horarios de atención ni pregunta sobre el día que le conviene al solicitante, lo que limita su relevancia comparada con la respuesta original.",
+        "hf_similarity": 0.41029353527000545
+    },
+    {
+        "question": " Sí, nunca he financiado, siempre he pagado en efectivo.\n",
+        "real_answer": " ¿Y cómo está su crédito?\n",
+        "llm_answer": " Entiendo. ¿Busca un sedán? Nosotros tenemos del año 2018 en adelante. El enganche mínimo sería de $2,000. ¿Qué le parece?\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada no aborda la pregunta sobre el estado del crédito, sino que cambia el tema a la búsqueda de un vehículo y detalles sobre financiamiento, lo que no es relevante para la consulta original.",
+        "hf_similarity": 0.5514292058844346
+    },
+    {
+        "question": " Tal vez el sábado o el domingo que no trabajo.\n\n",
+        "real_answer": " Ok, perfecto. ¿Y busca algún vehículo en especial? ¿Marca, año o modelo?\n\n",
+        "llm_answer": " Ok, perfecto. Entonces le voy a dejar nuestra dirección y me comunico con usted el sábado o el domingo para confirmar.\n\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada mantiene el contexto de la conversación y confirma la disponibilidad para comunicarse el fin de semana, pero no aborda la pregunta sobre el tipo de vehículo que se busca, que es el enfoque de la respuesta original.",
+        "hf_similarity": 0.5286992134582454
+    },
+    {
+        "question": " Puede que a lo mejor el fin de semana, porque ahorita no voy a poder. ¿Será posible?\n\n",
+        "real_answer": " Excelente. Entonces, le dejo nuestra dirección.\n\n",
+        "llm_answer": " Sí, ahorita hasta las 8 p.m. los puedo esperar.\n\n Sí, ahí le voy a dejar nuestra dirección por un mensajito de texto y si se anima a visitarnos, ahí estamos a la orden.\n\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona que se puede esperar hasta las 8 p.m. y ofrece enviar la dirección por mensaje, lo cual es relevante en el contexto de coordinar una visita. Sin embargo, no aborda directamente la pregunta sobre la posibilidad de reunirse el fin de semana, lo que la hace menos relevante en relación con la respuesta original que simplemente confirma la dirección.",
+        "hf_similarity": 0.5525615466602266
+    },
+    {
+        "question": " Perfecto, nos vemos el domingo. Que tenga una buena noche.\n\n",
+        "real_answer": " Gracias, igualmente.\n\n",
+        "llm_answer": " Gracias, igualmente. Bye.\n\n",
+        "Relevancia": "RELEVANTE",
+        "Explicacion": "La respuesta generada es casi idéntica a la respuesta original, añadiendo solo la palabra 'Bye', lo que no altera el significado ni la intención de la respuesta. Ambas expresiones son adecuadas y corteses en el contexto de la conversación.",
+        "hf_similarity": 0.06225063146452714
+    },
+    {
+        "question": " Ah, sí, del dealer, por el vehículo que busco.\n",
+        "real_answer": " Correcto, quería brindarle más información. ¿Tiene un momento?\n",
+        "llm_answer": " Ok, le comento que nosotros hacemos financiamiento en casa, vamos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para financiarle un vehículo, necesitaría tres documentos: una identificación vigente, un comprobante de domicilio y un comprobante de ingresos. ¿Sería su primera vez financiando? ¿Ya tiene crédito?\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada proporciona información adicional sobre el financiamiento y los requisitos para obtener un vehículo, lo cual es relevante para la conversación sobre la compra de un vehículo. Sin embargo, no responde directamente a la solicitud de más información ni a la pregunta sobre si tiene un momento, lo que la hace menos relevante que la respuesta original.",
+        "hf_similarity": 0.5836462362242643
+    },
+    {
+        "question": " Sí, pero quisiera más información y posiblemente hacerlo en persona.\n\n",
+        "real_answer": " Claro. Tenemos vehículos del 2018 en adelante. ¿Busca alguna marca o modelo específico?\n\n",
+        "llm_answer": " Ok, le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros, le estaríamos solicitando solamente tres documentos: su identificación vigente, un comprobante de domicilio y un comprobante de ingreso. ¿Sería su primera vez financiando o ya tiene crédito?\n\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada se desvía del enfoque de la respuesta original, que se centra en la disponibilidad de vehículos y la búsqueda de marcas o modelos específicos. Sin embargo, la respuesta generada proporciona información sobre financiamiento y requisitos, lo que podría ser relevante para el cliente, pero no aborda directamente su solicitud de más información sobre vehículos.",
+        "hf_similarity": 0.535312356399509
+    },
+    {
+        "question": " No, lo que pasa es que tengo una pequeña compañía y quiero sacar el vehículo a nombre de la compañía, pero no sé si se puede.\n\n",
+        "real_answer": " Ok, sí, perfecto. Entonces le dejo nuestra dirección y si puede pasar mañana, aquí estamos a la orden.\n\n",
+        "llm_answer": " ¿Ok, y sería su primera vez financiando? ¿Ya ha tenido crédito?\n\n",
+        "Relevancia": "NO_RELEVANTE",
+        "Explicacion": "La respuesta generada no aborda la pregunta sobre la posibilidad de sacar un vehículo a nombre de la compañía. En cambio, se centra en el financiamiento y el crédito, lo que no tiene relación con la inquietud planteada en la pregunta original.",
+        "hf_similarity": 0.4798329917036701
+    },
+    {
+        "question": " Bien. Soy trabajador independiente, hago Uber y eso podría servir como referencia.\n\n",
+        "real_answer": " No hay problema. Si no tiene un comprobante físico de ingresos, una captura de pantalla de su aplicación o un estado de cuenta de su banco funciona bien.\n\n",
+        "llm_answer": " Ok, perfecto. Entonces aquí le tengo vehículos del año 2019 en adelante. Le voy a dejar nuestra dirección por un mensaje de texto. ¿Qué día nos podría visitar para estar pendientes?\n\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada no aborda la solicitud sobre la comprobación de ingresos ni proporciona información relevante relacionada con el trabajo independiente en Uber. En cambio, se centra en ofrecer vehículos y coordinar una visita, lo cual es completamente diferente al tema de la respuesta original.",
+        "hf_similarity": 0.5337549837702744
+    },
+    {
+        "question": " Envíenme la dirección. Gracias.\n",
+        "real_answer": " Claro, con gusto. ¡Que tenga un buen día!",
+        "llm_answer": " Bueno, gracias. Que tenga un feliz día.",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada mantiene un tono amable y cortés similar a la respuesta original, pero no aborda la solicitud de la dirección, lo que la hace menos relevante en el contexto de la pregunta.",
+        "hf_similarity": 0.24475639672181526
+    },
+    {
+        "question": " Mucho gusto, Judith. Muchas gracias por su apoyo.\n",
+        "real_answer": " Mucho gusto, aquí estamos a la orden. Que tenga un bonito día.\n",
+        "llm_answer": " Gracias, feliz día. Bye.\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada muestra un agradecimiento y un deseo de un buen día, lo cual es similar en tono y contexto a la respuesta original. Sin embargo, no incluye el saludo inicial ni la disposición a ayudar, lo que la hace menos relevante que la respuesta original.",
+        "hf_similarity": 0.5545094313516921
+    },
+    {
+        "question": " Sí, pero, ¿en dónde están ubicados?\n",
+        "real_answer": " Estamos en el valle de San Fernando, cerca de Burbank. ¿Usted está en San Diego, verdad?\n",
+        "llm_answer": " Estamos acá en el valle de San Fernando. Le voy a dejar la dirección por un mensajito de texto.\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona que están en el valle de San Fernando, lo cual es relevante y coincide con la respuesta original. Sin embargo, no incluye la referencia a Burbank ni la pregunta sobre San Diego, lo que limita su relevancia completa.",
+        "hf_similarity": 0.24836563385791088
+    },
+    {
+        "question": " No, un sedán. ¿Un carro sedán de $15,000 o menos, verdad?\n",
+        "real_answer": " Ok, perfecto. Entonces, ya cuando tenga más enganche, aquí estamos a la orden. Le voy a compartir nuestra dirección.\n",
+        "llm_answer": " No, un carro sedán mínimo ocupa $2000 de enganche.\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona un aspecto relacionado con el enganche de un carro sedán, lo cual es relevante para la conversación sobre la compra de un vehículo. Sin embargo, no responde directamente a la afirmación sobre el precio del sedán ni a la intención de la respuesta original de ofrecer ayuda. Por lo tanto, es parcialmente relevante.",
+        "hf_similarity": 0.5131257776857916
+    },
+    {
+        "question": " Sí, soy yo. Disculpe, estaba en otra llamada y por eso no pude atender su mensaje.\n",
+        "real_answer": " No se preocupe, entiendo. Me alegra que me llame. ¿En qué puedo ayudarle hoy?\n",
+        "llm_answer": " No hay problema. ¿Y qué día nos podría visitar?\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada muestra comprensión al decir 'No hay problema', lo cual es similar a la respuesta original que expresa comprensión. Sin embargo, la pregunta sobre el día de la visita no está alineada con la solicitud de ayuda del interlocutor, lo que la hace menos relevante en el contexto general de la conversación.",
+        "hf_similarity": 0.46352742569367833
+    },
+    {
+        "question": " Tal vez el domingo.\n",
+        "real_answer": " Perfecto, le enviaré la dirección y quedo atento a su visita. Que tenga una bonita tarde.\n",
+        "llm_answer": " Ok, perfecto. Entonces ahí le dejo nuestra dirección por un mensajito de texto y nos vemos el domingo.\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada es parcialmente relevante porque reconoce la fecha mencionada (domingo) y ofrece enviar la dirección, pero no menciona que se quedará atento a la visita ni desea una buena tarde, lo que hace que no sea completamente equivalente a la respuesta original.",
+        "hf_similarity": 0.34004058172026785
+    },
+    {
+        "question": " Sí, soy yo. Buen día.\n\n",
+        "real_answer": " Estoy aquí para ayudarle con la información sobre el vehículo que está buscando. ¿Tiene unos minutos para que hablemos?\n\n",
+        "llm_answer": " Buen día. ¿Está interesado en visitarnos?\n\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada saluda y pregunta sobre la intención de visitar, lo cual es un enfoque relacionado con la interacción, pero no aborda directamente la solicitud de información sobre el vehículo que se menciona en la respuesta original.",
+        "hf_similarity": 0.4892433614926993
+    },
+    {
+        "question": " Sí, soy yo. ¿De parte de quién?\n",
+        "real_answer": " Mi nombre es Judith del dealer Cali Go Autos. Quería saber si sigue interesado en comprar un vehículo.\n",
+        "llm_answer": " De parte de su jefe. Le saludo de acá del dealer. Hace unos días se comunicó porque estaba interesado en comprar un vehículo y no tenía claro el precio. ¿Tiene tiempo para atenderme?\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona que es de parte del jefe y hace referencia a una comunicación anterior sobre el interés en un vehículo, lo que se alinea con la intención de la respuesta original. Sin embargo, no menciona el nombre de la persona ni el dealer específico, lo que disminuye su relevancia. La respuesta generada también introduce un nuevo elemento sobre el precio, que no estaba presente en la respuesta original.",
+        "hf_similarity": 0.3368093764020724
+    },
+    {
+        "question": " No, tengo los tres.\n\n",
+        "real_answer": " Perfecto. ¿Es primera vez financiando o ha tenido algún crédito anteriormente?\n\n",
+        "llm_answer": " Perfecto. ¿Y busca algún vehículo en especial? ¿Marca, año o modelo?\n\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada mantiene un tono positivo y sigue la conversación, pero no aborda la pregunta sobre si es la primera vez financiando o si ha tenido créditos anteriormente, lo cual es el enfoque de la respuesta original. En cambio, introduce un nuevo tema sobre la búsqueda de un vehículo específico, lo que la hace parcialmente relevante.",
+        "hf_similarity": 0.42110858298888443
+    },
+    {
+        "question": " Ok, y mire, y cómo hago si yo regreso para Jersey, ¿las cuotas las pago con mi tarjeta?  \n",
+        "real_answer": " Claro que sí, las cuotas las puedes pagar en línea. ¿Y sería su primera vez financiando o ya tenía algún crédito?  \n",
+        "llm_answer": " Si, le voy a dejar nuestra dirección y nuestra información por un mensajito de texto para que cheque ahí.  \n",
+        "Relevancia": "NO_RELEVANTE",
+        "Explicacion": "La respuesta generada no aborda la pregunta sobre el pago de cuotas con tarjeta, ni proporciona información relevante sobre la financiación o el proceso de pago en línea, que es el enfoque de la respuesta original. En cambio, se desvía al ofrecer información sobre una dirección y un mensaje de texto, lo cual no tiene relación con la consulta realizada.",
+        "hf_similarity": 0.48940346755863096
+    },
+    {
+        "question": " Con menos enganche, si le podríamos ayudar, pero menos años no le tenemos. Con 3000 le podríamos ayudar. ¿No sé qué le parece?\n\n Ahorita todavía no estoy listo con esta cantidad.\n\n",
+        "real_answer": " Ok, perfecto. ¿Más o menos dentro de cuánto sería listo para hacer un pago?\n\n",
+        "llm_answer": "",
+        "Relevancia": "RELEVANTE",
+        "Explicacion": "La respuesta generada mantiene el contexto de la conversación y busca aclarar cuándo la persona estaría lista para realizar un pago, lo cual es coherente con la pregunta planteada sobre la disponibilidad de un pago con menos enganche.",
+        "hf_similarity": 0.8815923272740015
+    },
+    {
+        "question": " Me gustan los SUV.\n\n",
+        "real_answer": " ¿Ok, aquí le tengo varias SUV desde los $2500 de enganche. No sé qué le parece.\n\n",
+        "llm_answer": " Ok, aquí le tengo SUVs desde los 2500 de enganche. ¿No sé qué día puede venir personalmente a verlos? Estamos acá en el valle de San Fernando.\n\n",
+        "Relevancia": "RELEVANTE",
+        "Explicacion": "La respuesta generada es relevante porque proporciona información similar a la respuesta original sobre SUVs y menciona el enganche de $2500. Además, invita al interlocutor a visitar el lugar, lo que añade un contexto de interacción que es apropiado para la conversación.",
+        "hf_similarity": 0.1742710026147295
+    },
+    {
+        "question": " ¿Aceptan intercambio de carros?\n\n",
+        "real_answer": " Sí, siempre que tenga el título.\n\n",
+        "llm_answer": " No, los carros no se pueden intercambiar por el momento. ¿Está buscando algún vehículo en especial?\n\n",
+        "Relevancia": "NO_RELEVANTE",
+        "Explicacion": "La respuesta generada contradice completamente la respuesta original al afirmar que no se aceptan intercambios, mientras que la respuesta original indica que sí se aceptan, siempre que se tenga el título. Además, la pregunta se refiere específicamente al intercambio de carros, y la respuesta generada no aborda este aspecto correctamente.",
+        "hf_similarity": 0.5099492264722315
+    },
+    {
+        "question": " Yo recibo mi pago en efectivo y también un cheque personal.\n",
+        "real_answer": " No hay problema. Solo traiga su identificación, el comprobante de domicilio y el enganche. Le ofrecemos hasta tres años de garantía en motor, transmisión y aire acondicionado. Los pagos son mensuales y puede hacerlos en línea, así que no necesita venir hasta San Fernando cada vez.\n",
+        "llm_answer": " Perfecto. ¿Está buscando un vehículo en especial?\n",
+        "Relevancia": "NO_RELEVANTE",
+        "Explicacion": "La respuesta generada no aborda la información proporcionada en la respuesta original sobre los requisitos para el pago y las garantías. En cambio, se desvía al preguntar sobre un vehículo en especial, lo que no es relevante para la consulta inicial sobre el método de pago.",
+        "hf_similarity": 0.387463325136281
+    },
+    {
+        "question": " que Día llego?, porque yo le puedo mandar un mensaje diciendo pues hoy si llego o donde comunicarme con usted, porque no le quiero quedar mal. Como le digo, yo a veces salgo temprano, a veces algo tarde y a veces no me alcanza el tiempo de llegar hasta allá. Y si yo le digo llego mañana y a la última hora me sale el trabajo que me queden tarde, entonces le quedaría mal, no me gusta hacer eso.  \n",
+        "real_answer": " Claro, tiene razón. Bueno, en ese caso, si puede pasar el sábado, yo aquí dejaría el registro y mi sistema automáticamente le va a mandar un mensajito de recordatorio y ahí me podría confirmar si usted va a pasar el día sábado y si no también yo le podría llamar para confirmar y si no puede, no hay ningún problema.  \n",
+        "llm_answer": " Ok, perfecto. Entonces ahí le voy a dejar nuestra dirección.  \n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada no aborda la pregunta sobre el día de llegada ni ofrece información relevante sobre la confirmación de la cita. En cambio, se limita a mencionar dejar una dirección, lo cual no está relacionado con la preocupación expresada en la respuesta original.",
+        "hf_similarity": 0.6135882368552956
+    },
+    {
+        "question": " Oh, sí, sí, sí, este, pues sí, es que ya he ido a dos lugares, pero, o sea, no la he encontrado todavía. ¿La SRT?  \n",
+        "real_answer": " ¿Busca qué tipo de vehículo? ¿Exactamente?  \n",
+        "llm_answer": " Sí, le voy a dejar nuestra dirección por un mensajito de texto para que cheque ahí y nos vemos el domingo.  \n",
+        "Relevancia": "NO_RELEVANTE",
+        "Explicacion": "La respuesta generada no aborda la pregunta sobre la búsqueda de un tipo de vehículo y se desvía completamente del tema, hablando de una reunión en lugar de proporcionar información relevante sobre la SRT.",
+        "hf_similarity": 0.5522498362508288
+    },
+    {
+        "question": " Ok. ¿No tienes una Trackhawk o una SRT de Jeep?\n",
+        "real_answer": " No, por el momento no tengo esas versiones, pero le notificaré si llega alguna.\n",
+        "llm_answer": " No, no tengo una Trackhawk o una SRT. Estoy buscando una Jeep Grand Cherokee o una Nissan Sentra.\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona que no tiene una Trackhawk o una SRT, lo cual es relevante para la pregunta. Sin embargo, introduce información adicional sobre estar buscando otros vehículos (Jeep Grand Cherokee o Nissan Sentra), lo que no está relacionado con la pregunta original sobre la disponibilidad de las versiones mencionadas. Esto la hace parcialmente relevante.",
+        "hf_similarity": 0.509311845074318
+    },
+    {
+        "question": " ¿Dónde está la agencia?\n",
+        "real_answer": " En el valle de San Fernando, cerca de Los Ángeles.\n",
+        "llm_answer": " Estamos acá en San Fernando. Le voy a dejar la dirección por un mensajito de texto. ¿Qué día podría visitarnos?\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona San Fernando, que es parte de la ubicación original, pero no proporciona información específica sobre la cercanía a Los Ángeles ni la ubicación exacta de la agencia. Además, se enfoca en coordinar una visita, lo que no está directamente relacionado con la pregunta sobre la ubicación.",
+        "hf_similarity": 0.4057385131099378
+    },
+    {
+        "question": " Yo creo que la próxima semana.\n\n",
+        "real_answer": " Ok, perfecto. Entonces le dejo un WhatsApp con la dirección y me comunico la próxima semana para confirmar su cita.\n\n",
+        "llm_answer": " ¿Ok, y qué día podría visitarnos?\n\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada pregunta sobre un día específico para la visita, lo cual está relacionado con la idea de confirmar una cita la próxima semana mencionada en la respuesta original. Sin embargo, no aborda directamente el acuerdo de enviar un WhatsApp con la dirección ni la confirmación de la cita, lo que limita su relevancia.",
+        "hf_similarity": 0.580807071588045
+    },
+    {
+        "question": " Carro. ¿Qué carros tiene?\n\n",
+        "real_answer": " Tengo vehículos de las marcas Honda, Toyota, Nissan, Kia, Chevy, Ford y Mazda.\n\n",
+        "llm_answer": " Tengo un Toyota Camry, un Toyota Corolla, un Nissan Altima, y un Honda Accord. Todos son sedán y son del año 2018 en adelante. Tengo del 2018 en adelante. ¿Le interesaría venir a verlos?\n\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona algunos de los mismos fabricantes de vehículos que la respuesta original, específicamente Toyota y Nissan, pero se centra en modelos específicos y no enumera todas las marcas mencionadas en la respuesta original. Además, proporciona información adicional sobre el tipo de vehículos y su año, lo que puede ser útil, pero no responde completamente a la pregunta sobre qué carros tiene.",
+        "hf_similarity": 0.38884673218710175
+    },
+    {
+        "question": " Tal vez hoy, a ver si me doy una vuelta para ver qué carros tienen.\n\n",
+        "real_answer": " Ok, perfecto. Tengo varios Honda Civic que le van a gustar. Lo esperamos más tarde. Le dejo la dirección por mensaje de texto.\n\n",
+        "llm_answer": " Perfecto, le dejo nuestra dirección y quedo a la orden.\n\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona que se deja la dirección y que se está a la orden, lo cual es un aspecto positivo. Sin embargo, no menciona específicamente los Honda Civic ni la invitación a visitar, que son elementos clave en la respuesta original. Por lo tanto, es parcialmente relevante.",
+        "hf_similarity": 0.5019517212886175
+    },
+    {
+        "question": " Okay, Judith muy amable.  \n",
+        "real_answer": " Perfecto. Feliz tarde. Bye.",
+        "llm_answer": " Gracias, Judith. Que tenga un buen día. Bye.",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada muestra una cortesía similar al responder a Judith y se despide, pero cambia el deseo de 'feliz tarde' por 'buen día'. Aunque ambos son saludos amistosos, no son equivalentes, lo que afecta la relevancia.",
+        "hf_similarity": 0.5965089831427016
+    },
+    {
+        "question": " Ok, ok. Solo un tipo de identificación, porque tengo la licencia de mi país.\n\n",
+        "real_answer": " ¿Y tiene pasaporte de su país?\n\n",
+        "llm_answer": " Ok, perfecto. ¿Y sería su primera vez financiando? ¿Usted ya tiene crédito?\n\n",
+        "Relevancia": "NO_RELEVANTE",
+        "Explicacion": "La respuesta generada no aborda la pregunta sobre la identificación ni menciona el pasaporte, que es el tema de la respuesta original. En cambio, se centra en un tema completamente diferente relacionado con el financiamiento y el crédito, lo que la hace irrelevante en este contexto.",
+        "hf_similarity": 0.44701813751984987
+    },
+    {
+        "question": " Cual es su nombre de usted?\n",
+        "real_answer": " Judith. \n",
+        "llm_answer": " Mi nombre es Judith.\n",
+        "Relevancia": "RELEVANTE",
+        "Explicacion": "La respuesta generada proporciona la misma información que la respuesta original, simplemente añadiendo un contexto adicional al inicio. Ambas respuestas indican que el nombre es 'Judith', lo que las hace equivalentes en contenido.",
+        "hf_similarity": 0.4018592740746364
+    },
+    {
+        "question": " No, un carro sedán cómodo.\n",
+        "real_answer": " Tengo sedanes del año 2019 en adelante, todos con título limpio. El primer mes de seguro es gratis, y necesita un enganche mínimo de $2000. ¿Qué le parece?\n",
+        "llm_answer": " Ok, aquí le tengo sedanes desde los 2000 de enganche. ¿No sé qué día nos podría visitar para estar pendiente?\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona sedanes y un enganche, lo cual está relacionado con la respuesta original. Sin embargo, no aborda la información específica sobre los modelos del año 2019 en adelante, el título limpio, ni el primer mes de seguro gratis. Además, la respuesta generada es menos precisa y no responde directamente a la pregunta inicial sobre un carro sedán cómodo.",
+        "hf_similarity": 0.29690234717659836
+    },
+    {
+        "question": " A ver, lo que pasa que yo trabajo pintando, pero me pagan cash.  \n",
+        "real_answer": " Ok, no hay problema. En ese caso, si le pagan cash y no tiene ningún documento para poder comprobar el ingreso, no es inconveniente, solo con la identificación y con el bill nosotros le ayudamos. ¿Y sería su primera vez financiando? ¿Usted ya tiene crédito establecido?  \n",
+        "llm_answer": " Ok, si le pagan cash no hay problema, solo traiga el comprobante de domicilio y el comprobante de ingreso y le ayudamos.  \n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada aborda el tema del pago en efectivo y menciona que no hay problema, lo cual es similar a la respuesta original. Sin embargo, la respuesta generada omite la parte sobre la identificación y el bill, y no pregunta sobre la experiencia previa en financiamiento o el crédito establecido, lo que limita su relevancia completa en comparación con la respuesta original.",
+        "hf_similarity": 0.2729848546005508
+    },
+    {
+        "question": " ¿A cuánta distancia están de Gardena?\n",
+        "real_answer": " Estamos aproximadamente a 35-40 minutos, dependiendo del tráfico.\n",
+        "llm_answer": " Estamos a 35 minutos de Gardena. Le voy a dejar la dirección por un mensajito de texto. ¿Qué día podría visitarnos?\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona una distancia de 35 minutos, que es similar a la respuesta original, pero omite la referencia al tráfico y añade información adicional sobre la dirección y la visita, lo que la hace menos relevante en comparación con la respuesta original.",
+        "hf_similarity": 0.36525558074765996
+    },
+    {
+        "question": " Podría ir mañana en la tarde.\n\n",
+        "real_answer": " Mañana, perfecto. ¿Sería su primera vez financiando? ¿Ha tenido crédito alguna vez?\n\n",
+        "llm_answer": " Perfecto. Le llamaré a las 3 p.m. el miércoles.\n\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada confirma la disponibilidad para una reunión, pero no aborda la pregunta sobre si es la primera vez financiando ni menciona el historial de crédito, que son aspectos relevantes de la respuesta original.",
+        "hf_similarity": 0.5323193487696873
+    },
+    {
+        "question": " ¿Sí, pues por lo menos ya tengo los requisitos y todo, ya sé más o menos qué años trabajan, más o menos, que si más o menos manejo números, pues obviamente todo sería más hasta que yo llegue y vea el carro que le digo sabe qué? Pues ok, me gusta este y veamos qué es lo que necesito para ver si me lo puedo llevar.  \n",
+        "real_answer": " Claro que sí, así es. ¿Ya los requisitos si son fijos, verdad? Pero ya cuestioné que si le gusta.  \n",
+        "llm_answer": " Ok, perfecto. Entonces ahí le voy a dejar nuestra dirección y nos vemos el sábado.  \n",
+        "Relevancia": "NO_RELEVANTE",
+        "Explicacion": "La respuesta generada no aborda los puntos discutidos en la respuesta original, que se centra en los requisitos y la preferencia del cliente. En cambio, la respuesta generada ofrece información sobre una cita, lo que no es relevante para la conversación sobre requisitos y preferencias del vehículo.",
+        "hf_similarity": 0.41467936343359757
+    },
+    {
+        "question": " También, suena bien. ¿Qué te parece si voy el domingo?\n",
+        "real_answer": " Claro, el domingo está perfecto. Acá lo esperamos. Le mando la dirección en un momentito por mensaje de texto. Disculpe, ¿me confirma su nombre? No me aparece aquí.\n",
+        "llm_answer": " El domingo le funcionaría.\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona que el domingo le funcionaría, lo cual es una afirmación positiva en relación a la propuesta del domingo, pero no incluye la información adicional que está presente en la respuesta original, como la confirmación de la dirección y el nombre, lo que limita su relevancia.",
+        "hf_similarity": 0.35403004805550076
+    },
+    {
+        "question": " Sí, en California. Yo vivo en Fontana.  \n",
+        "real_answer": " Estamos acá en San Fernando, California. ¿No le queda tan lejos?  \n",
+        "llm_answer": " Fontana. ¿No le interesaría venir hasta acá?  \n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona Fontana, que es la ubicación del hablante, y plantea una invitación similar a la respuesta original. Sin embargo, no se conecta directamente con la ubicación de San Fernando y no responde completamente a la interacción, lo que la hace menos relevante en comparación con la respuesta original.",
+        "hf_similarity": 0.4332762561830089
+    },
+    {
+        "question": " ¿Ok, cuánto fue que me dijiste de cuota mensual?\n",
+        "real_answer": " Lo mínimo, fíjese que en camionetas familiares andan mínimo por los 600. Ok, no sé si le interesaría, a veces nos vienen algunas que son un poco más baratas en el pago mensual, pero por el momento no le puedo ofrecer nada más barato.\n",
+        "llm_answer": " Fíjese que nosotros, como le digo, fíjese que los vehículos que tenemos son del año 2019 en adelante. Las cuotas mínimas que nosotros manejamos, en trocas, andan desde las 12. En trocas, las cuotas mínimas van desde las 10. Pero si se trae su identificación vigente, su último talón de cheque y un comprobante de domicilio, puede venir sin ningún compromiso a ver el vehículo. Nosotros le voy a compartir nuestra dirección y si le interesa, el sábado a las 10 a.m. puede venir a ver el vehículo.\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona cuotas mínimas y detalles sobre los vehículos, pero no responde directamente a la pregunta sobre la cuota mensual específica mencionada en la respuesta original. Además, introduce información adicional sobre requisitos y horarios que no estaban presentes en la respuesta original, lo que la hace menos relevante.",
+        "hf_similarity": 0.3686911516474538
+    },
+    {
+        "question": " Vaya. ¿Y qué otro? Solamente esos tres requisitos.  \n",
+        "real_answer": " Solo esos tres requisitos ¿Cuenta con los tres o le haría falta alguno?  \n",
+        "llm_answer": " Ok, perfecto. Entonces si solo tiene esos tres, con los tres nosotros le ayudamos.  \n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada hace referencia a los tres requisitos mencionados, pero no aborda directamente la pregunta sobre si cuenta con los tres o si le haría falta alguno, lo que la hace menos relevante en comparación con la respuesta original.",
+        "hf_similarity": 0.4283531009623053
+    },
+    {
+        "question": " Cualquiera, estoy rentando y es caro.\n\n",
+        "real_answer": " Podemos ayudarle, pero necesitaría esos 2500. Puede venir al concesionario, ver los vehículos y llenar la aplicación; solo trae el dinero cuando esté lista. Le mando la dirección por mensaje.\n\n",
+        "llm_answer": " Entiendo. ¿Está buscando un carro, verdad?\n\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada muestra cierta comprensión de la situación al preguntar si la persona está buscando un carro, lo cual está relacionado con el contexto de la respuesta original. Sin embargo, no aborda directamente el tema del costo o la ayuda ofrecida, lo que limita su relevancia total.",
+        "hf_similarity": 0.4937117639373202
+    },
+    {
+        "question": " ¿Ok, y usted podría mandarme la dirección para yo verla y ponerme de acuerdo de hacer mi tiempo para poder visitarlo?  \n",
+        "real_answer": " Claro que sí, se la voy a dejar por un mensajito de texto. Nosotros tenemos abierto de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m. y los domingos desde las 10:00 a.m. hasta las 6:00 p.m. no sé qué día nos podría visitar.  \n",
+        "llm_answer": " ¿Ok, bueno, entonces ahí le voy a dejar la dirección por un mensajito de texto para que cheque ahí el día que nos podría visitar y si le parece el día que le quede pendiente.  \n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona que se enviará la dirección por un mensaje de texto, lo cual es relevante. Sin embargo, no incluye información sobre los horarios de atención, que es un aspecto importante de la respuesta original. Por lo tanto, aunque hay similitudes, falta información clave para ser completamente relevante.",
+        "hf_similarity": 0.3811614665407278
+    },
+    {
+        "question": " Tengo una pregunta, actualmente estoy pagando un vehículo, pero necesito una camioneta. Apenas llevo seis meses con el carro y no sé qué se puede hacer.\n",
+        "real_answer": " Entiendo. Nosotros podríamos financiarle una camioneta, pero no refinanciar el vehículo que ya tiene.\n",
+        "llm_answer": " Está bien, fíjese que necesitaríamos un enganche mínimo de $2000. Los requisitos que solicitamos son una identificación vigente, un comprobante de domicilio y un comprobante de ingreso. ¿En este momento, en cuánto estaría listo para visitarnos para adquirir el vehículo?\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona requisitos para adquirir una camioneta y un enganche mínimo, lo cual es relevante para la consulta sobre la necesidad de una camioneta. Sin embargo, no aborda la situación del financiamiento del vehículo actual, que es un aspecto clave de la pregunta original.",
+        "hf_similarity": 0.46308383171962675
+    },
+    {
+        "question": " Por medio de depósito o talón de cheques.\n\n",
+        "real_answer": " ¿Ok, si tiene un talón de cheque se le sirve como comprobante de ingreso y también lo que ocuparía sería un comprobante de domicilio?\n\n",
+        "llm_answer": " Ok, perfecto. Entonces, ¿y sería su primera vez financiando? ¿Ya tiene crédito establecido?\n\n",
+        "Relevancia": "NO_RELEVANTE",
+        "Explicacion": "La respuesta generada no aborda la pregunta sobre el uso de un talón de cheques como comprobante de ingreso ni menciona el comprobante de domicilio, que son los puntos clave de la respuesta original. En cambio, introduce una nueva pregunta sobre financiamiento y crédito, que no está relacionada con la consulta inicial.",
+        "hf_similarity": 0.49706480272734554
+    },
+    {
+        "question": " ¿No tienen ustedes otro dealer aquí en el condado de San Diego?\n\n",
+        "real_answer": " No, solo estamos en San Fernando.\n\n",
+        "llm_answer": " No, nosotros somos un dealer único. Tenemos una dirección específica y no nos han visitado anteriormente.\n\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada aborda la pregunta sobre la existencia de otro dealer, pero agrega información adicional sobre ser un dealer único y la falta de visitas anteriores, lo cual no está presente en la respuesta original. Aunque la idea principal de que no hay otro dealer es correcta, la información extra la hace menos precisa en comparación con la respuesta original.",
+        "hf_similarity": 0.4686384136039903
+    },
+    {
+        "question": " Ajá, sí, soy yo. Dígame.\n",
+        "real_answer": " ¿Podemos intercambiar unos mensajitos por WhatsApp sobre el vehículo que busca? No sé si tiene tiempo para atenderme.\n",
+        "llm_answer": " Le saludo de acá del dealer. Hace algunos días intercambiamos mensajes sobre el vehículo que busca. ¿Tiene tiempo para atenderme?\n",
+        "Relevancia": "RELEVANTE",
+        "Explicacion": "La respuesta generada mantiene el contexto de la conversación y se refiere al mismo tema del vehículo que busca, además de preguntar si tiene tiempo para atender la conversación, lo cual es coherente con la respuesta original.",
+        "hf_similarity": 0.1707208331470872
+    },
+    {
+        "question": " No, está bien, gracias.\n",
+        "real_answer": " De nada. Nos vemos más tarde.",
+        "llm_answer": " Gracias. Que tenga un buen día.\n\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada muestra un agradecimiento y un deseo positivo, pero no responde directamente al contexto de la conversación ni mantiene la continuidad del intercambio, como lo hace la respuesta original.",
+        "hf_similarity": 0.47835876082478523
+    },
+    {
+        "question": " Sí, oiga, pero la verdad esta semana no voy a poder, la verdad, porque estoy trabajando en Palm, ahorita llegamos de otra ciudad y en Los Ángeles voy a estar como el sábado.  \n",
+        "real_answer": " Ok, sería el fin de semana.  \n",
+        "llm_answer": " Ok, perfecto. Entonces ahí le dejo nuestra dirección y cualquier cosa ahí estamos a la orden.  \n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada reconoce la conversación y muestra disposición, pero no aborda directamente el hecho de que la persona no puede reunirse esta semana. Aunque menciona dejar la dirección, no responde adecuadamente a la limitación de tiempo expresada en la respuesta original.",
+        "hf_similarity": 0.5013659079019266
+    },
+    {
+        "question": " No, yo realmente, bueno, yo estoy solo aquí. Mi familia quedó en Colombia y yo estoy solo. No puede ser algo tan grande tampoco, algo que me lleve y me traiga amiguita. \n",
+        "real_answer": " Sí, en ese caso pues le ofrecería lo que es un carro sedán, ocuparía mínimo unos $2000 de enganche. Los vehículos que yo le tengo son del año 2019 en adelante. Todos son títulos limpios en motor, transmisión y aire acondicionado.  \n",
+        "llm_answer": " Ok, bueno, no hay problema, si gusta, pues ahí le voy a compartir nuestra dirección y yo le voy a llamar el domingo para que programemos cita.  \n",
+        "Relevancia": "NO_RELEVANTE",
+        "Explicacion": "La respuesta generada no aborda la consulta sobre la oferta de un carro sedán ni menciona detalles relevantes sobre el enganche o las características de los vehículos, lo que la hace completamente irrelevante en relación con la respuesta original.",
+        "hf_similarity": 0.5374330389064346
+    },
+    {
+        "question": " No, pero ahorita solo tengo 1000.\n",
+        "real_answer": " Ok, con 1000 trabajaríamos también, solo es cuestión que nos visite para ver qué soluciones nosotros le damos. ¿No sé, qué día nos podría visitar para estar pendiente de su llegada?\n",
+        "llm_answer": " Con 1500 podemos trabajar. Le enviaré nuestra dirección por mensaje de texto.\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada no aborda la cantidad mencionada en la pregunta (1000) y propone un monto diferente (1500), además de no hacer referencia a la visita solicitada en la respuesta original. Esto muestra una falta de alineación con el contexto de la conversación.",
+        "hf_similarity": 0.394501169085986
+    },
+    {
+        "question": " Sí, un auto familiar.  \n",
+        "real_answer": "  Acá le tengo varias su familiares del año 2019 en adelante. Le estaríamos dando hasta tres años de garantía en motor, en transmisión y aire acondicionado. Y ocuparía mínimo unos 2500 de enganche. ¿No sé, qué le parece?    \n",
+        "llm_answer": " Ok, perfecto. ¿Sería su primera vez financiando o ya tiene crédito?  \n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada se relaciona con el tema de financiamiento, que es un aspecto relevante al considerar la compra de un auto familiar. Sin embargo, no aborda directamente la información proporcionada en la respuesta original sobre las opciones de autos familiares, garantías y requisitos de enganche, lo que la hace menos relevante en el contexto general de la conversación.",
+        "hf_similarity": 0.584045034182046
+    },
+    {
+        "question": " ¿Y qué tipo de modelo de carro tiene ahorita?  \n",
+        "real_answer": " Ahorita le tengo Honda Civic y Accord, Toyota Camry, Corolla, Tesla Model 3, también le tengo Nissan Altima, Nissan Sentra, Hyundai Elantra, Hyundai Sonata, Chevrolet Malibu, también le tengo un Kia, un Malibu, aquí le tengo del 2019 al 2021, desde los 2000 de enganche.  \n",
+        "llm_answer": " Le tengo carros sedán. ¿Está buscando algo en especial?  \n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada no proporciona información específica sobre los modelos de carro que posee el hablante, que es el enfoque principal de la pregunta original. Solo menciona que tiene 'carros sedán' y pregunta si se busca algo en especial, lo que no responde a la solicitud de detalles sobre los modelos específicos mencionados en la respuesta original.",
+        "hf_similarity": 0.44183440767106297
+    },
+    {
+        "question": " Ah, ok, ¿mínimo 1800?\n",
+        "real_answer": " Así es. Nuestros vehículos son del 2019 en adelante, con pocas millas, títulos limpios, y además ofrecemos tres años de garantía en motor, transmisión y aire acondicionado, junto con un mes de seguro gratis.\n",
+        "llm_answer": " Sí, mínimo 1800 de enganche. ¿Qué le parece?\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona un monto mínimo de 1800, que está relacionado con la pregunta, pero no aborda la información adicional sobre los vehículos, garantías y seguros que se presenta en la respuesta original. Por lo tanto, aunque hay cierta conexión, la respuesta generada no es completamente relevante.",
+        "hf_similarity": 0.5558584538337308
+    },
+    {
+        "question": " No, no cuento con eso todavía.\n",
+        "real_answer": " Ok. Si le invito a que, si no le urge el vehículo y está interesado en visitarnos, puede juntar el enganche. Aquí estamos a la orden.\n",
+        "llm_answer": " Ok, perfecto. ¿Está buscando un carro, una troca o una SUV?\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada muestra interés en el tema del vehículo, pero no aborda directamente la sugerencia de juntar el enganche ni la invitación a visitar. Sin embargo, mantiene el contexto de la conversación sobre la búsqueda de un vehículo, lo que la hace parcialmente relevante.",
+        "hf_similarity": 0.44079421822148834
+    },
+    {
+        "question": " Yo creo que ya la otra semana, porque por mi trabajo.\n\n Sí, perfecto. Entonces le voy a compartir nuestra dirección por mensajito de texto.\n\n",
+        "real_answer": " ¿No sé más o menos qué día le puedo llamar de la otra semana para confirmar su visita?\n\n",
+        "llm_answer": "",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada se relaciona con la conversación sobre la visita, pero no aborda directamente la pregunta sobre el día específico en que se puede confirmar la visita, lo que la hace menos relevante que la respuesta original.",
+        "hf_similarity": 0.8760716072304839
+    },
+    {
+        "question": " Bueno, tengo varias opciones en mente, pero no estoy seguro de cuál calificaría.\n\n",
+        "real_answer": " Entiendo. ¿Este sería su primer crédito?\n\n",
+        "llm_answer": " Claro, con gusto. ¿Está buscando algún vehículo en especial, marca, año o modelo?\n\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada muestra interés en ayudar al usuario y comienza a indagar sobre sus necesidades específicas, pero no aborda directamente la pregunta sobre si es su primer crédito, que es el foco de la respuesta original.",
+        "hf_similarity": 0.4706136176776068
+    },
+    {
+        "question": " Tal vez día viernes.\n",
+        "real_answer": " Ok, excelente.\n",
+        "llm_answer": " Perfecto, le enviaré nuestra dirección y fotos.\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada muestra una respuesta positiva y proactiva, pero no se relaciona directamente con la confirmación de la fecha mencionada en la respuesta original. Sin embargo, la intención de continuar la conversación es evidente.",
+        "hf_similarity": 0.5719531817661228
+    },
+    {
+        "question": " No tengo crédito de ningún tipo.\n",
+        "real_answer": " ¿Y qué vehículo busca?\n",
+        "llm_answer": " ¿Busca algún vehículo en especial?\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada se refiere a la búsqueda de un vehículo, que es el tema de la respuesta original, pero no aborda directamente la falta de crédito mencionada en la pregunta. Aunque hay una conexión temática, la respuesta generada no es tan específica como la original.",
+        "hf_similarity": 0.11702068020007061
+    },
+    {
+        "question": " Ah, Judith, sí, creo que estoy interesado, pero más bien sería dentro de 20 días, quizás un mes.\n\n",
+        "real_answer": " Entiendo. Entonces le compartiré nuestra dirección por mensaje de texto y me comunicaré con usted en aproximadamente un mes.\n\n",
+        "llm_answer": " Ok, perfecto. Entonces ahí le voy a compartir nuestra dirección y estamos en contacto.\n\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada muestra una intención de compartir la dirección y mantener el contacto, lo cual es similar a la respuesta original. Sin embargo, no menciona específicamente el plazo de un mes, lo que la hace menos relevante que la respuesta original.",
+        "hf_similarity": 0.33348967336170077
+    },
+    {
+        "question": " Si estoy buscando uno que sea una troca, no sé si seminuevo, no sé cómo trabajan ustedes. ¿Qué tipo de vehículos tiene?  \n",
+        "real_answer": " Claro, con respecto a los vehículos que nosotros le tenemos ahorita le tengo varias trocas en inventario. Le tengo la Toyota Tacoma, la Chevrolet Silverado, la Chevrolet Colorado, la Ford F-150, la Nissan Frontier, la Dodge Ram. Le tengo las trocas del año 2018 en adelante, son seminuevas. ¿En millaje andan entre los 10,000 hasta las 60,000 millas, ahí depende la troca, Y los down payment desde los 3,000 de enganche. no sé qué día usted puede venir personalmente acá al dealer a ver las trocas.  \n",
+        "llm_answer": " Le tengo trocas, tengo Chevrolet, GMC, Toyota, Nissan, Ford, Kia, Chevy, Toyota, Mazda, Tesla, y Honda.  \n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona varias marcas de vehículos, lo cual es relevante para la pregunta sobre trocas, pero no proporciona detalles específicos sobre los modelos disponibles, el estado de los vehículos (nuevos o seminuevos), ni información sobre el millaje o los pagos iniciales, que son aspectos importantes mencionados en la respuesta original.",
+        "hf_similarity": 0.39201353953763696
+    },
+    {
+        "question": " Sería el sábado, prácticamente el fin de semana.\n\n",
+        "real_answer": " Perfecto.\n\n",
+        "llm_answer": " Ok, perfecto. Entonces ahí le voy a dejar nuestra dirección y estamos a la orden.\n\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada muestra un acuerdo con la afirmación del sábado y añade información sobre la dirección, pero se aleja del simple asentimiento de la respuesta original, lo que la hace menos relevante.",
+        "hf_similarity": 0.5310027988563368
+    },
+    {
+        "question": " Ah, sí, soy yo.\n\n",
+        "real_answer": " Disculpe la molestia. Hemos estado intercambiando mensajes sobre el vehículo que busca. Le compartí la dirección, estamos en San Fernando, California.\n\n",
+        "llm_answer": " Ok, le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros, le estaríamos solicitando tres documentos, los cuales serían su identificación vigente, un comprobante de domicilio y un comprobante de ingresos. ¿Sería su primera vez financiando? ¿Ya tiene crédito?\n\n",
+        "Relevancia": "RELEVANTE",
+        "Explicacion": "La respuesta generada se centra en el financiamiento y requisitos para calificar, lo cual no está relacionado con el intercambio de mensajes sobre un vehículo ni la dirección proporcionada en la respuesta original. No hay conexión temática entre ambas respuestas.",
+        "hf_similarity": 0.5348276911801788
+    },
+    {
+        "question": " Ok, si me da por favor su número de teléfono, su nombre y la ubicación donde están para yo poder visitarlo el día sábado.\n\n",
+        "real_answer": " Perfecto, yo se lo dejo por un mensajito de texto. ¿Sería su primera vez financiando hoy? ¿Ha tenido algún crédito antes?\n\n",
+        "llm_answer": " Ok, perfecto. Entonces ahí le dejo nuestra dirección y nos vemos el día sábado. Que tenga un excelente día.\n\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona la dirección y la reunión el sábado, lo cual es relevante para la pregunta. Sin embargo, no aborda el tema del número de teléfono ni las preguntas sobre financiamiento y créditos que se mencionan en la respuesta original. Esto hace que la respuesta generada sea parcialmente relevante, ya que toca algunos puntos pero omite otros importantes.",
+        "hf_similarity": 0.4138795088134688
+    },
+    {
+        "question": " Pues tendría que ver. ¿Y cómo elige este? Solo tengo el de mi país y si está vigente, y la verdad pues a mí me pagan cash, ve, ando trabajando con un coreano, pesca, paga él.\n\n",
+        "real_answer": " No hay problema.\n\n",
+        "llm_answer": " Ok, no hay problema, no hay problema. ¿Y sería su primera vez financiando? ¿Usted ya ha tenido crédito?\n\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona que no hay problema, que es similar a la respuesta original, pero luego introduce preguntas adicionales sobre financiamiento y crédito que no son relevantes para la conversación inicial sobre el pago en efectivo y la elección de un sistema. Esto hace que la respuesta sea parcialmente relevante, ya que mantiene un hilo de conversación pero se desvía del tema principal.",
+        "hf_similarity": 0.6938606863649324
+    },
+    {
+        "question": " ¿De qué dealer me habla, disculpe?\n",
+        "real_answer": " De Cali Go Autos. Usted nos contactó a través de nuestras redes sociales hace algunos días, mostrando interés en un vehículo.\n",
+        "llm_answer": " Estamos acá en San Fernando, California. Tenía unos mensajitos en nuestras redes sociales que le interesa un vehículo.\n",
+        "Relevancia": "PARCIALMENTE_RELEVANTE",
+        "Explicacion": "La respuesta generada menciona que hay interés en un vehículo y hace referencia a las redes sociales, lo cual está relacionado con la respuesta original. Sin embargo, no menciona el nombre del dealer 'Cali Go Autos' y se centra en la ubicación, lo que la hace menos relevante en comparación con la respuesta original.",
+        "hf_similarity": 0.2849307461514662
+    }
+]

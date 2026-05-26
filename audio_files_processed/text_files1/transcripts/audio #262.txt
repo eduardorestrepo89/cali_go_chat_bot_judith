@@ -1,0 +1,14 @@
+<soc>Asesor: Hola, muy buen día. Le saludo desde el dealer. Hemos estado intercambiando mensajes por WhatsApp, y quería darle más información sobre cómo trabajamos el financiamiento de vehículos. ¿Tiene un momento?
+<soc>Cliente: Sí, dígame.
+<soc>Asesor: Perfecto. Le comento que ofrecemos financiamiento en casa, con plazos desde seis meses hasta cinco años, y damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar, solo necesitaríamos tres documentos: una identificación vigente, ya sea de aquí o de su país, un bill para confirmar su dirección, y un comprobante de ingresos.
+<soc>Cliente: ¿De qué dealer me está llamando?
+<soc>Asesor: Somos Cali Go Autos. Usted nos envió un mensaje temprano, como a las ocho. ¿Está buscando algún vehículo en especial?
+<soc>Cliente: No, no, quería pasar a ver cuál me gusta.
+<soc>Asesor: Excelente. ¿Qué día tiene pensado visitarnos?
+<soc>Cliente: Creo que hoy, como a la una.
+<soc>Asesor: Perfecto. Le enviaré la dirección por mensaje de texto. ¿Es su primera vez financiando o ya tiene crédito?
+<soc>Cliente: No, no tengo crédito.
+<soc>Asesor: No se preocupe, con nosotros puede empezar a construirlo. Si está buscando un sedán, el enganche mínimo sería de $1,800. ¿Le parece bien?
+<soc>Cliente: Está bien, gracias.
+<soc>Asesor: Muchas gracias a usted. Nos vemos más tarde. ¡Hasta luego!
+<soc>Cliente: Hasta luego.

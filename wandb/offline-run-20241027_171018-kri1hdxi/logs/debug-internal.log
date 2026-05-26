@@ -1,0 +1,28 @@
+2024-10-27 17:10:18,829 INFO    StreamThr :2125 [internal.py:wandb_internal():86] W&B internal server running at pid: 2125, started at: 2024-10-27 17:10:18.827498
+2024-10-27 17:10:18,837 DEBUG   HandlerThread:2125 [handler.py:handle_request():146] handle_request: status
+2024-10-27 17:10:18,844 INFO    WriterThread:2125 [datastore.py:open_for_write():87] open: /Users/eduardo/Downloads/Maestria/Proyecto de Grado/file_transcriber_cali/wandb/offline-run-20241027_171018-kri1hdxi/run-kri1hdxi.wandb
+2024-10-27 17:10:18,861 DEBUG   HandlerThread:2125 [handler.py:handle_request():146] handle_request: run_start
+2024-10-27 17:10:18,875 DEBUG   HandlerThread:2125 [system_info.py:__init__():27] System info init
+2024-10-27 17:10:18,876 DEBUG   HandlerThread:2125 [system_info.py:__init__():42] System info init done
+2024-10-27 17:10:18,876 INFO    HandlerThread:2125 [system_monitor.py:start():194] Starting system monitor
+2024-10-27 17:10:18,878 INFO    HandlerThread:2125 [system_monitor.py:probe():214] Collecting system info
+2024-10-27 17:10:18,879 DEBUG   HandlerThread:2125 [system_info.py:probe():151] Probing system
+2024-10-27 17:10:18,880 INFO    SystemMonitor:2125 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-10-27 17:10:18,883 INFO    SystemMonitor:2125 [interfaces.py:start():190] Started cpu monitoring
+2024-10-27 17:10:18,885 DEBUG   HandlerThread:2125 [system_info.py:probe():199] Probing system done
+2024-10-27 17:10:18,885 DEBUG   HandlerThread:2125 [system_monitor.py:probe():223] {'os': 'macOS-14.5-x86_64-i386-64bit', 'python': '3.11.3', 'heartbeatAt': '2024-10-27T22:10:18.879449', 'startedAt': '2024-10-27T22:10:18.808333', 'docker': None, 'cuda': None, 'args': (), 'state': 'running', 'program': '/Users/eduardo/Downloads/Maestria/Proyecto de Grado/file_transcriber_cali/src/train.py', 'codePathLocal': 'src/train.py', 'codePath': 'src/train.py', 'host': 'Eduardos-MacBook-Pro.local', 'username': 'eduardo', 'executable': '/usr/local/bin/python3', 'cpu_count': 4, 'cpu_count_logical': 8, 'cpu_freq': {'current': 2000, 'min': 2000, 'max': 2000}, 'cpu_freq_per_core': [{'current': 2000, 'min': 2000, 'max': 2000}], 'disk': {'/': {'total': 465.62699127197266, 'used': 9.554718017578125}}, 'memory': {'total': 16.0}}
+2024-10-27 17:10:18,888 INFO    HandlerThread:2125 [system_monitor.py:probe():224] Finished collecting system info
+2024-10-27 17:10:18,888 INFO    SystemMonitor:2125 [interfaces.py:start():190] Started disk monitoring
+2024-10-27 17:10:18,888 INFO    HandlerThread:2125 [system_monitor.py:probe():227] Publishing system info
+2024-10-27 17:10:18,892 INFO    SystemMonitor:2125 [interfaces.py:start():190] Started memory monitoring
+2024-10-27 17:10:18,894 INFO    HandlerThread:2125 [system_monitor.py:probe():229] Finished publishing system info
+2024-10-27 17:10:18,895 INFO    SystemMonitor:2125 [interfaces.py:start():190] Started network monitoring
+2024-10-27 17:10:18,911 DEBUG   HandlerThread:2125 [handler.py:handle_request():146] handle_request: python_packages
+2024-10-27 17:10:23,861 DEBUG   HandlerThread:2125 [handler.py:handle_request():146] handle_request: status_report
+2024-10-27 17:10:23,862 DEBUG   SenderThread:2125 [sender.py:send_request():409] send_request: status_report
+2024-10-27 17:10:28,876 DEBUG   HandlerThread:2125 [handler.py:handle_request():146] handle_request: status_report
+2024-10-27 17:10:28,877 DEBUG   SenderThread:2125 [sender.py:send_request():409] send_request: status_report
+2024-10-27 17:10:33,894 DEBUG   HandlerThread:2125 [handler.py:handle_request():146] handle_request: status_report
+2024-10-27 17:10:33,896 DEBUG   SenderThread:2125 [sender.py:send_request():409] send_request: status_report
+2024-10-27 17:10:38,914 DEBUG   HandlerThread:2125 [handler.py:handle_request():146] handle_request: status_report
+2024-10-27 17:10:38,914 DEBUG   SenderThread:2125 [sender.py:send_request():409] send_request: status_report

@@ -1,0 +1,10 @@
+<soc>Asesor: Hola, buenas tardes. ¿Tengo el gusto con Antonio? Les saludo de acá del dealer. Hemos intercambiado algunos mensajitos. No sé si tiene tiempo de atender mi llamada.
+<soc>Cliente: Sí, claro, dígame.
+<soc>Asesor: Ok, le comento que nosotros estamos en San Fernando, California. Hacemos financiamiento en casa y damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros, le estaríamos solicitando tres documentos principalmente: una identificación, que puede ser de aquí o de su país, pero debe estar vigente. También necesitaría un bill, cualquier tipo de bill; si no está a su nombre, no hay problema, solo para confirmar dirección. Y si tiene también un comprobante de ingreso.
+<soc>Cliente: Ok, no hay problema. Usted incluso me mandó un mensaje y yo le dije que tenía $1000 para trabajar. Usted menciona que necesita un mínimo de $1800. Ahorita no tengo esa cantidad porque acabo de pagar mis taxes del trabajo y de mi casa, pero más adelante, cuando consiga un poco más de dinero, entonces podré.
+<soc>Asesor: Perfecto. ¿Busca un carro sedán o una troca?
+<soc>Cliente: No, un sedán. ¿Un carro sedán de $15,000 o menos, verdad?
+<soc>Asesor: Ok, perfecto. Entonces, ya cuando tenga más enganche, aquí estamos a la orden. Le voy a compartir nuestra dirección.
+<soc>Cliente: Sí, correcto. Muchas gracias.
+<soc>Asesor: Gracias. Que tenga un buen día.
+<soc>Cliente: Igualmente, buen día.

@@ -1,0 +1,5 @@
+<soc>Asesor: Hola, buen día, tengo el gusto con el caballero Reaga. Un saludo de acá del dealer de autos. Hace algunas semanas nos comunicamos por mensajitos y quería saber si sigue interesado en comprar vehículos.  
+<soc>Cliente: Sí, sigo interesado, solo que ahorita lo que no tengo es dinero.  
+<soc>Asesor: Ok, no hay problema. Entonces creo que ya tienen nuestra dirección y nuestro contacto. ¿Busca algún vehículo en especial, marca, año o modelo?  
+<soc>Cliente: Mire, me gustaría hacer un tipo de Spark, de esos Chevrolet en ese tipo.  
+<soc>Asesor: Fíjense que exactamente ese no le vendemos, pero le tenemos vehículos parecidos a ese que son de motor pequeño y que no gastan mucho gasolina. Le tenemos del año 2019 al 2020, del 2019 al 2023, desde los 2000 de enganche en este caso, si gusta, pues cuando se ya esté listo, ya tenga el dinero para el enganche, me puede contactar nuevamente para que programemos cita.  

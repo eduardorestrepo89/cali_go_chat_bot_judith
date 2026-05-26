@@ -1,0 +1,24 @@
+<soc>Asesor: Hola, muy buenos días, ¿tengo el gusto con el caballero Ricardo?.
+<soc>Cliente: ¿Ah sí, qué pasó?
+<soc>Asesor: Mi nombre es Judith, disculpe la molestia. Le saludo de acá del dealer y le quería dar más información sobre el vehículo que busca. ¿No sé si tiene tiempo de atenderme?
+<soc>Cliente: Oh sí, a ver, dígame.
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros le estaríamos solicitando solamente tres requisitos: una identificación vigente, un comprobante de ingreso y un comprobante de domicilio. ¿Contaría con los tres requisitos, o habría inconveniente con algunos?
+<soc>Cliente: Sí, hay un inconveniente con la identificación. Ok, sí tengo una, pero está vencida.
+<soc>Asesor: ¿Hasta cuándo se le venció?
+<soc>Cliente: En el 2021. Mire, lo que pasa es que la tenía, pero como me robaron mi carro, iba en mi carro y ahí se fue.
+<soc>Asesor: Y fíjese que en este caso, como ya tiene varios años de vencida, no se la podemos aceptar, a no ser que usted tenga fotos de la que le robaron y que sí estaba vigente.
+<soc>Cliente: No, no tengo fotos.
+<soc>Asesor: Ok, en este caso sí necesitaríamos una identificación, que es el requisito más primordial. ¿Es de qué país?
+<soc>Cliente: De México.
+<soc>Asesor: Sí, si tiene de México, claro que sí se puede, siempre y cuando sea una identificación con foto vigente. ¿Puede ser de su país?
+<soc>Cliente: Sí, sí, sí, tengo mi credencial, pero no está vigente, le digo que se venció en el 2021.
+<soc>Asesor: En este caso, nosotros la aceptamos solo si tiene por lo menos un año, perdón, un máximo de un año de vencida. Desde el 2021 hasta ahorita son tres años, así que ahí sí no se la podríamos aceptar. ¿No tiene ningún otro tipo de identificación, como una licencia de conducir o un pasaporte?
+<soc>Cliente: No, tendría que tramitar mi pasaporte.
+<soc>Asesor: Ok, en ese caso si fíjese que para que le podamos ayudar, incluso le iba a mencionar que puede venir sin el comprobante de ingreso y nosotros solo con la identificación le ayudamos, pero en este caso, sin la identificación sí se nos dificulta y no podríamos ayudarle. Sería necesario que tramite su identificación y ya cuando usted esté listo nos puede visitar. Yo con gusto le voy a dejar por un mensajito de texto toda nuestra información, lo que es nuestra dirección y nuestros horarios.
+<soc>Cliente: ¿Exactamente, disculpe, dónde se ubican más o menos?
+<soc>Asesor: Estamos acá en el valle de San Fernando, por las 65 Fox, no queda tan lejos.
+<soc>Cliente: No, pues es que yo vivo aquí en Hillroy, cerca de San José.
+<soc>Asesor: Ah, ok, bueno, entonces ahí le dejo una dirección para que pueda checar más o menos la distancia y cuando esté listo para visitarnos, estamos a la orden.
+<soc>Cliente: Sí, está bien.
+<soc>Asesor: Gracias. Que tenga un excelente inicio de semana.
+<soc>Cliente: Igualmente. Adiós.

@@ -1,0 +1,29 @@
+<soc>Asesor: Hola. Sí, caballero, le hablo de acá del dealer.  
+<soc>Cliente: Yeah, hablo inglés. Mi nombre es Alex.    
+<soc>Asesor: Okay. Nosotros somos un dealership. Hacemos financiamiento en casa. Tenemos muchos vehículos en inventario. ¿Usted busca alguno en especial?  
+<soc>Cliente: Un carro. Han buscado un carro, pero la cosa es el crédito no está bueno y quería saber qué es lo que necesito básicamente.  
+<soc>Asesor: Ok. Nosotros hacemos financiamiento en casa. No hay bancos de por medio. Y sin importar cómo esté su crédito, así le ayudamos.  
+<soc>Cliente: ¿Lo requisite, mande, lo puede repetir por favor?  
+<soc>Asesor: Aunque su crédito esté mal, nosotros le ayudamos.  
+<soc>Cliente: Ok. ¿Qué hace el financiamiento ahí en casa?  
+<soc>Asesor: Sí, financiamiento en casa y solicitamos tres documentos, lo que son una identificación, puede ser de aquí o de su país, pero vigente. También ocupa un comprobante de domicilio, que puede ser cualquier tipo de Bill y un comprobante de ingresos.  
+<soc>Cliente: Mis cosas ahí y mi driver licencia. Tiene la dirección. ¿Está bien con eso?  
+<soc>Asesor: Sí, estaría bien con eso.  
+<soc>Cliente: Ok. ¿Qué más? ¿Que es la tercera cosa?  
+<soc>Asesor: 1 comprobante de ingreso.  
+<soc>Cliente: Ok, ok, ok. Me gustaría ir para una pregunta. 
+<soc>Asesor: Si, nosotros acá le tenemos varios vehículos en inventario. ¿Usted busca sedán, verdad? Le tenemos en la marca Honda, Toyota, Nissan, Kia, Mazda, Ford. También le tengo Tesla. Ocuparía mínimo unos 2500 de enganche. No sé si está bien para usted.  
+<soc>Cliente: ¿Para qué? ¿Para un Tesla?  
+<soc>Asesor: ¿Para un Tesla? No, para un Tesla ocuparía unos 3000 mínimo. Ahorita Tesla le tengo color azul, blanco y rojo.  
+<soc>Cliente: Ok, con $3000 y si podía llevar como un carro para usarlo como de enganche también. ¿Eso también lo aceptan o no?  
+<soc>Asesor: Sí, lo aceptamos. ¿Pero ya tiene el título?  
+<soc>Cliente: Ya yo tengo el título y todo.  
+<soc>Asesor: Ok, entonces si se lo aceptamos, lo tiene que traer para que se lo evaluemos. No sé qué día nos puede visitar.  
+<soc>Cliente: Es porque un amigo mío me anda ayudando y me va a dar un caro. Tiene tres carros, pero me va a dar uno. Y yo tenía que ir para el bien un día como descanso. Yo penso para otro lunes o martes. ¿Puedo pedir el auto para cambiarlo en título al nombre mío, verdad? Y luego de ahí puedo llevarlo para allá a lo mejor el fin de semana. O si no, si lo puedo hacer el lunes, puedo llegar el martes a lo mejor también.  
+<soc>Asesor: Ok, perfecto. Entonces ahí le voy a dejar nuestra dirección y me comunicaría con usted el próximo lunes para confirmar.  
+<soc>Cliente: ¿Ok y me puede mandar por texto la información dónde están ubicados?  
+<soc>Asesor: Estamos acá en San Fernando, California. ¿Se le voy a dejar la dirección por un mensajito de texto.  
+<soc>Cliente: Cual es su nombre de usted?
+<soc>Asesor: Judith. 
+<soc>Cliente: Okay, Judith muy amable.  
+<soc>Asesor: Perfecto. Feliz tarde. Bye.

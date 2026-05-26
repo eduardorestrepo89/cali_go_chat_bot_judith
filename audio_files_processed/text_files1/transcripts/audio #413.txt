@@ -1,0 +1,17 @@
+<soc>Asesor: Buenas tardes, tengo el gusto con Carlos.
+<soc>Cliente: Sí.
+<soc>Asesor: Le saludo de acá del dealer de autos. No sé si tiene tiempo de atenderme.  
+<soc>Cliente: Sí, está bien.  
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa. Damos tres años de garantía en motor, transmisión y aire acondicionado.  
+<soc>Cliente: Ok.  
+<soc>Asesor: Para calificar con nosotros le estaríamos solicitando tres documentos, los cuales serían una identificación vigente, puede ser de aquí o de su país. También ocupa un bill, cualquier tipo de bill. Si no está su nombre, no hay problema, es solo para confirmar dirección y si tiene también un comprobante de ingreso.  
+<soc>Cliente: Ok, está bien.  
+<soc>Asesor: ¿Sería su primera vez financiando? ¿Usted ya tiene crédito?  
+<soc>Cliente: No, es mi primera vez.  
+<soc>Asesor: ¿Busca algún vehículo en especial?  
+<soc>Cliente: Marca nuevo modelo, Chevrolet Silverado 2500 año 2023.  
+<soc>Asesor: Ok, fíjese que no manejo inventario de Silverado 2500, no sé si está abierto a ver otras opciones en trocas 1500 o la Z.
+<soc>Cliente: ¿Pero de la 1571 tampoco la tiene?  
+<soc>Asesor: No, fíjense que por el momento se nos han acabado las Silverados, pero en estos días nos va a venir nuevo inventario.  
+<soc>Cliente: Okay.  
+<soc>Asesor: Bueno, gracias.

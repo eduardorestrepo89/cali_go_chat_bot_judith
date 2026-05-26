@@ -1,0 +1,23 @@
+<soc>Asesor: Buenos días, Miguel, ¿me escucha?
+<soc>Asesor: Sí, le saludo de acá del dealer.
+<soc>Asesor: Quería darle más información sobre cómo trabajamos.
+<soc>Asesor: No sé si tiene tiempo de atenderme.
+<soc>Cliente: Claro, dímelo.
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa y damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros le estaríamos solicitando solamente tres documentos: una identificación vigente, que puede ser de aquí o de su país. También ocupa un bill, cualquier tipo de bill. Si no está a su nombre, no hay problema, solo es para confirmar la dirección. Y si tiene también un comprobante de ingreso, como su último talón de cheque, le funciona.
+<soc>Cliente: ¿Y si me pagan en cash?
+<soc>Asesor: Si no tiene cómo confirmar lo que es un comprobante de ingreso, no hay ningún problema. Solo trae la identificación y el bill, y con eso nosotros le ayudamos.
+<soc>Cliente: ¿Y el bill de qué?
+<soc>Asesor: Cualquier tipo de bill, no importa cuál. Solo es para confirmar dirección. ¿Y sería su primera vez financiando? ¿Ya tenía algún crédito?
+<soc>Cliente: No.
+<soc>Asesor: Ok. ¿Algún vehículo en especial que busque? ¿Marca, año o modelo?
+<soc>Cliente: ¿En cuánto saldría uno de 2015?
+<soc>Asesor: Del 2015 no le tengo; solo tengo del 2018 en adelante. Necesitaría un mínimo de unos 2000 de enganche. ¿Qué le parece? 
+<soc>Asesor: Fíjese que para saber el precio total, tendríamos que llenar la aplicación para negociar el plazo del financiamiento y el porcentaje de interés.
+<soc>Asesor: No sé qué día nos podría visitar.
+<soc>Asesor: Estamos en San Fernando, California.
+<soc>Asesor: Tenemos abierto de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m., y los domingos desde las 10:00 a.m. hasta las 6:00 p.m. Puede visitarnos sin ningún compromiso, solo para chequear toda esa información. ¿Qué le parece?
+<soc>Asesor: Si gusta, le voy a compartir nuestra dirección por un mensaje de texto. Si se anima a venir...
+<soc>Cliente: Yo creo que no, señora, porque estoy retirado.
+<soc>Asesor: Ok, perfecto. Que tenga un excelente día.
+<soc>Cliente: Gracias.
+<soc>Asesor: Bueno, bye bye.

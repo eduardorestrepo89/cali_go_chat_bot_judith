@@ -1,0 +1,14 @@
+<soc>Asesor: Hola, buen día. ¿Tengo el gusto con Omar? Le saludo del dealer de autos. Quería darle más información de cómo trabajamos. ¿Tiene tiempo para atenderme?
+<soc>Cliente: Sí, sí, cuenteme
+<soc>Asesor: Nosotros hacemos financiamiento en casa y ofrecemos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar, necesitamos tres documentos: una identificación vigente (puede ser de aquí o de su país), un comprobante de domicilio (cualquier factura, aunque no esté a su nombre), y un comprobante de ingresos. Si le pagan en efectivo, con cheque o por depósito, no hay problema. Si no tiene cómo comprobar ingresos, podemos ayudar solo con la identificación y el comprobante de domicilio. ¿Sería su primer crédito o ya ha financiado alguna vez?
+<soc>Cliente: No, no tengo crédito.
+<soc>Asesor: No hay problema, lo puede comenzar con nosotros. ¿Está buscando un carro sedán, verdad?
+<soc>Cliente: Sí, así es.
+<soc>Asesor: Perfecto. Tenemos opciones desde $2000 de enganche. Si tiene $2000 de enganche, ¿está buscando algún vehículo en especial? ¿Alguna marca, año o modelo?
+<soc>Cliente: Un Camry o un Accord.
+<soc>Asesor: Aquí tenemos Camry y Accord del 2018 en adelante, con título limpio. ¿Qué día podría venir a verlos? Le enviaré la dirección por mensaje de texto.
+<soc>Cliente: ¿Por dónde están ubicados? ¿En qué ciudad?
+<soc>Asesor: Estamos en San Fernando, cerca de la 65 Fox.
+<soc>Cliente: Ok, entonces podría ser el fin de semana.
+<soc>Asesor: Perfecto.
+<soc>Cliente: Ok, gracias. Adiós.

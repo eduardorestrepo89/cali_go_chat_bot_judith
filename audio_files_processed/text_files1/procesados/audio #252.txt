@@ -1,0 +1,10 @@
+Speaker B: ¿Aló?
+Speaker A: Hola, buen día. Tengo luz con la señorita Fátima García.
+Speaker B: Y dígame.
+Speaker A: Le saludo de acá del dealer. Hace unos días se comunicó que le interesaba un vehículo financiado. No sé si tiene tiempo de atender mi llamada.
+Speaker B: ¿De dónde me llaman?
+Speaker A: Nosotros estamos acá en San Fernando, California. ¿Del dealer de autos? Sí, este.
+Speaker B: Fíjense que ahorita estoy un poquito ocupada, no sé si me puede llamar más un ratito.
+Speaker A: Claro, si gusta me devuelve usted la llamada cuando tenga tiempo. ¿Más o menos a qué hora le puedo llamar?
+Speaker B: Yo digo que como eso de alguna 2 h más o menos, porque soy una reunión.
+Speaker A: Okay, le llamo luego. Bueno, gracias.

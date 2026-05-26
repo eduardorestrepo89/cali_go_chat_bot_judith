@@ -1,0 +1,15 @@
+<soc>Asesor: Buenas tardes.
+
+<soc>Cliente: Buenas tardes, tengo el gusto con el caballero Lalos.
+
+<soc>Asesor: Así es. ¿Quién habla?
+
+<soc>Cliente: Soy Judith. Intercambiamos mensajes sobre el vehículo que busca.
+
+<soc>Asesor: ¿Puede marcarme en unas 2 horas? Estoy trabajando.
+
+<soc>Cliente: Claro, le dejo la dirección. Cuando pueda visitarnos, por favor, notifíqueme.
+
+<soc>Asesor: Sin problema.
+
+<soc>Cliente: Gracias.

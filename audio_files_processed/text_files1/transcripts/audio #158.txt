@@ -1,0 +1,82 @@
+<soc>Asesor: Hola, buenas tardes, ¿hablo con Francesca?
+
+<soc>Cliente: Hola, sí, con ella.
+
+<soc>Asesor: Le saludo de acá del dealer de autos. No sé si tiene tiempo de atenderme.
+
+<soc>Cliente: Sí, sí, está bien.
+
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa. Vamos a ofrecerle tres años de garantía en motor, transmisión y aire acondicionado.
+
+<soc>Asesor: Para calificar con nosotros, necesitaría tres documentos.
+
+<soc>Asesor: Principalmente su identificación, puede ser de aquí o de su país, pero tiene que estar vigente.
+
+<soc>Asesor: También necesitaría un recibo, cualquier tipo de recibo, aunque no esté a su nombre, solo es para confirmar su dirección. Y si tiene también un comprobante de ingreso.
+
+<soc>Cliente: Ya tengo los tres requisitos.
+
+<soc>Cliente: Sí, todo perfecto.
+
+<soc>Asesor: Veo aquí que busca un carro sedán, ¿verdad? Y tiene 1500 de enganche.
+
+<soc>Cliente: Sí. Quisiera saber qué otro modelo tienen disponible en carros.
+
+<soc>Asesor: Le tenemos varias opciones: Toyotas, Honda, Kia, Ford, Hyundai, Volkswagen, Tesla, Chevy... hay varias marcas.
+
+<soc>Cliente: ¿Y tienen así como Mazda?
+
+<soc>Cliente: Pero la Mazda CX, ¿eso es camioneta?
+
+<soc>Asesor: Sí, sí le tenemos, pero para esa necesitaría un poco más de enganche. Con 1500 podríamos trabajar en un carro sedán, pero una camioneta familiar requeriría mínimo unos 2200.
+
+<soc>Cliente: Ah, igual no tanto tampoco la diferencia.
+
+<soc>Asesor: Así es, no es mucha la diferencia.
+
+<soc>Asesor: Tenemos variedad del año 2019 hasta el año 2023, todos son bajos en millas, con título limpio, y le daríamos los tres años de garantía.
+
+<soc>Asesor: ¿No sé qué día podría venir personalmente a verlo?
+
+<soc>Cliente: Yo creo que ya la otra semana, porque por mi trabajo.
+
+<soc>Cliente: Sí, perfecto. Entonces le voy a compartir nuestra dirección por mensajito de texto.
+
+<soc>Asesor: ¿No sé más o menos qué día le puedo llamar de la otra semana para confirmar su visita?
+
+<soc>Cliente: Como el día miércoles.
+
+<soc>Asesor: Miércoles, perfecto. Entonces le dejo nuestra dirección y estamos en contacto.
+
+<soc>Cliente: Ok, ok. Solo un tipo de identificación, porque tengo la licencia de mi país.
+
+<soc>Asesor: ¿Y tiene pasaporte de su país?
+
+<soc>Cliente: No, es que lo perdí.
+
+<soc>Asesor: ¿Y alguna otra identificación? Solo tiene la licencia, no tiene ninguna otra identificación. Ok, tráigase la licencia, si tiene foto y está vigente, con eso le ayudamos.
+
+<soc>Cliente: Sí, sí, está vigente todavía.
+
+<soc>Asesor: Ok, perfecto, entonces con eso le ayudamos.
+
+<soc>Cliente: ¿Y el recibo, el recibo de la vivienda y aparte un ingreso, como qué papel de ingreso puede ser?
+
+<soc>Asesor: ¿Le pagan en efectivo, con cheque o por depósito?
+
+<soc>Cliente: No, en efectivo.
+
+<soc>Asesor: ¿Tiene el número de su jefe?
+
+<soc>Cliente: Sí, sí tengo el número de mi jefe.
+
+<soc>Asesor: No puede traer el número de su jefe como comprobante de ingreso.
+
+<soc>Cliente: Está bien, está bien.
+
+<soc>Asesor: ¿Alguna otra consulta?
+
+<soc>Cliente: Es solamente eso.
+
+<soc>Asesor: Muchas gracias, aquí quedó la orden. Nos vemos la otra semana.
+

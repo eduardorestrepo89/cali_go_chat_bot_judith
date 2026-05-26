@@ -1,0 +1,16 @@
+<soc>Asesor: Buenas tardes caballero, le saludo del dealer, no sé si tiene tiempo de atenderme.  
+<soc>Cliente: Sí, soy Moisés.  
+<soc>Asesor: Ok, Moisés, fíjese que nosotros estamos acá en San Fernando, California.  
+<soc>Asesor: ¿Usted se encuentra acá en el estado?  
+<soc>Cliente: Ah, sí, sí, aquí en Bakerfield.  
+<soc>Asesor: Ah, perfecto, estamos cerca.  
+<soc>Asesor: Le comento que nosotros hacemos financiamiento en casa, damos hasta tres años de garantía.  
+<soc>Asesor: En motor, transmisión y aire acondicionado.  
+<soc>Asesor: Puede calificar con nosotros, estaría ocupando tres documentos, los cuales serían su identificación vigente, puede ser de aquí o de su país. También ocupa un Bill, cualquier tipo de Bill. Si no está su nombre, no hay problema. Y si tiene un comprobante de ingresos.  
+<soc>Cliente: Ok, ok, ok. Me lo puede poner por mensaje ahí y luego ya agarro todo y junto todo y luego ya.  
+<soc>Asesor: Por eso yo se lo dejo por mensajito de texto. ¿Más o menos qué día nos podría visitar para estar pendiente?  
+<soc>Cliente: el sabado.  
+<soc>Asesor: Okay, estamos hasta las 8:00 PM   
+<soc>Cliente: ok, gracias, nos vemos el sabado.  
+<soc>Asesor: ok Bye bye.  
+<soc>Cliente: Okay, gracias. Okay

@@ -1,0 +1,17 @@
+<soc>Asesor: Hola, buen día. ¿Tengo el gusto con el caballero Gerson?  
+<soc>Cliente: Sí, doctor.  
+<soc>Asesor: Mi nombre es Judith, le saluda del dealer de autos. Le quería dar más información de cómo trabajamos. No sé si tiene tiempo de atenderme.  
+<soc>Cliente: Ajá.  
+<soc>Asesor: Ok. Le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, en transmisión y en aire acondicionado. Nosotros le estaríamos solicitando su identificación vigente, un comprobante de ingresos y un comprobante de domicilio.  
+<soc>Cliente: Ok, como ahorita no tengo ingresos, no, no se puede.  
+<soc>Asesor: ¿Pero cómo lo pagaría, caballero? Porque los pagos son mensuales y tendría que tener un ingreso.  
+<soc>Cliente: Eso sí, no hay problema. Es que voy a empezar a trabajar la semana que viene. Ahí me dan cheque.  
+<soc>Asesor: Ok, perfecto. Entonces sí, porque es para tener como el comprobante. Le voy a dejar nuestra dirección. No sé qué día nos podría visitar.  
+<soc>Cliente: Pues el fin de semana más bien. Oiga.  
+<soc>Asesor: Ok. Por una camioneta como la que usted busca, una Ford, ocuparía unos 3500 de enganche. No sé si está bien para usted.  
+<soc>Cliente: Ajá, que no, Ford no, no me gusta. ¿No tiene alguna Tacoma, otra cosa así?  
+<soc>Asesor: Sí, aquí le tengo Tacoma. Disculpe, yo pensé que por Ford me había preguntado. Por acá le tengo Toyota Tacoma. Le tengo Silverado y Colorado.  
+<soc>Cliente: Oh, yeah.  
+<soc>Asesor: The Montana, marca Miracle.  
+<soc>Cliente: Okay.  
+<soc>Asesor: Perfecto. 

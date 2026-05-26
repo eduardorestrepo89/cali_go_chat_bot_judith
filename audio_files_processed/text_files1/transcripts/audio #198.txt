@@ -1,0 +1,19 @@
+<soc>Asesor: Hola, buenos días caballero, le saluda el dealer. Estuvimos intercambiando mensajitos, quería darle más información de cómo trabajamos. No sé si tiene tiempo de atenderme.
+<soc>Cliente: Ya, ya, dígame.
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa, damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros le estaríamos solicitando tres documentos: su identificación vigente, puede ser de aquí o de su país, un comprobante de domicilio (si no está a su nombre, no hay problema, solo necesitamos confirmar la dirección) y también un comprobante de ingreso.
+<soc>Cliente: Mira, cuento con comprobante de domicilio porque sí tengo, tengo mi licencia y mi cédula, pero de mi país, y comprobante de ingresos. Tengo dos trabajos: uno donde me pagan a mi cuenta bancaria y el otro en una empresa de mantenimiento, de jardinería.
+<soc>Asesor: Ok, perfecto. Mire, si no tiene cómo comprobar el ingreso...
+<soc>Cliente: Sí tengo cómo comprobar el ingreso en el trabajo donde me pagan por tarjeta, me pagan quincenalmente, pero no es mucho; son 2500 al mes. En el otro, gano 650 a la semana, pero podría hablar con mi patrón para que me dé un papel. Estoy esperando mi permiso para que me metan en nómina.
+<soc>Asesor: Perfecto. No hay inconveniente, solo traiga el comprobante y lo que no tenga quedaría registrado en el sistema de acuerdo a lo que gane. ¿Sería su primera vez financiando?
+<soc>Cliente: Sí, porque una vez iba a sacar un Honda CR-V, pero al final me hicieron un precio elevado por ser usado y no lo saqué.
+<soc>Asesor: Ok, excelente. ¿Y busca algún vehículo en especial? Tengo Honda Civic y Honda Accord.
+<soc>Cliente: Si me podría enviar la foto.
+<soc>Asesor: Perfecto. Le enviaría fotografías. Necesitaría de 2500 de enganche como mínimo, tengo del año 2018 al 2022. ¿Qué le parece?
+<soc>Cliente: Está bien. ¿Y cuáles serían las cuotas?
+<soc>Asesor: Las cuotas mínimas son desde 500, pero sería necesario ver qué vehículo se llevaría y negociar el plazo del financiamiento para establecer una cuota exacta. ¿Qué día podría visitarnos?
+<soc>Cliente: Puedo visitarlo el viernes que estoy libre.
+<soc>Asesor: Ok, perfecto. Entonces le dejaré nuestra dirección y las fotografías.
+<soc>Cliente: Ok, sí, por favor, envíeme las fotografías de los vehículos.
+<soc>Asesor: Ok, ahí estamos en contacto. Que tenga un buen día.
+<soc>Cliente: Buen día.
+<soc>Asesor: Bueno, bye.

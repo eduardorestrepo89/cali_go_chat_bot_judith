@@ -1,0 +1,15 @@
+<soc>Asesor: Hola, buen día. ¿Tengo el gusto de hablar con Jaime?
+<soc>Cliente: Sí, aquí estoy.
+<soc>Asesor: Perfecto, le saludo del dealer de autos. Quería comentarle que, lamentablemente, por el momento no tenemos el vehículo que estaba buscando. Quedamos de verificar si hay opciones en otras localidades. ¿Le dieron esa opción?
+<soc>Cliente: Sí, buscó, pero encontró un modelo 2019 que estaba en stock.
+<soc>Asesor: ¿Y qué le pareció? ¿Está interesado en esperar a que tengamos algo similar aquí?
+<soc>Cliente: Las mensualidades me parecen bastante altas.
+<soc>Asesor: Comprendo. ¿Le llenaron la aplicación y todo lo necesario?
+<soc>Cliente: Más o menos. Me dieron un estimado, pero mencioné que estoy buscando algo con una mensualidad de alrededor de $500. Ese modelo 2019 resulta un poco caro.
+<soc>Asesor: Entiendo, especialmente por el año del vehículo. Si encontramos alguna opción más asequible, le contactaremos.
+<soc>Cliente: Perfecto, si llega algo antes del viernes, por favor, avísenme.
+<soc>Asesor: Claro, estaré pendiente y le llamaré.
+<soc>Cliente: Muchas gracias.
+<soc>Asesor: Que tenga una bonita tarde.
+<soc>Cliente: Igualmente, gracias.
+<soc>Asesor: Hasta luego.

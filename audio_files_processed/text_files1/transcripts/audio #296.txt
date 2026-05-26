@@ -1,0 +1,23 @@
+<soc>Asesor: Hola, buenos días. Le saludamos desde el dealer de San Fernando, California.
+<soc>Cliente: Buenos días.
+<soc>Asesor: Vi que está interesado en financiar un vehículo, ¿tiene tiempo para atenderme?
+<soc>Cliente: Sí, claro.
+<soc>Asesor: Perfecto. Nosotros ofrecemos financiamiento en casa y hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar, necesitamos su identificación vigente, puede ser de aquí o de su país, y un comprobante de domicilio. Si tiene un comprobante de ingresos, también lo necesitamos, pero si no, no hay problema. ¿Está buscando algún vehículo en especial?
+<soc>Cliente: Estoy buscando un carrito pequeño, no importa si es de cuatro o dos puertas.
+<soc>Asesor: ¿Es su primera vez financiando?
+<soc>Cliente: Sí, nunca he financiado, siempre he pagado en efectivo.
+<soc>Asesor: ¿Y cómo está su crédito?
+<soc>Cliente: Desgraciadamente, no muy bien, la pandemia me afectó.
+<soc>Asesor: Entiendo. ¿Con cuánto contaría para el enganche?
+<soc>Cliente: Con $1,000.
+<soc>Asesor: El enganche mínimo para un sedán es de $2,000, ya que manejamos vehículos recientes con poco millaje, de 2018 en adelante.
+<soc>Cliente: ¿Cuánto es el millaje promedio?
+<soc>Asesor: Están entre 30,000 y 50,000 millas. ¿Le gustaría visitarnos para ver los vehículos?
+<soc>Cliente: Sí, estaría bien.
+<soc>Asesor: Puede visitarnos sin compromiso. Aquí le daremos más información sobre precios y mensualidades. ¿Le gustaría programar una cita?
+<soc>Cliente: Podría ser para este domingo.
+<soc>Asesor: Perfecto. Le dejaré la ubicación por mensaje de texto.
+<soc>Cliente: Ok, gracias.
+<soc>Asesor: Que tenga un buen día.
+<soc>Cliente: Gracias. Igualmente.
+

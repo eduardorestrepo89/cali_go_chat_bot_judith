@@ -1,0 +1,27 @@
+<soc>Asesor: Hola, buen día, tengo el gusto con el caballero Juan Corpus. Muy bien, le saludo del dealer de autos, no sé si tiene tiempo de atender mi llamada.
+<soc>Cliente: Claro, cuenteme
+<soc>Asesor: le comento que nosotros hacemos financiamiento en casa, damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros le estaríamos solicitando principalmente una identificación vigente, puede ser de aquí o de su país. También ocupa un bill, cualquier tipo de bill, si no está a su nombre no hay problema, solo para confirmar dirección. Y si tiene también un comprobante de ingreso.
+<soc>Cliente: Mira, en el comprobante de ingresos a mí me pagan cash.
+<soc>Asesor: Ok, si le pagan cash lo que puedo hacer es que su patrón haga una carta.
+<soc>Cliente: Bueno, para eso no hay problema.
+<soc>Asesor: Ok, perfecto. Y sería su primera vez financiando.
+<soc>Cliente: Digo que si no una carta así.
+<soc>Asesor: Claro, nosotros le damos la opción de que puede traer una carta laboral o el número de su jefe. A veces los jefes están muy ocupados y no tienen tiempo de darle una carta, por eso le damos la opción de traer el número. Pero claro, es preferible la carta.
+<soc>Cliente: Claro. ¿Eres colombiana?
+<soc>Asesor: No.
+<soc>Cliente: ¿De dónde eres?
+<soc>Asesor: Salvadoreña.
+<soc>Cliente: Salvadoreña, tienes acento de Colombia.
+<soc>Asesor: Así me han comentado varias veces. Sí. Bueno, en este caso, ¿usted buscaría algún vehículo en especial, marca, año o modelo?
+<soc>Cliente: Mira, estoy en construcción y acabo de regresar a trabajar por mi cuenta.
+<soc>Asesor: Ok, una troca buscaría. Aquí le tengo trocas del año 2018 en adelante, todas son bajas en millas, con título limpio, y le daríamos tres años de garantía en motor, transmisión y aire acondicionado. Ocuparía mínimo unos 3500 de enganche, ¿no sé qué le parece? ¿Con cuánto cuenta usted?
+<soc>Cliente: Bueno, yo ahorita pensaba poner 1500, pero no creo que sea suficiente, ¿verdad?
+<soc>Asesor: Somos Cali go Autos, estamos en San Fernando, California. Le iba a comentar que tenemos un programa de Down payment diferido, eso es bajo aplicación. El cliente, por ejemplo, viene, aplica por el vehículo y deja el 80 % del enganche. El mismo día se lleva el vehículo y le damos cierto tiempo para que traiga el resto, pero por una troca, el 80 % del Down payment anda por los 2800 aproximadamente.
+<soc>Cliente: Ya, así como ahorita se me acaba de malograr mi troca, por eso prefiero agarrar una nueva.
+<soc>Asesor: Ok. Fíjese que también aceptamos vehículos a cuenta, pero tiene que tener buena la transmisión y el motor. Con eso es suficiente para que se lo aceptemos.
+<soc>Cliente: ¿Pero aún así pedirían enganche?
+<soc>Asesor: Si la troca le cubre todo, no, pero sería de que revisemos la troca a ver cómo anda todo y, si es así, pues le damos lo que cubre el enganche, no necesitaría más efectivo. ¿Bueno, bien esa opción? Le voy a compartir nuestra dirección por mensajito de texto y, si se anima, tenemos abiertos de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m. y los domingos hasta las 6:00 p.m.
+<soc>Cliente: Ok, Judith.
+<soc>Asesor: Gracias. Mucho gusto. Que tenga un excelente día.
+<soc>Cliente: Igualmente.
+

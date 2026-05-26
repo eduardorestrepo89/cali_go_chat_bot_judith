@@ -1,0 +1,14 @@
+<soc>Asesor: ¿Hola, buenas tardes caballero, le saludo del dealer de autos.  
+<soc>Cliente: Aló.  
+<soc>Asesor: Hola, me escuchas?  
+<soc>Cliente: ¿Sí, te escucho, con quién hablo?  
+<soc>Asesor: ¿Mi nombre es Judith, les saludo de acá del dealer de autos nos comunicamos hace algunos días pero no tenía tiempo de atenderme no sé si sigue interesado en comprar vehículos.  
+<soc>Cliente: Sí, creo que ahorita me han escrito igual mi pregunta si estoy interesado en adquirir un vehículo, pero mi pregunta es, dónde ustedes se ubican? ¿Es que yo vivo en San José.  
+<soc>Asesor: Ay, nosotros estamos acá en San Fernando, California, o sea, retiraditos. Ok, si, no sé si le interesaría venir.  
+<soc>Cliente: Digamos de aquí allá, cuánto es? No conozco bien.  
+<soc>Asesor: La verdad José, fíjese que aproximadamente son 5 h.  
+<soc>Cliente: Wow, wow.  
+<soc>Asesor: ¿Y queda bastante retirado, verdad? De igual forma le voy a compartir nuestra dirección por un mensajito de texto y si esta interesado puede acercarce por aca.  
+<soc>Cliente: Te agradezco.  
+<soc>Asesor: Gracias.  
+<soc>Cliente: A ti bueno, gracias.  

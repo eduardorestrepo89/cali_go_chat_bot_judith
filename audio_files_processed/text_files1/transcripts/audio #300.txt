@@ -1,0 +1,13 @@
+<soc>Asesor: Hola, buenas tardes.
+
+<soc>Cliente: Buenas tardes.
+
+<soc>Asesor: Mi nombre es Judith, nos comunicamos hace algunas semanas. Les saludo del dealer. Quería saber si sigue interesado en comprar un vehículo.
+
+<soc>Cliente: Ah, Judith, sí, creo que estoy interesado, pero más bien sería dentro de 20 días, quizás un mes.
+
+<soc>Asesor: Entiendo. Entonces le compartiré nuestra dirección por mensaje de texto y me comunicaré con usted en aproximadamente un mes.
+
+<soc>Cliente: Perfecto, gracias. Mi nombre es Jonathan.
+
+<soc>Asesor: Muy bien, Jonathan. ¡Gracias a usted!

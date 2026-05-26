@@ -1,0 +1,37 @@
+<soc>Asesor: Buenos días.
+
+<soc>Cliente: Hola, buenos días.
+
+<soc>Asesor: Le saludo desde el concesionario. Ayer estuvimos intercambiando unos mensajes sobre su interés en un vehículo, y quería comentarle cómo trabajamos el financiamiento. Nosotros ofrecemos financiamiento en casa, con hasta tres años de garantía en motor, transmisión y aire acondicionado. Solo necesitaríamos tres documentos: una identificación vigente, que puede ser de aquí o de su país, un comprobante de domicilio, y un comprobante de ingresos.
+
+<soc>Cliente: Ah, bueno... ¿comprobante de domicilio y qué más?
+
+<soc>Asesor: ¿Le pagan en efectivo?
+
+<soc>Cliente: Sí, en efectivo.
+
+<soc>Asesor: No hay problema. En ese caso, con su identificación vigente y el comprobante de domicilio sería suficiente para ayudarle con el financiamiento.
+
+<soc>Cliente: Perfecto.
+
+<soc>Asesor: Sí. Ahora, ¿tiene en mente algún vehículo en especial, alguna marca, año o modelo que le interese?
+
+<soc>Cliente: Pues, me gustaría una troca, pero estoy abierto a ver opciones.
+
+<soc>Asesor: Excelente, tenemos varias opciones en trocas. Por ejemplo, tenemos Silverado. ¿Le interesa ver algo similar?
+
+<soc>Cliente: Sí, depende de que me guste y también del precio, claro.
+
+<soc>Asesor: Claro, lo entiendo. ¿Sería su primera vez financiando o ya ha tenido crédito antes?
+
+<soc>Cliente: No, sería la primera vez.
+
+<soc>Asesor: Para empezar, necesitaríamos un enganche de alrededor de 3500 dólares. Tenemos trocas del año 2018 en adelante, ¿le parece bien?
+
+<soc>Cliente: Pues... ese sería un detalle. Ahora mismo no estoy seguro, ando viendo opciones, pero no tengo claro cómo trabajan ustedes porque nunca me he metido en estos temas de financiamiento.
+
+<soc>Asesor: No se preocupe, como le mencioné antes, los requisitos son simples: identificación, enganche y comprobante de domicilio. Nosotros hacemos todo el financiamiento en casa, sin bancos de intermediarios, y reportamos su crédito para que lo empiece a construir. ¿Con cuánto cuenta ahora para el enganche?
+
+<soc>Cliente: Pues ahora mismo solo tengo 500 dólares.
+
+<soc>Asesor: Entiendo. Para poder llevarse una troca, necesitaríamos un mínimo de 3000 dólares de enganche. ¿Le gustaría que le contacte más adelante para ver si podemos ayudarle con alguna otra opción?

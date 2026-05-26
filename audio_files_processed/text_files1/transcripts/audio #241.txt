@@ -1,0 +1,17 @@
+<soc>Asesor: ¿Hello, hola, hola, hola, me escuchas? Les saludo de acá del dealer de autos. Hace algunas semanas hemos querido comunicarnos con usted y no habríamos podido. Queríamos confirmar que estoy interesado en comprar vehículos.
+
+<soc>Cliente: Sí, solo que estoy tratando de rendir una entrada para poder hacerlo.
+
+<soc>Asesor: Ok, perfecto. Entonces le voy a compartir por mensajito nuestra dirección y ya cuando esté listo para venir, me notifica, por favor.
+
+<soc>Cliente: Claro, me ayuda con la dirección. Su nombre puede ser por mensaje, ya que no tengo.
+
+<soc>Asesor: ¿Sí? Por mensajito se lo dejo. ¿Cuál sería su nombre, perdone?
+
+<soc>Asesor: Kevin Salina.
+
+<soc>Cliente: Ok, Kevin, entonces ahí le dejo la información por mensajito de texto.
+
+<soc>Asesor: Gracias.
+
+<soc>Cliente: Bueno, gracias

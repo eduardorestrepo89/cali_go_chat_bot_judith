@@ -1,0 +1,12 @@
+<soc>Asesor: Buenas tardes, ¿cómo está?
+<soc>Cliente: Sí, bueno, buenas tardes.
+<soc>Asesor: ¿Tengo el gusto de hablar con el señor Carlos?
+<soc>Cliente: Sí, soy yo.
+<soc>Asesor: Mucho gusto, Carlos. Mi nombre es Judith y le hablo del concesionario. Quería preguntarle si sigue interesado en comprar un vehículo.
+<soc>Cliente: Ah, sí, estoy interesado, pero la verdad es que ahorita no, tal vez más adelante.
+<soc>Asesor: Entiendo, ¿tiene en mente cuándo podría estar listo para hacer la compra?
+<soc>Cliente: Mmm, pues no estoy seguro, tal vez en unos meses, pero no tan pronto.
+<soc>Asesor: Perfecto, entonces lo puedo contactar más adelante, ¿le parece bien si le llamo en unos meses para ver cómo va su decisión?
+<soc>Cliente: Sí, eso estaría bien.
+<soc>Asesor: Excelente, Carlos. Estaremos en contacto. Muchas gracias por su tiempo y que tenga una excelente tarde.
+<soc>Cliente: Gracias a usted, igualmente, hasta luego.

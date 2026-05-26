@@ -1,0 +1,49 @@
+<soc>Asesor: Hola, le saluda el dealer de autos, quería darle más información sobre cómo trabajamos. No sé si tiene tiempo de atenderme.
+
+<soc>Cliente: ¿De donde son ustedes?
+
+<soc>Asesor: Del dealer de autos. No sé si está interesado en un vehículo.
+
+<soc>Cliente: Sí, estoy interesado en un vehículo. Ajá, cuénteme.
+
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa. Ofrecemos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros, necesitaría tres documentos: su identificación vigente, un comprobante de domicilio y un comprobante de trabajo. ¿Sería su primera vez financiando? ¿Ya tenía algún crédito?
+
+<soc>Cliente: No, ahorita no tengo crédito.
+
+<soc>Asesor: ¿Algún vehículo en especial que busque? ¿Marca, año o modelo? ¿Ford F-150?
+
+<soc>Cliente: Una, F-250.
+
+<soc>Asesor: Fíjese que el F-250 no tenemos en inventario; solo manejamos lo que son trocas. 1500 y 1502 no nos vienen.
+
+<soc>Cliente: ¿Me puedes mandar fotos de las trocas que tienen?
+
+<soc>Asesor: Claro, yo con gusto le mando fotos y si le gusta alguna, no sé qué día nos podría visitar. También le dejaré la dirección por un mensajito de texto.
+
+<soc>Cliente: ¿Cuál es tu nombre?
+
+<soc>Asesor: Mi nombre es Judith.
+
+<soc>Cliente: Judith, ok, Judith.
+
+<soc>Asesor: Bueno, estamos a la orden.
+
+<soc>Cliente: Mándame entonces las fotos que tengas de las trocas.
+
+<soc>Asesor: Yo con gusto se las dejo.
+
+<soc>Cliente: ¿Usted no refinancia con los bancos?
+
+<soc>Asesor: No, nosotros hacemos financiamiento en casa. No hay banco intermedio. Si tiene algún vehículo que quiera dejar de intercambio, ya tiene que estar pagado.
+
+<soc>Cliente: Sí, no, no tengo vehículo.
+
+<soc>Asesor: Ok, nosotros hacemos financiamiento en casa, pero también reportamos crédito, por si no tiene, para que lo comience.
+
+<soc>Cliente: Correcto. Bueno, igual mándame las fotos.
+
+<soc>Asesor: Sí, sí, ahí se las dejo.
+
+<soc>Cliente: Va. Muchísimas gracias, Judy.
+
+<soc>Asesor: Bueno, gracias a ustedes. Bye.

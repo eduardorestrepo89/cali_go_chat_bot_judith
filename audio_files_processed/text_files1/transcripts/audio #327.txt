@@ -1,0 +1,27 @@
+
+<soc>Asesor: Sí, le llamé del dealer. Queríamos saber si está interesado en comprar un vehículo.
+<soc>Cliente: Si cuentame
+
+<soc>Asesor: Ok, le comentó Eduardo que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Estaríamos solicitando solamente tres documentos para poder financiarle, los cuales serían su identificación, puede ser de aquí o de su país, pero tiene que estar vigente. También ocupa un recibo (bill), cualquier tipo de recibo. Si no está a su nombre, no hay problema, solo para confirmar dirección, y si tiene también un comprobante de ingreso.
+
+<soc>Cliente: Ok, sí tengo las tres y otra cosa, enganche.
+
+<soc>Asesor: ¿Ok, es su primer crédito o usted ya ha financiado alguna vez?
+
+<soc>Cliente: Es la primera vez que voy a comprar un carro.
+
+<soc>Asesor: Excelente. ¿Y algún vehículo que busque en especial?
+
+<soc>Cliente: Mira, estaría buscando un Honda o Toyota.
+
+<soc>Asesor: Ok. Ocuparía mínimo $2000 de enganche. No sé qué le parece.
+
+<soc>Cliente: Bueno, entonces estaría a la espera del dinero para poder, porque he averiguado que hay dealers que dan vehículos sin enganche.
+
+<soc>Asesor: Nosotros no manejamos esa política, y los enganches van desde los $2000 porque todos los vehículos que tenemos son del año 2019 en adelante. Inclusive con unos $800 de enganche nosotros estaríamos trabajando. Ese sería como el mínimo que le solicitaríamos para poder darle un vehículo.
+
+<soc>Cliente: Ok, bueno, entonces voy a guardar ese número para cuando tenga el dinero para el enganche. Los llamaré nuevamente.
+
+<soc>Asesor: Ok, perfecto. Entonces estamos a la orden. Que tenga un buen día.
+
+<soc>Cliente: Ok, igualmente.

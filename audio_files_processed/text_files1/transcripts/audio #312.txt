@@ -1,0 +1,17 @@
+<soc>Asesor: Hola, buen día, caballero.
+<soc>Cliente: Sí, buenos días. 
+<soc>Asesor: Le quería dar más información sobre cómo trabajamos. No sé si tiene tiempo para atenderme.
+<soc>Cliente: Sí, solo quería saber, ¿fue la del mensaje que envió ahorita?
+<soc>Asesor: Sí, exactamente. Nos acaba de mandar un mensaje.
+<soc>Cliente: Lo que necesito saber es dónde es. Bueno, no sé a qué distancia está desde aquí, de San Marcos.
+<soc>Asesor: Ok, estamos en San Fernando, California. Si gusta, le dejo la dirección por mensaje para que cheque la distancia.
+<soc>Cliente: San Fernando.
+<soc>Asesor: Sí, en San Fernando.
+<soc>Cliente: Pues mándenme la dirección para ver cuánto tiempo es de aquí a allá.
+<soc>Asesor: Claro, y si en dado caso no le queda tan lejos, ¿qué día nos visitaría?
+<soc>Cliente: Podría ser mañana.
+<soc>Asesor: Ok, entonces ahorita mismo le estoy dejando la dirección y nos vemos mañana si le queda cerca.
+<soc>Cliente: Perfecto, gracias.
+<soc>Asesor: De nada. Si tiene alguna otra pregunta antes de su visita, no dude en llamarme.
+<soc>Cliente: Lo haré. Gracias de nuevo.
+<soc>Asesor: Bueno, gracias a usted. ¡Hasta luego!

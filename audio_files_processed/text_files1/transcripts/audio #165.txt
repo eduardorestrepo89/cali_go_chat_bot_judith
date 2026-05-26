@@ -1,0 +1,13 @@
+
+<soc>Asesor: Hola, buen día. Tengo el gusto con el caballero Sebas. Les saludo de acá del dealer de autos. Le quería dar más información de cómo trabajamos. No sé si tiene tiempo de atenderme.
+<soc>Cliente: Perfecto, cuenteme.
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa. Damos tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros le estaríamos solicitando tres documentos: su identificación vigente, que puede ser de aquí o de su país; un bill, cualquier tipo de bill (si no está a su nombre, no hay problema, solo es para confirmar dirección); y un comprobante de ingreso. ¿Cuenta con los tres requisitos?
+<soc>Cliente: Sí, pero no tengo el comprobante de carro o algo así.
+<soc>Asesor: ¿Ok, es la primera vez que usted saca un vehículo financiado?
+<soc>Cliente: Pero, ¿qué es lo que piden? Porque yo vi por Facebook que no piden nada de down payment.
+<soc>Asesor: Fíjense que sí pedimos un down payment. Pedimos mínimo 1800 por un carro sedán. En la publicidad aparece que los vehículos que tenemos son del año 2018 al 2023, todos son bajos en millas y títulos limpios. Pero sí ocupamos un down payment. ¿No cuenta ahorita con enganche?
+<soc>Cliente: No, no cuento con eso todavía.
+<soc>Asesor: Ok. Si le invito a que, si no le urge el vehículo y está interesado en visitarnos, puede juntar el enganche. Aquí estamos a la orden.
+<soc>Cliente: Perfecto, gracias.
+<soc>Asesor: Gracias. Que tenga un buen día.
+<soc>Cliente: Igualmente, gracias.

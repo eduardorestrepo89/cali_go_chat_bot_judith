@@ -1,0 +1,13 @@
+<soc>Asesor: Buen día, ¿tengo el gusto con el caballero Alejandro?  Mi nombre es Judith. Nos comunicamos el jueves. Le saludo del dealer de autos en San Fernando, California. ¿Sigue interesado en visitarnos?
+<soc>Cliente: Sí, pero no tengo dinero.
+<soc>Asesor: Pero usted mencionó que tenía una Suzuki 2005 que podría dar a cambio, más $500 en efectivo.
+<soc>Cliente: Sí, pero no estoy seguro.
+<soc>Asesor: Recuerdo que quedamos en que nos iba a visitar. Si trae la Suzuki y los $500 de enganche, podemos ayudarle. Solo necesitamos ver la Suzuki para determinar cuánto le daremos por ella, y tiene que traer el título.
+<soc>Cliente: ¿Ustedes me dicen que me darían $800 por la camioneta y los $500?
+<soc>Asesor: Sí, eso se puede. Si la camioneta está en buen estado, es posible que le ofrezcamos un poco más. Si la trae, la evaluaremos. Así podrá dejar la Suzuki y los $500 de enganche y llevarse el nuevo vehículo. Buscamos que se lleve una SUV, tenemos varias opciones.
+<soc>Cliente: ¿A qué hora están abiertos?
+<soc>Asesor: Estamos abiertos hasta las 8:00 p.m. y mañana hasta las 6:00 p.m. ¿Le dejo nuestra dirección nuevamente?
+<soc>Cliente: Sí, por favor, porque se me borra.
+<soc>Asesor: Perfecto, le enviaré la dirección de nuevo. Nos vemos mañana. Que tenga un buen sábado. Gracias, señor.
+
+ 

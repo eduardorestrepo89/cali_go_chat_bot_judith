@@ -1,0 +1,31 @@
+<soc>Asesor: Hola, buen día. Lo estoy llamando del dealer de autos.
+<soc>Cliente: Sí, dígame. Disculpe, estaba en otras llamadas y no pude contestar. ¿Cómo puedo ayudarle?
+<soc>Asesor: Creo que hemos estado hablando hace un momento, ¿verdad?
+<soc>Cliente: Sí, me mandó su ubicación, ¿no?
+<soc>Asesor: Sí, por mi otro número. ¿No lo recibió?
+<soc>Cliente: Es el número 909, ¿verdad?
+<soc>Asesor: Sí, exactamente.
+<soc>Cliente: Estoy trabajando cerca, me quedan 13 minutos de donde me mandó la ubicación.
+<soc>Asesor: ¿Puede venir ahora?
+<soc>Cliente: No, no puedo. ¿Me puede mandar una foto?
+<soc>Asesor: ¿De los Honda?
+<soc>Cliente: Sí, le enviaré las fotografías.
+<soc>Asesor: ¿Y ese cuánto cuesta?
+<soc>Cliente: El precio total depende del plazo de financiamiento y del porcentaje de interés.
+<soc>Asesor: Tenemos que llenar la aplicación para decirle exactamente. Ahorita tengo Honda Civic y Honda Accord.
+<soc>Cliente: ¿Pero cuánto sale el carro?
+<soc>Asesor: El pago mensual mínimo es de 500 al mes.
+<soc>Cliente: ¿500 al mes?
+<soc>Asesor: Sí, tendríamos que ver los detalles al llenar la aplicación.
+<soc>Cliente: Para que me salga el pago un poco más barato.
+<soc>Asesor: Negociamos para que los pagos queden más bajos.
+<soc>Cliente: ¿Es seguro?
+<soc>Asesor: Claro, le ayudaremos. Aproveche venir una sola vez para evitar perder tiempo.
+<soc>Cliente: Voy a llevar los papeles.
+<soc>Asesor: Sí, su identificación, el título del vehículo y el vehículo para evaluar. Tenemos abierto hasta las 8:00 p.m. Mándame un mensaje cuando venga en camino.
+<soc>Cliente: ¿Me va a atender usted?
+<soc>Asesor: Sí, lo atenderé. Si estoy ocupado, no podré, pero si no, aquí estaré.
+<soc>Cliente: Quiero que usted me atienda, no otra persona.
+<soc>Asesor: Entiendo, aquí tenemos su información y estaremos listos para ayudarle.
+<soc>Cliente: Ok, gracias.
+<soc>Asesor: Bye.

@@ -1,0 +1,48 @@
+<soc>Asesor: Hola, muy buen día, caballero. Le saludo del dealer de autos. Tengo su número y sé que está interesado en un vehículo. Hemos estado intercambiando algunos mensajes. ¿Tiene tiempo para darle un poco más de información sobre cómo trabajamos el financiamiento?
+
+<soc>Cliente: Sí, claro.
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa y damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Los requisitos que estaremos solicitando son una identificación vigente, que puede ser de aquí o de su país. También necesita un comprobante de domicilio; si no está a su nombre, no hay problema, solo es para confirmar su dirección. Y también necesitamos un comprobante de ingreso. ¿Tendría los tres requisitos o habría inconveniente con alguno?
+
+<soc>Cliente: Sí, tengo el requisito.
+
+<soc>Asesor: Perfecto. Nosotros estamos en San Fernando, California. Después de colgar la llamada, le dejo nuestra dirección. ¿No sé qué día nos podrá visitar?
+
+<soc>Cliente: ¿San Fernando, California?
+
+<soc>Asesor: Sí. ¿Le queda lejos? ¿Dónde vive usted?
+
+<soc>Cliente: En San Francisco.
+
+<soc>Asesor: ¿San Francisco? Sí, estamos a varias horas de distancia. Si se anima a visitarnos, le aseguro que le ayudamos. Tenemos un amplio inventario. ¿Qué vehículo busca?
+
+<soc>Cliente: Ok, como está lejos, yo tendría que ir un mismo día y no sé si entregan ustedes el vehículo el mismo día.
+
+<soc>Asesor: Sí, le entregamos el vehículo el mismo día que nos visite.
+
+<soc>Cliente: ¿Ok? Ahora, no es una consulta. Bueno, la distancia no importa. Lo menos, ¿con el primer pago de inicio, de cuánto sería?
+
+<soc>Asesor: ¿Busca carro, troca o SUV?
+
+<soc>Cliente: No, un carrito.
+
+<soc>Asesor: Ok, ¿sería su primera vez financiando o ya tiene crédito establecido?
+
+<soc>Cliente: No, no, no, no, primera vez.
+
+<soc>Asesor: ¿Cuánto cuenta de enganche?
+
+<soc>Cliente: Por eso le pregunto yo a usted, ¿cuánto es lo que piden ustedes?
+
+<soc>Asesor: Fíjese que estaríamos solicitando un mínimo de $2000 de enganche por un carro sedán y los pagos mensuales mínimos son de $500.
+
+<soc>Cliente: Ajá, $2000 de enganche, está bien.
+
+<soc>Asesor: Y los pagos mensuales mínimos andan por los $500. Sería de verificar el vehículo que usted se va a llevar para establecer un pago mensual. También hay que llenar una aplicación para negociar el plazo del financiamiento y el porcentaje de interés al que califique. Eso se ve ya una vez el cliente nos dé toda la información y podamos ver cómo calificó. Pero, si no, los pagos no andan en menos de $500, es el mínimo que manejamos.
+
+<soc>Cliente: Ok, está bien.
+
+<soc>Asesor: Ok, ya le dejé nuestra dirección por un mensajito de texto, junto con nuestros horarios y recordándole los requisitos. Si se anima a visitarnos, aquí estamos a la orden.
+
+<soc>Cliente: Ok, gracias.
+
+<soc>Asesor: Bueno, gracias. Que tenga un buen día.

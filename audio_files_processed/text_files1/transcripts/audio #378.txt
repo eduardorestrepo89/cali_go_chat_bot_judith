@@ -1,0 +1,23 @@
+<soc>Asesor: Hola, buen día. Tengo el gusto de hablar con el caballero Romualdo. Un saludo del dealer de autos. Hemos estado intercambiando mensajes y le quería dar más información. No sé si tiene tiempo de atenderme.
+
+<soc>Cliente: Ajá. A ver, dime.
+
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Estaríamos solicitando tres documentos para poder financiar un vehículo, los cuales serían su identificación vigente, que puede ser de aquí o de su país. También se ocupa un comprobante de domicilio, cualquier tipo de comprobante, y si no está a su nombre, no hay problema. Por último, un comprobante de ingreso. ¿Sería su primera vez financiando? ¿Usted ya tiene crédito?
+
+<soc>Cliente: No, es que ando mal de crédito, por eso es que yo quería una troquita, pero nunca puedo conseguir.
+
+<soc>Asesor: Ok, entiendo. Nosotros hacemos financiamiento en casa, no hay bancos de intermediarios, por eso calificamos cualquier tipo de crédito. Para una troquita, necesitará un mínimo de $3,500 de enganche. ¿Está bien para usted? Este sería como el down payment. Estamos en San Fernando, le voy a dejar la dirección por un mensaje de texto. No sé qué día podría visitarnos en San Fernando.
+
+<soc>Cliente: Está un poco retirado.
+
+<soc>Asesor: ¿Dónde vive usted?
+
+<soc>Cliente: Vivo aquí en la ciudad de Artesia, California.
+
+<soc>Asesor: Ok. No sé si le interesaría venir hasta acá.
+
+<soc>Cliente: Estaría mejor, pero es que yo trabajo y solo tengo un día de descanso; no me da tiempo de llegar hasta allá.
+
+<soc>Asesor: Los domingos también estamos abiertos. Abrimos de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m. y los domingos desde las 10:00 a.m. hasta las 6:00 p.m.
+
+<soc>Asesor: Ahí le voy a dejar nuestra dirección, y si se anima a venir, pues aquí quedamos a la orden. Bueno, gracias, que tenga un bonito día.

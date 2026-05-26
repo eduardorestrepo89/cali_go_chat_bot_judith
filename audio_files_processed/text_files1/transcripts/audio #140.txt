@@ -1,0 +1,7 @@
+<soc>Asesor: Hola, hola, dígame.  
+<soc>Cliente: ¿Oiga, una preguntita y cuánto me cobran? ¿Cuánto me cobrarían al mes?, si saco un carro por un ejemplo de unos $18000.  
+<soc>Asesor: Ok, fíjense que en sí el precio total del vehículo ya con el financiamiento, si tendríamos que verificar a qué porcentaje de interés usted califica para poder decirle con exactitud en cuanto lo va a subir el vehículo. Pero las cuentas mensuales que nosotros manejamos en un carro sedan mínimo andan por las 450.  
+<soc>Cliente: Cada mes.  
+<soc>Asesor: Al mes. Sí, 450 a 500. Dependería del vehículo que se elija.  
+<soc>Cliente: Perfectamente. Si está bien, sin ningún problema.  
+<soc>Asesor: Ok, perfecto. Entonces, ok.  

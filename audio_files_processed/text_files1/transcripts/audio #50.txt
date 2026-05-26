@@ -1,0 +1,11 @@
+<soc>Asesor: Hola, hola, buen día caballero, le saludo del dealer de autos.  
+<soc>Cliente: ¿De dónde, perdón?  
+<soc>Asesor: Del dealer de autos.  
+<soc>Cliente: Oh, sí, sí.
+<soc>Asesor: Le quería dar un poco más de detalles de cómo trabajamos, no sé si tiene tiempo de atenderme.  
+<soc>Cliente: ¿Sí, cómo están ustedes?  
+<soc>Asesor: Muy bien, le comento que nosotros acá pues hacemos financiamiento en casa, vamos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros le estaríamos solicitando tres documentos, los cuales serían una identificación vigente, puede ser de aquí o de su país. También ocupa un bill, cualquier tipo de bill, si no usa su nombre no hay problema, solo para confirmar dirección y si tiene también un comprobante de ingresos.  
+<soc>Cliente: A ver, lo que pasa que yo trabajo pintando, pero me pagan cash.  
+<soc>Asesor: Ok, no hay problema. En ese caso, si le pagan cash y no tiene ningún documento para poder comprobar el ingreso, no es inconveniente, solo con la identificación y con el bill nosotros le ayudamos. ¿Y sería su primera vez financiando? ¿Usted ya tiene crédito establecido?  
+<soc>Cliente: Pues no había sacado nada hace muchos años ya ahorita no había comprado nada hasta ahorita que quiero. ¿Pero ahí decía que te probaban con $500, cómo es eso? ¿Cómo era eso ahí en la publicidad? 
+<soc>Asesor: Fíjense que yo creo que hay algún error porque nosotros ahorita estamos pidiendo mínimo unos 800 de enganche por un carro sedán, ¿usted cuenta con 500 de enganche?. 

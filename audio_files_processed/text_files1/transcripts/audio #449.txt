@@ -1,0 +1,20 @@
+<soc>Asesor: Hola, buen día. ¿Tengo el gusto con Tony?  
+<soc>Cliente: Hola como esta.  
+<soc>Asesor: Le saludo de acá del dealer de autos, no sé si tiene tiempo de atenderme.  
+<soc>Cliente: Ok, sí, sí.  
+<soc>Asesor: Ok. Nos escribió que estaba interesado en un vehículo. Una consulta, nosotros estamos hasta acá en San Fernando, California. ¿No le queda tan lejos San Fernando?  
+<soc>Asesor: Acá en el valle.  
+<soc>Cliente: El valle de San Fernando no está muy lejos.  
+<soc>Asesor: Ok, perfecto. Le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros le estaríamos solicitando tres documentos, los cuales serían su identificación vigente, puede ser de aquí o de su país. También ocupa un bill, cualquier tipo de bill. Si no está su nombre, no hay problema, solo para confirmar dirección y si tiene también un comprobante de ingreso.  
+<soc>Cliente: Perfecto.  
+<soc>Asesor: ¿Y sería su primera vez financiando hoy? ¿Ha tenido algún crédito?  
+<soc>Cliente: Es primera vez.  
+<soc>Asesor: Perfecto. ¿Algún vehículo en especial que usted busque? ¿Marca, año o modelo? ¿Camioneta, familiar o pickup?  
+<soc>Cliente: Pickup.  
+<soc>Asesor: Ok, perfecto. Acá le tenemos del año 2018 en adelante, lo tenemos Chevrolet Silverado, Chevrolet Colorado, Ford Ranger, Toyota Tacoma, Nissan Frontier, desde los 3000 de enganche. No sé si está bien para usted.  
+<soc>Cliente: Más o menos sí, está bien.  
+<soc>Asesor: Perfecto. ¿Y qué día nos podría visitar? Estamos acá ubicados en San Fernando, California. Le voy a dejar la dirección por un mensajito de texto. Estamos abiertos de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m. y los domingos desde las 10:00 a.m. hasta las 6:00 p.m.  
+<soc>Cliente: Perfecto. Sí, yo creo que como por el jueves es el día que puedo.  
+<soc>Asesor: Ok, entonces ahí le voy a compartir nuestra dirección por un mensajito de texto y nos vemos el jueves.  
+<soc>Cliente: Muchas gracias.  
+<soc>Asesor: Gracias, feliz día. Bye.

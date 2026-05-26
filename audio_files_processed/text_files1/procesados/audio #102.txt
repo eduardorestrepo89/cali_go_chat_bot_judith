@@ -1,0 +1,11 @@
+Speaker A: Hola, buenas tardes. Buenas tardes, le saluda del dealer de autos.
+Speaker B: ¿Quién es? Oh, sí.
+Speaker A: Quería saber si sigue interesado en adquirir un vehículo.
+Speaker B: Mira que estoy interesado, pero está.
+Speaker A: Ocupado ahorita.
+Speaker B: No, lo que pasa es que no sé cuánto será lo que piden de enganche. Ustedes.
+Speaker A: Por un carro se dan mínimo 1800 de enganche.
+Speaker B: ¿Oh, sí, verdad?
+Speaker A: Sí. Todavía no sería listo con el enganche.
+Speaker B: No, todavía no soy listo con el enganche. Mejor yo le llamo despuésito.
+Speaker A: Okay, perfecto. Y espera su llamada. Gracias. Feliz tarde. Bye, bye. Gracias.

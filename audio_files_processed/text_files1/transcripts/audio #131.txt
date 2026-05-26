@@ -1,0 +1,21 @@
+<soc>Asesor: Hola, muy buenas tardes caballero, les saludo del dealer. Estuvimos intercambiando algunos mensajitos y me dijo que por lo menos en estas horas iba a tener un poco de tiempo. No sé si tiene chance de atender mi llamada.  
+<soc>Cliente: ¿Hola, sí, qué tal? Sí, sí, sí, claro que sí cuenteme.  
+<soc>Asesor: Muy bien. Le quería dar más información de cómo nosotros trabajamos. Le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros le estaríamos solicitando tres documentos, los cuales serían su identificación vigente, puede ser de aquí o de su país. También ocupa un comprobante de domicilio, puede ser cualquier tipo de recibo, aunque no esté a su nombre, solo queremos confirmar dirección y si tiene también un comprobante de ingreso. ¿Ok, sería su primera vez financiando o usted ya tiene algún crédito?  
+<soc>Cliente: No, no, no es la primera vez.  
+<soc>Asesor: Excelente. ¿Algún vehículo que usted busque? ¿Carro, otro tipo de automóvil?  
+<soc>Cliente: No, no, no. Un automóvil, pero bien sencillo.
+<soc>Asesor: un sedán, ¿verdad? 
+<soc>Cliente: Sí, sí, sí, un sedan esta bien  
+<soc>Asesor: ¿Le tengo Honda, le tengo Toyota, Nissan, Kia, Chevy? Le tengo variedad de carros sedán desde los 2000 de enganche, no sé qué le parece.  
+<soc>Cliente: Ok, bueno, pues es que ahí es donde está el tema. No tengo todo ese enganche porque pues ahora he visto la publicidad de 500.  
+<soc>Asesor: Ok, 500 en el enganche. Fíjese que ahorita los vehículos que tenemos son bastante recientes, del 2019 en adelante, pero le podemos dar dos opciones. Lo que es un down payment diferido, este también es bajo aplicación. Usted aplica bajo un down payment diferido y lo que hacemos es que el día que se venga, ese día nosotros llenamos la aplicación, usted deja los 500 y se lleva el vehículo y le damos cierto tiempo para poder traer el resto del enganche. Y la otra opción es un depósito, es decir, usted viene, llenamos la aplicación, aprueba, elige el vehículo y lo deja apartado. Tenemos esas dos opciones con las cuales podríamos trabajar con usted. ¿No sé qué le parece?  
+<soc>Cliente: Pues me parece bien y yo creo que sería la primera opción.  
+<soc>Asesor: Excelente. Entonces nosotros acá estamos ubicados en San Fernando, California y abrimos de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m. y los domingos desde las 10:00 a.m. hasta las 6:00 p.m. No sé qué día nos podría visitar.  
+<soc>Cliente: Bueno, San Fernando por el valle, yo creo que voy el fin de semana, viernes, pero entonces necesitaría que por favor me envíes a este número lo que tengas disponible.  
+<soc>Asesor: Claro, con gusto. Yo le voy a dejar las fotografías, vamos a dejar la cita para el fin de semana, ¿verdad?  
+<soc>Cliente: Si puedo antes, sin embargo envíame la dirección y eso porque si puedo antes, pues yo paso antes.  
+<soc>Asesor: Ok Luis, entonces ahí le voy a dejar la dirección por un mensajito de texto, también le voy a dejar fotografías y me comunicaré con usted aproximadamente el viernes.  
+<soc>Cliente: Ok, ok, está bien. ¿Cuál es su nombre? ¿Disculpe?  
+<soc>Asesor: Mi nombre es Judith. 
+<soc>Cliente:Ok, muchas gracias.  
+<soc>Asesor: Gracias a usted.  

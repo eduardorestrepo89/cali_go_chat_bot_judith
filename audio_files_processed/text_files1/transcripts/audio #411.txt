@@ -1,0 +1,18 @@
+<soc>Asesor: Hola, buen dia, le saludo del dealer de autos. Hemos estado intercambiando mensajitos, no sé si tiene tiempo de atender mi llamada.  
+<soc>Cliente: Sí, ahorita puedo.  
+<soc>Asesor: Ok, bueno, le comento que nosotros hacemos financiamiento en casa, vamos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros le estaríamos solicitando tres documentos, los cuales serían su identificación, puede ser de aquí o de su país, pero vigente también ocupa un Bill, cualquier tipo de Bill, si no está su nombre no hay problema, solo para confirmar dirección y si tiene también un comprobante de ingresos. ¿Cuenta con los tres documentos o habría inconveniente con algunos?  
+<soc>Cliente: Sí, sí, sí, cuento con eso.  
+<soc>Asesor: Ok, perfecto. ¿Y sería su primera vez financiando? ¿Usted ya ha tenido algún crédito?  
+<soc>Cliente: Mira, en realidad pues es la primera vez en autos. Pero el problema es, bueno, lo que ando buscando, ando buscando una camioneta
+<soc>Asesor: qué tipo de camioneta, alguna marca o modelo en especial que se busque?  
+<soc>Cliente: Pues la neta, neta, si estoy buscando como una GMC o una Chevy.  
+<soc>Asesor: Ok. Le tengo GMC Sierra y le tengo Chevrolet Silverado y Colorado. Ocuparía mínimo unos 3500 de enganche. No sé si está bien para usted.  
+<soc>Cliente: No, pues eso me parece bien, pero el problema es que cuando llega uno ahí como que lo suben.  
+<soc>Asesor: Claro, usted tiene razón. Mire, nosotros acá, por eso le hago muchas preguntas antes de hablarle del Down Payment. pues acá con 3500 le ayudamos. Ya si usted me hubiera mentido y su crédito está dañado por alguna razón, si se le pide un poco más de enganche, porque si el cliente tiene crédito dañado, entonces sube un poco más lo que es el down payment. Pero en su caso si tienes 3500 le ayudamos.  
+<soc>Cliente: Ok, está bien. Si me hace el favor de mandarme la ubicación.  
+<soc>Asesor: Claro que sí, yo con gusto le dejo la dirección por un mensajito de texto. No sé qué día nos podría visitar. Estamos abiertos de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m. y los domingos desde las 10:00 a.m. hasta las 6:00 p.m.  
+<soc>Cliente: Oh, sería mejor un día domingo.  
+<soc>Asesor: ¿Perfecto, como a qué hora es el domingo para estar pendientes?  
+<soc>Cliente: A la 1:00 p.m. porque bueno, trabajo todos los días hasta noche, por eso pienso este hacerlo hasta el domingo.  
+<soc>Asesor: Domingo, perfecto. Entonces aquí le voy a dejar nuestra dirección por mensajito de texto y el domingo me comunicaría con usted para confirmar su cita.  
+<soc>Cliente: Claro Gracias. Bye.

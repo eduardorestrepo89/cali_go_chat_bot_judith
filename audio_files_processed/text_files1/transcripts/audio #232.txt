@@ -1,0 +1,17 @@
+<soc>Asesor: Hola, buen día. Tengo el gusto con el caballero Eduardo.
+<soc>Cliente: Sí, él habla.
+<soc>Asesor: Lo saludo de acá del dealer de autos. ¿Cómo se encuentra hoy?
+<soc>Cliente: Estoy bien, gracias. ¿Y usted?
+<soc>Asesor: Muy bien, gracias por preguntar. No sé si ahora tiene tiempo de atender mi llamada.
+<soc>Cliente: Sí, claro.
+<soc>Asesor: Ok, le comento que hacemos financiamiento en casa. Ofrecemos hasta tres años de garantía en motor, transmisión y aire acondicionado. Estaríamos solicitando solo tres documentos para poder financiarle un vehículo, los cuales serían su identificación, un comprobante de ingreso y un comprobante de domicilio. ¿Sería su primera vez financiando? ¿Se había tenido crédito anteriormente?
+<soc>Cliente: Había tenido, pero está malo.
+<soc>Asesor: Ok, no hay problema. ¿Busca algún vehículo en especial, marca, año o modelo?
+<soc>Cliente: No realmente, si califico, puede ser cualquiera.
+<soc>Asesor: Ok, usted ocuparía mínimo unos 2500 de enganche y para una troca unos 4000. No sé qué le parece.
+<soc>Cliente: ¿Uno que tengamos que ocupe menos?
+<soc>Asesor: Fíjese que por la situación de que usted tiene mal crédito sí ocuparía mínimo unos 2500 para un carro sedán, trataríamos de ayudarle con unos 2000 mínimo. ¿Ok, más o menos dentro de cuánto estaría listo para estar pendiente?
+<soc>Cliente: Dame un mes.
+<soc>Asesor: Ok, bueno, entonces ahí le voy a compartir nuestra dirección y me vuelvo a comunicar con usted dentro de un mes.
+<soc>Cliente: Perfecto, gracias.
+<soc>Asesor: Gracias a usted, que tenga un buen día.

@@ -1,0 +1,20 @@
+Speaker B: Aló, buen día caballero, le saludo.
+Speaker A: ¿Hola, cómo estás? Es que estoy interesado en un carrito.
+Speaker B: Ok, perfecto. ¿Busca financiar carro, otro costo, no te.
+Speaker A: Entiendo.
+Speaker B: Busca algún vehículo en especial, marca, daño o modelo?
+Speaker A: Pues estoy buscando por ahí un carrito bueno, barato, bonito, económico. ¿Qué me recomendaría?
+Speaker B: ¿Ok, ahorita le tengo carro sedán del año 2018 en adelante, desde los 1800 de enganche, no sé, qué le parece?
+Speaker A: ¿Dos 801.
+Speaker B: 800.
+Speaker A: Yo estoy en Riverside, cómo hacemos para verlo?
+Speaker B: Estamos acá en San Fernando, California. Si usted le dejo nuestra dirección, San.
+Speaker A: Fernando es muy.
+Speaker B: Lejos de Riverside, estamos como 1 h aproximadamente hora y media.
+Speaker A: ¿Me puede regalar la dirección? A ver si alcanzo a ir y me regalas por quien llegó preguntando.
+Speaker B: Ok, perfecto. También le comento que los requisitos que tienen que presentar principalmente su identificación y el enganche, que son uno 800.
+Speaker A: Listo, ok, tranquila.
+Speaker B: ¿Y qué día podría visitar para estar pendiente?
+Speaker A: Voy a tratar de ir hoy, si no voy mañana lista.
+Speaker B: Ok, excelente. Ahí le dejé la dirección por un mensajito de texto para que la cheque.
+Speaker A: Ok, bueno, gracias.

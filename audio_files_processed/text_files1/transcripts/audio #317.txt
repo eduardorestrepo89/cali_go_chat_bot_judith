@@ -1,0 +1,20 @@
+<soc>Asesor: Hola, hola.
+<soc>Cliente: ¿Bueno, bueno?
+<soc>Asesor: Buen día, caballero, ¿qué tal?
+<soc>Cliente: Bien, bien, gracias a Dios.
+<soc>Asesor: Me alegra escuchar eso. Mi nombre es Judith. Hace algunas semanas nos comunicamos porque estaba interesado en comprar un vehículo. Le saludo del concesionario de autos y quería saber si sigue interesado en visitarnos para adquirir un vehículo.
+<soc>Cliente: Pues ahorita, la verdad, no. Salí del estado y no estoy en California en este momento, pero sí estoy interesado. Cuando regrese a California, le llamo.
+<soc>Asesor: Entendido. No hay problema. Le voy a enviar nuestra dirección por mensaje para que la tenga registrada. También le comparto mi nombre y mi número para que pueda contactarme cuando esté de vuelta.
+<soc>Cliente: ¿El número es privado?
+<soc>Asesor: Sí, es mi número directo.
+<soc>Cliente: Perfecto. Gracias, Judith.
+<soc>Asesor: Con mucho gusto. Recuerde que estamos aquí para ayudarle con lo que necesite. Si tiene alguna pregunta o duda antes de su visita, no dude en contactarme.
+<soc>Cliente: Claro, lo haré. Entonces, ¿qué tipo de vehículos tienen en su inventario?
+<soc>Asesor: Tenemos una amplia variedad. Desde sedanes, SUVs, hasta camionetas. Las marcas más populares son Toyota, Honda, Nissan, Ford, y Chevrolet. Todos son modelos recientes y en muy buenas condiciones.
+<soc>Cliente: Suena bien. Tal vez cuando regrese, me gustaría ver un SUV.
+<soc>Asesor: Perfecto. Le puedo mostrar opciones de Toyota RAV4, Honda CR-V, y Ford Escape. Todos tienen buen rendimiento y espacio.
+<soc>Cliente: Genial, me encantan los SUVs. Espero regresar pronto y poder ir a verlos.
+<soc>Asesor: Claro, aquí lo esperamos cuando regrese. No olvide llamarme para agendar una cita.
+<soc>Cliente: Lo haré. Muchas gracias por su ayuda, Judith.
+<soc>Asesor: De nada. Cuídese mucho y que tenga un buen día.
+<soc>Cliente: Gracias, igualmente. Hasta luego.

@@ -1,0 +1,14 @@
+<soc>Asesor: Hola caballero, le saludo de acá del dealer, no sé si ahora si tiene tiempo de atenderme.  
+<soc>Cliente: Claro que sí, este, estamos listos.  
+<soc>Asesor: Ok, bueno, le comento que nosotros hacemos financiamiento en casa, damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros le estaríamos solicitando tres documentos, los cuales serían su identificación vigente, un comprobante de ingreso y un comprobante de domicilio. ¿Sería su primera vez financiando o usted ya tiene crédito?  
+<soc>Cliente: No, no tengo crédito, anda mal, creo que está abajo mi crédito.  
+<soc>Asesor: Ok, aunque tenga mal crédito nosotros de igual forma le ayudamos, ese no es ningún inconveniente. ¿Y busca algún vehículo en especial, marca, año o modelo?  
+<soc>Cliente: ¿Pues mire, ando buscando lo que es una Toyota Tacoma o Toyota sería troca o algo así?  
+<soc>Asesor: En Tacoma le tengo varias ahorita desde los 3500 de enganche, ya tengo del año 2018 en adelante, desde las 10000 millas. ¿No sé qué día las puede venir a ver personalmente?  
+<soc>Cliente: ¿Claro que sí, creo que la dirección que me mandaron por WhatsApp es esta la correcta, verdad?  
+<soc>Asesor: Sí, estamos acá en el valle de San Fernando y ahí le compartí nuestros horarios. No sé qué día tendrá tiempo de darse la vuelta.  
+<soc>Cliente: Necesito primero ver hoy en la noche, tal vez mañana sería este viernes o demás, con más seguridad el sábado en la mañana.  
+<soc>Asesor: Ok, perfecto, entonces ahí ya tiene nuestra dirección y nos vemos el sábado en la mañana.  
+<soc>Cliente: ¿Con quién podría yo hablar?  
+<soc>Asesor: Con quien sea, ahí a este número puede regresar la llamada o escribir el WhatsApp, ahí estoy siempre pendiente. Muchas gracias, 
+<soc>Cliente: Oiga, bueno, gracias, estamos en contacto.  

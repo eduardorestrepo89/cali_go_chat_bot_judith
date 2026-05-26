@@ -1,0 +1,12 @@
+<soc>Cliente: ¿Aló?
+<soc>Asesor: Hola, buenas tardes. Le saludo del dealer de autos.
+<soc>Cliente: Sí, dígame.
+<soc>Asesor: Quería darle más información de cómo trabajamos. No sé si tiene tiempo de atenderme. 
+<soc>Cliente: Ok, vale, de un dealer. Hola, buenas tardes.
+<soc>Asesor: Le saludo del dealer de autos. Tenía que unos mensajitos de que le interesa adquirir un vehículo financiado.
+<soc>Cliente: Sí, sí, estoy en busca de vehículo.
+<soc>Asesor: ¿Y dónde estás ubicada? Fíjense que nosotros estamos acá en San Fernando, California. ¿No se encuentra en este estado?.
+<soc>Cliente: No, estoy en Monterrey.
+<soc>Asesor: Ok, me disculpas por favor, creo que el de marketing se ha equivocado con lo que es la publicación. Quedo a la orden, que tenga una excelente tarde.
+<soc>Cliente: Gracias.
+<soc>Asesor: Bueno, gracias, doctor.

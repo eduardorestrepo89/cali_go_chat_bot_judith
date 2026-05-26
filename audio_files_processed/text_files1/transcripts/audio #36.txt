@@ -1,0 +1,35 @@
+<soc>Asesor: Hola, buen día. acá nos apareció en el sistema que estaba interesado en un vehículo.
+
+<soc>Cliente: Oh, sí, sí, sí. cuenteme
+
+<soc>Asesor: Solo que estoy viendo que usted se encuentra en San Diego, ¿verdad? Nosotros estamos en San Fernando, California. No sé si le interesaría venir hasta acá.
+
+<soc>Cliente: Pues a lo mejor, pero cuénteme cómo funcionan las cosas con ustedes.
+
+<soc>Asesor: ¿Ok, sería su primera vez financiando? ¿Usted ya ha tenido algún crédito?
+
+<soc>Cliente: Sí, primera vez. La verdad no tengo mucho tiempo de estar en este país, pero estamos viendo la necesidad de un vehículo.
+
+<soc>Asesor: ¿Ok, y busca algún vehículo en especial, alguna marca?
+
+<soc>Cliente: Pues para empezar sería tal vez lo más económico que hubiera. No sé si ustedes venden carros usados o nuevos.
+
+<soc>Asesor: No, son semi-nuevos del año 2019 al 2023. Todos son bajos en millaje y tienen título.
+
+<soc>Cliente: Listo. ¿Y sería, sería bueno? No sé qué es lo que tengan, pues, verdad? Porque no, no tengo nada en específico.
+
+<soc>Asesor: Le puedo ofrecer un carro sedán desde dos mil ochocientos de enganche. ¿Cómo qué le parece?
+
+<soc>Cliente: Pues la verdad siento que... ¿Cuál sería lo más económico que tuvieran ahorita?
+
+<soc>Asesor: Uno mil ochocientos de enganche.
+
+<soc>Cliente: ¿Uno mil ochocientos? Mire, perdone, ¿me pudieran mandar fotos de lo más económico que tengan para yo poder ver y comunicarme pronto?
+
+<soc>Asesor: Claro, yo le dejo fotografías y también otra dirección porque estoy muy en contacto.
+
+<soc>Cliente: Claro que sí, le voy a decir bastante.
+
+<soc>Asesor: Gracias, mi amado.
+
+<soc>Cliente: Mucho gusto.

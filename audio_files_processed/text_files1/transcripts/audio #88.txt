@@ -1,0 +1,17 @@
+<soc>Asesor: Hola, buen día. ¿Tengo el gusto con Mario?  
+<soc>Cliente: No, esta equivocada.  
+<soc>Asesor: Ok, fíjese que Mario James nos dio ese número a través de las redes sociales que estaba interesado en un vehículo.  
+<soc>Cliente: Ah, carajo.  
+<soc>Asesor: Sí, Entonces no me he equivocado.  
+<soc>Cliente: ¿De qué dealer me habla?  
+<soc>Asesor: Cali go Autos.  
+<soc>Cliente: Oh, es que están con los comerciales un montón dando lata. Sí, no se preocupe. Este sí soy yo. No se preocupe, dígame.  
+<soc>Asesor: Yo le llamo para darle un poco más de información de cómo trabajamos el financiamiento. ¿Acá me ponía usted que busca una troca, verdad? Nosotros acá le tenemos varias trocas. Le tenemos Tacoma, Silverado, Colorado, Ford F-150, Ranger, Frontier, Dolphin. No sé si busca alguna en específico.  
+<soc>Cliente: Ya necesito algo económico y que sea doble cabina.  
+<soc>Asesor: Ok, aquí le tengo trocas del 2018 en adelante, desde los 3000 de enganche. ¿No sé qué día puede venir a verlas personalmente? Puede venir sin ningún compromiso. Nosotros le estaríamos ofreciendo tres años de garantía en motor, transmisión, aire acondicionado, el primer mes aseguranza gratis, una amplia variedad en nuestro inventario. Y los requisitos que solicitamos principalmente es una identificación vigente.  
+<soc>Cliente: ¿Qué más te voy a preguntar en dónde se encuentran ubicados?  
+<soc>Asesor: Estamos acá en el valle de San Fernando por las 65 Fox. Abrimos de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m. y los domingos desde las 10:00 a.m. hasta las 6:00 p.m. Le voy a compartir nuestra información por un mensajito de texto.  
+<soc>Cliente: ¿Ok, sabes qué? ¿Mándame la dirección, puedo ir mañana o el domingo, no?  
+<soc>Asesor: Ok, ahí lo dejo la dirección y estamos en contacto.  
+<soc>Cliente: Muchas gracias.  
+<soc>Asesor: Gracias a usted. Feliz día. Bye.  

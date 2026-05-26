@@ -1,0 +1,13 @@
+<soc>Asesor: Hola, buen día 
+<soc>Cliente: buenos días.  
+<soc>Asesor: Te saluda del dealer de auto. Caballero, no sé si tiene tiempo de atenderme.  
+<soc>Cliente: Ajá, sí.  
+<soc>Asesor: Ok, le comento que hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, en transmisión y en aire acondicionado. ¿Para poder calificar con nosotros ocupar ya su identificación vigente, un comprobante de ingreso y un comprobante de domicilio?  
+<soc>Cliente: Y de cómo tienen los precios los carritos?  
+<soc>Asesor: Fíjense que los precios van dependiendo del vehículo y como califica el cliente. Nosotros solo vendemos financiado; por un carro se ocupa mínimo 1800 de enganche y los precios van arriba de los 20000 de financiados.  
+<soc>Cliente: ¿Arriba de los 20000?  
+<soc>Asesor: Sí, no sé si usted buscaba algo un poco más económico, dado que nosotros acá solo le tenemos del año 2019 al año 2023; los precios son un poco elevados. De hecho, a veces nos viene un 2018, pero es raro, ¿verdad? De lo contrario.  
+<soc>Cliente: No, ya buscaba un 2010. Por lo menos.  
+<soc>Asesor: En este caso sí le quedaría mal porque no tenemos por el momento, caballero. Ya si busca uno más reciente, quedó a la orden para poder ayudarle.  
+<soc>Cliente: Va, está bien, muchas gracias.  
+<soc>Asesor: Gracias, que tengan un feliz día. Bye.

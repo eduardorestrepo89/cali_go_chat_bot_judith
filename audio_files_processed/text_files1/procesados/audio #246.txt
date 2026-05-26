@@ -1,0 +1,7 @@
+Speaker B: ¿Aló?
+Speaker A: Hola, buenas tardes caballero. Tengo el gusto con el señor Linares.
+Speaker B: Sí, dígame.
+Speaker A: Mi nombre es Judith, nos comunicamos hace algunos días. Le saludo de acá del dealer de autos y quería saber si sigue interesado en comprar vehículos.
+Speaker B: Ah, sí, dígame de cuál.
+Speaker A: Ok, fíjense que acá no teníamos el chat, pero no me había dicho qué vehículo busca. No sé si busca alguna marca en especial. Acá le tengo de varias marcas y modelos.
+Speaker B: Okay, mir. Okay, gracias. Bye.

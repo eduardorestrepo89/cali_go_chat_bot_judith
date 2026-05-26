@@ -1,0 +1,23 @@
+<soc>Asesor: Buen día, Le saludo de aquí del dealer de autos. Quería saber si sigue interesado en comprar un vehículo.
+
+<soc>Cliente: ¿Cuál dealer?
+
+<soc>Asesor: Es aquí en San Fernando, California.
+
+<soc>Cliente: ¿San Fernando? Estará muy lejos de aquí. Hilroy
+
+<soc>Asesor: Ustedes están en San José, ¿verdad?
+
+<soc>Cliente: Sí, aquí en Hilroy.
+
+<soc>Asesor: Ok, no sé si le interesaría visitarnos. Estamos abiertos de lunes a sábado hasta las 8:00 p.m. y los domingos hasta las 6:00 p.m.
+
+<soc>Cliente: Puede que a lo mejor el fin de semana, porque ahorita no voy a poder. ¿Será posible?
+
+<soc>Asesor: Excelente. Entonces, le dejo nuestra dirección.
+
+<soc>Cliente: Sí, por favor.
+
+<soc>Asesor: Bueno, gracias. Que tenga un buen día.
+
+<soc>Cliente: Sí, gracias a usted.

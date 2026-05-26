@@ -1,0 +1,14 @@
+Speaker A: Hola, buen día, tengo al uso con Marta.
+Speaker B: Sí, soy yo, les saludo de acá.
+Speaker A: Del dealer de autos. Tenía un mensaje de parte suya a través de las redes sociales que le interesa un vehículo y le quería dar más información, no sé si tiene tiempo de atenderme. Sí, ok, le comento que nosotros hacemos financiamiento en casa, damos hasta tres años de garantía en motor, en transmisión y aire acondicionado. Para calificar con nosotros le estaríamos solicitando solamente tres documentos, los cuales serían su identificación vigente, un comprobante de ingreso 1, comprobante de domicilio.
+Speaker B: Mi único comprobante de ingresos es mi cuenta de banco.
+Speaker A: Ok, entonces nos puede traer un estado de cuenta, eso le funciona y si lo tiene en el teléfono, pues ahí lo podemos checar.
+Speaker B: ¿Ok, y sería su primera vez financiando?
+Speaker A: ¿Usted ya ha tenido algún crédito anteriormente?
+Speaker B: No, es mi primera vez.
+Speaker A: Excelente. ¿Busca un carro, verdad? ¿Un sedán deportivo? Sí, por el momento carros deportivos no le tengo, pero si le tengo varios sedán, lo más sport que le podría ofrecer es un Honda Civic Sport. ¿No sé qué le parece ver opciones? Acá le tengo del año 2018 al 2023, todos son bajos en mi a título limpio y con los tres años de garantía.
+Speaker B: No, lo que pasa es que quiero un carro en específico, quiero un Mustang.
+Speaker A: Mustang, perfecto, entonces quedaría de notificarle en cuanto no venga algún Mustang.
+Speaker B: Ok, perfecto.
+Speaker A: Bueno, eso me encanta. Que tenga un buen día.
+Speaker B: Gracias. Seguramente.

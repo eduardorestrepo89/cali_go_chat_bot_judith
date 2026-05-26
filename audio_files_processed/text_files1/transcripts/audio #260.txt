@@ -1,0 +1,27 @@
+<soc>Asesor: Hola, buenas tardes caballero. Le saludo desde Cali Go Autos. Hemos estado intercambiando mensajes por el vehículo que busca. ¿Tiene tiempo para atenderme?
+<soc>Cliente: Sí, ¿cuál vehículo?
+<soc>Asesor: Solo nos dejó su interés en nuestro programa de ayuda para vehículos. ¿Busca alguna marca o modelo en especial?
+<soc>Cliente: ¿En qué estado están?
+<soc>Asesor: Estamos en California, en San Fernando.
+<soc>Cliente: Yo también estoy en California, cerca de Los Ángeles.
+<soc>Asesor: Ok, estamos a unos 35-40 minutos de Los Ángeles. Nosotros ofrecemos financiamiento en casa, sin intermediarios bancarios, con tres años de garantía en motor, transmisión y aire acondicionado. El financiamiento puede ser de seis meses a cinco años, ajustándose al cliente. Para calificar, necesita una identificación vigente, un comprobante de domicilio (Bill) y un comprobante de ingresos.
+<soc>Cliente: Yo no vivo en Los Ángeles, estoy en Fresno, California.
+<soc>Asesor: ¿Le interesaría venir hasta San Fernando? Tenemos un excelente inventario y facilidades de pago y financiamiento.
+<soc>Cliente: Tengo una pregunta, actualmente estoy pagando un vehículo, pero necesito una camioneta. Apenas llevo seis meses con el carro y no sé qué se puede hacer.
+<soc>Asesor: Entiendo. Nosotros podríamos financiarle una camioneta, pero no refinanciar el vehículo que ya tiene.
+<soc>Cliente: No quiero refinanciar el carro, me lo quiero quedar.
+<soc>Asesor: Perfecto. ¿Está buscando una troca o una camioneta familiar?
+<soc>Cliente: Una troca.
+<soc>Asesor: Tenemos trocas disponibles. Necesitaría un mínimo de $3,500 de enganche. Las tenemos desde el año 2018 en adelante: Tacoma, Silverado, Colorado, F-150, Dodge Ram, Nissan Frontier.
+<soc>Cliente: Me gusta más la Ford.
+<soc>Asesor: Tenemos varias Ford F-150. Lo invito a que nos visite. Estamos abiertos de lunes a sábado de 10:00 a.m. a 8:00 p.m., y domingos de 10:00 a.m. a 6:00 p.m. Le aseguro que calificará con nosotros, ya que hacemos el financiamiento directamente, sin bancos.
+<soc>Cliente: ¿Y de cuánto serían los pagos más o menos para una troca? ¿Tienen vehículos con poco millaje?
+<soc>Asesor: Tenemos trocas con entre 8,000 y 60,000 millas. Entre menos millas, mayor sería el enganche. Los pagos mensuales empiezan alrededor de $650, dependiendo del financiamiento y la troca exacta.
+<soc>Cliente: Eso está bien, ya que es similar a lo que pago por mi carro. Estoy planeando transferir mi carro a un familiar, pero necesito una camioneta.
+<soc>Asesor: Perfecto. ¿Cuándo podría visitarnos para ver los vehículos?
+<soc>Cliente: ¿Dónde exactamente está San Fernando?
+<soc>Asesor: Está a unas 5 horas de Fresno. Le enviaré la dirección por mensaje de texto.
+<soc>Cliente: Sí, por favor, mándeme fotos de las camionetas. No busco una troca nueva, no quiero pagar tanto. Estoy acomodando mi carro para pasarlo a un familiar, ya que necesito más una camioneta.
+<soc>Asesor: Claro, le enviaré las fotos junto con la dirección. Estamos a su disposición para cualquier cosa.
+<soc>Cliente: Muchas gracias.
+<soc>Asesor: Gracias a usted. Que tenga una buena tarde.

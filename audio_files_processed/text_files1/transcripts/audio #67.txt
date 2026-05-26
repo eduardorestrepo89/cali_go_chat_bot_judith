@@ -1,0 +1,17 @@
+<soc>Asesor: Hola, buen día. Tengo el gusto con Juan Carlos.  
+<soc>Cliente: Sí, hola.  
+<soc>Asesor: Le saludo del dealer de autos. Quería darle más información de cómo trabajamos, no sé si tiene tiempo de atenderme.  
+<soc>Cliente: Sí.  
+<soc>Asesor: Ok. Le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros le estaríamos solicitando solamente tres documentos, los cuales serían una identificación vigente, un comprobante de ingreso y un comprobante de domicilio.  
+<soc>Cliente: Si los tengo.  
+<soc>Asesor: Perfecto. ¿Y sería su primera vez financiando? ¿Usted ya ha tenido anteriormente un crédito?  
+<soc>Cliente: No, primera vez.  
+<soc>Asesor: Excelente. ¿Algún vehículo en especial que usted busque? ¿Marca, año, modelo?  
+<soc>Cliente: Pues no sé cuánto. ¿Con cuál más o menos? Primer comprador.  
+<soc>Asesor: ¿Ok, busca carro, troca o SUV?  
+<soc>Cliente: Carro? Como de siete pasajeros.  
+<soc>Asesor: Ok, una SUV de siete pasajeros, las tenemos desde los 2500 de enganche. Le tengo del año 2018 en adelante. ¿No sé qué día usted podría venir personalmente al dealer a verla? Le voy a dejar la dirección por un mensaje de texto. Estamos acá en San Fernando, California.  
+<soc>Cliente: Ok, mándame la dirección y a lo mejor mañana. Si mañana puedo o el domingo.  
+<soc>Asesor: Ok, perfecto. Entonces ahí le dejo nuestra dirección para que cheque y estamos ahí pendientes.  
+<soc>Cliente: Sí, muchas gracias.  
+<soc>Asesor: Bueno, gracias. Feliz día. Bye.   

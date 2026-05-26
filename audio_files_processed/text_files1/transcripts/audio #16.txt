@@ -1,0 +1,17 @@
+<soc>Cliente: Hola, buen día.
+<soc>Asesor: Buenos días, caballero. Le saluda el dealer. Sí, le había llamado porque quería darle más información sobre cómo financiamos. No sé si tiene tiempo de atenderme.
+<soc>Cliente: ¿Financiando? Pues ahorita no tengo troca. Yo ya la pagué toda completa, y todos los carros que tengo están pagados, completos, y hasta la casa que tengo.
+<soc>Asesor: Ok, fíjense que yo recibí un mensaje en WhatsApp que ustedes estaban interesados en un vehículo nuevo.
+<soc>Cliente: ¿En WhatsApp? Yo no tengo WhatsApp.
+<soc>Asesor: Bueno, entonces las disculpas del caso.
+<soc>Cliente: No, no se preocupe.
+<soc>Asesor: Bueno, gracias.
+<soc>Cliente: Disculpe, usted dice que están en California, ¿no?
+<soc>Asesor: Sí, estamos en San Fernando, California.
+<soc>Cliente: ¿Este número le puedo marcar?
+<soc>Asesor: Claro, este número me puede marcar.
+<soc>Cliente: ¿Y su nombre?
+<soc>Asesor: Mi nombre es Judith.
+<soc>Cliente: Judith.
+<soc>Asesor: Sí, Judith. Bueno, gracias, Gustave. Estamos en contacto cuando se interese en visitarnos.
+<soc>Cliente: Claro que sí, cómo no.

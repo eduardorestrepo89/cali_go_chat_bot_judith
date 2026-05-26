@@ -1,0 +1,27 @@
+<soc>Asesor: Hola, buen día. Tengo el gusto con Jairo. 
+<soc>Cliente: Sí.
+<soc>Asesor: le saludo de acá del dealer de autos, no sé si tiene tiempo de atenderme.  
+<soc>Cliente: Sí.  
+<soc>Asesor: Ok, le quería dar más información sobre el financiamiento de los vehículos. Le comento que nosotros hacemos financiamiento en casa, damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros le estaríamos solicitando tres documentos, los cuales serían una identificación, puede ser de aquí o de su país, pero tiene que estar vigente. También ocupa un bill, cualquier tipo de bill, si no está su nombre, no hay problema, solo para confirmar dirección. Y si tiene también un comprobante de ingreso.  
+<soc>Cliente: A mí me pagan cash.  
+<soc>Asesor: Ok, si le pagan cash no hay problema, solo con la identificación es suficiente. Y si tiene el bill, como le digo, el bill es necesario que sea a su nombre, solo para comprobar dirección.  
+<soc>Cliente: Sí.  
+<soc>Asesor: ¿Y sería su primera vez?  
+<soc>Cliente: Tengo licencia también, todo.  
+<soc>Asesor: Excelente. ¿Y sería su primera vez financiando o ya tiene algún crédito?  
+<soc>Cliente: No, la verdad no tengo crédito, no tengo ni seguro ni nada de eso.  
+<soc>Asesor: No hay ningún problema, acá con nosotros le ayudamos. ¿Busca algún vehículo en especial, marca, año o modelo?  
+<soc>Cliente: Pues me interesaba algo, así como una Toyota Tacoma, algo así.  
+<soc>Asesor: Ah, y le tengo varias Tacomas desde los 3000 de enganche, no sé si está bien para usted.  
+<soc>Cliente: ¿3000 de enganche?  
+<soc>Asesor: Sí. ¿O con cuánto cuenta usted?  
+<soc>Cliente: Es que la verdad es que no me he animado por eso, porque no tengo mucho dinero para darle enganche.  
+<soc>Asesor: Ok, entonces lo que podemos hacer también, si usted gusta, es ahorrar un poquito más y cuando tenga los 3000 visitarnos, o nos puede visitar con lo que usted tenga y lo deja de depósito. ¿Entonces, qué le parece? Nosotros los Down Payment están un poco altos porque solo le tengo del 2019 en adelante, no le tengo de menor año. ¿No sé qué día usted puede venir al dealer sin ningún compromiso, verdad? Puede venir a checar las camionetas, aquí tenemos aplicación sin ningún compromiso, no sé qué le parece y qué día nos puede visitar.  
+<soc>Cliente: Ok, también me pueden mandar la información para llegar.  
+<soc>Asesor: Ok, yo se la dejo en un mensaje de texto. ¿Más o menos qué día pasaría?  
+<soc>Cliente: ¿Perdón?  
+<soc>Asesor: No sé si pasaría en estos días.  
+<soc>Cliente: Pues mañana miércoles.  
+<soc>Asesor: Ok, perfecto. Entonces ahí le dejo la dirección y cualquier cosa queda a la orden.  
+<soc>Cliente: ¿Con quién hablo?  
+<soc>Asesor: Mi nombre es Judith. Ok.

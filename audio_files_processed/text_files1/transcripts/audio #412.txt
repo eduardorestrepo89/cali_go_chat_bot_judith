@@ -1,0 +1,31 @@
+<soc>Asesor: Hola, buen día, ¿tengo el gusto con Javier? Le saludo desde el concesionario de autos.
+
+<soc>Cliente: Sí, soy yo. Buen día.
+
+<soc>Asesor: Estoy aquí para ayudarle con la información sobre el vehículo que está buscando. ¿Tiene unos minutos para que hablemos?
+
+<soc>Cliente: Claro, tengo tiempo.
+
+<soc>Asesor: Perfecto. Ofrecemos financiamiento interno y garantizamos hasta tres años en motor, transmisión y aire acondicionado. Nuestros vehículos son del 2019 en adelante, tienen poco kilometraje y títulos limpios. Para calificar, necesitamos su identificación vigente, un comprobante de domicilio y un comprobante de ingreso.
+
+<soc>Cliente: ¿Y si tengo mal crédito, me pueden ayudar?
+
+<soc>Asesor: Absolutamente. No importa su situación crediticia, estamos aquí para ayudarle. Además, puede mejorar su crédito al financiar con nosotros.
+
+<soc>Cliente: Eso suena bien. ¿Y qué tipo de vehículos tienen disponibles?
+
+<soc>Asesor: Tenemos una gran variedad. Desde sedanes hasta SUVs. ¿Está buscando algo en particular?
+
+<soc>Cliente: Me gustaría una SUV, algo espacioso.
+
+<soc>Asesor: Perfecto. Contamos con modelos como la Honda CR-V, Toyota RAV4 y Ford Explorer, todas del 2019 o más recientes. El enganche mínimo para una SUV sería de 3000 dólares.
+
+<soc>Cliente: Está bien, ¿puedo ir a ver los vehículos?
+
+<soc>Asesor: Claro, estamos abiertos de lunes a sábado. Le puedo enviar nuestra dirección por mensaje. Así puede visitarnos cuando le convenga.
+
+<soc>Cliente: Perfecto, por favor mándame la dirección.
+
+<soc>Asesor: Con gusto. Le mando la información en un momento. ¡Gracias por su tiempo!
+
+<soc>Cliente: Gracias a usted, estaré en contacto.

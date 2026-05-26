@@ -1,0 +1,32 @@
+<soc>Asesor: ¿Hola, hola Buen día, le saludo de acá del Timpler, me escucha? ¿Hola, me escucha?  
+<soc>Asesor: Hola, si le escucho. Hola, le quería dar más información de cómo nosotros trabajamos, no sé si tiene tiempo de atender mi llamada.  
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa, hace tres años de garantía en motor, transmisión y aire acondicionado. Estaríamos solicitando tres documentos para poder financiarle un vehículo, los cuales serían su identificación vigente, un comprobante de ingreso y un comprobante de domicilio. En dado caso usted solo cuente con la identificación, no hay problema, solo con ese documento nosotros le ayudamos.  
+<soc>Asesor: Ok, si no tiene cómo comprobar ingresos no hay problema, solo con su identificación vigente y con el comprobante de domicilio es suficiente.  
+<soc>Asesor: ¿Nosotros estamos acá en San Fernando, California y si son seguras? Si usted solo me trae la identificación y el BIN, nosotros le ayudamos y como trabaja cash de acuerdo a lo que gana en su trabajo, nos da esa información y así nosotros la introducimos en la aplicación. Ese no es ningún inconveniente, le aseguro que le vamos a llevar 100 % seguro.  
+<soc>Asesor: ¿Una pregunta, ustedes cambian carro, lo quiere dar de enganche?  
+<soc>Cliente: Sí, si ya tiene el título con gusto se lo agarramos como enganche. ¿Tiene el título?  
+<soc>Asesor: Ok, perfecto, entonces no necesita traer efectivo, solo el vehículo y el título y nosotros acá lo evaluamos y le decimos cuánto le damos por él.  
+<soc>Asesor: ¿Usted busca algún vehículo en especial, marca, año o modelo?  
+<soc>Cliente: Sí, yo busco uno Toyota Prius.  
+<soc>Asesor: Ok, ahorita le tengo un Toyota Prius, es el año 2018, este se lo tenemos mínimo con 2300 de enganche. En este caso, pues tendríamos que evaluar su vehículo para ver cuánto le damos por él y la cantidad que daría como enganche.  
+<soc>Asesor: No sé qué día puede venir personalmente a ver el vehículo.  
+<soc>Asesor: Ok, le voy a facilitar Elia Luna para confirmar. Ok.
+
+<soc>Asesor: Hola, buen día, le saludo de acá del dealer. Le quería dar más información sobre cómo trabajamos. ¿Tiene tiempo para atender mi llamada?
+<soc>Cliente: Sí, adelante, dígame.
+<soc>Asesor: Le comento que nosotros hacemos financiamiento en casa, con hasta tres años de garantía en motor, transmisión y aire acondicionado. Para financiarle un vehículo, solo necesitamos tres documentos: su identificación vigente, un comprobante de ingresos y un comprobante de domicilio. En caso de que solo cuente con la identificación, no hay problema, con ese documento le podemos ayudar.
+<soc>Cliente: Ok, perfecto.
+<soc>Asesor: Incluso, si no tiene cómo comprobar ingresos, no se preocupe. Solo con su identificación vigente y un comprobante de domicilio es suficiente.
+<soc>Asesor: Nosotros estamos en San Fernando, California. Si trabaja y le pagan en efectivo, nos da la información de lo que gana, y con eso lo ingresamos en la aplicación. No es ningún inconveniente, le aseguro que podemos ayudarle al 100 %.
+<soc>Asesor: Una pregunta, ¿piensa dar un vehículo como enganche o solo efectivo?
+<soc>Cliente: Sí, quiero dar mi carro como enganche.
+<soc>Asesor: Perfecto. Si ya tiene el título, con gusto se lo recibimos como enganche. ¿Tiene el título del vehículo?
+<soc>Cliente: Sí, lo tengo.
+<soc>Asesor: Excelente, entonces no necesitaría traer efectivo, solo el vehículo y el título. Aquí lo evaluamos y le decimos cuánto le podemos ofrecer por él.
+<soc>Asesor: ¿Está buscando algún vehículo en particular, marca, año o modelo?
+<soc>Cliente: Sí, estoy buscando un Toyota Prius.
+<soc>Asesor: Justo ahora tengo un Toyota Prius del año 2018. Para ese modelo, necesitaríamos un mínimo de 2300 dólares de enganche. Tendríamos que evaluar su vehículo para determinar cuánto le daríamos por él y ajustar el enganche.
+<soc>Asesor: ¿Qué día podría venir personalmente a ver el vehículo?
+<soc>Cliente: Ok, perfecto. Voy a confirmar la fecha y le aviso.
+<soc>Asesor: De acuerdo, quedo pendiente. Muchas gracias.
+

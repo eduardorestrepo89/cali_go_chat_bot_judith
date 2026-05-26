@@ -1,0 +1,31 @@
+<soc>Asesor: Hola, buena tardes. Le saludo del dealer de autos. Quería darle un poco más de información sobre cómo trabajamos. No sé si tiene tiempo para atenderme.
+
+<soc>Cliente: Sí, sí, sí.
+
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros, necesitamos tres documentos que debe traer: principalmente su identificación, que puede ser de aquí o de su país, pero tiene que estar vigente. También necesitamos un comprobante de domicilio, cualquier tipo de factura. Si no está a su nombre, no hay problema, solo es para confirmar dirección. ¿Y si tiene también un comprobante de ingreso? ¿Le pagan en efectivo, con cheque o por depósito?
+
+<soc>Cliente: Con cheque.
+
+<soc>Asesor: Ok, entonces su último talón de cheque nos funciona como comprobante de ingresos. No sé si estamos bien con los requisitos. ¿Y busca algún vehículo en especial?
+
+<soc>Cliente: Necesito saber cuánto sería el enganche.
+
+<soc>Asesor: Fíjese que para un carro sedán, ocuparía mínimo unos $1,800. Los vehículos que le tenemos ahorita son del año 2019 en adelante, con título limpio. Por eso, el enganche mínimo es de $1,800. No sé qué le parece, y también me gustaría saber con cuánto cuenta usted y dentro de cuánto estaría listo con el resto del enganche para que podamos agendar una cita la próxima semana.
+
+<soc>Cliente: Sí, está bien.
+
+<soc>Asesor: ¿Ok, más o menos qué día de la próxima semana le puedo llamar para verificar si usted ya está listo para venir por su vehículo?
+
+<soc>Cliente: Puede llamarme el miércoles.
+
+<soc>Asesor: Perfecto, le llamaré el miércoles. ¿A qué hora le gustaría que lo hiciera?
+
+<soc>Cliente: Por la tarde, alrededor de las 3 p.m. está bien.
+
+<soc>Asesor: Está perfecto. Le llamaré a las 3 p.m. el miércoles. Si tiene alguna pregunta antes, no dude en contactarnos.
+
+<soc>Cliente: Muchas gracias, estaré pendiente.
+
+<soc>Asesor: A usted, que tenga un buen día. ¡Hasta luego!
+
+<soc>Cliente: ¡Adiós!

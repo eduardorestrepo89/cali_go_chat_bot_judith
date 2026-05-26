@@ -1,0 +1,26 @@
+<soc>Asesor: Hola, buen día, caballero. Le saluda Bendiga. Quería darle más información sobre cómo trabajamos. ¿Tiene tiempo para atenderme?
+<soc>Cliente: Sí, dígame.
+<soc>Asesor: Le comento que ofrecemos financiamiento en casa, con hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar, solo necesitaría una identificación vigente, un bill, y un comprobante de ingreso. ¿Cuenta con esos requisitos o le falta alguno?
+<soc>Cliente: Sí, los tengo.
+<soc>Asesor: Perfecto. ¿Es su primera vez financiando o ya ha tenido crédito antes?
+<soc>Cliente: Solo en la Curacao. Recién tengo un crédito desde hace dos meses.
+<soc>Asesor: Excelente. ¿Está buscando algún tipo de vehículo en especial? Tenemos carros, trocas, SUVs de diferentes marcas como Honda, Toyota, Kia, Nissan, Ford, Chevy, Mazda, Hyundai, con enganches desde los $2,000.
+<soc>Cliente: No tengo $2,000 ahorita.
+<soc>Asesor: ¿Con cuánto cuenta?
+<soc>Cliente: $1,500.
+<soc>Asesor: Ok, con $1,500 podemos ver cómo trabajar algún vehículo.
+<soc>Cliente: En realidad, solo tengo $800.
+<soc>Asesor: Con $800 necesitaría un poco más de enganche. Le recomiendo que cuando tenga al menos $1,800, se comunique con nosotros para que pueda llevarse el vehículo. Le voy a compartir nuestra información, dirección, requisitos y horarios. Además, si tiene algún vehículo para dar en intercambio, lo aceptamos.
+<soc>Cliente: Tengo un vehículo, pero no está a mi nombre.
+<soc>Asesor: No hay problema, siempre que tenga el título del vehículo.
+<soc>Cliente: Sí, lo tengo.
+<soc>Asesor: Excelente. Si tiene $800 y otro vehículo para dar en intercambio, podemos ayudarle. Solo tendría que traer el vehículo para que lo evaluemos y le digamos cuánto le ofrecemos por él, pero es necesario que traiga el título.
+<soc>Cliente: ¿Cuánto me darían por este vehículo? Es un Mercedes Benz 350 de 2006.
+<soc>Asesor: Como no soy la encargada de las evaluaciones, necesitaríamos que un mecánico lo revise para poder decirle cuánto le daríamos. Si el valor cubre el enganche, podría llevarse otro vehículo.
+<soc>Cliente: Sí, estoy seguro de que cubre.
+<soc>Asesor: Perfecto. ¿Cuándo podría venir para que lo revisemos personalmente? Estamos en el Valle de San Fernando. Le enviaré la dirección exacta por mensaje de texto. Estamos disponibles durante la semana, y también los fines de semana: los sábados hasta las 8:00 p.m. y los domingos hasta las 6:00 p.m.
+<soc>Cliente: Ok, lo consideraré.
+<soc>Asesor: Le esperamos cuando le quede bien. Que tenga un buen día.
+<soc>Cliente: Igualmente, buen día.
+<soc>Asesor: Gracias.
+

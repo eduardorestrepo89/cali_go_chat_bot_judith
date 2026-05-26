@@ -1,0 +1,21 @@
+<soc>Asesor: Hola, buen día. ¿Tengo el gusto de hablar con el caballero Pablo?.
+<soc>Cliente: ¿Cómo dijo?
+<soc>Asesor: Le saludo de aquí del dealer. Se comunicó conmigo hace algunas semanas sobre el vehículo que busca y quería saber si sigue interesado en comprar uno.
+<soc>Cliente: Ah, un vehículo.
+<soc>Asesor: Exactamente, si no está interesado, no hay problema.
+<soc>Cliente: No, sí estoy interesado, solo que ahorita estoy en un trámite con mi abogado y estoy un poco enredado con eso. ¿Cuáles son las facilidades que ustedes me ofrecen?
+<soc>Asesor: Ok, nosotros le financiamos directamente. Puede elegir entre un año y hasta cinco años. También ofrecemos tres años de garantía en motor, transmisión y aire acondicionado. Solo necesitamos su identificación vigente y un enganche mínimo de 1800, ya que los vehículos son del 2019 en adelante.
+<soc>Cliente: ¿1800 de enganche? Suena bien.
+<soc>Asesor: Perfecto, ¿cuándo podría comunicarse nuevamente conmigo? Le voy a dar nuestra dirección.
+<soc>Cliente: ¿Este número siempre es para comunicarme?
+<soc>Asesor: Sí, a este número nos puede escribir por WhatsApp, mensaje normal o llamarnos.
+<soc>Cliente: Perfecto, ya lo voy a grabar.
+<soc>Asesor: ¿Cuál es su nombre para tenerlo registrado?
+<soc>Cliente: ¿Dónde están ubicados ustedes?
+<soc>Asesor: Estamos en San Fernando. Le enviaré la dirección por mensaje de texto al finalizar la llamada.
+<soc>Cliente: ¿Aquí en Los Ángeles?
+<soc>Asesor: No, estamos un poco más allá de Los Ángeles, a unos 30 minutos.
+<soc>Cliente: Bueno, estamos cerca.
+<soc>Asesor: Sí, exacto. Le voy a dejar nuestra dirección y cuando esté listo para visitarnos, aquí quedamos a la orden.
+<soc>Cliente: Envíenme la dirección. Gracias.
+<soc>Asesor: Claro, con gusto. ¡Que tenga un buen día!

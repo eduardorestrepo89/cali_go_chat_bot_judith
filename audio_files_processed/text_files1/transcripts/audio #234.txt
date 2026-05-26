@@ -1,0 +1,25 @@
+<soc>Asesor: Hola, buen día. ¿Cómo se encuentra?
+
+<soc>Cliente: Buenos días. Estoy bien, gracias. ¿Y usted?
+
+<soc>Asesor: Muy bien, gracias. Le llamo para darle más información sobre las camionetas que tenemos. ¿Tiene un momento para platicar?
+
+<soc>Cliente: Sí, claro.
+
+<soc>Asesor: Perfecto. Sobre la camioneta que me mencionó, ¿puede decirme cuánto saldrían más o menos los pagos?
+
+<soc>Cliente: Claro, para darle una cifra exacta tendríamos que llenar la aplicación y revisar el plazo de financiamiento, pero los pagos mensuales comienzan en 500. No puedo darle un monto preciso sin esa información.
+
+<soc>Asesor: Fui a otro dealer y me dejaron los pagos muy altos, casi 1000.
+
+<soc>Cliente: Entiendo, nosotros no manejamos pagos tan altos en camionetas familiares.
+
+<soc>Asesor: Está bien, entonces estaré allí el domingo.
+
+<soc>Cliente: Perfecto, nos vemos el domingo. Que tenga una buena noche.
+
+<soc>Asesor: Gracias, igualmente.
+
+<soc>Cliente: Adiós.
+
+<soc>Asesor: Adiós.

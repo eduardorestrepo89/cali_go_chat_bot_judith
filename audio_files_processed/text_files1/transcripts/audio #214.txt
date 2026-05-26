@@ -1,0 +1,33 @@
+<soc>Asesor: Hola, muy buenos días, ¿con el caballero David?
+
+<soc>Cliente: Bueno, hola, te escucho un poco bajito.
+
+<soc>Asesor: Le saludo de aquí del dealer. Recibimos unos mensajes de que está interesado en adquirir un vehículo financiado.
+
+<soc>Cliente: ¿De dónde están hablando?
+
+<soc>Asesor: Del dealer de autos aquí en San Fernando, California.
+
+<soc>Cliente: Ah, ya, yo estoy en Baitel.
+
+<soc>Asesor: Perfecto. ¿No le interesaría venir hasta San Fernando? Tenemos una variedad de vehículos y facilidades de financiamiento.
+
+<soc>Cliente: No tengo carro para ir, estoy buscando algo barato, unos 10,000.
+
+<soc>Asesor: Entiendo. Fíjese que los vehículos que tenemos en ese rango de precio son un poco limitados. ¿Ese precio es para financiamiento o en efectivo?
+
+<soc>Cliente: Busco financiamiento.
+
+<soc>Asesor: En ese caso, nuestros vehículos son del año 2018 en adelante, así que los precios son un poco más altos, con un enganche de alrededor de 1,800. Pero le ofrecemos facilidades de financiamiento sin importar cómo esté su crédito. Solo necesitaría traer su identificación vigente, un comprobante de domicilio y un comprobante de ingresos. Además, le daríamos tres años de garantía en motor, transmisión y aire acondicionado.
+
+<soc>Cliente: Solo trabajo yo, mi esposa no trabaja, así que busco lo más barato.
+
+<soc>Asesor: Entiendo, lo que puedo hacer es dejarle nuestra dirección y contacto. Si en algún momento se anima, aquí estaremos para ayudarle.
+
+<soc>Cliente: Ok, gracias.
+
+<soc>Asesor: Gracias a usted. Que tenga un buen fin de semana.
+
+<soc>Cliente: Igualmente, usted también.
+
+<soc>Asesor: Gracias. ¡Hasta luego!

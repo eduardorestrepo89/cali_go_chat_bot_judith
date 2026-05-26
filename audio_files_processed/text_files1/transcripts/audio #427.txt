@@ -1,0 +1,15 @@
+<soc>Asesor: ¿Buenas tardes, tengo el gusto con el caballero Germán?  
+<soc>Cliente: Sí.  
+<soc>Asesor: Le saludo del dealer, hace algunos días estuvimos intercambiando mensajitos, quería saber si sigue interesado en comprar vehículo.  
+<soc>Cliente: Oh, sí, sí, sí, este, pues sí, es que ya he ido a dos lugares, pero, o sea, no la he encontrado todavía. ¿La SRT?  
+<soc>Asesor: ¿Busca qué tipo de vehículo? ¿Exactamente?  
+<soc>Cliente: ¿Qué tipo de vehículo busco?  
+<soc>Asesor: Sí, carro, troca, SUV, marca, año, modelo.  
+<soc>Cliente: Pues yo busco la Jeep Grand Cherokee SRT.  
+<soc>Asesor: Jeep Grand Cherokee SRT. Si gusta, me da unos minutos, voy a verificar en nuestro inventario si tenemos disponible y le confirmo, ¿está bien?  
+<soc>Cliente: Está bien, porque ahorita ando trabajando, pero me avisa si lo tiene para ir ya en estos días, ok, y me dice, me brinda la información de lo que necesito para llenar los papeles.  
+<soc>Asesor: Para no quitarle más tiempo, le dejo la información por mensajito.  
+<soc>Cliente: Ok, está bien.  
+<soc>Asesor: Bueno, gracias.  
+<soc>Cliente: Gracias, gracias por llamarme, que tenga un buen día.  
+<soc>Asesor: Gracias, que tenga un buen día.  

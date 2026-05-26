@@ -1,0 +1,29 @@
+<soc>Asesor: Hola, buenas tardes. ¿Hablo con el caballero Josué? Mi nombre es Judith, le saludo del dealer. Quería saber si sigue interesado en comprar un vehículo.
+
+<soc>Cliente: Oh, sí.
+
+<soc>Asesor: Nosotros estamos aquí en San Fernando, California. Le voy a dejar nuestra dirección. ¿No sé qué día nos podría visitar?
+
+<soc>Cliente: No sabría decir, creo que a lo mejor la otra semana.
+
+<soc>Asesor: Ok, perfecto. ¿Y busca algún vehículo en especial? ¿Alguna marca o modelo?
+
+<soc>Cliente: Estaba buscando un Honda Civic.
+
+<soc>Asesor: Honda, perfecto. Aquí tengo Honda Civic y Honda Accord del 2018 en adelante. ¿Y sería su primera vez financiando o ya ha tenido algún crédito?
+
+<soc>Cliente: No, no he tenido ningún crédito.
+
+<soc>Asesor: Ok. Ocuparía un mínimo de unos 2,000 de enganche. ¿Le parece bien?
+
+<soc>Cliente: Ok, los tengo
+
+<soc>Asesor: ¿Y los requisitos? Principalmente su identificación vigente, un comprobante de domicilio y, si no tiene, un comprobante de ingreso.
+
+<soc>Cliente: Okay.
+
+<soc>Asesor: Concordemos un día exacto para su visita.
+
+<soc>Cliente: Ok, perfecto.
+
+<soc>Asesor: Gracias.

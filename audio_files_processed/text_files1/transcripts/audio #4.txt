@@ -1,0 +1,9 @@
+<soc>Asesor: Hola, muy buen día. ¿Tengo el gusto con el caballero Jairo?.
+<soc>Cliente: Sí.
+<soc>Asesor: Le saludo de acá del dealer de autos. Nos estuvimos comunicando hace unos días por mensajito. No sé si tiene tiempo de atenderme ahorita.  
+<soc>Cliente: No, estoy en el trabajo. En la tarde. A las cuatro.  
+<soc>Asesor: A las cuatro, perfecto. Entonces me comunico con usted nuevamente a las cuatro y le voy a dejar un mensajito ahí con información para que la cheque.
+<soc>Cliente: Muchas gracias.
+<soc>Asesor: Gracias. Feliz día.
+<soc>Cliente: Bye.
+<soc>Asesor: Bye.

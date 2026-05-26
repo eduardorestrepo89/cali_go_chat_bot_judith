@@ -1,0 +1,27 @@
+<soc>Asesor: Buen día, caballero. Le saludo del dealer de autos. Nos comunicamos hace algunas semanas. No sé si tiene tiempo para atenderme. ¿Sigue interesado en comprar un vehículo o ya consiguió uno?
+
+<soc>Cliente: Sí, estoy interesado.
+
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa y ofrecemos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para financiarle un vehículo, le estaríamos solicitando su identificación vigente, un comprobante de ingresos y un comprobante de domicilio.
+
+<soc>Cliente: Ok, si me da por favor su número de teléfono, su nombre y la ubicación donde están para yo poder visitarlo el día sábado.
+
+<soc>Asesor: Perfecto, yo se lo dejo por un mensajito de texto. ¿Sería su primera vez financiando hoy? ¿Ha tenido algún crédito antes?
+
+<soc>Cliente: No, ya he tenido, pero la realidad es que obtuve un vehículo anteriormente y no me respondieron bien a cómo se realizó el contrato, así que regresé el vehículo.
+
+<soc>Asesor: Ok, no hay ningún problema. Nosotros hacemos financiamiento en casa y aquí le podemos ayudar. ¿Busca algún vehículo en especial, alguna marca o modelo?
+
+<soc>Cliente: Sí, buscaba un Toyota Sienna, no sé si tienen.
+
+<soc>Asesor: No tenemos de esa marca y modelo, pero le puedo ofrecer varios vehículos económicos en gasolina desde los 1,800 de enganche. Le voy a compartir nuestra dirección por mensajito de texto y nos vemos el sábado.
+
+<soc>Cliente: Sería bueno si tiene, si puede, verdad, si está en su alcance, que me muestre vehículos sedán en foto para hacerme una idea.
+
+<soc>Asesor: Claro, con gusto. Yo le dejo fotografías y nuestra información, y el sábado, cuando venga, me notifica para estar pendiente.
+
+<soc>Cliente: Claro que sí.
+
+<soc>Asesor: Gracias, muy mable. Estamos en contacto. ¡Feliz día!
+
+<soc>Cliente: Igualmente, ¡bye!

@@ -1,0 +1,20 @@
+<soc>Asesor: Bueno, hola, buen día. ¿Hablo con Leo?
+<soc>Cliente: Sí.
+<soc>Asesor: Le saludo de acá del dealer de auto, no sé si tiene tiempo de atenderme.  
+<soc>Cliente: Sí, claro que sí.  
+<soc>Asesor: ¿Hola, hola, me escuchas?  
+<soc>Cliente: Sí, lo escucho.  
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa. Vamos hasta tres años de garantía en motor, transmisión y aire acondicionado. Y para calificar con nosotros ocupa tres documentos que son su identificación, un bill y un comprobante de ingreso. ¿Sería su primera vez financiando o ha tenido algún crédito?  
+<soc>Cliente: Es la primera vez.  
+<soc>Asesor: ¿Ok, algún vehículo en especial que busque? ¿Marca, año, modelo?
+<soc>Cliente: Ando buscando un Dodge Charger.
+<soc>Asesor: No lo tenemos por el momento. ¿Solo busca Charger? ¿le gustaría ver otras opciones?  
+<soc>Cliente: ¿Y qué tipo de modelo de carro tiene ahorita?  
+<soc>Asesor: Ahorita le tengo Honda Civic y Accord, Toyota Camry, Corolla, Tesla Model 3, también le tengo Nissan Altima, Nissan Sentra, Hyundai Elantra, Hyundai Sonata, Chevrolet Malibu, también le tengo un Kia, un Malibu, aquí le tengo del 2019 al 2021, desde los 2000 de enganche.  
+<soc>Cliente: ¿Cuánto es de enganche?  
+<soc>Asesor: 2000. ¿Con cuánto cuenta usted?  
+<soc>Cliente: No, pues no tengo esa cantidad, como apenas vengo llegando de México, llevo apenas medio año y no tengo esa cantidad.  
+<soc>Asesor: ¿Ok, con cuánto de enganche cuenta?  
+<soc>Cliente: Pues la verdad no sé con cuánto más o menos puedo yo dar de enganche.
+<soc>Asesor: Ok, fíjense que mínimo 1800. Si usted gusta le dejo nuestra dirección y cuando tenga lo del enganche nos comunicamos de nuevo.  
+<soc>Cliente: Oh, sí, está bien.

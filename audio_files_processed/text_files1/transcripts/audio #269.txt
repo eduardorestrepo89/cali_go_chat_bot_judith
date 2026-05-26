@@ -1,0 +1,27 @@
+<soc>Asesor: Hola, buenos días. Les saludo del dealer. Hemos estado intercambiando mensajes y quería darle más información sobre cómo trabajamos el financiamiento de los vehículos. ¿Tiene tiempo para atenderme?
+<soc>Cliente: Sí, cuenteme.
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa y ofrecemos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para poder financiarle un vehículo, necesitaríamos tres documentos: su identificación, que puede ser de aquí o de su país, pero tiene que estar vigente; un bill, cualquier tipo de bill, y un comprobante de ingreso. ¿Cuenta con los tres documentos o habría inconveniente con algunos?  
+<soc>Cliente: Pues fíjese que ahorita solo ando averiguando porque no tengo mis documentos a la mano. Así que hasta la próxima semana iré a sacar mi documento. Ya tengo cita programada, así que solo estoy preguntando más o menos sobre los requisitos.
+<soc>Asesor: Perfecto. ¿No tiene identificación en este momento?
+<soc>Cliente: Pues ahorita no, pero cuento con el bill de ingresos, solo tengo talones de cheque.
+<soc>Asesor: Los talones de cheque le funcionan, no necesita tener una cuenta bancaria. Y si tiene alguna identificación en fotos también le podríamos ayudar, pero debe estar vigente.
+<soc>Cliente: Bueno, sí tengo la foto de mi identificación, pero no sé si eso estaría bien.
+<soc>Asesor: ¿Es un ID?
+<soc>Cliente: Sí, es un ID. Está vigente, simplemente no lo tengo físicamente porque se me arruinó, pero sí lo tengo.
+<soc>Asesor: Ok, si quiere venir esta semana, solo necesitaría una foto de la parte delantera y trasera de su ID.
+<soc>Cliente: Ok, pero ¿dónde están?
+<soc>Asesor: Estamos en el valle de San Fernando. Le voy a dejar la dirección por mensaje de texto.
+<soc>Cliente: Ajá, ok, sí, sí, está bien.
+<soc>Asesor: ¿No sabe qué día nos podría visitar para estar pendiente?
+<soc>Cliente: Sería el fin de semana porque trabajo de noche entre semana. Casi acabo de llegar a casa y en el día no creo que pueda porque descanso. Sería el fin de semana, no sé si atienden los fines de semana.
+<soc>Asesor: Sí, estamos abiertos los sábados de 10:00 a.m. a 8:00 p.m. y los domingos de 10:00 a.m. a 6:00 p.m. ¿Sería su primer crédito? ¿Ya ha tenido algún financiamiento anteriormente?
+<soc>Cliente: Es mi primer crédito, por eso estoy averiguando porque estoy interesado.
+<soc>Asesor: Excelente. ¿Busca un sedán?
+<soc>Cliente: No, en realidad estoy buscando una camioneta pequeña, no algo muy grande, algo más familiar.
+<soc>Asesor: Ok, perfecto. Para eso necesitaría un enganche mínimo de unos 2500. ¿Está bien para usted o con cuánto enganche cuenta?
+<soc>Cliente: Pues la verdad, ando buscando con 2000 de enganche. Por eso quería ir a ver.
+<soc>Asesor: Con 2000 podemos trabajar. Le dejaré nuestra dirección por mensaje de texto y me comunicaré con usted el sábado para confirmar si podrá pasar ese día o el domingo.
+<soc>Cliente: Ok, perfecto.
+<soc>Asesor: Muy bien, que tenga un bonito día.
+<soc>Cliente: Gracias, igualmente.
+<soc>Asesor: Gracias.

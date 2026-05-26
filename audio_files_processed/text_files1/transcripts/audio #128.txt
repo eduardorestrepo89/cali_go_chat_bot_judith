@@ -1,0 +1,40 @@
+<soc>Asesor: Hola, muy buenos días. ¿Tengo el gusto con el caballero Kevin? le saluda del dealer. Quería darle más información de cómo trabajamos. No sé si en este momento tiene tiempo de atenderme.  
+<soc>Cliente: Ajá, digame  
+<soc>Asesor: Ok, recibimos un mensaje que ustedes desea un vehículo. Me gustaría saber si busca alguna marca o modelo en especial.  
+<soc>Cliente: ¿Ah, pero de qué dealer es usted?  
+<soc>Asesor: Estamos acá en San Fernando, California.  
+<soc>Cliente: Ajá.  
+<soc>Asesor: Estamos acá por las 65 Fox. Luego de terminar la llamada yo le dejo la dirección y toda la información del dealer. ¿Usted busca un vehículo en especial?  
+<soc>Cliente: ¿Cómo se llama el dealer de ustedes?  
+<soc>Asesor: Se llama Cali Go Autos.  
+<soc>Cliente: ok, ya se cual es.  
+<soc>Asesor: ¿Oh, ya nos ha visitado? ¿Ha escuchado sobre nosotros?  
+<soc>Cliente: No, yo es que yo mandé un mensaje a uno, pero me mandaron para ahí.  
+<soc>Asesor: ¿Ya le dieron toda la información de acá?  
+<soc>Cliente: No, de ahí no, sólo me dijeron dónde está, pero el que está ahí en la San Fernando y la Fox.  
+<soc>Asesor: Y estamos por acá. ¿Le dieron información de cómo trabajamos, los requisitos, los vehículos que manejamos, en el inventario?  
+<soc>Cliente: ¿Si me dijeron que es financiamiento en casa, no es financiamiento con financieras de banco?  
+<soc>Asesor: Exactamente, nosotros no trabajamos con banco, el trato es directamente con nosotros, nosotros hacemos el financiamiento. Los requisitos que nosotros solicitamos son tres: su identificación vigente, puede ser de aquí o de su país; un comprobante de domicilio, que puede ser cualquier tipo de factura donde aparezca su dirección, aunque no esté a su nombre; y si tiene también un comprobante de ingreso.  
+<soc>Cliente: Si tengo talones de cheque.  
+<soc>Asesor: Ah, con el último talón de cheque le funciona perfectamente. ¿Y sería su primera vez financiando?  
+<soc>Cliente: Como a veces me pagan cash y a veces un cheque, porque como trabajo, hace un trabajito por mi cuenta pues.  
+<soc>Asesor: Ah, ok, excelente. Pero si tiene el talón de cheque, el último, con ese le funciona. Y con respecto al trabajo que le pagan cash, ya están ustedes acá en la localidad, nos da la información y nosotros también ingresamos eso en el sistema. ¿Sería primera vez que usted está aplicando un crédito o ya tiene récord?  
+<soc>Cliente: Pues la verdad sí que tuve una troca, pero no, no estaba yo de como deudor, yo estaba nomás como de segundo nomás. 
+<soc>Asesor: ¿Ok, entonces en esta ocasión, verdad, no ha revisado usted su crédito últimamente y no sabría más o menos cómo lo tiene?  
+<soc>Cliente: No, la verdad no, fíjese porque no, no sé.  
+<soc>Asesor: Ok, no hay ningún inconveniente. Nosotros acá calificamos cualquier tipo de crédito. Eso solamente es una pregunta rutinaria, verdad? Pero si tiene cero crédito, acá tiene la oportunidad de comenzar a hacer crédito con nosotros. Nosotros le tenemos carros, trocas y SUV. No sé si usted busca algo en especial.  
+<soc>Cliente: Especial pues yo estaba viendo, no sé si tienen de esos Jeep que tienen como palangana.  
+<soc>Asesor: Nosotros en Jeep ahorita le tenemos Grand Cherokee, Cherokee, Renegade, Patriot, lo que tenemos.  
+<soc>Cliente: Es Wrangler de los, no de los más sencillos, no quiero de los así de esos que salieron primero, pues solo que tenga palangana.  
+<soc>Asesor: Ok, perfecto. Acá le tendríamos del año 2018 en adelante, 2500 de enganche.  
+<soc>Cliente: ¿2500 de enganche?  
+<soc>Asesor: Sí, eso es lo que nosotros le estaríamos solicitando por un vehículo de esos.  
+<soc>Cliente: Tiene Dodge.  
+<soc>Asesor: ¿Ok, Challenger no nos vienen, pero sí nos viene Charger en eso le podría ofrecer, verdad? Si usted busca Jeep, los que le mencioné y con respecto al Charger, sí quedaría de confirmar si tenemos alguno disponible y yo con gusto le compartiría fotos, pero le aseguro que si usted viene y nos visita, va a haber variedad de Jeep acá. Ok, no sé qué día tendrá tiempo de venir al dealer, estamos abiertos de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m.  
+<soc>Cliente: Si pudiera pasar, pudiera pasar hoy, pero nomás solo a ver porque me pagan los sábados en la tarde.  
+<soc>Asesor: Ok, perfecto, puede pasar ahora si gusta ver si alguno le llama la atención, se decide por él, puede venir mañana mismo a traerlo. Ok, entonces le voy a compartir nuestra dirección por mensajito de texto y lo esperamos acá. Ahora tenemos abierto hasta las 8:00 p.m. no sé más o menos a qué horas estaría llegando.  
+<soc>Cliente: Sí, como eso de las 7 y media porque ya salgo como a las siete de mi trabajo.  
+<soc>Asesor: Excelente, entonces acá voy a estar pendiente de su llegada, tan amables de enviarme un mensajito cuando venga en camino o de llamarme para estar pendiente de su visita.  
+<soc>Cliente: Ok, está bien, déjeme su número entonces y yo ya le marco.  
+<soc>Asesor: Ok, perfecto, entonces ahí estamos en contacto, que tenga un buen día.  
+<soc>Cliente: Ok, gracias, gracias.

@@ -1,0 +1,28 @@
+<soc>Asesor: Hola, buenos días.
+<soc>Cliente: Buenos días.
+<soc>Asesor: Le llamo del concesionario, quería informarle sobre cómo trabajamos. ¿Tiene un momento para hablar?
+<soc>Cliente: Sí, claro.
+<soc>Asesor: Perfecto. Nosotros estamos ubicados en San Fernando, California, no está tan lejos de usted.
+<soc>Cliente: Bueno, yo estoy en el Condado de Orange.
+<soc>Asesor: Entiendo, eso debe ser aproximadamente a dos horas de aquí. Le comento que ofrecemos financiamiento directo. Damos hasta tres años de garantía en el motor, transmisión y aire acondicionado. Además, el primer mes de seguro es gratuito. Todos nuestros vehículos son de bajo kilometraje, seminuevos, del año 2019 al 2023. Tenemos autos, camionetas y SUVs. Para calificar, solo necesita tres documentos: su identificación vigente, que puede ser de aquí o de su país.
+<soc>Cliente: Tengo el pasaporte de México.
+<soc>Asesor: Perfecto. También necesitamos un recibo, que puede ser cualquier tipo de factura; si no está a su nombre, no hay problema, solo es para confirmar la dirección. Además, si tiene un comprobante de ingresos, sería ideal.
+<soc>Cliente: Tengo una carta de mi empleador que explica mi trabajo en la compañía.
+<soc>Asesor: Eso funciona perfectamente. ¿Está buscando una camioneta, verdad?
+<soc>Cliente: Sí, una camioneta.
+<soc>Asesor: Bien, veo que tiene $1000 de enganche.
+<soc>Cliente: La verdad es que no puedo conseguir más que eso por ahora.
+<soc>Asesor: Entiendo. Como mencioné anteriormente, las camionetas que tenemos son del 2019 al 2023, y el enganche mínimo es de $3000.
+<soc>Cliente: Bueno, juntar $3000 sería complicado, pero podría llegar a tener hasta $2000. ¿Podrían ayudarme con eso?
+<soc>Asesor: Sí, con $2000 podríamos ofrecerle solo sedanes. Para las camionetas, realmente necesitamos un enganche mínimo de $3000. A veces tenemos camionetas de años anteriores, como una del 2017, que se puede llevar con un enganche de aproximadamente $2800, pero generalmente manejamos $3000 como mínimo.
+<soc>Cliente: ¿Qué tipo de camionetas tienen disponibles?
+<soc>Asesor: Actualmente tenemos Toyota Tacoma, Chevrolet Silverado, Chevrolet Colorado, Ford F-150 y Ford Ranger.
+<soc>Cliente: Estoy interesado en la Silverado o la Ford F-150.
+<soc>Asesor: Perfecto. Le dejaré nuestra dirección y, si se anima, puede venir sin ningún compromiso. El mismo día que nos visite, podríamos entregarle la camioneta.
+<soc>Cliente: ¿Tienen una página web donde pueda ver el inventario? Me gustaría saber qué vehículos tienen disponibles antes de hacer el viaje.
+<soc>Asesor: La web no está actualizada en este momento, pero puedo dejarle algunas fotografías de las camionetas que tenemos.
+<soc>Cliente: Eso estaría bien.
+<soc>Asesor: Nos mantendremos en contacto. Le dejaré la dirección y las fotos.
+<soc>Cliente: Ok, muchas gracias.
+<soc>Asesor: Gracias a usted.
+<soc>Cliente: Gracias, igualmente.

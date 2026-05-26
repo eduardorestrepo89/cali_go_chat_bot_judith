@@ -1,0 +1,11 @@
+<soc>Asesor: Hola, buenos días, caballero. Lo saludamos del dealer de San Fernando, California. Queríamos verificar si aún sigue interesado en la compra de un vehículo financiado.
+
+<soc>Cliente: Hola, buen día. Disculpe, pero en este momento no puedo adquirir un vehículo. Sin embargo, siempre estoy interesado en opciones de financiamiento. No estoy seguro de cuándo podré hacer la compra, pero ¿podrían darme una idea de cuánto podría costar? ¿Puedo llamarle nuevamente más adelante?
+
+<soc>Asesor: Claro, podemos conversar sobre las opciones de financiamiento y cómo se ajustan a su presupuesto. No hay problema en que me llame cuando esté listo.
+
+<soc>Cliente: Perfecto, gracias. Haré eso.
+
+<soc>Asesor: ¡Excelente! Que tenga un buen día.
+
+<soc>Cliente: Igualmente, gracias.

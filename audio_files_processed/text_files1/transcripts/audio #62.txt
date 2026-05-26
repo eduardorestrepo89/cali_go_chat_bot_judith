@@ -1,0 +1,26 @@
+<soc>Asesor: Hola, buenas tardes.  
+<soc>Cliente: Sí, estoy interesado en una troca de trabajo.  
+<soc>Asesor: Perfecto. Aquí le tengo trocas de trabajo, con un enganche desde los 3,500.  
+<soc>Cliente: Está bien. Perfecto. Pues yo trabajo en una compañía, tengo 13 años aquí, pero soy como individual.  
+<soc>Asesor: ¿Perdón, no tiene como comprobante de ingreso, verdad?  
+<soc>Cliente: Si me pagan en cheque.  
+<soc>Asesor: Ok, entonces nos puede traer su último talón de cheque, su identificación y una factura.  
+<soc>Cliente: Ok, perfecto. ¿Y como financian?  
+<soc>Asesor: Nosotros calificamos cualquier tipo de crédito y con nosotros si lo tiene bajo, lo puede mejorar. Le voy a compartir nuestra información por mensajito de texto. No sé qué día nos podría visitar.  
+<soc>Cliente: Si podría ser mañana en la tarde, señorita, porque hoy hasta las cinco voy a salir del trabajo.  
+<soc>Asesor: Ok, tenemos abierto hasta las 8:00 p.m. y dias festivos hasta las 6:00 p.m.  
+<soc>Cliente: Oh, perfecto. Podría ser mañana.  
+<soc>Asesor: Ok, entonces le voy a compartir por un mensajito nuestra información.  
+<soc>Cliente: En la tarde se me hace más fácil. ¿Entonces serían esos tres requisitos para empezar o qué sería? Llevar el dinero primero, la aplicación.    
+<soc>Asesor: Su identificación vigente.  
+<soc>Cliente: Tengo licencia, tengo licencia de California.  
+<soc>Asesor: La licencia está perfecta. ¿Y su último talón de cheque?  
+<soc>Cliente: Sí, aquí lo tengo.  
+<soc>Asesor: Y la factura.  
+<soc>Cliente: Ok, perfecto.  
+<soc>Asesor: Ahorita ya le dejé la dirección desde mi otro número. Ahí checa lo que es un mensajito.  
+<soc>Cliente: ¿En qué ciudad se encuentra?  
+<soc>Asesor: En San Fernando, California.  
+<soc>Cliente: Okay. Sí, perfecto.  
+<soc>Asesor: Okay, bueno, gracias.  
+<soc>Cliente: Buenas, señorita. Gracias, gracias.  

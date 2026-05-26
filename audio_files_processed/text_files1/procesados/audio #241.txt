@@ -1,0 +1,11 @@
+Speaker A: ¿Hello, hola, hola, hola, me escuchas?
+Speaker B: Sí.
+Speaker A: Les saludo de acá del dealer de autos. Hace algunas semanas hemos querido comunicarnos con usted y no habríamos podido. Queríamos confirmar que estoy interesado en comprar vehículos.
+Speaker B: Sí, solo que estoy tratando de rendir una entrada para poder hacerlo.
+Speaker A: Ok, perfecto. Entonces le voy a compartir por mensajito a nuestra dirección y ya cuando esté listo para venir, me notifica, por favor.
+Speaker B: Claro, me ayuda con la dirección. Su nombre puede ser por mensaje, ya que no tengo.
+Speaker A: ¿Si, por mensajito se lo dejo, el cual sería su nombre, perdone?
+Speaker B: Kevin Salina.
+Speaker A: Ok, Kevin, entonces ahí le dejo la información por mensajito de texto.
+Speaker B: Gracias.
+Speaker A: Bueno, gracias.

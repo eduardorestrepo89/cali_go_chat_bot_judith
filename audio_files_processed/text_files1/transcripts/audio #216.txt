@@ -1,0 +1,47 @@
+<soc>Asesor: Hola, buenas tardes, ¿tengo el gusto con Roberto?
+
+<soc>Cliente: Hola, aló, con él habla.
+
+<soc>Asesor: Le saludo del dealer de autos. Hemos estado intercambiando mensajes y quería darle más información sobre cómo trabajamos. ¿Tiene tiempo para atender mi llamada?
+
+<soc>Cliente: Sí, claro.
+
+<soc>Asesor: Le comento que nosotros hacemos financiamiento en casa y ofrecemos hasta tres años de garantía en motor, transmisión y aire acondicionado. Solo necesitaríamos tres documentos para financiar un vehículo: su identificación, un comprobante de domicilio y un comprobante de ingresos.
+
+<soc>Cliente: Ok.
+
+<soc>Asesor: ¿Cuenta con los tres documentos o no tiene alguno?
+
+<soc>Cliente: Tengo el permiso de trabajo y un comprobante de pago, pero no tengo comprobante de ingresos.
+
+<soc>Asesor: No hay problema si le pagan en efectivo. Solo necesitaría su identificación y el comprobante de domicilio, y con eso trabajamos. ¿Está buscando algún vehículo en especial, como marca, año o modelo?
+
+<soc>Cliente: ¿Qué me recomienda? Busco algo suave para comenzar con mi primer crédito.
+
+<soc>Asesor: Para comenzar, podría ser un sedán, con capacidad para cinco personas y cuatro puertas. El año mínimo que le puedo ofrecer es 2018. Tengo marcas como Nissan, Toyota, Honda, Kia y Ford, con precios a partir de 15,000. Necesitaría un enganche de aproximadamente 1,800. Si busca algo más grande, también tengo SUVs, que comienzan desde 2,300.
+
+<soc>Cliente: Me gustaría algo que se ajuste a mi presupuesto, así que lo que me mencionó sería perfecto.
+
+<soc>Asesor: Aquí tengo varios vehículos que podrían interesarle. Y como le mencioné, la aplicación para financiamiento la hacemos en aproximadamente una hora, es un proceso fácil. ¿Qué día podría venir al dealer? Estamos abiertos de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m. y los domingos de 10:00 a.m. a 6:00 p.m.
+
+<soc>Cliente: Ok. ¿Y en qué parte se encuentran?
+
+<soc>Asesor: Estamos en el Valle de San Fernando.
+
+<soc>Cliente: Perfecto.
+
+<soc>Asesor: Estamos cerca de la 7, así que no le queda tan lejos.
+
+<soc>Cliente: No, no. ¿Y cuánto serían las cuotas mensuales?
+
+<soc>Asesor: Los pagos dependen del plazo de financiamiento. Tendríamos que llenar la aplicación para saber exactamente cuánto le quedaría, pero generalmente financiamos desde seis meses hasta cinco años. Las cuotas suelen andar desde 400 hacia arriba.
+
+<soc>Cliente: Ok, me gustaría hacerlo, pero sería para el sábado que pueda ir al dealer. Ahí me acercaré para más información.
+
+<soc>Asesor: Perfecto. Cuando colguemos, le dejaré nuestra dirección y me comunicaré nuevamente el sábado para confirmar su cita.
+
+<soc>Cliente: Ok, perfecto.
+
+<soc>Asesor: Gracias. Que tenga una bonita tarde.
+
+<soc>Cliente: Muchas gracias, usted también. ¡Hasta luego!

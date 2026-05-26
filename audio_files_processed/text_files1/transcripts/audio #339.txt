@@ -1,0 +1,31 @@
+<soc>Asesor: Hola, buen día, tengo el gusto con Javier. Le saludo del dealer de autos. Acá tenía un mensajito suyo, se comunicó con nosotros por las redes sociales y quería más información sobre cómo trabajamos.
+
+<soc>Cliente: Está bien
+
+<soc>Asesor: Solo que nosotros estamos acá en San Fernando, California. No sé qué tan lejos le parece.
+
+<soc>Cliente: Oh, sí, está lejisimos. ¿está cerca de Texas?
+
+<soc>Asesor: No, es de Santa Ana. Estamos como a una. Ah, usted es de Texas.
+
+<soc>Cliente: Eso es en Texas, donde dice usted.
+
+<soc>Asesor: No, nosotros estamos acá en California, en San Fernando, California.
+
+<soc>Cliente: ¿Es en Santa Ana?
+
+<soc>Asesor: No, estamos en San Fernando, California.
+
+<soc>Cliente: ¿Pero eso es por allá, por la frontera, no?
+
+<soc>Asesor: Sí, le queda lejos.
+
+<soc>Cliente: Sí, la frontera.
+
+<soc>Asesor: Está lejos. Estamos a la par de Los Ángeles. No sé si le interesaría visitarnos.
+
+<soc>Cliente: Sí, pero ahorita no tengo carro.
+
+<soc>Asesor: Bueno, de igual forma le dejo una segunda dirección y cualquier cosa que da la orden.
+
+<soc>Cliente: Sorry

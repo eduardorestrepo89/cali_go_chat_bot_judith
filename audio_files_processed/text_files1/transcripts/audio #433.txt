@@ -1,0 +1,8 @@
+<soc>Asesor: Hola, hola, buen día. ¿Tengo el gusto con el caballero Víctor?.
+<soc>Cliente: Sí.
+<soc>Asesor: Le saludo de acá del dealer. Hemos estado intercambiando algunos mensajes por el vehículo financiado que busca. Le quería dar un poco más de información. No sé si tiene tiempo de atender mi llamada.
+<soc>Cliente: Pero ayer me llamaron y ya me atendieron.
+<soc>Asesor: Ah, ya lo atendieron. ¿Y para qué día hizo cita, perdón?
+<soc>Cliente: No, yo le dije, cuando yo tuviese el empaime, yo iba a llamar.
+<soc>Asesor: Okay, perfecto. Entonces estamos en contacto. Que tenga un buen día.
+<soc>Cliente: Gracias, gracias.

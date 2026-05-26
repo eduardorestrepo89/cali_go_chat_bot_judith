@@ -1,0 +1,27 @@
+<soc>Asesor: Hola, buen día, con Yolanda Monárez.
+
+<soc>Cliente: Hola, soy Judith del dealer. Hemos estado intercambiando mensajes y quería darle más información. ¿Tiene tiempo para hablar?
+
+<soc>Asesor: Sí, claro.
+
+<soc>Cliente: Hacemos financiamiento en casa y ofrecemos hasta tres años de garantía en motor, transmisión y aire acondicionado. Solo necesitamos tres documentos: identificación vigente, comprobante de domicilio (puede ser cualquier tipo de bill) y comprobante de ingreso.
+
+<soc>Asesor: ¿Es su primera vez financiando?
+
+<soc>Cliente: No importa el crédito, siempre calificamos. ¿Busca algún vehículo en especial?
+
+<soc>Asesor: Quiero un SUV, como un Nissan Pathfinder o un Honda Pilot.
+
+<soc>Cliente: Perfecto, tenemos SUVs disponibles. Necesitaría un enganche de unos 3000.
+
+<soc>Asesor: Está bien.
+
+<soc>Cliente: Estamos ubicados en el Valle de San Fernando. ¿Cuándo podría visitarnos?
+
+<soc>Asesor: Puedo llamarle después. Estoy saliendo para la graduación de mi hijo.
+
+<soc>Cliente: Está bien, confírmeme el día cuando pueda.
+
+<soc>Asesor: Muchas gracias.
+
+<soc>Cliente: ¡Feliz tarde! Bye.

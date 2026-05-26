@@ -1,0 +1,14 @@
+<soc>Asesor: Hola, buenas tardes. Tengo el gusto con el caballero Carlos.  
+<soc>Cliente: Él habla.  
+<soc>Asesor: Te saludo del dealer de autos, no sé si tiene tiempo de atender mi llamada.  
+<soc>Cliente: Sí, dime.  
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Le estaríamos solicitando tres documentos para poder financiarle un vehículo, los cuales serían su identificación, un bill y comprobante de ingresos.  
+<soc>Cliente: ¿Hay algún problema si no tengo enganche? 
+<soc>Asesor: Con nosotros sí necesita mínimo unos 800 de enganche para llevarse un vehículo. ¿No cuenta con enganche por el momento?.  
+<soc>Cliente: Para el miércoles puedo tener 1000.  
+<soc>Asesor: Ok, perfecto. ¿Busca carro troca o SUV?  
+<soc>Cliente: Pues busco una troca, pero no hay problema si hay un SUV.  
+<soc>Asesor: Ok, aquí le tengo trocas y también SUV, solo que por esos nosotros le pedimos mínimo 3000 de enganche. Podríamos ayudarle con un down payment diferido, pero eso también es bajo aplicación, es decir, el día que usted nos visite, trae el 80 % del enganche, se lleva el vehículo y le damos hasta dos semanas para que traiga el resto del enganche. Pero si ocuparía traer unos 2500 por lo menos.  
+<soc>Cliente: Ok, pues déjame juntarlo primero.  
+<soc>Asesor: Okay, perfecto.
+<soc>Cliente: Okay, bye.

@@ -1,0 +1,14 @@
+<soc>Asesor: Hola, buen día, caballero.
+<soc>Cliente: Dime.
+<soc>Asesor: Le saludo de aquí del dealer de autos. Quería saber si sigue interesado en comprar un vehículo.
+<soc>Cliente: ¿Eb qué parte está el dealer?
+<soc>Asesor: Nosotros estamos en San Fernando, California.
+<soc>Cliente: Estoy en Michigan, en Troy. Eso está demasiado lejos.
+<soc>Asesor: Disculpe, creo que la persona de marketing ha puesto mal la ubicación.
+<soc>Cliente: ¿En serio?
+<soc>Asesor: Sí, estamos en San Fernando, California. ¿Usted estaba en Texas, verdad?
+<soc>Cliente: Estaba en Texas, pero ya me mudé a Detroit, Michigan.
+<soc>Asesor: Ah, ok. Sí, sigue estando muy lejos de California.
+<soc>Cliente: La verdad sí, estoy bastante retirado.
+<soc>Asesor: Bueno, de igual forma le dejo nuestra dirección para que la revise, pero sí, está bastante lejos.
+<soc>Cliente: Está bien, gracias. Bye.

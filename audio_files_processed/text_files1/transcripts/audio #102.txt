@@ -1,0 +1,8 @@
+<soc>Asesor: Hola, buenas tardes, le saluda del dealer de autos, Quería saber si sigue interesado en adquirir un vehículo.  
+<soc>Cliente: Mira que estoy interesado, pero estoy ocupado ahorita. lo que pasa es que no sé cuánto será lo que piden de enganche ustedes.  
+<soc>Asesor: Por un carro sedan mínimo 1800 de enganche.  
+<soc>Cliente: ¿Oh, sí, verdad?  
+<soc>Asesor: Sí. Todavía no esta listo con el enganche?.  
+<soc>Cliente: No, todavía no soy listo con el enganche. Mejor yo le llamo despuésito.  
+<soc>Asesor: Okay, perfecto. Y espero su llamada. Gracias. 
+<soc>Cliente: Feliz tarde. Bye, bye. Gracias.  

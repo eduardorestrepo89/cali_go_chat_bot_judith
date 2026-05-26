@@ -1,0 +1,21 @@
+<soc>Asesor: Hola, buen día.
+<soc>Cliente: Buenos días.
+<soc>Asesor: Le llamo del dealer de autos. Quería darle información sobre cómo trabajamos. ¿Tiene tiempo para atenderme?
+<soc>Cliente: Sí, claro.
+<soc>Asesor: Hacemos financiamiento en casa y ofrecemos tres años de garantía en motor, transmisión y aire acondicionado. Para calificar, necesitaría tres documentos: una identificación vigente (de aquí o de su país), un bill para confirmar dirección (si no está a su nombre, no hay problema), y un comprobante de ingresos.
+<soc>Cliente: ¿Comprobante de ingresos?
+<soc>Asesor: ¿Le pagan en efectivo?
+<soc>Cliente: Sí, en efectivo.
+<soc>Asesor: No hay problema, solo con su identificación y el bill le ayudamos. ¿Es su primera vez financiando? ¿Ya tiene crédito?
+<soc>Cliente: Sí, tengo crédito.
+<soc>Asesor: Perfecto. ¿Busca algún vehículo en especial?
+<soc>Cliente: Un Toyota Corolla.
+<soc>Asesor: Tengo del año 2018 en adelante, desde 2000 de enganche.
+<soc>Cliente: ¿2000 de enganche?
+<soc>Asesor: Sí. ¿Con cuánto cuenta usted?
+<soc>Cliente: Quería preguntar cuánto de enganche podría dar.
+<soc>Asesor: Lo mínimo sería alrededor de 1800. Necesitamos llenar la aplicación para ver el plazo del financiamiento y el porcentaje de interés. Los pagos mensuales comienzan desde 500. Puede venir sin compromiso. Estamos abiertos de lunes a sábado de 10:00 a.m. a 8:00 p.m. y los domingos de 10:00 a.m. a 6:00 p.m. ¿Qué día podría visitarnos?
+<soc>Cliente: Mañana.
+<soc>Asesor: Perfecto, le dejaré la dirección y estamos en contacto.
+<soc>Cliente: Muchas gracias.
+<soc>Asesor: Gracias, bye.

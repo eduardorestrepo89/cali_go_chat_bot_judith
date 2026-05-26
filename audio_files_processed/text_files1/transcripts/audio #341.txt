@@ -1,0 +1,33 @@
+<soc>Asesor: Buenas, Le saludo de acá del dealer de autos. Estuvimos intercambiando mensajitos. No sé si tiene tiempo de atenderme.
+
+<soc>Asesor: Sí, claro, dígame.
+
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros, le estaríamos solicitando solamente tres documentos: su identificación (puede ser de acá o de su país, pero tiene que estar vigente), un Bill (cualquier tipo de Bill; si no está a su nombre, no hay problema, solo es para confirmar dirección), y un comprobante de ingreso. Pero en caso de que usted pague en cash y no tenga cómo comprobar ingresos, no habría inconveniente. Solo con la identificación y el Bill nosotros le ayudamos.
+
+<soc>Cliente: El Bill tiene que estar a mi nombre. Es que el del cash está a mi nombre, pero no lo hay.
+
+<soc>Asesor: No, no tiene que ser a su nombre. Solo queremos confirmar dirección. ¿Sería su primera vez financiando? ¿Usted ya ha tenido algún crédito?
+
+<soc>Cliente: La verdad, no. No me gusta mucho enjaranarme por hacerlo.
+
+<soc>Asesor: Ok, perfecto. Con nosotros lo puede comenzar, no hay ningún problema. ¿Busca algún vehículo en especial, marca, año o modelo?
+
+<soc>Cliente: Puede ser un Accord, un Toyota Corolla, algo así.
+
+<soc>Asesor: Ok, aquí le tengo esos vehículos. Le tengo del 2018 en adelante, desde $2300 de enganche para los Honda y los Corolla desde $2000 de enganche. No sé qué le parece.
+
+<soc>Cliente: Sí, me interesa más que todo ver lo que son las cuotas. Puedo dar un poco más de enganche, pero más que todo ver lo de las cuotas, cuánto, por cuánto tiempo y así.
+
+<soc>Asesor: Ok, le comento que el financiamiento que le ofrecemos es mínimo seis meses y máximo cinco años. Cuando nos visite, podemos negociar cuál es el tiempo que usted considera prudente para pagar. Puede pagar, como le mencioné, mínimo seis meses y máximo cinco años. Si usted quiere pagar en un año, año y medio, dos años, tres años, ahí podemos negociar esa parte. Es necesaria su visita para poder establecer todo eso. Elegimos exactamente el vehículo que usted se va a llevar. Aplicamos por él, negociamos el plazo del financiamiento y las mensualidades que le ofreceríamos mínimo están por $450. Si es necesario, como le digo, todo el proceso de la aplicación para poder decirle, mire, el pago le va a quedar en tanto. Si se quiere dejar un buen down payment, ahí podemos negociar. Es posible que le digamos, mire, son por ejemplo $450 o $500 por mes, pero si usted quiere dejar más enganche, el pago mensual le puede bajar. Eso depende del enganche también.
+
+<soc>Cliente: Correcto. Y si se tiene un vehículo, está bien. ¿Abren el día domingo? Mañana tengo libre.
+
+<soc>Asesor: Mañana estamos abiertos desde las 10:00 a.m. hasta las 6:00 p.m. Le voy a compartir nuestra dirección y nos vemos mañana.
+
+<soc>Cliente: Está bien, perfecto. ¿Por quién pregunto ahí?
+
+<soc>Asesor: Pregunte por Selenia Hernández o por José Villarreal. Le voy a dar la información por un mensajito de texto para que mañana al venir se recuerde.
+
+<soc>Cliente: So yeah, perfect.
+
+<soc>Asesor: Okay, bye.

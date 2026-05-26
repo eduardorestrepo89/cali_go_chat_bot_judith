@@ -1,0 +1,10 @@
+Speaker A: Hola, buen día caballero, tengo el uso con Dani.
+Speaker B: Maldi.
+Speaker A: Mi nombre es Judith, tenía un mensaje suyo que se ha interesado en un vehículo y le quería dar más información. No sé si tiene tiempo de atenderme.
+Speaker B: Ahorita no, un poquito más tarde. Yo le rezo la llamada.
+Speaker A: Ok, bueno, de igual forma le dejo una dirección, no sé qué día tendrá tiempo de venir a Chile.
+Speaker B: Ok, si me manda la dirección.
+Speaker A: ¿Ok, si yo se la dejo, más o menos qué día nos podría visitar para estar pendiente?
+Speaker B: Por la tarde.
+Speaker A: Ok, excelente. Ahora por la tarde hasta las 8:00 p.m.
+Speaker B: Ok, bueno, gracias.

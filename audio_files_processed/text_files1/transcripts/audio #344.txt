@@ -1,0 +1,12 @@
+<soc>Asesor: Bueno, buenas tardes caballero, le saludo del dealer de autos, no sé si tiene tiempo de atenderme.  
+<soc>Cliente: Sí, cuéntame.  
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa, vamos a tres años de garantía en lo que es motor, transmisión y aire acondicionado. Para calificar con nosotros estaría ocupando tres documentos principalmente su identificación, puede ser de aquí o de su país, pero tiene que estar vigente. También ocupa un Bill, cualquier tipo de Bill, si no está su nombre, no hay problema, solo para confirmar dirección. ¿Y si tiene también un comprobante de ingresos, cuenta con los requisitos o habría inconveniente con alguno? Cuenta con los tres. ¿Busca algún vehículo en especial? Bill, cualquier tipo de Bill. Si no está su nombre, no hay problema, solo para confirmar dirección. Puede ser de teléfono, luz, renta. ¿Primera vez, cuando usted ya ha financiado alguna vez?  
+<soc>Cliente: No, primera vez.  
+<soc>Asesor: Ok, el otro sería un comprobante de ingresos. ¿Le pagan cash con cheque o por depósito?  
+<soc>Cliente: Cash.  
+<soc>Asesor: Ok, si no tiene cómo comprobar ingresos, no hay problema, solo con el Bill y con su identificación. ¿Busca algún vehículo en especial, marca, año o modelo?  
+<soc>Cliente: No creo que sea económico y que esté en buen estado.  
+<soc>Asesor: Perfecto, los carros que le tenemos son del año 2018 en adelante, ocuparía mínimo unos 2000 de enganche. No sé si está bien para usted.  
+<soc>Cliente: Me manda la dirección y voy a agendar la cita   
+<soc>Asesor: ahorita se la voy a dejar por un mensajito de texto. ¿Más o menos qué día nos podría visitar para estar pendiente?  
+<soc>Cliente: Bueno, está bien.  el domingo

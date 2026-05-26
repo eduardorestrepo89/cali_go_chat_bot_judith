@@ -1,0 +1,20 @@
+<soc>Asesor: Hola, buen día. Le saludo de acá del dealer. ¿Tiene tiempo de atenderme?  
+<soc>Cliente: Sí.  
+<soc>Asesor: Ok, bueno, le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros ocuparía tres documentos, los cuales serían su identificación vigente, puede ser de aquí o de su país. Si tiene también un comprobante de ingreso, pero si le pagan cash y no tiene cómo comprobar ingreso, no hay problema. Y si tiene también un comprobante de bill, si no está su nombre, tampoco hay problema, solo para confirmar dirección.  
+<soc>Cliente: Sí, bueno, no tengo el comprobante de ingresos porque soy vendedor ambulante y pues solo manejo cash.  
+<soc>Asesor: Ok, entonces solo con que me traiga su identificación y el bill es suficiente.  
+<soc>Cliente: ¿A dónde me dirijo ya? ¿A qué dirección?  
+<soc>Asesor: Estamos acá en el valle de San Fernando. Se la dejé por un mensajito de texto, pero se la voy a reenviar nuevamente para que la cheque ahí por mensajito. ¿Busca algún vehículo en especial, marca y modelo?  
+<soc>Cliente: Sí, una Toyota Tundra.  
+<soc>Asesor: Ok. Por ahora solo le tengo Tacoma, no sé si le interesaría ver Tacoma.  
+<soc>Cliente: Tacoma, no, una Tundra.  
+<soc>Asesor: Ok, perfecto. Voy a verificar si tenemos una Tundra.  
+<soc>Cliente: O una Chevy o que sea de ocho pies de largo.  
+<soc>Asesor: Tundra, Chevy o Ram. Aquí le tengo ocho pies. Ocuparía mínimo lo que son 3500 de enganche, no sé si está bien para usted.  
+<soc>Cliente: Sí, sí, sí, está bien.  
+<soc>Asesor: Ok, perfecto. ¿Qué día nos puede visitar?  
+<soc>Cliente: ¿Me manda las fotos del vehículo?  
+<soc>Asesor: Sí, yo le envío las fotografías.
+<soc>Cliente: Gracias. El viernes de esta semana paso a verlo.
+<soc>Asesor: Perfecto. Aquí lo esperamos. Feliz día.
+<soc>Cliente: Feliz día.

@@ -1,0 +1,19 @@
+Speaker A: Please leave your message for.
+Speaker B: To replay your message.
+Speaker C: Press.
+Speaker D: One to continue recording.
+Speaker C: Press.
+Speaker D: Two to delete and rerecord your message Press.
+Speaker E: Three for delivery options Press.
+Speaker A: Four to send a fax press.
+Speaker F: Six to cancel this message Press star.
+Speaker G: To send this message now.
+Speaker H: Press Pound or hang up.
+Speaker B: To replay your message Press.
+Speaker D: One to continue recording Press. Two to delete and rerecord your message Press.
+Speaker E: Three for delivery options press.
+Speaker A: Four to send a fax press.
+Speaker F: Six to cancel this message Press star.
+Speaker G: To send this message now.
+Speaker H: Press pound or hang up.
+Speaker B: To replay your message.

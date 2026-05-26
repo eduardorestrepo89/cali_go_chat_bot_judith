@@ -1,0 +1,21 @@
+<soc>Asesor: Hola, buenas tardes caballero, le saludo del dealer de autos. No sé si tiene tiempo de atenderme.
+<soc>Cliente: si claro cuentame.
+<soc>Asesor: Buen día, quería comentarle que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros, le estaríamos solicitando una identificación vigente, un comprobante de ingreso y un comprobante de domicilio.
+<soc>Cliente: ¿El comprobante de domicilio puede estar a nombre de otra persona?
+<soc>Asesor: Sí, no hay problema. Solo lo necesitamos para comprobar la dirección.
+<soc>Cliente: ¿Ok, y dónde están ubicados?
+<soc>Asesor: Estamos en el valle de San Fernando. Le dejaré la dirección por mensaje de texto. No sé qué día podría visitarnos.
+<soc>Cliente: Le aviso con tiempo.
+<soc>Asesor: ¿Ok, sería la próxima semana o en esos días?
+<soc>Cliente: Yo creo que la próxima semana.
+<soc>Asesor: ¿Busca algún vehículo en especial, marca, año o modelo?
+<soc>Cliente: Pues ahorita estoy buscando una camioneta para trabajo.
+<soc>Asesor: Ok, perfecto. Aquí tengo varias trocas. Ahorita nos acaba de llegar una Toyota Tacoma con $2800 de enganche. ¿Sería su primera vez financiando? ¿Ha tenido crédito alguna vez?
+<soc>Cliente: No, nunca he tenido crédito. De hecho, acabo de llegar, así que por eso necesito aplicar a un crédito.
+<soc>Asesor: Claro que sí. Acá en este país es una necesidad tener vehículos. Le voy a dejar nuestra dirección por mensaje de texto y, cuando ya esté listo para visitarnos la próxima semana, me lo hace saber para estar pendiente.
+<soc>Cliente: Perfecto, muchas gracias.
+<soc>Asesor: Gracias, que tenga un buen día.
+<soc>Cliente: Gracias, igualmente, buen día.
+<soc>Asesor: Bueno, bye bye.
+
+

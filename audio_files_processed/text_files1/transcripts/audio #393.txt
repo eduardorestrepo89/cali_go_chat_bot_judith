@@ -1,0 +1,23 @@
+<soc>Asesor: Hola, buenos días. ¿Tengo el gusto con el caballero Francisco?
+<soc>Cliente: ¿Quién habla?
+<soc>Asesor: Le hablo de un dealer de autos. Hace unos días estuvimos intercambiando mensajes sobre un vehículo que busca. ¿Tiene tiempo para atender mi llamada?
+<soc>Cliente: Sí, claro, por supuesto.
+<soc>Asesor: Con gusto. Mi nombre es Judith. Nosotros ofrecemos financiamiento en casa y brindamos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar, principalmente le solicitaría una identificación, que puede ser de aquí o de su país, pero debe estar vigente. También podría necesitar dos requisitos adicionales: un comprobante de domicilio, que puede ser cualquier factura que muestre su dirección (no es necesario que esté a su nombre), y un comprobante de ingreso. ¿Tendría los tres documentos o solo la identificación?
+<soc>Cliente: Creo que puedo tener los tres.
+<soc>Asesor: Perfecto. ¿Sería su primera vez financiando un vehículo o ya ha tenido algún crédito?
+<soc>Cliente: No, ya he tenido un carro anteriormente.
+<soc>Asesor: ¿Y su crédito cómo está, bueno, malo o regular?
+<soc>Cliente: No, está malo.
+<soc>Asesor: Entiendo. Esta es una pregunta de rutina. Nosotros calificamos cualquier tipo de crédito, así que no se preocupe por eso. ¿Está buscando algún vehículo en especial, como marca, año o modelo?
+<soc>Cliente: Estoy buscando un carro híbrido, que tenga CarPlay sería perfecto, pero si no, solo que sea híbrido.
+<soc>Asesor: Tengo un Toyota Prius, modelos 2018 y 2020, disponibles con un enganche mínimo de 2500 dólares. ¿Le gustaría que le envíe fotografías de los vehículos una vez que colguemos la llamada? También le enviaré la dirección por mensaje de texto. Estamos ubicados en San Fernando, California.
+<soc>Cliente: ¿San Fernando es en el valle, verdad?
+<soc>Asesor: Sí, estamos cerca, pero más centrados en el valle.
+<soc>Cliente: No ubico bien, apenas estoy empezando a ir para allá. ¿Es por donde está Arleta?
+<soc>Asesor: Estamos un poco más al centro.
+<soc>Cliente: Ok. Yo vivo en Fullerton y normalmente voy a San Fernando, Arleta o Panorama City el siguiente lunes. Si me da la dirección y no está muy lejos, puedo ir esta semana; si no, será hasta el siguiente lunes que iré para allá.
+<soc>Asesor: Está bien, le dejaré la dirección por mensaje de texto.  Estaremos en contacto, ya sea que pueda pasar esta semana o que quedemos para el próximo lunes.
+<soc>Cliente: Perfecto, ¿me pueden mandar las fotos de los vehículos?
+<soc>Asesor: Sí, se las enviaré por mensaje de texto.
+<soc>Cliente: Muchas gracias, muy amable.
+<soc>Asesor: De nada, que tenga un buen día. ¡Hasta luego!

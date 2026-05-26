@@ -1,0 +1,33 @@
+<soc>Asesor: Hola, buen día. Saludos desde el dealer. No sé si tiene tiempo de atenderme.
+
+<soc>Cliente: Sí, señor, dígame.
+
+<soc>Asesor: Quería comentarle que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros, le estaríamos solicitando tres documentos. serían su identificación, puede ser de aquí o de su país, pero debe ser vigente. También necesita un recibo, cualquier tipo de recibo donde aparezca su dirección; si no aparece su nombre, no hay problema. Y un comprobante de ingreso.
+
+<soc>Cliente: Sí, sí tengo los requisitos
+
+<soc>Asesor: Ok. ¿Sería su primera vez financiando?
+
+<soc>Cliente: Ya he financiado antes, pero esta sería la primera vez para mí.
+
+<soc>Asesor: Perfecto. ¿Hay algún vehículo en especial que usted busque? ¿Alguna marca, año o modelo?
+
+<soc>Cliente: Yo la verdad ando buscando una camioneta que no sea muy costosa, no quiero algo que sea demasiado caro.
+
+<soc>Asesor: De momento le tengo camionetas del año 2018 en adelante, desde los 3000 de enganche. Tengo una Chevrolet Silverado, Dodge Ram, Ford F-150 y Ranger. También tengo una Toyota Tacoma y una Nissan Frontier. ¿Qué le parece?
+
+<soc>Cliente: Bien, suena excelente. Me interesan la Tacoma y la Frontier.
+
+<soc>Asesor: Sí, están disponibles.
+
+<soc>Cliente: Ok, me parece excelente.
+
+<soc>Asesor: Estamos abiertos de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m. y los domingos desde las 10:00 a.m. hasta las 6:00 p.m. ¿Qué día nos estaría visitando para estar pendientes?
+
+<soc>Cliente: Sería el sábado, prácticamente el fin de semana.
+
+<soc>Asesor: Perfecto.
+
+<soc>Cliente: Ok, muchas gracias.
+
+<soc>Asesor: ¡Hasta luego!

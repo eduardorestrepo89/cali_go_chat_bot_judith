@@ -1,0 +1,11 @@
+<soc>Asesor: Buenos días, buen día. Tengo el gusto con Williams.  
+<soc>Cliente: Dígame.  
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa, vamos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros le estaríamos solicitando tres documentos, los cuales serían una identificación, puede ser de aquí o de su país, pero tiene que estar vigente. También ocupa un Bill, cualquier tipo de Bill, si no está su nombre no hay problema, solo para confirmar dirección y si tiene también un comprobante de ingreso.  
+<soc>Cliente: ¿Y si gano cash?  
+<soc>Asesor: ¿Si le pagan cash, tiene jefe o trabaja por su cuenta?  
+<soc>Cliente: Trabaja por mi cuenta.  
+<soc>Asesor: En este caso no presentar ningún tipo de comprobante de ingresos, solo con la identificación y con el comprobante de domicilio es suficiente. ¿Y sería su primera vez financiando o usted ya ha tenido crédito? ¿Algún vehículo en especial que usted busque, marca, año o modelo? 
+<soc>Cliente: Busco una pickup de Trabajo 
+<soc>Asesor: Fíjese que nosotros no vendemos pickups de trabajo, no le manejamos y lo que le podría ofrecer es una troca. le tengo SUVs de hasta ocho pasajeros.  
+<soc>Cliente: ¿Cómo dice?  
+<soc>Asesor: Sí, no sé si estaría abierto a ver otras opciones o específicamente busca una pickup de trabajo. Le comentaba que no tenemos pickups de trabajo, no nos viene ese tipo de vehiculo en inventario, pero le tengo lo que son trocas y también le tengo SUVs de ocho pasajeros. aquí le tengo dos Durango, no sé si le interesaría venir a verlas ahora, tenemos abierto hasta las 8:00 p.m. ok, ahí le dejo la dirección y me notifica cuando va en camino, por favor. Bueno, gracias.

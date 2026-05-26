@@ -1,0 +1,14 @@
+<soc>Asesor: Hola, buenas tardes. ¿Tengo el gusto con el caballero que se interesa en un vehículo, verdad? No sé si tiene tiempo de atenderme.
+<soc>Cliente: Puede explicarme, a ver cómo está.
+<soc>Asesor: Ok, con gusto. Le comento que nosotros hacemos financiamiento en casa y damos hasta tres años de garantía en motor, transmisión y aire acondicionado.
+<soc>Asesor: Para calificar con nosotros, le estaríamos solicitando tres documentos: su identificación vigente, que puede ser de aquí o de su país.
+<soc>Asesor: También ocupa un bill, cualquier tipo de bill. Si no está a su nombre, no hay problema, solo para confirmar la dirección, y si tiene, también un comprobante de ingreso.
+<soc>Asesor: ¿Cuenta con esos requisitos o tendría algún inconveniente con alguno?
+<soc>Cliente: Creo que inconveniente no tengo, pero ahorita hay otro detalle. No sé dónde están ubicados.
+<soc>Asesor: Estamos acá en San Fernando, California. No sé si usted se encuentra por esta área.
+<soc>Cliente: Ese es el detalle, que yo no estoy por ahí. Estoy en Wisconsin ahorita. Como vi su publicación, decidí preguntar.
+<soc>Cliente: Dije yo sí, quiero saber más.
+<soc>Asesor: La persona de marketing se ha equivocado con el área y ha publicado en otro estado. Mis disculpas por eso.
+<soc>Cliente: Sí, no, pero está bien. Es normal. Como le digo, vi la publicación y quise preguntar. ¿Entonces ya no trabajan en Wisconsin, verdad?
+<soc>Asesor: No, la única localidad que tenemos es aquí en California, en San Fernando. Por el momento no tenemos otra localidad.
+<soc>Cliente: Okay, gracias. Bye.

@@ -1,0 +1,50 @@
+<soc>Asesor: Hola, buenos días. Mi nombre es Judith. ¿Anteriormente creo que le llamé, verdad?
+
+<soc>Cliente: Es correcto, sí. Gracias. Judith, dígame.
+
+<soc>Asesor: Sí, le saludo de Cali Go Autos. Le llamé porque teníamos mensajitos a través de nuestras redes sociales, y usted estaba interesado en un vehículo.
+
+<soc>Cliente: Sí, quería tener información.
+
+<soc>Asesor: Ok. ¿Tiene tiempo en este momento para darle un poco más de detalles?
+
+<soc>Cliente: Sí, claro.
+
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa. Ofrecemos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros, solo necesita tres documentos: su identificación, que puede ser de aquí o de su país, pero tiene que estar vigente; un recibo de algún servicio (bill), que puede no estar a su nombre, solo para confirmar la dirección; y un comprobante de ingresos.
+
+<soc>Asesor: ¿Cuenta con los tres requisitos o habría inconveniente con alguno?
+
+<soc>Cliente: Cuento con los tres.
+
+<soc>Asesor: Perfecto. ¿Y sería su primera vez financiando hoy? ¿Ha tenido algún crédito?
+
+<soc>Cliente: Sí, tengo un crédito ahí, tengo crédito en Curazao, tengo crédito en Oportuno, tengo mis tarjetas de crédito, no sé qué más.
+
+<soc>Asesor: Ajá, perfecto. ¿Y busca algún vehículo en especial, ya sea marca, año o modelo?
+
+<soc>Cliente: Tal vez un Chevrolet Colorado 2018.
+
+<soc>Asesor: Ok, acá le tenemos vehículos del 2018 en adelante. También damos el primer mes de seguro gratis y necesita un enganche mínimo de $3,000. ¿No sé si está bien para usted?
+
+<soc>Cliente: Sí, tengo los 3000 de enganche ¿Y cuánto podría quedar la cuota? ¿Cómo es el tipo de financiamiento? ¿A cuánto tiempo? ¿Pagos mensuales?
+
+<soc>Cliente: Y si, digamos, como le podría decir, un avalúo así rápido, digamos, de $5,000, de $3,000 a como lo piden ustedes, que saque la troca a tres años, 36 meses. Entonces, ¿cuánto podría quedarme la cuota mensual?
+
+<soc>Asesor: La cuota mensual que nosotros manejamos anda en un intervalo de $600 a $1,000. Tendríamos que hacer cálculos exactos, pero le doy esos intervalos para que se haga una idea. Si quiere pagar en menos tiempo, sería el máximo $1,000; y en más tiempo andaría por los $600. No le puedo decir con exactitud porque necesitamos ver la troca que se va a llevar. Tendríamos que llenar una aplicación para determinar el plazo del financiamiento y el porcentaje de interés al que califica. Nosotros manejamos un porcentaje mínimo del 7%.
+Le voy a compartir nuestra dirección. Estamos en el valle de San Fernando. Si se anima, ¿qué día podría visitarnos?
+
+<soc>Cliente: Ok, está bien. Muchísimas gracias. Yo le podría decir que estoy interesada, pero sí, está bien que tenemos que estar informando. He leído tantos anuncios y ustedes fueron los que más me llamaron la atención, sinceramente. Por eso le envié un mensaje.
+
+<soc>Asesor: Ok, perfecto. Entonces, estamos abiertos de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m. y los domingos desde las 10:00 a.m. hasta las 6:00 p.m. Voy a compartir nuestra dirección y quedamos a la orden.
+
+<soc>Cliente: Ok, una última pregunta. Cuando se trata del estado de cuentas del banco, ¿lo tengo en mi aplicación del banco, el estado de cuenta que me envían, o le gustaría escribirlo directamente al banco?
+
+<soc>Asesor: No, si lo tiene, se lo pueden enviar por correo o aparece en su banca en línea. Pueden mostrarnos eso y lo imprimimos aquí, es correcto.
+
+<soc>Cliente: Sí, pues sí. Ok, perfecto.
+
+<soc>Asesor: Ahí se lo dejo. Si puede pasar esta semana, quedamos a la orden.
+
+<soc>Cliente: Gracias, Judith.
+
+<soc>Asesor: Gracias, feliz día.

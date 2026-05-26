@@ -1,0 +1,18 @@
+<soc>Asesor: Hola, buen día, le saludo del dealer de autos. Hola, sí, sí, quería darle más información. De cómo trabajamos, no sé si tiene tiempo de atenderme.  
+<soc>Asesor: Sí digame  
+<soc>Asesor: ¿Ok, sigue interesado en comprar vehículo verdad?  
+<soc>Cliente: Sí, me interesa un vehiculo.  
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa, vamos hasta tres años de garantía en motor, en transmisión y aire acondicionado. Para calificar con nosotros ocupa su identificación vigente, un comprobante de ingresos, 1 comprobante de domicilio.  
+<soc>Cliente: ¿Ok, y ustedes dónde están ubicados?.  
+<soc>Asesor: Estamos acá en el valle de San Fernando, le voy a dejar la dirección por un mensajito de texto. ¿No sé qué día nos podría visitar? 
+<soc>Cliente: ¿qué empresa es?
+<soc>Asesor: Somos Cali Go Autos. ¿ya nos ha visitado?.  
+<soc>Cliente: Si, yo le visité hace como dos semanas, sino que tuve un percance y aparte que por el trabajo, yo trabajo diferente horas que mi esposo y no hemos podido volver a ir.  
+<soc>Asesor: Ok, aquí tenemos abierto de lunes a sábado hasta las 8:00 p.m. y también los domingos hasta las 6:00 p.m. ¿tienen tiempo de pasar en estos días?  
+<soc>Cliente: Si el domingo estamos viendo si podemos ir.  
+<soc>Asesor: ¿Ok, domingo entonces?  
+<soc>Cliente: Sí, eso es lo que voy a coordinar ahora porque no se parece que mañana también trabajo, entonces estamos viendo eso.   
+<soc>Asesor: Ok, perfecto. ¿Entonces si el domingo nos pueden visitar, aquí la esperamos y le voy a dejar nuevamente nuestra dirección
+<soc>Cliente: ¿es de ocho a seis de la mañana no?  
+<soc>Asesor: Sí, desde las 10:00 a.m. hasta las 6:00 p.m. 
+<soc>Cliente: listo, gracias.

@@ -1,0 +1,35 @@
+<soc>Asesor: hola, buen día. Tengo el gusto con Freddy. Le saludo de acá del dealer de autos. No sé si tiene tiempo de atenderme.
+
+<soc>Cliente: Sí, sí, sí. estoy disponible.
+
+<soc>Asesor: Ok, sí. Le comento que nosotros acá tenemos varios carros sedán, desde 1,800 de enganche. ¿No sé qué le parece o qué tipo de vehículo busca?
+
+<soc>Cliente: Pues un Mustang estándar.
+
+<soc>Asesor: Fíjese que de ese tipo de vehículos no le tenemos. La mayoría que nos vienen son automáticos del 2018 en adelante, y marcas como Honda, Toyota, Nissan, Ford, Chevy y Mazda, pero no tenemos Mustang.
+
+<soc>Cliente: Ya entiendo.
+
+<soc>Asesor: ¿No estaría dispuesto a ver otros vehículos, otras opciones?
+
+<soc>Cliente: Pues me interesaban un Mustang, pero no sé qué clase de carro me recomienda, ya que acabo de llegar a este país y ocupo agarrar un carro.
+
+<soc>Asesor: Ok, fíjese que esos Mustang, por ser deportivos, son un poco gastones de gasolina. Ahorita le recomendaría un Toyota Camry o un Honda Accord. Son vehículos muy económicos en cuanto a consumo de combustible y además son muy confiables. Tenemos desde los Toyota Camry y Corolla desde 1,800 de enganche, pero los Honda sí, desde 2,000 de enganche, son un poco más altos de precio.
+
+<soc>Cliente: Dando los 1,800 de enganche, ¿cuánto se paga mes a mes?
+
+<soc>Asesor: Los pagos que nosotros estamos manejando ahorita, mínimo andan por los 500.
+
+<soc>Cliente: ¿$500 al mes?
+
+<soc>Asesor: Sí, es el mínimo que estamos manejando. Si acaso no tienen vehículos más baratos, los pagos son un poco más bajos. A veces andan por los 400 o 450, pero por el momento todos andan de los 500. Solo con su identificación le ayudamos y puede venir sin ningún compromiso a ver los vehículos y ver qué le parece todo.
+
+<soc>Cliente: ¿Y en qué ciudad están esos vehículos?
+
+<soc>Asesor: Estamos acá en el valle de San Fernando. Le voy a compartir la dirección por un mensajito de texto.
+
+<soc>Cliente: Ok, me parece bien.
+
+<soc>Asesor: Ok.
+
+<soc>Cliente: Perfecto. Gracias.

@@ -1,0 +1,21 @@
+<soc>Asesor: Hola, buenos días. Le quería dar más información de cómo trabajamos el financiamiento de los vehículos. No sé si tiene tiempo de atenderme.  
+<soc>Cliente: Ok, está bien.  
+<soc>Asesor: Bueno, le comento que nosotros hacemos financiamiento en casa. Damos tres años de garantía en motor, transmisión y aire acondicionado. Le estaríamos solicitando tres requisitos para poder financiarle, los cuales serían su identificación, puede ser de aquí o de su país, pero tiene que estar vigente.  
+<soc>Asesor: También ocupa un bill, cualquier tipo de Bill, si no está su nombre no hay problema, solo para confirmar dirección. Y si tiene también un comprobante de ingreso. ¿Y sería su primera financiación o usted ya cuenta con crédito establecido?  
+<soc>Cliente: Primera vez.  
+<soc>Asesor: Perfecto. ¿Algún vehículo específico que usted busque, marca, año o modelo?  
+<soc>Cliente: Es como un Honda o Nissan.  
+<soc>Asesor: Perfecto. ¿Con cuánto de enganche cuenta?  
+<soc>Cliente: ¿Pues eso quería yo preguntarle a usted, más o menos cuánto habría que quedar?  
+<soc>Asesor: Ok, le comento que por un Nissan si le estaríamos pidiendo mínimo unos 1800 de enganche, pero por un Honda Civic 2300 mínimos. Los que tenemos todos son del año 2019 en adelante.  
+<soc>Cliente: Ajá. ¿A dónde están ubicados?  
+<soc>Asesor: Estamos acá en el valle de San Fernando, le voy a dejar la dirección por un mensajito de texto.  
+<soc>Cliente: ¿En el valle de San Fernando?   
+<soc>Asesor: Sí, le voy a dejar la dirección para que se chequee más o menos donde estamos. Tenemos abierto de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m. y los domingos de 10:00 a.m. hasta las 6:00 p.m.  
+<soc>Cliente: Yo creo que sí estoy cerca porque estoy aquí en North Hollywood.  
+<soc>Asesor: Ah, estamos cerca entonces. Si no sé más o menos qué día podría pasar al dealer para estar pendiente.  
+<soc>Cliente: Pues si quiere mándame la dirección y yo le hago saber. Voy a ver si voy. Sería como a las tres por lo menos.  
+<soc>Asesor: Ok, perfecto. Entonces ahí le dejo nuestra dirección y me comunico con usted más tarde para confirmar.  
+<soc>Cliente: Ok, está bien.  
+<soc>Asesor: Gracias.  
+<soc>Cliente: Ok, gracias.  

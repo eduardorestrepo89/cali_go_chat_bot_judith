@@ -1,0 +1,25 @@
+<soc>Asesor: Buenas tardes, ¿tengo el gusto con el caballero Ernesto? De acá del dealer, nos comunicamos hace como tres semanas y queríamos saber si sigue interesado en comprar vehículos.
+
+<soc>Asesor: ¿De cuál dealer?
+
+<soc>Cliente: De Cali Go Autos, en San Fernando, California.
+
+<soc>Asesor: ¿En qué área está usted?
+
+<soc>Cliente: Estoy cerca en Los Ángeles.
+
+<soc>Asesor: Ok, bueno, de igual forma le dejo nuestra dirección por si se anima a visitarnos. Estamos a la orden.
+
+<soc>Cliente: Lo que pasa es que dicen una cosa en su información de los videos y ya cuando uno va, dicen otra.
+
+<soc>Asesor: Entiendo, es un punto de vista válido. La verdad es que si nosotros ofrecemos vehículos desde $1800, aunque tenga mal crédito, y solo con su identificación. Pero ya si el cliente tiene un crédito demasiado malo, se le va a pedir más información para poder ayudarle.
+
+<soc>Cliente: Sí, es por eso que no he respondido, porque no tengo crédito.
+
+<soc>Asesor: ¿Cero crédito o mal crédito?
+
+<soc>Cliente: Cero crédito.
+
+<soc>Asesor: En su caso, con cero crédito, desde $1800 se puede llevar un carro sedán. Solo necesita tener su identificación vigente, un comprobante de ingresos y un comprobante de domicilio. Esos son los requisitos que solicitamos.
+
+<soc>Cliente: Igualmente, gracias.

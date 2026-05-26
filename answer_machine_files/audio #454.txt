@@ -1,0 +1,25 @@
+Speaker A: Por favor deje su mensaje para.
+Speaker B: Yes I get it as� si me escriben bueno aqu� de lo contrario pasa y lo veo.
+Speaker A: Tu grabaci�n ha alcanzado la longitud m�xima.
+Speaker C: Para volver a escuchar su mensaje, oprima un.
+Speaker A: Para borrar y volver a grabar su mensaje, oprima tres.
+Speaker D: Para opciones de entrega, oprima cuatro.
+Speaker E: Para enviar un fax, oprima seis.
+Speaker F: Para cancelar este mensaje, apriete la estrella.
+Speaker G: Para enviar este mensaje ahora, oprima el.
+Speaker H: Signo de n�mero o cuelgue.
+Speaker C: Para volver a escuchar su mensaje, oprima un.
+Speaker A: Para borrar y volver a grabar su mensaje, oprima tres.
+Speaker D: Para opciones de entrega, oprima cuatro.
+Speaker E: Para enviar un fax, oprima seis.
+Speaker F: Para cancelar este mensaje, apriete la estrella.
+Speaker G: Para enviar este mensaje ahora, oprima el.
+Speaker H: Signo de n�mero Zweitausendein o cuelgue.
+Speaker C: Para volver a escuchar su mensaje, oprima un.
+Speaker A: Para borrar y volver a grabar su mensaje, oprima tres.
+Speaker D: Para opciones de entrega, oprima cuatro.
+Speaker E: Para enviar un fax, oprima seis.
+Speaker F: Para cancelar este mensaje, apriete la estrella.
+Speaker G: Para enviar este mensaje ahora, oprima el.
+Speaker H: Signo de n�mero o cuelgue.
+Speaker E: Su mensaje ha sido enviado.

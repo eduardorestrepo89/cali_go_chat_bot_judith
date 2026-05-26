@@ -1,0 +1,13 @@
+<soc>Asesor: Hola, buen día.  Mi nombre es Judith. Les saludo del dealer de autos. Hemos estado intercambiando mensajitos y quería saber si tiene tiempo de atender mi llamada.
+
+<soc>Cliente: Sí, cuenteme.
+
+<soc>Asesor: Ok. Les quiero dar un poco más de información sobre cómo trabajamos el financiamiento. Le cuento que hacemos financiamiento en casa y ofrecemos hasta tres años de garantía en el motor, la transmisión y el aire acondicionado. Para calificar con nosotros, necesitaría su identificación vigente, un comprobante de ingreso y un comprobante de domicilio. ¿Cuenta con los tres requisitos o habría inconveniente?
+
+<soc>Cliente: Sí, tengo los tres requisitos, pero ahorita estoy en el trabajo.
+
+<soc>Asesor: Ok, le voy a dejar nuestra dirección por un mensajito de texto, si gusta, junto con la información. No sé qué día nos podría visitar.
+
+<soc>Cliente: Okay.
+
+<soc>Asesor: Claro, me puede marcar. Ok.

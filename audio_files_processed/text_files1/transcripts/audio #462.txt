@@ -1,0 +1,27 @@
+<soc>Asesor: Buenas tardes, ¿tengo el gusto de hablar con el señor Ramírez?
+<soc>Cliente: Sí, soy yo. ¿De parte de quién?
+<soc>Asesor: Mi nombre es Judith del dealer Cali Go Autos. Quería saber si sigue interesado en comprar un vehículo.
+<soc>Cliente: Sí, ¿cómo podemos proceder?, ¿qué constancia necesitarían?
+<soc>Asesor: ¿Le pagan en efectivo, cheque o depósito?
+<soc>Cliente: En efectivo.
+<soc>Asesor: ¿Tiene un jefe o es independiente?
+<soc>Cliente: Tengo un patrón.
+<soc>Asesor: Perfecto, necesitaría el número de contacto de su jefe, además de su identificación vigente y un comprobante de domicilio.
+<soc>Cliente: ¿El comprobante de domicilio tiene que estar a mi nombre?
+<soc>Asesor: No, solo es para confirmar la dirección.
+<soc>Cliente: Entendido.
+<soc>Asesor: ¿Ya tiene crédito establecido?
+<soc>Cliente: Está bien, el Ford que tengo lo compré en un dealer pequeño.
+<soc>Asesor: ¿Busca algún vehículo en especial?
+<soc>Cliente: Una camioneta de trabajo.
+<soc>Asesor: Solo tenemos camionetas familiares tipo SUV para hasta ocho pasajeros, desde 2000 a 2500 de enganche.
+<soc>Cliente: Está bien. ¿Qué día podría venir a verlas?
+<soc>Asesor: ¿El domingo le funcionaría?
+<soc>Cliente: Sí, estaría bien.
+<soc>Asesor: Perfecto, el domingo será ideal. ¿A qué hora le gustaría venir?
+<soc>Cliente: ¿A las 10 a.m. estaría bien?
+<soc>Asesor: Sí, esa hora funciona. Le estaré esperando para mostrarle las opciones que tenemos.
+<soc>Cliente: Excelente, gracias.
+<soc>Asesor: De nada, cualquier cosa, no dude en contactarnos. ¡Nos vemos el domingo!
+<soc>Cliente: Claro, nos vemos. ¡Hasta luego!
+<soc>Asesor: ¡Hasta luego!

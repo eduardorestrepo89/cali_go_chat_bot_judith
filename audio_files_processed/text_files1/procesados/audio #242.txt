@@ -1,0 +1,12 @@
+Speaker A: Buenas tardes, ahora tengo el gusto con Ronnie.
+Speaker B: Sí, dígame.
+Speaker A: Le saludo de acá del dealer. Hemos intercambiado algunos mensajes anteriormente y quería saber si sigue interesado en comprar vehículos.
+Speaker B: Sí, pero no sé si piden depósito o algo, pero ahorita no tengo plata.
+Speaker A: Sí, fíjense que pedimos depósitos y usted lo dejo en nuestra dirección y ya cuando esté listo para visitarlo.
+Speaker B: Así está bien, me parece.
+Speaker A: ¿Ok, bueno, por un vehículo se da, no? ¿Ocuparía mínimo 1800, le tengo del 2019 al 2023.
+Speaker B: Cuánto sería depósito?
+Speaker A: Uno 800 mínimo.
+Speaker B: Ok, déjame tu dirección para ver si los visito.
+Speaker A: Ok, ahí se lo dejo. Cualquier cosa que va a la orden, que tenga un buen día.
+Speaker B: Así es, total.

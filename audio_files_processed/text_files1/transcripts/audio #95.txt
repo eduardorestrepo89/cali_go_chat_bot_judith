@@ -1,0 +1,18 @@
+<soc>Asesor: ¿Hola, buen día? te saludo de acá del dealer de autos, no sé si tiene tiempo de atenderme.  
+<soc>Cliente: Sí, puedo atenderte.  
+<soc>Asesor: Ok, le comento que hacemos financiamiento en casa, vamos a hacer tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros le estaríamos solicitando tres documentos, los cuales serían su identificación vigente, un comprobante de ingreso y un comprobante de domicilio.  
+<soc>Cliente: Pero mi esposo gana en efectivo.  
+<soc>Asesor: Ok, si le pagan en efectivo y no tiene cómo comprobar ingreso, no hay ningún problema, solo con la identificación y con el billete ayudamos. ¿Sería su primera vez financiando o ya ha tenido algún crédito?  
+<soc>Cliente: No, nunca.  
+<soc>Asesor: ¿Ok, algún vehículo en especial que busquen, marca, año o modelo?  
+<soc>Cliente: No, queremos uno económico, dígame.  
+<soc>Asesor: Le tengo carros, sedan cuatro cilindros desde los $1,800 de enganche, ¿qué le parece?  
+<soc>Cliente: ¿Y al mes cuánto se da?  
+<soc>Asesor: Fíjese que en carro, las mensualidades andan aproximadamente por los $500 al mes.  
+<soc>Cliente: ¿cuántos años?  
+<soc>Asesor: Todos nuestros vehículos están de los 20 hacia arriba. Anda, si gustan le dejo nuestra dirección por un mensajito de texto, no sé qué día nos podrá visitar.  
+<soc>Cliente: No, pues que necesito lo que le estoy preguntando porque para decirle a mi esposo.  
+<soc>Asesor: Ok, el precio total no se lo puedo dar porque tenemos que ir a la aplicación y ver a qué porcentaje de interés califica y el plazo de financiamiento, pero los precios van de los $20,000 hacia arriba.  
+<soc>Cliente: Está bien, entonces mándeme por un mensaje, este, aclaración y le digo a mi esposo.  
+<soc>Asesor: Ahí le dejo la dirección y la consecuencia.  
+<soc>Cliente: Yes, yes.

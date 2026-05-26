@@ -1,0 +1,18 @@
+<soc>Cliente: Hola, buenas tardes.
+<soc>Asesor: Buenas tardes. ¿Hablo con el caballero Eric?. Le saludo de acá del dealer de autos. Disculpe que no contesté su llamada hace un rato, estaba en otra llamada. ¿Tiene tiempo para atenderme?
+<soc>Cliente: Sí, claro. Dígame.
+<soc>Asesor: Le comento que nosotros hacemos financiamiento en casa. Ofrecemos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros, necesita tener una identificación vigente, puede ser de aquí o de su país.
+<soc>Cliente: Ok.
+<soc>Asesor: También necesitamos un comprobante de domicilio, que puede ser cualquier tipo de recibo. Si no está a su nombre, no hay problema, solo para confirmar la dirección. Además, requerimos un comprobante de ingreso. ¿Cuenta con los tres documentos o habría algún inconveniente?
+<soc>Cliente: Sí, tengo los tres.
+<soc>Asesor: Perfecto. ¿Sería su primera vez financiando? ¿Ya ha tenido algún crédito anteriormente?
+<soc>Cliente: Sí, saqué un carro usado en University City, un Nissan y otro en Honda. Pero ahora quiero comprar una SUV, ya que me dedico a hacer Lyft y quiero ofrecer el servicio de Lyft Luxury. El vehículo que tengo no me abastece y no me dan más crédito. Quería ver si ustedes me pueden ayudar.
+<soc>Asesor: Entiendo. El financiamiento que ofrecemos es en casa. Si usted está al día con los pagos de sus otros dos vehículos, no tendríamos inconveniente en financiarle una SUV. Necesitaría un enganche mínimo de 2,500 pesos. ¿Qué le parece?
+<soc>Cliente: En este momento no puedo dar el enganche. Podría dar un cheque personal en unos días, pero no estoy seguro si podría hacerlo.
+<soc>Asesor: Ok, perfecto. Le comento que entregamos el vehículo cuando el cliente presenta el pago completo del enganche. Otra opción sería un enganche diferido, es decir, usted paga el 80% del enganche ahora y le damos dos semanas para que traiga el 20% restante y se lleve el vehículo el mismo día.
+<soc>Cliente: Ok, bueno, eso suena bien. Voy a considerar esa opción y me comunicaré con ustedes.
+<soc>Asesor: Excelente, entonces no estableceríamos una cita todavía, ¿verdad?
+<soc>Cliente: No, no, yo le llamo.
+<soc>Asesor: Perfecto. Entonces estamos en contacto. Que tenga una bonita tarde.
+<soc>Cliente: Igualmente, que tenga una buena tarde. ¡Hasta luego!
+

@@ -1,0 +1,22 @@
+<soc>Asesor: Hola, buen día. Le saludo del dealer, hemos estado intercambiando mensajes. ¿Tiene tiempo para hablar un poco sobre cómo trabajamos?
+<soc>Cliente: Sí, dígame.
+<soc>Asesor: Nosotros ofrecemos financiamiento en casa, con hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar, necesitamos su identificación, ya sea de aquí o de su país.
+<soc>Cliente: Mi pasaporte se rompió en México, pero tengo la cédula de Ecuador.
+<soc>Asesor: Perfecto, con eso me serviría. ¿Está usted en California?
+<soc>Cliente: No, estoy en Charlotte, Carolina del Norte.
+<soc>Asesor: En ese caso, solo podríamos ayudarle si consigue un recibo (agua, luz, renta) de California y puede viajar hasta aquí.
+<soc>Cliente: Tengo amigos en California, puedo conseguir un recibo.
+<soc>Asesor: Excelente. Con su identificación, el recibo y un enganche mínimo de $2,000, le podríamos ayudar. ¿Qué tipo de vehículo está buscando?
+<soc>Cliente: Busco una camioneta.
+<soc>Asesor: Para una camioneta, el enganche mínimo sería de $3,500.
+<soc>Cliente: ¿Qué años tienen las camionetas?
+<soc>Asesor: Son del 2018 en adelante.
+<soc>Cliente: Perfecto, me sirve una cabina y media, ya que trabajo en construcción y necesito espacio para el equipo.
+<soc>Asesor: Entendido. Le enviaré nuestra dirección y fotos de las camionetas que tenemos.
+<soc>Cliente: Muy bien. Podría ir a mediados de este mes, cuando termine unos trabajos y tenga el dinero. Necesito una camioneta, no un automóvil.
+<soc>Asesor: Perfecto. Estamos en contacto, le enviaré la información y las fotos.
+<soc>Cliente: Envíeme las fotos y precios para asegurar la camioneta con un depósito.
+<soc>Asesor: Claro, con gusto.
+<soc>Cliente: Gracias.
+<soc>Asesor: Que tenga un excelente día.
+<soc>Cliente: Igualmente, gracias.

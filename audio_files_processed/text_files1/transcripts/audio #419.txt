@@ -1,0 +1,29 @@
+<soc>Asesor: Hola, buenos días.  
+<soc>Cliente: Buenos días. Le estoy regresando la llamada.
+<soc>Asesor: Ok, si, le había llamado de acá del dealer para darle un poco más de información de cómo trabajamos.
+<soc>Cliente: Dígame.
+<soc>Asesor: Ok, perfecto. Le comento que nosotros hacemos financiamiento en casa. Le damos tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros le estaríamos solicitando tres documentos, principalmente una identificación, puede ser de aquí o de su país, pero tiene que estar vigente. También ocupa un comprobante de ingresos, puede ser el último talón de cheque, un estado de cuenta, una carta laboral o incluso el número de su jefe, cualquiera de esos le funciona. Y si tiene también un bill, cualquier tipo de bill donde aparezca su dirección, aunque no sea su nombre, solo para confirmar su dirección. Estos serían los requisitos, no sé si cuenta con los tres.  
+<soc>Cliente: Claro.  
+<soc>Asesor: Ok, ¿sería su primera vez financiando o usted ya tenía algún crédito?  
+<soc>Cliente: Sería la primera vez.  
+<soc>Asesor: ¿Algún vehículo en especial que busque? ¿Marca, año o modelo?  
+<soc>Cliente: Pues sí, estaba buscando una pick up, una camioneta.  
+<soc>Asesor: Perfecto, aquí le tengo Toyota Tacoma, Chevrolet Silverado, GMC Colorado, Ford F-150, y Ford Ranger.  
+<soc>Cliente: ¿Y más o menos de qué año tienen las camionetas?  
+<soc>Asesor: Mínimo 2020, 2018 y máximo 2023. Están desde los 3500 de enganche.  
+<soc>Cliente: ¿Ahí empieza?  
+<soc>Asesor: Sí, incluso con 3000 trabajamos, dependiendo la troca que le guste. Ahorita tenemos incluso una, tenemos una GMC Colorado que está con 2000 de enganche, pero está bastante usada, tiene como 80000 millas.  
+<soc>Cliente: No, no es mucho.  
+<soc>Asesor: Y las otras que tenemos comienzan desde las 8000 millas.  
+<soc>Cliente: Ok, le iba a hacer otra pregunta. ¿Y más o menos el porcentaje de interés cuánto es del préstamo?  
+<soc>Asesor: Ok, manejamos desde el 7%, pero si es necesario que llenemos aplicación para poder decirle con exactitud en cuánto le queda el porcentaje de interés directamente a usted, pero el mínimo que manejamos es del 7%.  
+<soc>Cliente: 7% porque la verdad pues yo no he tenido crédito, no tengo nada.  
+<soc>Asesor: Claro, nosotros trabajamos con el mínimo interés, pero sería necesario que nos visite y que llenemos la aplicación. No sé qué día nos podría visitar.  
+<soc>Cliente: ¿No se puede hacer por teléfono?  
+<soc>Asesor: Por el momento se hace una pre aplicación, pero no le van a dar números exactos por teléfono, para ver números si es necesario su visita porque tiene que venir a ver la troca que se va a llevar y por eso aplicar.  
+<soc>Cliente: Sí, porque está muy lejos para ir donde ustedes están. 
+<soc>Asesor: ¿Dónde vive usted?  
+<soc>Cliente: Yo vivo para el lado de San Clemente.  
+<soc>Asesor: San Clemente, ok, voy a comentarle a mi compañera que se encarga de las aplicaciones y se puede comunicar con usted para que llenen aplicaciones en línea.  
+<soc>Cliente: Ok, gracias.  
+<soc>Asesor: Bueno, gracias. Que tengan un buen día.

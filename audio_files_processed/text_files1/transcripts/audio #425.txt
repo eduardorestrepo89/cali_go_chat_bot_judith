@@ -1,0 +1,24 @@
+<soc>Asesor: Hola, buen día.
+<soc>Cliente: Hola, muy buenos días.
+<soc>Asesor: Le saludo del dealer. Le había llamado porque le quería dar más información de cómo trabajamos. Ahí le deje un mensajito con nuestra dirección. Le comento que nosotros hacemos financiamiento en casa, damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros solo le estaríamos solicitando su identificación vigente, un comprobante de ingreso y un comprobante de domicilio. ¿Sería su primera vez financiando o usted ya tiene crédito?
+<soc>Cliente: No, no tengo nada.
+<soc>Asesor: Perfecto. ¿Algún vehículo que busque en especial, marca, año o modelo?
+<soc>Cliente: Una Honda, Honda Civic Accord.
+<soc>Asesor: Ok, acá le tengo varios Honda Civic del 2018 en adelante, desde las 8000 millas con tres años de garantía desde los 2300 de enganche, no sé si está bien para usted.
+<soc>Cliente: ¿Cuánto?
+<soc>Asesor: 2300 de enganche. ¿Con cuánto cuenta usted?
+<soc>Cliente: Aproximadamente con 1700.
+<soc>Asesor: 1800, ok, perfecto. Con esa cantidad estaríamos trabajando con un down payment diferido, es decir, usted con los 1800, el día que nos visite se lleva el vehículo y le damos cierto tiempo para que traiga la otra parte del enganche. Eso sí, bajo aplicación. Es necesario que llenemos aplicación bajo esa modalidad para que se le pueda ayudar de esa forma. No sé qué día nos podría visitar.
+<soc>Cliente: ¿Una pregunta, qué más requisitos piden ahí?
+<soc>Asesor: Solo el enganche, su identificación, el bill, si no está su nombre, no hay problema, solo para confirmar dirección y si tiene también un comprobante de ingreso.
+<soc>Cliente: No, no, nada más tengo el pasaporte.
+<soc>Asesor: Ok, perfecto. Entonces si solo tiene el pasaporte, con eso le ayudamos. ¿No tiene bill?
+<soc>Cliente: No, no está a nombre mía.
+<soc>Asesor: Si no está a su nombre no hay problema, lo puede traer.
+<soc>Cliente: ¿Ok, entonces me puede mandar la ubicación?
+<soc>Asesor: Sí, yo se la voy a dejar por un mensajito de texto, de hecho ya se la envié, pero se la voy a reenviar y no sé qué día podría visitarnos para estar pendiente acá de su llegada.
+<soc>Cliente: Tal vez día viernes.
+<soc>Asesor: Ok, excelente.
+<soc>Cliente: ¿Pero me la puedes mandar de una vez por favor para chequear?. Estoy aquí en mi casa para ver si tengo tiempo de pasar antes.
+<soc>Asesor: Sí, ahorita se la dejo por un mensajito de texto para que revise.
+<soc>Cliente: Ok, está bien, gracias, gracias.

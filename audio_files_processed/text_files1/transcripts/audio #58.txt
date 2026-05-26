@@ -1,0 +1,15 @@
+<soc>Asesor: Hola, hola, hola, hola, buenos días, tengo el gusto con el caballero Victorio. ¿Hola, me escucha? Sí, disculpe la molestia, recibimos un mensaje de su número que estaba interesado en un vehículo. 
+<soc>Cliente: Hola, sí, me interesa un vehiculo. 
+<soc>Asesor: nosotros estamos ubicados acá en San Fernando, California. ¿Veo que usted está en un estado diferente, verdad? 
+
+<soc>Cliente: Sí. 
+
+<soc>Asesor: ¿Ok, no tiene familiares acá en California que le podrían ayudar a comprar su vehículo? 
+
+<soc>Cliente: No. 
+
+<soc>Asesor: Ok, bueno, en este caso sí, definitivamente no habría forma de ayudarle. La única forma sería que usted viaje hasta acá y que si lo que sea la compra lo haga a través de un Bill que sea de California. En este caso, si usted no estaría dispuesto a viajar hasta acá ni tiene un Bill de acá de este estado, pues sí se nos imposibilita poder ayudarle. 
+
+<soc>Cliente: Ok, pero de igual forma quedó la orden, que tenga un excelente día. 
+
+<soc>Asesor: Igualmente, bueno, gracias.

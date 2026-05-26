@@ -1,0 +1,27 @@
+<soc>Asesor: Hola, buen día. Buen día, caballero. Le saludo Bendy. Quería darle más información sobre cómo trabajamos. ¿Tiene tiempo para atender mi llamada?
+
+<soc>Cliente: Sí, cuenteme
+
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa. Ofrecemos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros, solo necesita una identificación vigente. Puede ser de aquí o de su país. Si tiene, también puede presentar un comprobante de domicilio, que puede ser cualquier tipo de bill, aunque no esté a su nombre, y un comprobante de ingreso. ¿Tiene los tres o habría inconveniente con alguno?
+
+<soc>Cliente: Sí tengo, pero ¿dónde está la dirección de ustedes? No sé si queda cerca.
+
+<soc>Asesor: Se lo voy a dejar por un mensajito. Estamos en San Fernando, en el valle. Veo que vive en San Fernando, en Canoga Park. Creo que estamos como a 15 minutos aproximadamente. Le voy a dejar la dirección por un mensaje de texto. ¿Qué día nos podría visitar?
+
+<soc>Cliente: Tal vez el sábado o el domingo que no trabajo.
+
+<soc>Asesor: Ok, perfecto. ¿Y busca algún vehículo en especial? ¿Marca, año o modelo?
+
+<soc>Cliente: No sé si tienen trocas.
+
+<soc>Asesor: Sí, tengo Toyota Tacoma, Chevrolet Silverado, GMC Colorado, Ford F-150 y Nissan Frontier, desde los 3500 de enganche. Tengo del año 2018 en adelante. ¿Qué le parece?
+
+<soc>Cliente: vale, muy bien, puedo ir el dia sabado a ver los vehiculos.
+
+<soc>Asesor: ok. Entonces, voy a dejar la cita para el día sábado. Le puedo llamar el sábado para confirmar su visita.
+
+<soc>Cliente: Bye.
+
+<soc>Asesor: Okay.
+
+<soc>Cliente: Bye, miserable. Bye.

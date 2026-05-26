@@ -1,0 +1,10 @@
+<soc>Asesor: Hola, buenas tardes, caballero. Le hablo del concesionario de autos. ¿Está interesado en comprar un vehículo?
+<soc>Cliente: Sí, dígame.
+<soc>Asesor: Solo quería saber si sigue interesado en adquirir un vehículo.
+<soc>Cliente: Sí, pero en este momento no puedo, ya que no tengo el enganche.
+<soc>Asesor: Entiendo. ¿Cuánto tiempo cree que le tomaría estar listo para hacer la compra? ¿Puedo llamarle nuevamente o dejarle un mensaje de recordatorio?
+<soc>Cliente: Estaré listo para el fin de mes.
+<soc>Asesor: Perfecto, entonces así quedamos. 
+<soc>Cliente: Gracias
+<soc>Asesor: Gracias. Aprecio mucho su tiempo. ¡Feliz tarde!
+<soc>Cliente: Igualmente, gracias. 

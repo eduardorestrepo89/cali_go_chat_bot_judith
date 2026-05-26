@@ -1,0 +1,29 @@
+<soc>Asesor: Hola, ¿cómo está? Mi nombre es Judith, le saludo del concesionario de autos aquí en San Fernando, California. Mucho gusto. Ya le habíamos enviado nuestra dirección, y quería saber qué día nos podría visitar.
+
+Le comento los requisitos: necesitamos una identificación vigente, ya sea de aquí o de su país, un recibo de servicios (puede ser de luz, agua, gas, etc.), aunque no esté a su nombre, solo para confirmar su dirección. Y, si lo tiene, también un comprobante de ingresos.
+
+Dependiendo del vehículo que esté buscando, el enganche puede variar. Si está interesado en un sedán, tenemos varias opciones. Entre ellas, Nissan, Honda, Toyota, Kia, Hyundai, Chevrolet, Volkswagen, Tesla, Mazda y otros. Todos son de mínimo el año 2018 y cuentan con tres años de garantía en motor, transmisión, aire acondicionado, y el primer mes de seguro gratis.
+
+¿Cuándo le gustaría visitarnos para ver los vehículos en persona? Le puedo compartir nuevamente nuestra dirección si la necesita.
+
+<soc>Cliente: Hola, gracias por la información, Judith. Estoy interesado en un sedán, pero aún no estoy seguro de la marca. ¿Podrías darme más detalles sobre los Nissan y los Honda que tienen disponibles?
+
+<soc>Asesor: Claro, con gusto. Actualmente, tenemos disponibles varios modelos de Nissan y Honda.
+
+En Nissan, le puedo recomendar el Altima 2018, un sedán muy confiable, con excelente rendimiento de gasolina. Tiene un motor de 4 cilindros, transmisión automática y, además, cuenta con sistema de seguridad avanzado como frenado automático y asistencia de cambio de carril. También tenemos el Nissan Sentra, que es un poco más compacto, pero muy cómodo y económico en combustible.
+
+Por otro lado, en Honda, tenemos el Civic 2019, que es muy popular por su durabilidad y desempeño. Además, es deportivo y tiene excelentes características tecnológicas, como pantalla táctil, cámara de reversa y conectividad con Apple CarPlay y Android Auto. Si busca algo más amplio, también está el Honda Accord, que ofrece más espacio en la cabina y potencia adicional con su motor turbo.
+
+¿Cuál de estos le interesaría más para que le demos más detalles? También podemos agendar una cita para que venga a probarlos en persona.
+
+<soc>Cliente: ¡Se escuchan muy bien! Creo que el Honda Civic me llama más la atención por ahora. 
+
+<soc>Asesor: Excelente elección, el Civic es muy popular. ¿Le gustaría que le reserve una cita para este fin de semana para que lo pruebe?
+
+<soc>Cliente: Sí, me parece bien. Puedo ir el sábado por la mañana, ¿les parece?
+
+<soc>Asesor: Perfecto, el sábado a las 10 a.m. lo esperamos entonces. Le enviaré la confirmación y la dirección de nuestro concesionario por mensaje de texto. Si tiene alguna otra pregunta antes de la cita, no dude en contactarnos.
+
+<soc>Cliente: De acuerdo, muchas gracias por toda la información, Judith. Nos vemos el sábado.
+
+<soc>Asesor: Con mucho gusto. Que tenga un excelente día, y aquí lo esperamos. ¡Hasta luego!

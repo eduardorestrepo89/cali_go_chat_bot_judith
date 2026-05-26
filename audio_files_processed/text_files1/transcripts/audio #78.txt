@@ -1,0 +1,17 @@
+<soc>Asesor: Hola, buen día. Tengo gusto con el caballero José.  
+<soc>Cliente: Sí.  
+<soc>Asesor: Les saludo de acá del dealer de autos para darle un poco más de información. No sé si tiene tiempo de atenderme.  
+<soc>Cliente: Sí, está bien.  
+<soc>Asesor: Ok, le comento que se llama financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros le estaríamos solicitando tres documentos, los cuales serían una identificación válida, puede ser de aquí o de su país, pero tiene que estar vigente. También ocupa un Bill, cualquier tipo de Bill. Si no está a su nombre, no hay problema, solo para confirmar dirección.  
+<soc>Cliente: Ok.  
+<soc>Asesor: Y si tiene también un comprobante de ingresos. ¿Sería su primera vez financiando? ¿Usted ya tiene crédito?  
+<soc>Cliente: No, la primera vez.  
+<soc>Asesor: ¿Algún vehículo en especial que se busque? ¿Marca, año o modelo?  
+<soc>Cliente: Como una SUV.   
+<soc>Asesor: Ok, acá le tengo. Sería desde los $2500 de enganche, no sé si está bien para usted.  
+<soc>Cliente: No, como le puse que además tengo $1000. Es que no tiene mucho que llegar al país.  
+<soc>Asesor: Ah, tiene $1000 de enganche nada más. ¿Ok, bueno, aquí podemos trabajar con un depósito, verdad? Si gusta, pues ahí le voy a dejar nuestra dirección y no sé qué día nos podría visitar.  
+<soc>Cliente: Sí, creo que para el fin de semana.  
+<soc>Asesor: Perfect.  
+<soc>Cliente: Okay, gracias.  
+<soc>Asesor: Bye. Bye, Felicia.  

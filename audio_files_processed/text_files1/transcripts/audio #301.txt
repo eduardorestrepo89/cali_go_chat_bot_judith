@@ -1,0 +1,49 @@
+<soc>Asesor: Hola, muy buen día. ¿Tengo el gusto de hablar con el caballero Rodolfo Morales?. Mi nombre es Judith, estuvimos intercambiando algunos mensajes. Le saludo de acá del dealer. ¿Está interesado en adquirir un vehículo financiado, verdad?
+
+<soc>Cliente: Sí. 
+
+<soc>Asesor: Estamos aquí en San Fernando, California.
+
+<soc>Cliente: ¿San Fernando?
+
+<soc>Asesor: Sí, somos un dealer de autos. Recibimos unos mensajitos suyos que estaba interesado en un vehículo y quería darle un poco más de detalles sobre cómo trabajamos. ¿Tiene tiempo para atenderme?
+
+<soc>Cliente: Sí, con gusto.
+
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa, con un mínimo de seis meses y un máximo de cinco años. Ofrecemos hasta tres años de garantía en motor, transmisión y aire acondicionado. Todos nuestros vehículos son del 2018 en adelante, con título limpio y con un rango de millas que va de 10,000 a 60,000 aproximadamente. Los requisitos para adquirir un vehículo con nosotros son tres: su identificación (puede ser de acá o de su país, pero debe estar vigente), un comprobante de domicilio (cualquier tipo de recibo que tenga su dirección; si no está a su nombre, no hay problema), y un comprobante de ingresos.
+
+<soc>Cliente: Ok, sí tengo eso.
+
+<soc>Asesor: ¿Sería su primera vez financiando o ya ha tenido experiencia?
+
+<soc>Cliente: No, ya he financiado otras veces.
+
+<soc>Asesor: ¿Y cómo calificaría su crédito: bueno, malo o regular?
+
+<soc>Cliente: Malo.
+
+<soc>Asesor: Entiendo. Fíjese que nosotros calificamos cualquier tipo de crédito, ya que hacemos financiamiento en casa. Esto le dará la oportunidad de mejorar su crédito. ¿Está interesado en algún vehículo en especial, como un carro, una troca o un SUV?
+
+<soc>Cliente: Carro. ¿Qué carros tiene?
+
+<soc>Asesor: Tengo vehículos de las marcas Honda, Toyota, Nissan, Kia, Chevy, Ford y Mazda.
+
+<soc>Cliente: ¿Y cuál es el nombre del dealer?
+
+<soc>Asesor: Se llama "Cali Go".
+
+<soc>Cliente: Ok.
+
+<soc>Asesor: Estamos en el valle de San Fernando, cerca de Seven Fox. Le voy a dejar la dirección por mensaje de texto. Estamos abiertos de lunes a sábado hasta las 8:00 p.m. y los domingos de 10:00 a.m. a 6:00 p.m. ¿Qué día tendría tiempo para venir a ver los vehículos personalmente?
+
+<soc>Cliente: No sé, porque estoy trabajando. Mándenme la información y yo miro el dealer para ir para allá.
+
+<soc>Asesor: ¿La otra semana, quizás?
+
+<soc>Cliente: Yo creo que sí, quizás el jueves o el viernes. Yo le llamo para decirle un día exacto. 
+
+<soc>Asesor: Perfecto. Entonces le dejo un mensaje con nuestra información y nos pondremos en contacto la próxima semana para establecer un día exacto para su cita.
+
+<soc>Cliente: Ok, perfecto, gracias.
+
+<soc>Asesor: Muy amable. Que tenga un buen día.

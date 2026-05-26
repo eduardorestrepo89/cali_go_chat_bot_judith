@@ -1,0 +1,26 @@
+<soc>Asesor: Hola, muy buen día. ¿Tengo el gusto con el caballero José?  ¿Tiene tiempo de atenderme?
+<soc>Cliente: Sí, ahorita sí.
+<soc>Asesor: Ok, bueno, le comento que nosotros hacemos financiamiento en casa. Ofrecemos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros, principalmente ocupa su identificación, que puede ser de aquí o de su país, pero debe estar vigente.
+<soc>Cliente: Entiendo.
+<soc>Asesor: También necesitaría un bill, aunque no esté a su nombre, solo para confirmar la dirección. Y si tiene un comprobante de ingreso, pero si no lo tiene, no hay problema.
+<soc>Cliente: Ajá.
+<soc>Asesor: ¿Está buscando algún vehículo en especial?
+<soc>Cliente: Sí.
+<soc>Asesor: ¿Qué marca, año o modelo?
+<soc>Cliente: Bueno, un Camaro.
+<soc>Asesor: ¿Solo busca un Camaro, o también le interesan trocas?
+<soc>Cliente: Cualquiera de los dos.
+<soc>Asesor: Ok, ahorita no tengo Camaros, pero sí tengo varias trocas del 2018 en adelante, marcas como Toyota, Chevy, Ford, Nissan y Dodge. ¿Le parece bien? Tengo opciones desde $3000 de enganche.
+<soc>Cliente: ¿$3000 de enganche?
+<soc>Asesor: Sí.
+<soc>Cliente: ¿Y cuánto quedarían los pagos mensuales?
+<soc>Asesor: Los pagos mensuales para trocas están desde $650 en adelante. Sería necesario ver qué troca le interesa, el enganche que dejará y el plazo del financiamiento para establecer el pago mensual exacto.
+<soc>Cliente: ¿Y qué precios tienen las trocas?
+<soc>Asesor: Todas nuestras trocas están desde $30,000 en adelante.
+<soc>Cliente: Entonces, ¿no tienen carros más económicos? Porque, como sabe, ahorita hay poco trabajo.
+<soc>Asesor: ¿Y más o menos de qué precio busca usted?
+<soc>Cliente: Alrededor de $15,000, ya financiado.
+<soc>Asesor: El precio de un vehículo es el precio base, y a eso se le suma el porcentaje de interés del financiamiento. Por ejemplo, si un vehículo vale $20,000, ese es el precio base y se le suma el interés. Por el momento, no tengo vehículos de ese precio ni carros ni trocas.
+<soc>Cliente: Entiendo.
+<soc>Asesor: Si llegamos a tener algo más económico, le notificaré. Le voy a compartir nuestra dirección por mensaje de texto, y si se anima a venir, puede hacerlo sin compromiso para ver nuestro inventario y cómo trabajamos.
+<soc>Cliente: Ok, gracias.

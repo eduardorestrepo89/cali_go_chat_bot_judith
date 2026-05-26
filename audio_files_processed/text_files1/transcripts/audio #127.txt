@@ -1,0 +1,27 @@
+<soc>Asesor: Hola, buen día caballero, les saludo del dealer de autos. Mi nombre es Judith, le saludo del dealer Cali go Autos. Se comunicó hace unas semanas que estaba interesado en un vehículo y no me había podido contactar con usted. No sé si tiene tiempo de atenderme.  
+<soc>Cliente: Oh, sí, sí, está bien, dígame.  
+<soc>Asesor: ¿Y sigue interesado en comprar vehículos?  
+<soc>Cliente: Sí, la verdad que andaba viendo un vehículo porque me ocupa, pues.  
+<soc>Asesor: Perfecto. ¿Algún vehículo en especial que busque?  
+<soc>Cliente: O digamos un Toyota, algo así.  
+<soc>Asesor: Ok, excelente. ¿Es la primera vez que financia? ¿Usted ya ha tenido crédito?  
+<soc>Cliente: No, nunca.  
+<soc>Asesor: Primero, ¿y se encuentra acá en California?  
+<soc>Cliente: Sí, en California. Yo vivo en Fontana.  
+<soc>Asesor: Estamos acá en San Fernando, California. ¿No le queda tan lejos?  
+<soc>Cliente: No sé, creo que no.  
+<soc>Asesor: Le voy a dejar la dirección por un mensajito de texto. Nosotros le estaríamos solicitando mínimo 1800 de enganche por un carro, ¿qué le parece?  
+<soc>Cliente: ¿Y los requisitos que ocuparía, cuáles son los requisitos?.  
+<soc>Asesor: Sería su identificación, puede ser de aquí o de su país, pero tiene que estar vigente. También ocupa un recibo (Bill), cualquier tipo de recibo. Si no está a su nombre, no hay ningún problema, solo para confirmar dirección. Y si tiene también un comprobante de ingreso. Pero si le pagan en efectivo y no tiene cómo comprobar ingreso, no hay problema. ¿Cuenta usted con los documentos o habría algún inconveniente con alguno?  
+<soc>Cliente: Sí, gano en efectivo.  
+<soc>Asesor: Ok, bueno, en este caso solo nos trae la identificación y el recibo, y con eso es suficiente.  
+<soc>Cliente: Este, mire, otra pregunta. ¿Los precios de su vehículo, hasta cuál es el precio más o menos?  
+<soc>Asesor: Fíjense que el precio total depende del plazo del financiamiento. Tendríamos que llenar una aplicación para decirle con exactitud en cuánto le va a salir el vehículo. Los precios, como los vehículos son del 2018 en adelante, todos van de los 20,000 hacia arriba. En su caso, que es el primer crédito, nosotros le podemos financiar el vehículo que usted elija, no es ningún inconveniente y puede venir sin ningún compromiso, ¿verdad? Para checar el inventario, a ver qué le parece todo.  
+<soc>Cliente: Ok, muchas gracias.  
+<soc>Asesor: ¿Y más o menos qué día nos podría visitar para estar pendientes?  
+<soc>Cliente: No sabría decirles porque mira, ahorita estoy en break en el trabajo y últimamente hemos estado saliendo tarde. No sabría decirles. ¿Abren el domingo, no, verdad?  
+<soc>Asesor: Sí, domingo tenemos abierto desde las 10:00 a.m. hasta las 6:00 p.m.  
+<soc>Cliente: yo me Comunicaría, pues mejor para no quedarle mal ni nada de eso y voy el domingo.  
+<soc>Asesor: Ok, perfecto. Entonces ahí le dejo nuestra dirección y si puede, el domingo acá estamos a la orden.  
+<soc>Cliente: Ok, muchas gracias.  
+<soc>Asesor: Gracias. Bye bye.

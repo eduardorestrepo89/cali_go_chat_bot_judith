@@ -1,0 +1,10 @@
+<soc>Asesor: Hola, buen día. ¿Tengo el gusto con la señorita Karla?
+<soc>Cliente: ¿Aló?
+<soc>Asesor: Le saludo del dealer. Hace unos días se comunicó con nosotros porque le interesaba un vehículo financiado. ¿Tiene tiempo para atender mi llamada?
+<soc>Cliente: ¿De dónde me llaman?
+<soc>Asesor: Estamos en San Fernando, California, del dealer de autos.
+<soc>Cliente: Fíjese que ahorita estoy un poco ocupada, no sé si me puede llamar más tarde.
+<soc>Asesor: Claro, si quiere me devuelve la llamada cuando tenga tiempo. ¿A qué hora le puedo llamar?
+<soc>Cliente: Como a las 2, más o menos, porque tengo una reunión.
+<soc>Asesor: Perfecto, le llamo más tarde. ¡Gracias!
+<soc>Cliente: Gracias

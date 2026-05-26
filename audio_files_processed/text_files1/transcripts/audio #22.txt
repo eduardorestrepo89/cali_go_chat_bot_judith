@@ -1,0 +1,33 @@
+<soc>Asesor: Hola, buenas tardes, caballero. Le saludo del dealer.
+
+<soc>Cliente: Hola, buenas tardes.
+
+<soc>Asesor: Quería hablar sobre su interés en un vehículo financiado. Para calificar, solo necesitamos su identificación, un comprobante de ingreso y un comprobante de domicilio. ¿Tiene esos documentos?
+
+<soc>Cliente: Sí, pero quisiera más información y posiblemente hacerlo en persona.
+
+<soc>Asesor: Claro. Tenemos vehículos del 2018 en adelante. ¿Busca alguna marca o modelo específico?
+
+<soc>Cliente: Estoy interesado en una troca.
+
+<soc>Asesor: Disponemos de varias trocas como Toyota Tacoma y Chevrolet Silverado, con enganches desde 3,000. Todas tienen entre 10,000 y 60,000 millas.
+
+<soc>Cliente: Si me interesa una Chevrolet Silverado 2018, ¿cuánto sería?
+
+<soc>Asesor: Tendríamos que llenar una aplicación para determinar el interés y pagos mensuales. Los precios empiezan arriba de 30,000 dólares.
+
+<soc>Cliente: ¿Aceptan intercambio de carros?
+
+<soc>Asesor: Sí, siempre que tenga el título.
+
+<soc>Cliente: Tengo un Toyota Corolla 2012 que puedo intercambiar.
+
+<soc>Asesor: Perfecto. Estamos abiertos de lunes a sábado, de 10 a.m. a 8 p.m., y domingos de 10 a.m. a 6 p.m. ¿Qué día podría venir?
+
+<soc>Cliente: ¿Me puede enviar la dirección?
+
+<soc>Asesor: Por supuesto. Le enviaré la dirección y cuando esté listo, me notifica.
+
+<soc>Cliente: Gracias.
+
+<soc>Asesor: ¡Feliz tarde!

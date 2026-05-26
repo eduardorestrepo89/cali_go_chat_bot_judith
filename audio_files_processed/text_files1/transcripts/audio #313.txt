@@ -1,0 +1,13 @@
+<soc>Asesor: Hola, buen día, ¿tengo el gusto de hablar con el caballero Kevin?. ¿Hola, me escuchas?
+<soc>Cliente: Lo escucho. ¿Con quién hablo?
+<soc>Asesor: Mi nombre es Judith, del concesionario de autos.
+<soc>Cliente: Sí, con él habla.
+<soc>Asesor: Disculpe la molestia. Nos comunicamos hace aproximadamente un mes. Quería saber si sigue interesado en comprar vehículo.
+<soc>Cliente: Pero, ¿me pueden mandar la información? Porque ahorita dejé todo en la noche y recién estoy llegando, y voy a descansar.
+<soc>Asesor: Entiendo. No hay problema. Le dejaré nuestro número directo por mensaje de texto. ¿No sé qué día podría visitarnos?
+<soc>Cliente: Ok, perfecto. ¿Qué días abren?
+<soc>Asesor: Estamos abiertos el sábado y el domingo. Le dejo la dirección y los horarios en el mensaje.
+<soc>Cliente: Ok, señorita, gracias.
+<soc>Asesor: De nada, Kevin. Si tiene alguna pregunta adicional, no dude en contactarme.
+<soc>Cliente: Claro que sí, lo haré. Bye.
+<soc>Asesor: ¡Hasta luego! Cuídese y que tenga un buen día.

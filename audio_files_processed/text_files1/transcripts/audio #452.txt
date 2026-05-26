@@ -1,0 +1,18 @@
+<soc>Asesor: Bueno, buenas tardes, tengo el gusto con Luz Hernández.  
+<soc>Cliente: ¿Quién habla?  
+<soc>Asesor: Mi nombre es Judith. Tengo unos mensajitos acá en nuestras redes sociales que le interesa un vehículo. Le saludo de Cali go Autos, no sé si tiene tiempo de atenderme.  
+<soc>Cliente: Sí, dígame.  
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, en transmisión y en aire acondicionado. Para calificar con nosotros estaría utilizando tres documentos: su identificación vigente, un comprobante de ingreso y un comprobante de domicilio.  
+<soc>Asesor: ¿Sería su primera vez financiando? ¿Ya tenía algún crédito?  
+<soc>Cliente: No tengo crédito, pero terminé de pagar mi camioneta hace como cuatro años. Yo estoy buscando otra camioneta.  
+<soc>Asesor: ¿Ok, pick up a familiar?  
+<soc>Cliente: No, una pick up para trabajo.  
+<soc>Asesor: Ok. Aquí le tengo varias trocas como Toyota Tacoma, Chevrolet Colorado, Chevrolet Silverado, Ford Ranger, Ford F-150, Dodge Ram y Nissan Frontier, desde los 3000 de enganche. No sé si está bien para usted.  
+<soc>Cliente: Si, estaría bien.  
+<soc>Asesor: Nosotros acá en el dealer lo tenemos en San Fernando, California y abrimos de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m. y los domingos desde las 10:00 a.m. hasta las 6:00 p.m. No sé qué día podría venir personalmente.  
+<soc>Cliente: Sería un sábado, pero con que me mandaras la dirección para poder ir a verlas.  
+<soc>Asesor: Ok, ahorita mismo yo le dejo la dirección por este medio para que la revise.  
+<soc>Cliente: Ok, está bien mija.  
+<soc>Asesor: Bueno, gracias, que tenga una feliz tarde.  
+<soc>Cliente: A ti igualmente. Bye.  
+<soc>Asesor: Bueno, gracias.  

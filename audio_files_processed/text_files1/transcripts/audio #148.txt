@@ -1,0 +1,35 @@
+<soc>Asesor: Hola buenas tardes caballero, les saludo del dealer, estábamos mensajeando y le quería dar más información, no sé si tiene tiempo de atenderme 
+
+<soc>Cliente: Ok dime. 
+
+<soc>Asesor: le comento que nosotros hacemos financiamiento en casa, damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Estaríamos solicitando tres documentos para poder facilitarle un crédito principalmente su identificación, puede ser de aquí o de su país, pero tiene que estar vigente. ¿También ocupa un comprobante de ingresos, se le pagan cash con cheque o por medio de depósito?
+
+<soc>Cliente: Por medio de depósito o talón de cheques.
+
+<soc>Asesor: ¿Ok, si tiene un talón de cheque se le sirve como comprobante de ingreso y también lo que ocuparía sería un comprobante de domicilio?
+
+<soc>Cliente: ¿Sí, un Bill?
+
+<soc>Asesor: Si, un Bill con su dirección, si no está su nombre no hay problema, solo es para confirmar dirección. ¿Y sería su primera vez financiando o usted ya tiene crédito establecido?
+
+<soc>Cliente: No, sería por primera vez.
+
+<soc>Asesor: ¿Algún vehículo en especial que busque, marca, año o modelo?
+
+<soc>Cliente: Si, tendrían híbrido Toyota.
+
+<soc>Asesor: Toyota Prius híbrido desde los 2600 de enganche, no sé si está bien para usted, el que tenemos es 2020, también parece que hay un 2018 pero por eso el Down Payment mínimo anda por los 2500.
+
+<soc>Cliente: Tengo apenas como 1000, nada más 1200 por ahí.
+
+<soc>Asesor: ¿Ok, podríamos trabajar con un Payment diferido o depósito, verdad? No, Payment diferido es que si usted califica bajo esa modalidad le damos cierto tiempo para que traiga el resto del enganche. ¿No sé qué día nos podría visitar?
+
+<soc>Cliente: Me podría regalar su dirección para ver a cuánto estoy?
+
+<soc>Asesor: ¿Si, yo se lo voy a dejar por un mensajito de texto y si no estamos lejos pasaría esos días?
+
+<soc>Cliente: Si, bueno yo lo aviso cuando puedo pasar entonces a ver.
+
+<soc>Asesor: Ok, perfecto, entonces ahí le dejo la dirección, estamos en contacto, que tenga una bonita tarde.
+
+<soc>Cliente: Muchas gracias, igual.

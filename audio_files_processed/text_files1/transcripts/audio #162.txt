@@ -1,0 +1,29 @@
+<soc>Asesor: Hola.
+<soc>Cliente: Hola, sí, buenas tardes.
+<soc>Asesor: Buenas tardes. ¿Ahora sí tiene tiempo de atenderme?
+<soc>Cliente: Sí, ahora sí tengo tiempo.
+<soc>Asesor: Ok, bueno, le comento que nosotros hacemos financiamiento en casa y damos garantía en motor, transmisión y aire acondicionado. Para calificar, le estaríamos solicitando una identificación vigente. Puede ser de aquí o de su país.
+<soc>Cliente: Tengo pasaporte de mi país, ¿no sé si lo aceptan?
+<soc>Asesor: Sí. ¿Está vigente?
+<soc>Cliente: Sí, sí.
+<soc>Asesor: Perfecto. ¿Y busca algún vehículo en especial, marca, año o modelo?
+<soc>Cliente: Un Chevrolet Silverado 2019.
+<soc>Asesor: Perfecto. ¿Sería su primera vez financiando? ¿Ya tiene crédito establecido?
+<soc>Cliente: No tengo crédito, no sé si puede ayudarme así.
+<soc>Asesor: Claro que sí, nosotros acá le podemos ayudar. También necesitaría otro requisito: además del pasaporte, ocuparía un bill, cualquier tipo de bill. Si no está a su nombre, no hay problema, solo para confirmar dirección, y si tiene también un comprobante de ingreso.
+<soc>Cliente: Sí, sí tengo.
+<soc>Asesor: Perfecto. Acá le tengo varios Chevrolet Silverado desde 3000 de enganche, no sé si está bien para usted.
+<soc>Cliente: ¿Cuánto es?
+<soc>Asesor: ¿3000 mínimo de enganche o 3000? ¿Qué le parece?
+<soc>Cliente: Oh, sí. Ok, pero quiero saber dónde queda su dealer, porque vivo retirado.
+<soc>Asesor: Estamos a 45 minutos a 1 hora de Oxnard aproximadamente. Estamos en el valle de San Fernando. Le voy a dejar la dirección exacta por un mensajito de texto.
+<soc>Cliente: Sí, sí, ahí está bien. ¿Y no queda cerca de Los Ángeles? Porque no sé dónde.
+<soc>Asesor: Los Ángeles está después de nosotros. Nosotros somos más cercanos a Oxnard.
+<soc>Cliente: Oh, no, está bien. Me mandan la dirección para saber dónde queda.
+<soc>Asesor: Perfecto, yo se la dejo. Y si no le queda tan lejos, ¿no sé qué día nos podría visitar para estar pendientes? Abrimos de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m. y los domingos desde las 10:00 a.m. hasta las 6:00 p.m.
+<soc>Cliente: Órale.
+<soc>Asesor: No sé si un fin de semana podría venir para estar pendientes.
+<soc>Cliente: El sábado, digo, el domingo está bien.
+<soc>Asesor: Ok, perfecto. Entonces ahí le voy a compartir nuestra dirección por mensajito para que la cheque.
+<soc>Cliente: Ok, bueno, gracias por el contacto.
+<soc>Asesor: Bye bye.

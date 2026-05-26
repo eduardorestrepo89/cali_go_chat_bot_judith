@@ -1,0 +1,23 @@
+<soc>Asesor: Hola, buenas tardes. Le saludo del dealer.
+<soc>Cliente: Sí, dígame.
+<soc>Asesor: Quería darle más información sobre cómo trabajamos. Anteriormente estuvimos en contacto, ¿tiene tiempo para atender mi llamada?
+<soc>Cliente: Sí, estoy disponible.
+<soc>Asesor: Nosotros hacemos financiamiento en casa y ofrecemos tres años de garantía en motor, transmisión y aire acondicionado. Para calificar, necesitamos tres documentos: identificación vigente, comprobante de ingreso y comprobante de domicilio. ¿Es su primera vez financiando o ya tiene crédito?
+<soc>Cliente: Sí, cumplo con los requisitos.
+<soc>Asesor: Perfecto. ¿Busca algún vehículo en particular, como marca y año?
+<soc>Cliente: No tan costoso, solo necesito algo para movilizarme.
+<soc>Asesor: Todos nuestros vehículos son del año 2018 en adelante. El enganche mínimo es de 2000. ¿Qué precio tiene en mente para el vehículo?
+<soc>Cliente: ¿2000 de enganche? ¿Cuánto sería el total financiado?
+<soc>Asesor: El precio financiado depende del plazo y del interés. Tendríamos que llenar una aplicación para dar números exactos. ¿Busca un precio específico?
+<soc>Cliente: Solo quiero un vehículo para transportarme, alrededor de 5000 ya financiado.
+<soc>Asesor: En este momento no tengo vehículos en ese rango de precio. Puedo notificarle si llega algo más barato. Puedo dejarle nuestra dirección para que venga a ver los vehículos sin compromiso.
+<soc>Cliente: ¿Desde cuánto tienen?
+<soc>Asesor: Desde 2000 de enganche. El precio exacto lo sabremos al llenar la aplicación y ver el vehículo. Estamos abiertos de lunes a sábado hasta las 8:00 p.m. y domingos hasta las 6:00 p.m. Puede visitarnos sin compromiso para ver nuestro inventario. Si le interesa, podemos entregar el vehículo el mismo día.
+<soc>Cliente: Está bien, muchas gracias por la información.
+<soc>Asesor: De nada, estaré pendiente. Le dejo nuestra dirección por mensaje para que la tenga a la mano.
+<soc>Cliente: Perfecto, la guardaré.
+<soc>Asesor: Cuando decida visitarnos, no dude en llamarme. Estoy aquí para ayudarle.
+<soc>Cliente: Claro, muchas gracias.
+<soc>Asesor: ¡Que tenga un buen día!
+<soc>Cliente: Igualmente, hasta luego.
+<soc>Asesor: Hasta luego.

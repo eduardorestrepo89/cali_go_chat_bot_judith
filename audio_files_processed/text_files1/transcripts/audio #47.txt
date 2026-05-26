@@ -1,0 +1,24 @@
+<soc>Asesor: Hola, buenos días.  
+<soc>Cliente: Dígame.  
+<soc>Asesor: Le saludo de acá del dealer. Le quería dar más información de cómo trabajamos. No sé si tiene tiempo de atender mi llamada.  
+<soc>Cliente: Dígame, dígame, dígame.  
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa. Vamos a hacer tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros ocupa tres documentos principalmente su identificación, puede ser de su país, pero vigente. También ocupa un Bill, cualquier tipo de Bill. Si no está a su nombre, no hay problema, solo para confirmar dirección. Y si tiene también un comprobante de ingreso.  
+<soc>Cliente: Ok, mi cheque.  
+<soc>Asesor: Exacto, el último talón de cheque. ¿Sería su primera vez financiando? o ¿Ha tenido crédito alguna vez?  
+<soc>Cliente: No, primera vez. Tengo crédito, pero de mis teléfonos nada más.  
+<soc>Asesor: ¿Ok, busca una Toyota Tacoma, verdad?  
+<soc>Cliente: 1 Toyota Tacoma, cuatro puertas.  
+<soc>Asesor: Ok. Aquí le tengo varias, tengo del 2019 en adelante, desde los 3500 de enganche.  
+<soc>Cliente: Pero lo que quiero es una Toyota Tacoma cuatro cilindros.  
+<soc>Asesor: Ok, si acá le tenemos cuatro cilindros.  
+<soc>Cliente: ¿Me pueden mandar la dirección para así ponernos de acuerdo?  
+<soc>Asesor: Claro que sí, le mando la dirección por mensaje de texto, abrimos de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m. y los domingos desde las 10:00 a.m. hasta las seis de la tarde. No sé más o menos cuál dia le queda mejor pasar.  
+<soc>Cliente: El requisito que me dijo de la identificación ¿cual es?.  
+<soc>Asesor: Su identificación, puede ser su pasaporte, puede ser su ID. La identificación que se tenga con foto, pero vigente.  
+<soc>Cliente: Ok.  
+<soc>Asesor: El Bill, si no está su nombre, no hay problema, es solo para confirmar dirección.  
+<soc>Cliente: El Bill de la casa. El de la casa donde yo vivo.  
+<soc>Asesor: Perfecto.  
+<soc>Cliente: Del lugar donde yo rento, pues me dan un recibo que yo rento, ahí está la dirección y todo.  
+<soc>Asesor: Okay, excellent.  
+<soc>Cliente: Okay, gracias.

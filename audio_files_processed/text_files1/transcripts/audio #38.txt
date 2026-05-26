@@ -1,0 +1,12 @@
+<soc>Asesor: Hola, buenas tardes caballero, le saludo del dealer Cali Go Autos, quería saber si sigue interesado en visitarnos, estamos en San Fernando, California. Si gusta le comparto nuestra dirección para que cheque ahí más o menos a cuánto le quedamos.
+<soc>Cliente: Oh, sí, ok, entonces leo la dirección.
+<soc>Asesor: ¿Más o menos que día nos podría visitar para estar pendientes?
+<soc>Cliente: ¿Qué documentos piden? 
+<soc>Asesor: Ok, ocuparía principalmente su identificación, puede ser de aquí o de su país, pero tiene que estar vigente. También ocupa un bill, cualquier tipo de bill, si no está a su nombre no hay problema, es solo para confirmar la dirección. Y si tiene también un comprobante de ingresos. 
+<soc>Cliente: Ok, perfecto. ¿Qué vehículos manejan? 
+<soc>Asesor: Le tengo carro sedán, trocas, pick up y también le tengo camionetas familiares deportivas. ¿Tiene gusto por alguno? 
+<soc>Cliente: ¿Manejan deportivos como Mustang? 
+<soc>Asesor: Por el momento de deportivos no le tengo ni Mustang, ni Camaro, ni Charger, ni Challenger. Ahorita lo más deportivo que le puedo ofrecer es un Honda Civic Sport desde los 2500 de enganche del año 2019 al 2022. No sé si estaría abierto a ver esas opciones o específicamente busca por Mustang. 
+<soc>Cliente: Sí, estaba buscando eso. 
+<soc>Asesor: Ok, bueno, si se anima por otro vehículo, ahí le dejo nuestra dirección y quedo a la orden. 
+<soc> Cliente: Ok, muchas gracias, feliz tarde.

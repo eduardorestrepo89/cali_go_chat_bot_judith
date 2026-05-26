@@ -1,0 +1,28 @@
+<soc>Asesor: Bueno, hola, buenas tardes. Tengo el gusto con Jennifer.  
+<soc>Cliente: ¿Quién habla?  
+<soc>Asesor: Le saludo de acá del dealer de auto. Hemos estado intercambiando algunos mensajitos por las redes sociales.  
+<soc>Cliente: Sí, sí, díganlo.  
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, en transmisión y en aire acondicionado. Para calificar con nosotros le estaríamos solicitando tres documentos: su identificación vigente, un comprobante de ingreso y un comprobante de domicilio.  
+<soc>Cliente: Ok. ¿Ustedes son de aquí, verdad? ¿Del área de Los Ángeles, verdad?  
+<soc>Asesor: Estamos a la par de Los Ángeles, como a 30 min. En San Fernando, California.  
+<soc>Cliente: Ok, ok.  
+<soc>Asesor: No sé si le interesaría. Nosotros acá tenemos abierto de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m. y los domingos desde las 10:00 a.m. hasta las 6:00 p.m.  
+<soc>Cliente: ¿Y tienen este qué tipo de autos tienen disponibles?  
+<soc>Asesor: Le tengo carros, trocas y SUVs. ¿Busca carro, trocas o SUVs?  
+<soc>Cliente: No, no, no, sería carrito.  
+<soc>Asesor: Ok. En carro le tengo Toyota Camry, Corolla, Honda Civic, Honda Accord, Chevy Malibu, Impala y Corolla. Acá le tengo del 2018 al 2023, le tengo desde las 10,000 hasta las 50,000 millas. Desde los 2,000 de enganche.  
+<soc>Cliente: ¿Un 2018 ocuparía unos 2,000 de enganche?  
+<soc>Asesor: Pero en 2018 no sé qué le parece.  
+<soc>Cliente: ¿Y cuotas de cuántos más o menos quedaría?  
+<soc>Asesor: Ahorita estamos manejando cuotas mínimas de los 450 en adelante. ¿Al mes si es necesario, verdad? Que llenemos aplicación y veamos el vehículo que se va a llevar para establecer con exactitud lo que es la cuota mensual.  
+<soc>Cliente: Sí, pero la mínima que usualmente dan es 450 ¿Para cuántos años?  
+<soc>Asesor: Nosotros hacemos financiamiento mínimo seis meses y máximo cinco años.  
+<soc>Cliente: ¿No? ¿Con esa cuota de los 400, para cuantos años?.  son Cinco años 2,000 de enganche. ¿y 400 cuánto?  
+<soc>Asesor: 450 mínimo al mes. ¿Si usted desea le comparto nuestra dirección, puede venir a checar sin ningún compromiso, verdad? A ver el carro exacto para que se pueda aplicar y que se le puedan dar números exactos y sin ningún compromiso. Si todo le parece al mismo día le entregamos el vehículo y si no, no hay ningún problema.  
+<soc>Cliente: Les soy sincera, realmente me busco un carro cómodo, más que todo para ir de mi trabajo a mi casa. Yo tengo mi carro de dealer del año, pero es muy gastón, es una SUV. Entonces necesito un carro lo más cómodo posible en gasolina, lo más barato posible.  
+<soc>Asesor: Y fíjense que los que tenemos acá son cuatro cilindros, no gastan mucho en gasolina. También tenemos la marca Tesla, que es eléctrico, y nos viene Prius y Hyundai, que son híbridos.
+<soc>Cliente: Es lo más antiguo que tiene. 2018 es lo más antiguo. Entiendo. Si gusta, envíenme su dirección, trabajna de noche?  
+<soc>Asesor: Sí, de lunes a sábado hasta las ocho y los domingos hasta las seis.  
+<soc>Cliente: sería el sabado.  
+<soc>Asesor: Okay. Entonces ahí le comparto nuestra dirección y cualquier cosa, estoy a la orden. Que tenga una buena tarde.  
+<soc>Cliente: Gracias. Igual.

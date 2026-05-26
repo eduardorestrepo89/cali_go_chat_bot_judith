@@ -1,0 +1,25 @@
+<soc>Asesor: Hola, hola, buenas tardes. Hace como una semana estuvimos intercambiando mensajes. Quería saber si sigue interesado en comprar un vehículo.
+
+<soc>Cliente: ¿Del dealer?
+
+<soc>Asesor: Sí, del dealer de autos.
+
+<soc>Cliente: ¿En qué parte está el dealer? ¿En qué estado?
+
+<soc>Asesor: Estamos en San Fernando, California. Veo que usted está en San Diego, ¿verdad? Le queda bastante retirado San Fernando.
+
+<soc>Cliente: Sí, estoy en San Diego.
+
+<soc>Asesor: ¿No le interesaría venir hasta aquí, a San Fernando?
+
+<soc>Cliente: ¿No tienen ustedes otro dealer aquí en el condado de San Diego?
+
+<soc>Asesor: No, solo estamos en San Fernando.
+
+<soc>Cliente: ¿Solo allí?
+
+<soc>Asesor: Sí, solo tenemos esa localidad. Pero si algún día está por aquí cerca o se anima a visitarnos, aquí estamos a la orden. Le voy a dejar nuevamente la dirección.
+
+<soc>Cliente: Ok, está bien, gracias.
+
+<soc>Asesor: ¡De nada! Estoy a su disposición

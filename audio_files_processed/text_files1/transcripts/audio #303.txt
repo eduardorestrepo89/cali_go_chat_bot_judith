@@ -1,0 +1,30 @@
+<soc>Asesor: Hola, buenas tardes.
+<soc>Cliente: ¿Hola, qué tal? ¿Cómo estás?
+<soc>Asesor: Muy bien, ¿y usted qué tal? Acá le saludo del dealer para darle un poco más de información.
+<soc>Cliente: Sí, sí, sí, estaba viendo. Una consulta, ¿dónde están ubicados ustedes?
+<soc>Asesor: Estamos en el valle de San Fernando, a la par de Los Ángeles.
+<soc>Cliente: Ah, yo estoy por Fontana, estoy muy lejos.
+<soc>Asesor: ¿Está en Fontana? ¿No le interesaría venir hasta acá?
+<soc>Cliente: ¿Cuáles son los requisitos?
+<soc>Asesor: Principalmente su identificación vigente. Puede ser de aquí o de su país. Con que esté vigente es suficiente. También se requiere un comprobante de domicilio, que puede ser cualquier tipo de factura. Si no está a su nombre, no hay problema. Y si tiene también un comprobante de ingreso.
+<soc>Cliente: El problema es que tengo año y medio en el país, soy peruano.
+<soc>Asesor: Ok, perfecto.
+<soc>Cliente: Estoy trabajando en una bodega, ya tengo año y medio.
+<soc>Asesor: ¿Le pagan en efectivo?
+<soc>Cliente: No, me ponen en talón de cheque. Ahora me dan tarjeta.
+<soc>Asesor: Su último talón de cheque le funciona como comprobante de ingreso
+<soc>Cliente: Sí, pero hay un detalle, estoy trabajando con un nombre que no es el mío.
+<soc>Asesor: No hay problema con que esté trabajando bajo otro nombre.
+<soc>Cliente: Estoy buscando un carrito, no del año. Estoy yendo caminando a mi trabajo y me cuesta salir de noche. Estoy buscando un carrito económico.
+<soc>Asesor: Los que tengo son del año 2018 en adelante. De momento no tengo de menor año, pero estaríamos dispuestos a ayudarle. Con 1500 a 1800 podría trabajar con el enganche.
+<soc>Cliente: Tengo 1000 de enganche.
+<soc>Asesor: Con 1500 a 1800 podríamos trabajar.
+<soc>Cliente: Entonces, deme un tiempito más y yo lo visito.
+<soc>Asesor: ¿Dentro de cuánto tiempo estaría listo para poder llamarle?
+<soc>Cliente: Llámame en dos semanas porque hoy tengo trabajo.
+<soc>Asesor: Perfecto. Me comunico nuevamente en dos semanas para confirmar que ya está listo para visitarnos.
+<soc>Cliente: ¿Qué documentos piden?
+<soc>Asesor: Sí, le dejaré por mensajito los documentos que necesitamos.
+<soc>Cliente: Gracias. 
+<soc>Asesor: Aquí estamos a la orden. Que tenga una bonita tarde.
+<soc>Cliente: Gracias. Buen día.

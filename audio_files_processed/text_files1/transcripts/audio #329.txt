@@ -1,0 +1,29 @@
+<soc>Asesor: Hola, buenos días. lo saludo del dealer de autos. No sé si tiene tiempo de atender mi llamada.
+
+<soc>Cliente: Ajá, sí.
+
+<soc>Asesor: Ok. Les comento que nosotros hacemos financiamiento en casa. Vamos a ofrecer tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros estaríamos solicitándole tres documentos, los cuales serían su identificación vigente, puede ser de aquí o de su país. También ocupa un bill, cualquier tipo de bill. Si no está a su nombre, no hay problema, solo para confirmar dirección. Y si tiene también un comprobante de ingreso. ¿Tiene los tres requisitos o habría inconveniente con alguno?
+
+<soc>Cliente: Sí, es un inconveniente con el ingreso. Como yo trabajo, no por compañía, trabajo para alguien y se me paga en efectivo.
+
+<soc>Asesor: ¿Ok, nos puede traer el número de su jefe en este caso, verdad?
+
+<soc>Cliente: ¿Y hasta dónde están?
+
+<soc>Asesor: Estamos acá en el valle de San Fernando, no le queda tan lejos. Estamos acá por la 65 Fox. Le voy a dejar la dirección por un mensaje de texto.
+
+<soc>Cliente: Y como cuánto tienen los. Yo quiero una troca Ford Ranger, no sé cuándo la tienen.
+
+<soc>Asesor: Fíjese que para una Ford Ranger. ¿Y sería su primer crédito ya financiado alguna vez?
+
+<soc>Cliente: No, nunca, nunca. Solo porque me robaron la vena y por eso.
+
+<soc>Asesor: Fíjese que ocuparía unos 3000 de enganche. Le tenemos del 2019 en adelante, todas son bajas en mí, a título limpio. Y le daríamos tres años de garantía en motor, transmisión y aire acondicionado. Además de eso, el primer mes de seguro gratis, ¿verdad? No sé qué día puede venir a verlas personalmente. Ahora estamos abiertos hasta las 8:00 p.m.
+
+<soc>Cliente: Okay, entonces mándame la versión a ver si voy a dar una vuelta.
+
+<soc>Asesor: Ok, ahí le dejo la dirección para que cheque.
+
+<soc>Cliente: Bye.
+
+<soc>Asesor: Bueno, gracias. Bye.

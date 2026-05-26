@@ -1,0 +1,25 @@
+<soc>Asesor: Hola buen dia, Les saludaba del dealer porque quería darle más información sobre cómo trabajamos. Hacemos financiamiento en casa y ofrecemos hasta tres años de garantía en motor, transmisión y aire acondicionado para ayudarle a llevarse un vehículo. Solo le solicitamos tres documentos: una identificación, que puede ser de aquí o de su país, pero debe estar vigente; también necesita un recibo (Bill) donde aparezca su dirección, y si no está a su nombre, no hay problema.
+
+<soc>Cliente: Ok, tengo todo perfecto.
+
+<soc>Asesor: Y si tiene un comprobante de ingreso, ¿le pagan en efectivo o con cheque?
+
+<soc>Cliente: Eso no lo tengo porque me pagan en efectivo y los trabajos que hago son prácticamente por mi cuenta.
+
+<soc>Asesor: Ok, en este caso no hay problema. Solo con la identificación y el recibo le ayudamos. ¿Sería su primera vez financiando o ya ha tenido crédito?
+
+<soc>Cliente: Es la primera vez porque mi crédito es nuevo. Me dieron el número de seguro social hace unos cinco meses y no he podido sacar carro ni nada porque primero estaba ayudando a mi esposa a sacar un carro con su crédito y ahora quiero sacar yo.
+
+<soc>Asesor: Ok, perfecto. ¿Busca alguna marca o modelo en especial?
+
+<soc>Cliente: Bueno, estaba buscando un Nissan Murano bien equipado, pero si no hay, un sedán estaría bien.
+
+<soc>Asesor: Aquí tenemos Murano del 2018 en adelante, con enganches desde 2,500 dólares. También tenemos sedanes del 2018 en adelante desde 2,000 de enganche. ¿Con cuánto de enganche cuenta usted?
+
+<soc>Cliente: Con 2,500 dólares.
+
+<soc>Asesor: Excelente. Entonces, ¿qué día puede venir a ver las opciones que tenemos disponibles? Estamos en el valle de San Fernando, y le enviaré la dirección exacta por mensaje de texto. Estamos abiertos de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m. y los domingos desde las 10:00 a.m. hasta las 6:00 p.m.
+
+<soc>Cliente: Ok, perfecto. Gracias. ¡Feliz día!
+
+<soc>Asesor: Gracias, igualmente. Bye.

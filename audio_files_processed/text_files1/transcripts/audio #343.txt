@@ -1,0 +1,39 @@
+<soc>Asesor: Buenas tardes, ¿con el caballero Antonio? Les saludo de acá del dealer de autos. El día de ayer nos intercambiamos algunos mensajes. No sé si tiene tiempo para atender mi llamada.
+
+<soc>Cliente: Claro, cuénteme.
+
+<soc>Asesor: Ok, le cuento que nosotros hacemos financiamiento en casa y ofrecemos tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros, le estaríamos solicitando tres documentos: principalmente, una identificación que puede ser de aquí o de su país, pero debe estar vigente. También necesitaríamos un comprobante de domicilio, que puede ser cualquier tipo de factura. Si no está a su nombre, no hay inconveniente, es solo para confirmar la dirección. Y, por último, un comprobante de ingresos. ¿A usted le pagan en efectivo, con cheque o por medio de depósito?
+
+<soc>Cliente: Con cheque.
+
+<soc>Asesor: En ese caso, su último talón de cheque le serviría como comprobante de ingresos. No sé qué le parece si tiene todos los requisitos.
+
+<soc>Cliente: Sí, sí los tengo.
+
+<soc>Asesor: Perfecto. ¿Sería su primer crédito o ya ha financiado antes?
+
+<soc>Cliente: No, sería mi primer crédito.
+
+<soc>Asesor: Perfecto, con nosotros puede comenzar. ¿Busca algún vehículo en especial, marca, año o modelo?
+
+<soc>Cliente: Sí, un Toyota.
+
+<soc>Asesor: Acá le tengo un Toyota Camry y un Toyota Corolla del 2018 en adelante, con un enganche desde $2000. ¿Qué le parece?
+
+<soc>Cliente: ¿Y el enganche no se puede fraccionar?
+
+<soc>Asesor: Si se fraccionara, ¿con cuánto cuenta en este momento?
+
+<soc>Cliente: Este año, lo voy a ser honesto, solo con $800.
+
+<soc>Asesor: Ok, para que podamos trabajar con un plan de pago diferido o fraccionado, tendría que traer un mínimo de $1500 y le daríamos cierto tiempo para que traiga los $500 restantes. Si usted gusta, puede juntar más dinero y cuando esté listo, aquí estaremos a la orden.
+
+<soc>Cliente: Bueno, mejor voy a esperar a juntar el dinero y me comunico con ustedes.
+
+<soc>Asesor: Perfecto. Este número lo puede usar para enviar mensajes o llamar, y le dejaré la dirección. Cualquier cosa, aquí estoy.
+
+<soc>Cliente: Le agradezco mucho.
+
+<soc>Asesor: Gracias, que tenga una bonita tarde.
+
+<soc>Cliente: Igualmente.

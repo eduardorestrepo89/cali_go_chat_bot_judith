@@ -1,0 +1,19 @@
+<soc>Asesor: Hola, buen día, caballero. Le saludo del concesionario de autos.
+<soc>Cliente: ¿De dónde me está hablando?
+<soc>Asesor: Le hablo desde San Fernando, California. Tenía aquí algunos mensajes de que estaba interesado en un vehículo. No sé si le gustaría venir a San Fernando a ver nuestro inventario.
+<soc>Cliente: Lo que yo estaba preguntando es cuánto sería de enganche. No sé si ya lo ha visto.
+<soc>Asesor: Entiendo. ¿Está buscando algún vehículo en especial, alguna marca, año o modelo?
+<soc>Cliente: Sí, algo de los últimos años, pero no sé de qué años tienen ustedes.
+<soc>Asesor: Ok, ¿está buscando un carro, una troca o una SUV?
+<soc>Cliente: No, una troca.
+<soc>Asesor: Perfecto, tengo trocas desde el año 2018 en adelante. Tenemos modelos como la Chevrolet Silverado, Chevrolet Colorado, Ford F-150, Ford Ranger, Toyota Tacoma, Ram 1500 y la Nissan Frontier. ¿Hay alguna marca que le interese en particular?
+<soc>Cliente: Sí, pero ¿cuánto sería lo mínimo de enganche?
+<soc>Asesor: Mire, con $3,500 de enganche podría llevarse una troca. ¿Qué le parece? O, si prefiere, ¿con cuánto cuenta usted?
+<soc>Cliente: También, suena bien. ¿Qué te parece si voy el domingo?
+<soc>Asesor: Claro, el domingo está perfecto. Acá lo esperamos. Le mando la dirección en un momentito por mensaje de texto. Disculpe, ¿me confirma su nombre? No me aparece aquí.
+<soc>Cliente: Benito.
+<soc>Asesor: Gracias, Benito. ¿Es su primera vez financiando un vehículo o ya ha financiado antes?
+<soc>Cliente: Bueno, tengo un carro, pero es de Agromax.
+<soc>Asesor: Entendido, perfecto. Acá le ayudaremos con todo. El domingo, en aproximadamente una hora, llenamos la solicitud, prueba el vehículo y, si todo le parece bien, ese mismo día le entregamos la troca.
+<soc>Cliente: Excelente, muchas gracias. Que tengan un excelente inicio de semana.
+<soc>Asesor: Igualmente, Benito. Nos vemos el domingo. Hasta luego.

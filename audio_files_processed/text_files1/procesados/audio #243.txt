@@ -1,0 +1,13 @@
+Speaker A: Hola, hola, buenas tardes. ¿Tengo el gusto con el caballero Francisco?
+Speaker B: Sí, lo habla.
+Speaker A: Les saludo del dealer de autos, nos comunicamos hace algunas semanas. Quería saber si sigue interesado en comprar vehículo.
+Speaker B: De cuál dealer.
+Speaker A: Acá en San Fernando, California.
+Speaker B: Oh, sí, sigo en la búsqueda todavía, nomás que no he podido ir a.
+Speaker A: Verlo. Ok, perfecto. Aquí fíjense que nos van a salir dos vehículos híbridos y también tenemos Ÿousand Tesla. Le voy a compartir nuevamente nuestra dirección y no sé más o menos qué día tendrá tiempo de visitarnos.
+Speaker B: San Fernando. ¿Yo creo que voy a poder ir el día de hoy, no? Hasta San Fernando, yo creo que hasta la siguiente semana, el día martes.
+Speaker A: Ok, perfecto. Entonces ahí le comparto nuestra dirección y nos vemos la próxima semana.
+Speaker B: Muchísimas gracias, camabla.
+Speaker A: Gracias, que tenga un buen día.
+Speaker B: Igualmente, hasta luego.
+Speaker A: Bueno, bye.

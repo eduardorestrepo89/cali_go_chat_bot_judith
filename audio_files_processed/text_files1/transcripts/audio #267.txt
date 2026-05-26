@@ -1,0 +1,18 @@
+<soc>Asesor: Buen día, caballero, le saluda del dealer de autos. Quería saber si sigue interesado en comprar un vehículo. Hace una semana se comunicó con nosotros y quería confirmarlo.
+<soc>Cliente: ¿De qué dealer es, disculpe?
+<soc>Asesor: De Cali go Auto, estamos en San Fernando, California.
+<soc>Cliente: Oh, ya. Sí, andamos buscando.
+<soc>Asesor: ¿Sigue interesado?
+<soc>Cliente: Sí.
+<soc>Asesor: Perfecto. ¿Qué día nos podría visitar para estar pendiente? Le puedo dejar nuestra información por mensaje de texto.
+<soc>Cliente: No sé si me lo puede enviar por texto y programar la visita para el viernes.
+<soc>Asesor: Excelente. ¿Está buscando algún vehículo en especial, como marca, año o modelo?
+<soc>Cliente: Sí, una camioneta Toyota.
+<soc>Asesor: Aquí tenemos una Toyota Tacoma disponible.
+<soc>Cliente: Ah, la Tacomita.
+<soc>Asesor: Exacto. ¿Es su primera vez financiando o ya ha tenido algún crédito?
+<soc>Cliente: Ya he tenido crédito.
+<soc>Asesor: Perfecto. Entonces, los requisitos que necesitaríamos son su identificación, un comprobante de domicilio y un comprobante de ingresos.
+<soc>Cliente: Sí, tengo todo eso.
+<soc>Asesor: Perfecto. Le enviaré la dirección y lo esperamos el viernes.
+<soc>Cliente: Muy bien.

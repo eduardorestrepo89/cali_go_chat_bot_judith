@@ -1,0 +1,17 @@
+<soc>Asesor: Hola, buenos días.  
+<soc>Cliente: Hola, buenos días.  
+<soc>Asesor: Hola Ángel. Le saludo de acá del dealer.  
+<soc>Cliente: Sí, quería saber sobre una troca, a ver cómo estamos de precios.  
+<soc>Asesor: Ok, perfecto. ¿Alguna troca en especial que usted busque?  
+<soc>Cliente: Un Toyota Tacoma del 2009 al 2014, algo así.  
+<soc>Asesor: ¿Ok, no le interesaría algo un poco más reciente? Fíjense que por el momento solo me viene del 2018 en adelante.  
+<soc>Cliente: Ok, podemos ver.  
+<soc>Asesor: Ok, fíjese que estaríamos solicitando mínimo por una Toyota Tacoma 2018, 3000 de enganche, dependiendo cómo califique. ¿Sería su primera vez financiando un crédito?  
+<soc>Cliente: Sí, primera vez.  
+<soc>Asesor: Ok, entonces con 3000 nosotros le estaríamos ayudando con una Tacoma de un año 2018. Las que le tenemos son bajas en millas. A título limpio le estaríamos dando tres años de garantía en motor, transmisión y aire acondicionado. Los requisitos que usted ocuparía para poder financiar un vehículo solamente serían principalmente una identificación, puede ser de aquí o de su país, pero tiene que estar vigente. Si tiene también nos puede traer lo que es un bill, cualquier tipo de bill donde aparezca su dirección, si no está a su nombre, no hay problema. Y si tiene también un comprobante de ingresos. Si en dado caso usted no tiene esos dos últimos requisitos, no hay problema, solo se viene con la identificación y con eso le ayudamos.  
+<soc>Cliente: Ok, ¿y se podría saber más o menos de cuánto es la cuota cada mes por una 2018?  
+<soc>Asesor: Claro, fíjense que nosotros ahorita manejamos cuotas mínimas en trocas que andan por los 600. No sé qué le parece o qué pago busca.  
+<soc>Cliente: Me parece un poco alto porque igual tengo que poner full cover y el full cover me cobra un cinco también.  
+<soc>Asesor: Ok, fíjese que también nosotros le damos la opción de que si usted deja un mejor enganche, se puede negociar lo que es el pago mensual. Pero eso sí es ya estando acá en el dealer, nosotros verificamos todo eso. Si usted gusta nos puede visitar sin ningún compromiso, puede venir a checar nuestras trocas, saber los precios exactos, ver mensualidades exactas, porque para darle un número específico en mensualidad, sí sería necesario checar qué troca se va a llevar, establecer el down payment y el plazo del financiamiento, también el porcentaje de interés. Entonces sí es importante su visita. No sé si usted se anima a visitarla. Como le digo, puede venir sin ningún compromiso.  
+<soc>Cliente: Ok, perfecto, gracias. Veo cuando hago un tiempecito por ahí.  
+<soc>Asesor: Ok, excelente. ¿Entonces ahí tiene nuestra dirección, verdad? ¿o gusta que se la comparta nuevamente?.

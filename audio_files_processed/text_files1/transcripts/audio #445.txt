@@ -1,0 +1,28 @@
+<soc>Asesor: Bueno, hola, buen día. Tengo el gusto con el caballero Jesús, 
+<soc>Cliente: él habla.
+<soc>Asesor: Les saludo de acá del dealer de autos. Le quería dar más información sobre cómo trabajamos, no sé si tiene tiempo de atenderme. 
+<soc>Cliente: Ah, sí, ok. 
+<soc>Asesor: Le comento que nosotros hacemos financiamiento en casa, damos hasta tres años de garantía y motor en transmisión y aire acondicionado. Para calificar con nosotros le estaríamos solicitando tres documentos, los cuales serían una identificación vigente, un comprobante de ingreso 1, comprobante de domicilio.
+<soc>Asesor: ¿Para calificar con nosotros, tiene los tres requisitos o le haría falta alguno?
+
+<soc>Cliente: No, tengo los tres.
+
+<soc>Asesor: Perfecto. ¿Es primera vez financiando o ha tenido algún crédito anteriormente?
+
+<soc>Cliente: Primera vez aquí en California.
+
+<soc>Asesor: Excelente. ¿Busca algún vehículo en especial, marca, nuevo modelo?
+
+<soc>Cliente: Estoy buscando un Kia o un Honda o una camioneta, cualquiera de los tres.
+
+<soc>Asesor: Aquí le tengo Kia, también le tengo Honda Civic y Honda Accord. También le tengo SUV y pick up. Por ejemplo, el Honda sí ocuparía mínimo unos 2500 de enganche, para un Kia aproximadamente unos 2000 y para una camioneta mínimo unos 3000. No sé qué le parece o con cuánto de enganche cuenta.
+
+<soc>Cliente: Ok, dame tu dirección mas bien, para ir a verlos.
+
+<soc>Asesor: Te voy a enviar la dirección por mensaje de texto, Abrimos de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m. y domingo desde las 10:00 a.m. hasta las 6:00 p.m. .
+
+<soc>Cliente: Pasaría ahora.
+
+<soc>Asesor: Okay, perfecto.
+
+<soc>Cliente: Okay, gracias.

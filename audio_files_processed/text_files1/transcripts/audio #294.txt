@@ -1,0 +1,17 @@
+<soc>Asesor: Buenas tardes, le saludo del dealer de autos. ¿Tiene tiempo para que le dé más información sobre nuestros servicios?
+<soc>Cliente: Sí, claro.
+<soc>Asesor: Estamos en San Fernando, California. ¿Usted se encuentra en este estado?
+<soc>Cliente: Sí.
+<soc>Asesor: Ofrecemos financiamiento en casa y damos tres años de garantía en motor, transmisión y aire acondicionado. Para calificar, necesitamos tres documentos: una identificación vigente, un comprobante de domicilio (puede ser una factura de luz o agua, aunque no esté a su nombre), y un comprobante de ingreso. ¿Le pagan en efectivo?
+<soc>Cliente: Sí, así es.
+<soc>Asesor: ¿Es su primera vez financiando un vehículo?
+<soc>Cliente: Sí, es la primera vez.
+<soc>Asesor: ¿Busca algún vehículo en especial?
+<soc>Cliente: Me interesa un Honda, ya sea un Civic o un Accord.
+<soc>Asesor: Tengo Honda Civic del 2019 en adelante, con enganche desde $2,500. ¿Le parece bien?
+<soc>Cliente: Sí, excelente.
+<soc>Asesor: ¿Puede venir al dealer a ver los vehículos? Estamos abiertos de lunes a sábado de 10:00 a.m. a 8:00 p.m. y los domingos de 10:00 a.m. a 6:00 p.m.
+<soc>Cliente: Sí, claro. Por favor, déjame la dirección.
+<soc>Asesor: Perfecto. Le enviaré la dirección por mensaje de texto.
+<soc>Cliente: Perfecto, gracias.
+<soc>Asesor: Gracias a usted. 

@@ -1,0 +1,22 @@
+<soc>Asesor: Hola, buen día. ¿Tengo el gusto de hablar con el caballero Juan Manuel?. Mi nombre es Judith y le saludo de aquí del dealer de autos. Quería saber si sigue interesado en comprar un vehículo.
+
+<soc>Cliente: ¿De dónde?
+
+<soc>Asesor: Del dealer de autos. Nos comunicamos anteriormente porque estaba interesado en un vehículo. Quería saber si todavía está buscando o si ya ha encontrado algo.
+
+<soc>Cliente: No, no he comprado nada.
+
+<soc>Asesor: Ok, no sé qué día podría visitarnos. Estamos en el Valle de San Fernando. Le enviaré la dirección por mensaje de texto. Estamos abiertos de lunes a sábado, desde las 10:00 a.m. hasta las 8:00 p.m., y los domingos hasta las 6:00 p.m.
+
+<soc>Cliente: Iba a ir ayer, pero no alcancé.
+
+<soc>Asesor: Entiendo. ¿Le gustaría pasar esta semana?
+
+<soc>Cliente: Sí, perfecto.
+
+<soc>Asesor: Entonces, le enviaré nuestra dirección nuevamente.
+
+<soc>Asesor: Bueno, gracias, muy amable. Que tenga una feliz semana.
+
+<soc>Cliente: Gracias, igualmente. ¡Hasta luego!
+

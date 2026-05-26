@@ -1,0 +1,23 @@
+<soc>Asesor: Hola, muy buen día. Tengo el gusto con Jimmy.  
+<soc>Cliente: Sí, dígame.  
+<soc>Asesor: Mi nombre es Judith. Le saludo de acá del dealer. No sé si tiene tiempo de atender mi llamada.  
+<soc>Cliente: Sí, dígame.  
+<soc>Asesor: Le comento que nosotros hacemos financiamiento en casa. Vamos hasta tres años de garantía en aire acondicionado, en transmisión y en motor. Le estaríamos solicitando tres documentos para poder financiar un vehículo.  
+<soc>Cliente: ¿Qué documento necesita?  
+<soc>Asesor: Principalmente su identificación. Puede ser de aquí o de su país, pero tiene que estar vigente. También ocupa un bill, cualquier tipo de bill. Si no está a su nombre, no hay problema. Solo para confirmar dirección.  
+<soc>Cliente: Correcto.  
+<soc>Asesor: Y si tiene también un comprobante de ingresos, puede ser un último talón de cheque, un estado de cuenta, una carta laboral o incluso el número de su jefe. Cualquiera de eso le funciona.  
+<soc>Cliente: Sí, tengo los documentos.  
+<soc>Asesor: ¿Sería su primera vez financiando o usted ya ha tenido algún financiamiento antes?  
+<soc>Cliente: No.  
+<soc>Asesor: Ok, excelente. ¿Algún vehículo en especial que usted busque? ¿Marca, año, modelo?  
+<soc>Cliente: Oh, tuve un Leasing con Toyota. 
+<soc>Asesor: ¿Y busca un Toyota? Aquí le tenemos Toyota Camry, Corolla, Prius, le tenemos Tacoma. No sé si busca algo en especial de la Toyota.  
+<soc>Cliente: No, en realidad no. Déjame buscarte los documentos y te los llevo. ¿podría yo llegar ahora?  
+<soc>Asesor: Tenemos abierto desde las 10:00 a.m. hasta las 8:00 p.m. No sé si nos puede visitar ahora.  
+<soc>Cliente: Puedo pasar mejor mañana. 
+<soc>Asesor: Vamos a ver, con respecto a los documentos, por el momento sólo con su identificación y el bill de donde usted vive, es suficiente para nosotros.
+<soc>Cliente: Yo creo que puedo conseguir el bill. 
+<soc>Asesor: Ok, perfecto. Entonces, aunque no sea su nombre, es solo para confirmar la dirección. Y con respecto al enganche verde, si busca un sedán, es desde los 2000 de enganche. 
+<soc>Cliente: Perfecto.  
+<soc>Asesor: Okay, con gusto. Perfecto.  

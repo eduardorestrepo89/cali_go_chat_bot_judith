@@ -1,0 +1,22 @@
+<soc>Asesor: Hola, hola, buenas tardes. ¿Tengo el gusto con el caballero Francisco? Le saludo del dealer de autos, nos comunicamos hace algunas semanas. Quería saber si sigue interesado en comprar un vehículo.
+
+<soc>Cliente: ¿De cuál dealer?
+
+<soc>Asesor: Cali Go. Acá en San Fernando, California.
+
+<soc>Cliente: Oh, sí, sigo en la búsqueda todavía, no más que no he podido ir a verlo.
+
+<soc>Asesor: Ok, perfecto. Aquí fíjese que nos va a salir dos vehículos híbridos y también tenemos varios Tesla. Le voy a compartir nuevamente nuestra dirección y no sé más o menos qué día tendrá tiempo de visitarnos.
+
+<soc>Cliente: Yo creo que no voy a poder ir el día de hoy. Mejor la siguiente semana, el día martes.
+
+<soc>Asesor: Ok, perfecto. Entonces ahí le comparto nuestra dirección y nos vemos la próxima semana.
+
+<soc>Cliente: Muchísimas gracias, caballero.
+
+<soc>Asesor: Gracias, que tenga un buen día.
+
+<soc>Cliente: Igualmente, hasta luego.
+
+<soc>Asesor: Bueno, bye.
+

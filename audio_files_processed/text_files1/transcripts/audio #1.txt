@@ -1,0 +1,13 @@
+<soc>Asesor: ¿Hola, buen día, tengo el gusto con el caballero William? le saludo de acá del dealer de autos, quería darle más información de cómo trabajamos, no sé si tiene tiempo de atenderme.  
+<soc>Cliente: Sí, está bien, por favor.  
+<soc>Asesor: Ok, le comentó que nosotros hacemos financiamiento en casa, vamos hacia tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros le estaríamos solicitando tres documentos principalmente su identificación, puede ser de aquí o de su país, pero vigente, también ocupa un bill, cualquier tipo de bill, si no está en su nombre no hay problema, solo para confirmar dirección y si tiene también un comprobante de ingreso. ¿contaría con los tres requisitos o habría inconveniente con alguno?  
+<soc>Cliente: Fíjese que el ingreso me pagan cash, no sé si hay algún problema.  
+<soc>Asesor: No, no hay ningún inconveniente si no tiene como comprobar ingresos de acuerdo a la información que usted mismo nos brinde, así queda en el sistema. ¿Y sería su primera vez financiando? ¿Usted ya tiene crédito establecido?  
+<soc>Cliente: No, sería mi primera vez.  
+<soc>Asesor: Perfecto, con nosotros puede comenzar su crédito. Hacemos financiamiento en casa, pero nosotros reportamos crédito. ¿Busca algún vehículo en especial? ¿Marca, año, modelo?  
+<soc>Cliente: Si la verdad, pues busco un Tacoma de cuatro puertas, pero si no una Forerunner y si  no una Civic.  
+<soc>Asesor: Ok, aquí le tengo Tacoma y le tengo Forerunner. Le tengo Tacoma 2021 y también le tengo la Forerunner 2021, Ocuparía mínimo unos 3500 para cualquiera de las dos, no sé si está bien para usted el down Payment  
+<soc>Cliente: ¿Pues quisiera ir a verlos para animarme, verdad?  
+<soc>Asesor: Claro que sí, ahora tenemos abierto desde las 9:00 a.m. hasta las 8:00 p.m. perdón, no sé si puede venir este día. Si está bien, ahí le voy a dejar la dirección. Ok, ahí se le dejo por un mensajito de texto para que la cheque.  
+<soc>Cliente: ¿Cuál es su nombre?  
+<soc>Asesor: Mi nombre es Judith.

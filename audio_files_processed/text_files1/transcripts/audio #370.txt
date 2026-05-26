@@ -1,0 +1,17 @@
+<soc>Asesor: Tengo el gusto de hablar con el caballero Pedro. Les saludo de aquí del dealer de autos. Hemos estado intercambiando mensajes a través de nuestras redes sociales. Quería darle más información de cómo trabajamos; no sé si tiene tiempo para atenderme.
+<soc>Cliente: S, cuenteme
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para poder calificar con nosotros, necesita tres documentos: su identificación vigente, un comprobante de ingreso y un comprobante de domicilio. ¿Solo eso sería para su primera vez? ¿Sería su primera vez financiando o ya ha tenido algún crédito?
+
+<soc>Cliente: No, es la primera vez que quiero hacer.
+
+<soc>Asesor: Ok, ¿busca un carro, una troca o una camioneta familiar?
+
+<soc>Cliente: Una troca.
+
+<soc>Asesor: Ok, aquí le tengo GMC, Tacoma, Silverado, Ford F-150, Dodge Ram. Tengo modelos del 2019 en adelante, desde los 3000 de enganche. No sé si eso está bien para usted.
+
+<soc>Cliente: Sí, de hecho, mañana quiero ir a visitarlo, no sé si sea el mismo.
+
+<soc>Asesor: Claro, aquí estaremos.
+
+<soc>Cliente: Okay, gracias.

@@ -1,0 +1,26 @@
+<soc>Asesor: Hola, buenas tardes, caballero. ¿Tengo el gusto con el señor Linares?
+<soc>Cliente: Sí, dígame.
+<soc>Asesor: Mi nombre es Judith. Nos comunicamos hace algunos días. Le saludo de aquí, del dealer de autos, y quería saber si sigue interesado en comprar un vehículo.
+<soc>Cliente: Ah, sí, ¿de cuál me habla?
+<soc>Asesor: De Cali Go Autos. ¿Está interesado en alguna marca en especial? Tengo varias opciones de diferentes marcas y modelos.
+<soc>Cliente: Okay. Estoy interesado en un sedán, pero no tengo claro el modelo.
+<soc>Asesor: Perfecto, hay varios sedanes que podrían interesarle. ¿Le gustaría ver algo en específico, como un Honda, un Toyota o un Nissan?
+<soc>Cliente: Tal vez un Honda.
+<soc>Asesor: Excelente elección. Déjeme mostrarle algunas opciones que tenemos.
+<soc>Cliente: Perfecto, ¿cuáles son los modelos que tiene?
+<soc>Asesor: Tengo un Honda Civic 2022, que es muy popular, y un Honda Accord 2023, que es un poco más amplio y cómodo. Ambos tienen buenas calificaciones en seguridad y eficiencia de combustible.
+<soc>Cliente: Suena bien. ¿Y el Civic qué características tiene?
+<soc>Asesor: El Civic viene con cámara de reversa, pantalla táctil, Apple CarPlay y Android Auto. Además, tiene un motor muy eficiente.
+<soc>Cliente: Genial. ¿Y el precio?
+<soc>Asesor: El Honda Civic 2022 está en 350,000 pesos. Pero puedo revisar si hay alguna promoción o financiamiento disponible.
+<soc>Cliente: Eso me gustaría, sí.
+<soc>Asesor: Perfecto. ¿Le gustaría agendar una prueba de manejo para que lo conozca mejor?
+<soc>Cliente: Claro, eso sería ideal.
+<soc>Asesor: ¿Qué día le queda bien?
+<soc>Cliente: ¿Qué tal el miércoles?
+<soc>Asesor: El miércoles suena perfecto. Le anoto para las 11 de la mañana.
+<soc>Cliente: Hecho, ahí estaré.
+<soc>Asesor: ¡Excelente! Estoy segura de que le va a encantar. Si tiene alguna otra pregunta antes de su cita, no dude en llamarme.
+<soc>Cliente: Muchas gracias, Judith. Nos vemos el miércoles.
+<soc>Asesor: A usted, caballero. ¡Hasta pronto!
+

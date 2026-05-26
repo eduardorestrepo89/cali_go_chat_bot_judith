@@ -1,0 +1,19 @@
+<soc>Asesor: Buenas tardes, ahora tengo el gusto con Ronnie. Le saludo de acá del dealer. Hemos intercambiado algunos mensajes anteriormente y quería saber si sigue interesado en comprar vehículos.
+
+<soc>Cliente: Sí, pero no sé si piden depósito o algo, pero ahorita no tengo plata.
+
+<soc>Asesor: Sí, fíjense que pedimos depósitos y usted lo dejó en nuestra dirección y ya cuando esté listo para visitarlo.
+
+<soc>Cliente: Así está bien, me parece.
+
+<soc>Asesor: ¿Ok, bueno, por un vehículo se da, no? ¿Ocuparía mínimo 1800, le tengo del 2019 al 2023?
+
+<soc>Cliente: ¿Cuánto sería el depósito?
+
+<soc>Asesor: Uno 800 mínimo.
+
+<soc>Cliente: Ok, déjame tu dirección para ver si los visito.
+
+<soc>Asesor: Ok, ahí se lo dejo. Cualquier cosa que va a la orden, que tenga un buen día.
+
+<soc>Cliente: Así es, total.

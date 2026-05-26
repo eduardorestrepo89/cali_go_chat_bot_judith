@@ -1,0 +1,29 @@
+<soc>Asesor: Buen día. Tengo el gusto de hablar con el caballero Ángel. Les saludo de acá del dealer de autos. Quería darle más información sobre cómo trabajamos, no sé si tiene tiempo de atenderme.
+
+<soc>Cliente: ¿Dónde están ustedes?
+
+<soc>Asesor: Estamos aquí en el valle de San Fernando. Le voy a dar la dirección por un mensajito de texto. ¿No sé qué día nos podría visitar?
+
+<soc>Cliente: Oh, sí, mándamela. A lo mejor mañana, no trabajo, así que voy para allá a darme una vuelta.
+
+<soc>Asesor: Perfecto, aquí le tengo carros, trocas y SUVs. ¿Busca algún vehículo en especial?
+
+<soc>Cliente: Trocas para trabajo.
+
+<soc>Asesor: Ok, aquí le tengo varias, desde 3,000 de enganche. ¿No sé qué le parece eso?
+
+<soc>Cliente: Está bien.
+
+<soc>Asesor: ¿Y los requisitos que debe traer? Principalmente su identificación, un recibo (bill); si no está a su nombre, no hay problema, solo es para confirmar dirección. Y si tiene, también un comprobante de ingreso.
+
+<soc>Cliente: ¿Ok, cuánto enganche necesitaría sin crédito?
+
+<soc>Asesor: Si no tiene crédito, sería con 3,000 o 3,500 de enganche, dependiendo del vehículo que le guste. ¿Sería su primera vez financiando o ya ha tenido crédito?
+
+<soc>Cliente: No, lo que pasa es que tengo una pequeña compañía y quiero sacar el vehículo a nombre de la compañía, pero no sé si se puede.
+
+<soc>Asesor: Ok, sí, perfecto. Entonces le dejo nuestra dirección y si puede pasar mañana, aquí estamos a la orden.
+
+<soc>Cliente: Okay, gracias.
+
+<soc>Asesor: Buenas, gracias, que tenga un feliz día. Bye.

@@ -1,0 +1,23 @@
+<soc>Asesor: Buen día, tengo el gusto con el caballero Reyes. 
+
+<soc>Cliente: Así es.
+
+<soc>Asesor: le saludo de acá del dealer. Anoche estuvimos intercambiando algunos mensajitos, no sé si tiene tiempo de atenderme. 
+
+<soc>Cliente: ¿Del dealer? 
+
+<soc>Asesor: Sí, por el vehículo que busca. 
+
+<soc>Cliente: Oh, sí 
+
+<soc>Asesor: no sé si ahora tiene tiempo de atenderme. 
+
+<soc>Cliente: Pues sí, ando buscando, digamos, un carro, ando yo apenas viendo, pero la forma de crédito. 
+
+<soc>Asesor: Ok, nosotros calificamos cualquier tipo de crédito, eso no es ningún inconveniente. Y para un carro se dan, ocupa mínimo unos 2000 de enganche, su identificación, un Bill 1, comprobante de ingreso. 
+
+<soc>Asesor: ¿En dónde está ubicado el dealer? 
+
+<soc>Asesor: Estamos acá en San Fernando, si usted le dejo la dirección por un mensajito de texto. 
+
+<soc>Cliente: Okay, bueno, gracias, bye.

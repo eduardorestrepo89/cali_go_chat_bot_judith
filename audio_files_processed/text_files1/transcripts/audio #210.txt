@@ -1,0 +1,49 @@
+<soc>Cliente: Hola, buen día.
+
+<soc>Asesor: Hola, buenos días. ¿Cómo puedo ayudarle?
+
+<soc>Cliente: Estaba preguntando sobre un carro.
+
+<soc>Asesor: Ok, perfecto. ¿Busca alguna marca o modelo en especial?
+
+<soc>Cliente: Un Chevy Malibú.
+
+<soc>Asesor: Un Chevy Malibú, perfecto. Aquí tenemos del 2018 en adelante, desde 2500 de enganche. No tengo el precio exacto, pero todos nuestros vehículos financiados están a partir de 20000. ¿Busca un precio en especial?
+
+<soc>Cliente: Sí, uno de 20000 para abajo.
+
+<soc>Asesor: De acuerdo, creo que sí tenemos algunas opciones. ¿Sería su primera vez financiando o ya ha tenido algún crédito anteriormente?
+
+<soc>Cliente: Es la primera vez.
+
+<soc>Asesor: Perfecto. Los requisitos que solicitamos son una identificación vigente, que puede ser de aquí o de su país, y un comprobante de ingreso. ¿Tiene algún talón de cheque o el número de su jefe?
+
+<soc>Cliente: Sí, correcto.
+
+<soc>Asesor: También necesitaría un comprobante de domicilio, un bill. Si no está a su nombre, no hay problema.
+
+<soc>Cliente: ¿Una cuenta de banco sirve?
+
+<soc>Asesor: Sí, una cuenta de banco es excelente. A veces, eso también sirve como comprobante de ingreso.
+
+<soc>Cliente: La verdad, apenas abrí la cuenta, así que no tengo muchos ingresos.
+
+<soc>Asesor: No se preocupe, eso no es un problema. Lo importante es que muestre que tiene la cuenta y que está recibiendo ingresos, aunque sean pocos.
+
+<soc>Cliente: Ok, sí, abrí la cuenta hace un mes, más o menos.
+
+<soc>Asesor: Perfecto. Con nosotros puede empezar a construir su crédito. Tenemos varios vehículos que se ajustan a su presupuesto. ¿Qué día podría visitarnos?
+
+<soc>Cliente: El domingo, si se puede.
+
+<soc>Asesor: Perfecto. Los domingos estamos abiertos de 10:00 a.m. a 6:00 p.m. ¿A qué hora le vendría bien?
+
+<soc>Cliente: Como al mediodía.
+
+<soc>Asesor: Muy bien, entonces nos vemos el domingo.
+
+<soc>Cliente: Muchas gracias.
+
+<soc>Asesor: Gracias a usted. ¡Feliz tarde!
+
+<soc>Cliente: Igualmente, hasta luego.

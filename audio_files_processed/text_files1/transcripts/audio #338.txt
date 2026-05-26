@@ -1,0 +1,32 @@
+<soc>Asesor: Hola, muy buenas tardes, le saludo del dealer de autos. Sí. ¿Tiene tiempo de atender mi llamada para darle un poco más de información?
+
+<soc>Cliente: Sí cuenteme señorita
+
+<soc>Asesor: Ok. Bueno, le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros estaríamos solicitando tres documentos: su identificación, que puede ser de aquí o de su país, pero tiene que estar vigente. También ocupa un recibo (Bill), cualquier tipo de recibo. Si no está a su nombre, no hay problema, solo para confirmar su dirección, y si tiene también un comprobante de ingreso.
+
+<soc>Cliente: Ah, ok. Sí, este... yo he estado un poco así, como que nosotros recién acabamos de venir, pues tenemos que cumplir dos o tres meses. Ajá. Y sí, hemos estado batallando con ese pequeño problemita y a la vez grande, verdad, de poderse movilizar uno. Sí, sí.
+
+<soc>Asesor: ¿En este caso, haciendo su primer crédito, no hay ningún inconveniente con los requisitos? No sé si tendría los tres o le falta alguna.
+
+<soc>Cliente: No, tengo los tres.
+
+<soc>Asesor: ¿Y busca algún vehículo en especial?
+
+<soc>Cliente: Les soy honesta, no hemos contemplado como que la idea precisa de decir, o sea, es esto lo que queremos, ¿va? Porque como digo yo, hay lo que se nota es la oportunidad y, ahí sí que lo que Dios decida, pues darnos la oportunidad de poderlo obtener.
+
+<soc>Asesor: ¿Ok, y Cuánto tiene de enganche?
+
+<soc>Cliente: ¿Disculpe? Pues le voy a ser honesta, ahorita no tengo nada. Por eso es que estoy viendo para ver, para poder ajustarlo, porque aquí ya vi a qué semanal pagan, pues para poder ajustar. Quiero saber cuánto piden de inicio, qué es lo que ofrecen o cómo es. Pues, como le digo, soy nueva en esto, no tengo ni idea.
+
+<soc>Asesor: Ok, nosotros le ofreceríamos un carro sedán desde los $2800 de enganche, ese es el mínimo para un carro sedán. Para una camioneta familiar, el mínimo son $2300 y para una troca, mínimo $3000. Los vehículos que le tengo aquí en inventario son del año 2018 en adelante, todos son bajos en millaje, tienen título limpio y llevan tres años de garantía en motor, transmisión y aire acondicionado. Desde $1800, usted se lleva un vehículo con nosotros. Nos especializamos en clientes latinos, sin importar cómo esté la situación de su crédito, sin importar cuánto tiempo lleven aquí en el país; de igual forma siempre les ayudamos.
+
+<soc>Cliente: Y pues como yo ya había visto opciones y me habían dicho que no tenía que abrir un crédito, pues yo abrí un crédito en una agencia y ahí estoy con ese crédito. Ya tengo un crédito porque siempre lo piden, porque no tengo un crédito vigente.
+
+<soc>Asesor: Ok, perfecto. En este caso no hay problema. No sé, le voy a dejar nuestra dirección por mensajito de texto, y cuando usted ya esté lista para visitarnos, me lo hace saber para estar pendiente.
+
+<soc>Cliente: ¿Ok? Está bien, señor.
+<soc>Asesor:  Entonces acá ya tengo su contacto, y usted ve el mío. Cuando ya esté lista para visitarnos, pues aquí quedo a la orden.
+
+<soc>Cliente: Está bien, señor. Gracias, muy amable.
+
+<soc>Asesor: Gracias. ¡Feliz tarde!

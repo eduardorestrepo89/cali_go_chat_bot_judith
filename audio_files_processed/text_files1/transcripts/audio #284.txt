@@ -1,0 +1,22 @@
+<soc>Asesor: ¿Hola, buenas tardes caballero, qué tal?. Le saludo de acá del dealer de autos, quería saber si sigue interesado en adquirir un vehículo.
+<soc>Cliente: ¿En adquirir un vehículo? ¿Qué compañía? ¿Dealer?
+<soc>Asesor: Somos Cali Go Autos, nos estuvimos comunicando desde hace como dos semanas.
+<soc>Cliente: ¿Dónde queda el dealer?
+<soc>Asesor: Estamos acá en San Fernando, California.
+<soc>Cliente: Ah, me queda lejos. Yo vivo en Moreno Valley, California.
+<soc>Asesor: Un poco lejos, no sé si le interesaría venir hasta acá.
+<soc>Cliente: Es complicado, sí me queda lejos y no sé si estoy seguro si califico para un carro, aunque tengo buen crédito.
+<soc>Asesor: ¿Primera vez?
+<soc>Cliente: Pues es la primera vez. Quiero intentarlo, tuve un crédito en un concesionario, pero no tengo un historial sólido.
+<soc>Asesor: Ok, ¿y terminó de pagar el vehículo?
+<soc>Cliente: No, el vehículo empezó a dar muchos problemas y no respondieron por la garantía. Tendría que regresar el vehículo.
+<soc>Asesor: Entiendo. No se preocupe, de igual forma le estaríamos ayudando. Solo necesitamos su identificación, un comprobante de domicilio y un comprobante de ingreso. Le voy a dejar nuestra dirección y si se anima a visitarnos, estamos a la orden.
+<soc>Cliente: Pregunta, ¿qué carros tienen? Estoy buscando una Nissan Sentra o una Toyota Tacoma, pero que no estén muy caras.
+<soc>Asesor: Aquí le tengo vehículos del año 2018 en adelante. Para una Toyota Tacoma, necesitaría un enganche mínimo de 3500, y para un carro como la Nissan Sentra, mínimo unos 2000.
+<soc>Cliente: Busco una Toyota Tacoma que sea económica, lo más barata posible, para no tener mucho pago.
+<soc>Asesor: Los pagos mensuales de las trocas ahorita están por los 600 mínimo, porque las que tenemos son del año 2019 en adelante.
+<soc>Cliente: ¿Ese es el único?
+<soc>Asesor: No, en carros sedán, los pagos están desde los 500.
+<soc>Cliente: Bueno, ya tengo la dirección en dado caso que quiera echar una vuelta, pero ahorita no tengo carro para irme hasta allá.
+<soc>Asesor: Perfecto, entonces cuando pueda darse la vuelta, acá estamos a la orden. Muchas gracias.
+<soc>Cliente: Gracias a usted. ¡Hasta luego!

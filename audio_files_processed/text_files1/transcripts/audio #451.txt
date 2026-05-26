@@ -1,0 +1,35 @@
+<soc>Asesor: Hola caballero, le saludo de acá del dealer. Hemos intercambiado algunos mensajitos, no sé si tiene tiempo de atenderme.
+<soc>Cliente: Hola si, cuenteme
+<soc>Asesor: Le comento que nosotros hacemos financiamiento en casa, damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Le estaríamos solicitando tres documentos para poder financiarle un vehículo usado, los cuales serían su identificación vigente, puede ser de aquí o de su país. También ocupa un Bill, cualquier tipo de Bill, si no está su nombre, no hay problema, solo para confirmar dirección. ¿Y si tiene también un comprobante de ingreso, tiene los requisitos o habría inconveniente con algunos?
+
+<soc>Cliente: Con el de ingreso.
+
+<soc>Asesor: En ese caso no hay problema si le pagan cash, así queda justificado en la aplicación y solo necesita traer su identificación y el comprobante de domicilio. ¿Sería su primer crédito o usted ya financiado alguna vez?
+
+<soc>Cliente: No, no, el primer crédito.
+
+<soc>Asesor: ¿Algún vehículo en especial que usted busque, marca, año o modelo? 
+
+<soc>Cliente: ¿Un Honda? 
+
+<soc>Asesor: Aquí le tengo Honda Civic y Honda Accord, esos los tenemos desde los 2300 de enganche, no sé qué le parece o con cuánto cuenta usted de enganche.
+
+<soc>Cliente: No, el enganche lo tengo, no hay problema.
+
+<soc>Asesor: Excelente.
+
+<soc>Cliente: ¿Sería el precio y en cuánto tiempo se pagaría?
+
+<soc>Asesor: Ok, nosotros financiamos mínimo seis meses y máximo cinco años, cuatro meses. Ya llenando la aplicación se negocia Y llegamos a un acuerdo del plazo del financiamiento. ¿Se puede pagar en seis meses, un año, dos años, tres años, ahí máximo cinco años, cuatro meses Y como al cliente le convenga. Con respecto al precio, también depende del plazo del financiamiento y del porcentaje de interés al cual califique. Si sería necesario que llenemos aplicación para poder darle un precio exacto. Pero todos nuestros vehículos van de los 20000 en adelante, ya que son del año 2019 al 2023. Todos son bajos en milla limpia y damos hasta tres años de garantía. No sé qué día puede venir personalmente usted a ver los vehículos. Estamos acá en San Fernando, California. Le voy a dejar la dirección por un mensajito de texto. Y tenemos abierto de lunes a sábado desde las 10:00 a.m. hacia las 8:00 p.m. y los domingos desde las 10:00 a.m. hacia las 6:00 p.m.
+
+<soc>Cliente: Ok, este, tal vez me regala la dirección exacta para tal vez llegar el sábado.
+
+<soc>Asesor: Ok, ahí se lo dejo por un mensaje de texto. ¿Y cuál es su nombre, disculpe?
+
+<soc>Cliente: Francisco.
+
+<soc>Asesor: Okay, Francisco.
+
+<soc>Cliente: Okay.
+
+<soc>Asesor: Bueno, gracias, bye.

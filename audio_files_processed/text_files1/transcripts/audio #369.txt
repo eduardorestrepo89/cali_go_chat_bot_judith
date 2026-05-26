@@ -1,0 +1,32 @@
+<soc>Asesor: Hola, muy buenos días, caballero. Le saludo de acá del dealer. Hemos estado intercambiando mensajes y le quería dar más información de cómo trabajamos. No sé si tiene tiempo de atenderme.
+
+<soc>Cliente: Tengo unos minutitos.
+
+<soc>Asesor: Ok, voy a ser breve. Le comento que hacemos financiamiento en casa. Vamos a ofrecer tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros, ocuparía solamente tres documentos: su identificación vigente, un comprobante de ingreso y un comprobante de domicilio. ¿No sé si contaría con los tres?
+
+<soc>Cliente: Sí, tengo los documentos.
+
+<soc>Asesor: perfecto. ¿Y sería su primera vez financiando o ya había tenido algún crédito?
+
+<soc>Cliente: No, no tengo crédito. 
+
+<soc>Asesor: ¿Algún vehículo en especial que busque, marca, año o modelo?
+
+<soc>Cliente: Ando buscando una Chevrolet Silverado.
+
+<soc>Asesor: Aquí le tengo varias Silverado del año 2018 al 2022, desde 3500 de enganche. No sé si está bien para usted.
+
+<soc>Cliente: ¿Más viejas no tiene?
+
+<soc>Asesor: No, por el momento no.
+
+<soc>Cliente: Con menos enganche, si le podríamos ayudar, pero menos años no le tenemos. Con 3000 le podríamos ayudar. ¿No sé qué le parece?
+
+<soc>Cliente: Ahorita todavía no estoy listo con esta cantidad.
+
+<soc>Asesor: Ok, perfecto. ¿Más o menos dentro de cuánto sería listo para hacer un pago?
+
+<soc>Cliente: Unas dos semanas.
+
+<soc>Asesor: Ok, perfecto. Entonces le dejo información por mensajito y me comunico con usted dentro de dos semanas.
+

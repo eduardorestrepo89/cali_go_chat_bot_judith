@@ -1,0 +1,9 @@
+Speaker A: Hola, muy buenas tardes. Tengo el gusto con el caballero Roberto.
+Speaker B: Y dígame señorita.
+Speaker A: Le saludo de acá del dealer. Quería darle más información de cómo trabajamos desde ese día. Me quería comunicar con usted, no sé si tiene tiempo de atender mi llamada.
+Speaker B: ¿Qué tal si me devuelve la llamada en 10 min? Sí, solo ya voy saliendo de mi trabajo, pero 10 min la puedo atender.
+Speaker A: Ok, perfecto, gracias.
+Speaker B: ¿Yo le devuelvo a ese número, le puedo devolver la llamada?
+Speaker A: Sí, a este número me la puedes devolver.
+Speaker B: Ok, yo esta se la regreso.
+Speaker A: Excelente. Y despero. Bye.

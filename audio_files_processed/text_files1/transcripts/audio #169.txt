@@ -1,0 +1,17 @@
+<soc>Asesor: Hola, buenas tardes. ¿Tengo el gusto con Isael? Les saludo de acá del dealer de autos, no sé si tiene tiempo de atenderme.
+<soc>Cliente: ¿Qué dealer es?
+<soc>Asesor: Disculpe, somos Cali Go Autos, estamos en San Fernando, California.
+<soc>Cliente: ¿Oh, están en San Fernando? Pensé que tenían sucursales por Anaheim.
+<soc>Asesor: ¿No le interesaría venir hasta acá, a San Fernando? Tenemos buenas promociones, un buen inventario y además calificamos cualquier tipo de crédito.
+<soc>Cliente: O que sepa que no piden lo que es seguro social, nada.
+<soc>Asesor: No, solo ocupa su identificación vigente, un bill, y si tiene un comprobante de ingreso, pero si no tiene, no hay problema. Si le pagan en efectivo, solo necesita la identificación y el bill. Puede ser cualquier tipo de bill, aunque no esté a su nombre, solo para comprobar dirección. ¿Busca algún vehículo en especial, marca, año o modelo?
+<soc>Cliente: Sí, estoy buscando una troca, no importa si es una Ford o una Tacoma.
+<soc>Asesor: Ok, tengo Ford y también Tacomas del 2018 en adelante, con tres años de garantía en motor, transmisión y aire acondicionado, y el primer mes de aseguradora gratis. ¿Ocupa mínimo unos $3500 de enganche, qué le parece?
+<soc>Cliente: ¿$3500 de enganche para una Tacoma?
+<soc>Asesor: Para una Tacoma, sí. Para una Ford, trabajamos con $3000.
+<soc>Cliente: Ok, déjeme hablar con mi esposa y a lo mejor le regreso la llamada.
+<soc>Asesor: Perfecto. Le dejo nuestra dirección. No sé más o menos qué día podrían pasar. Estamos abiertos de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m., y los domingos desde las 10:00 a.m. hasta las 6:00 p.m.
+<soc>Cliente: Ok, está bien. Tal vez le regreso la llamada mañana.
+<soc>Asesor: Perfecto, estamos a la orden.
+<soc>Cliente: Gracias.
+<soc>Asesor: Bueno, hasta luego.

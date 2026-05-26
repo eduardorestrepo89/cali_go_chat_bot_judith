@@ -1,0 +1,12 @@
+<soc>Asesor: Buen día, ¿tengo el gusto de hablar con el caballero Carlos?
+<soc>Cliente: Sí, a la orden, mi nombre es Carlos.
+<soc>Asesor: Mucho gusto, Carlos. Mi nombre es Judith, le saludo del dealer. Recibí unos mensajes donde mencionó su interés en un vehículo. Quería saber si tiene tiempo para darle más información.
+<soc>Cliente: Claro, estoy disponible. Les dejé un mensaje donde mencioné que estoy en California. Por eso, me gustaría saber qué tan cerca están.
+<soc>Asesor: Estamos ubicados en San Fernando, California.
+<soc>Cliente: ¿San Fernando? ¿Está lejos de aquí? Yo estoy en Lake Forest.
+<soc>Asesor: Sí, está un poco retirado. Pero, ¿no le interesaría visitarnos algún día?
+<soc>Cliente: Es que está un poco lejos para mí.
+<soc>Asesor: Entiendo. De igual forma, le puedo compartir nuestra dirección por si algún día está por aquí y le gustaría pasar. Estoy a su disposición para cualquier duda.
+<soc>Cliente: Ok, está bien.
+<soc>Asesor: Gracias, Carlos. Que tenga un feliz día.
+

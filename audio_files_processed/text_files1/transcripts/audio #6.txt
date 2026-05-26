@@ -1,0 +1,10 @@
+<soc>Asesor: Hola, buen día caballero, mi nombre es Judith, le saludo del dealer de autos.  
+<soc>Cliente: Ajá, buen día señor.  
+<soc>Asesor: Sí, hemos estado intercambiando mensajitos, pero no nos habíamos podido comunicar por llamada, incluso ya le había dejado nuestra dirección. Quería saber si sigue interesado en venir a ver los vehículos.  
+<soc>Cliente: Ah, sí, es que lo que pasa es que no hemos tenido tiempo, por eso no hemos ido.  
+<soc>Asesor: Ok. Abrimos de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m. y domingo desde las 10:00 a.m. hasta las 6:00 p.m.  
+<soc>Cliente: Ok, está bien.  
+<soc>Asesor: Entonces le comparto nuevamente nuestra dirección. No sé más o menos qué día podría pasar para estar pendiente.  
+<soc>Cliente: Pues no le podría decir más o menos qué día con exactitud, pero sí, en estos días puedo ver si llego.  
+<soc>Asesor: Ok, perfecto. Entonces ahí dejo nuestra dirección y cualquier cosa queda a la orden.  
+<soc>Cliente: Ok, está bien señor. Gracias.  

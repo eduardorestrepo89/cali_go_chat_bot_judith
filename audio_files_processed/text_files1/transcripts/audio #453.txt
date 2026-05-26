@@ -1,0 +1,26 @@
+<soc>Asesor: Bueno, hola, buenos días. Tengo el gusto con el caballero Israel. 
+<soc>Cliente: Sí hola. 
+<soc>Asesor: Le saludo de acá del dealer. no sé si tiene tiempo de atenderme.  
+<soc>Cliente: Sí.  
+<soc>Asesor: Ok, bueno, le comento que nosotros hacemos financiamiento en casa, vamos hasta tres años de garantía en motor, transmisión y aire acondicionado. Los requisitos principales que le estaríamos solicitando es una identificación, puede ser de aquí o de su país, pero tiene que estar vigente.  
+<soc>Asesor: Si tiene también puede traer un comprobante de domicilio que es cualquier tipo de Bill, si no está su nombre no hay problema y un comprobante de ingreso. Pero si le pagan cash y no tiene cómo comprobar ingreso, no hay problema, nosotros solo con la identificación y con el Bill le ayudamos.
+<soc>Cliente: Ok, yo tengo un vehículo que quiero usar como enganche, es un Corolla 2008. 
+<soc>Asesor: Si, nosotros lo estaríamos agarrando, tendría que traer el vehículo y el título. Acá lo evaluamos y le decimos cuánto le damos por él.  
+<soc>Cliente: ¿Donde se ubican ustedes?  
+<soc>Asesor: Estamos acá en el valle de San Fernando, le voy a compartir la dirección. Estamos acá en San Fernando, California.  
+<soc>Cliente: Un poquito.  
+<soc>Asesor: Ok, bueno, aquí yo le aseguro que si usted no tiene comprobante de ingreso, aquí le ayudó con solo traer el vehículo que tiene, este se lo agarramos de enganche y el mismo día le entregamos el vehículo. Tenemos abierto de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m. y los días domingos desde las 10:00 a.m. hasta las 6:00 p.m. no sé qué día nos podría visitar.  
+<soc>Cliente: Ok, bueno, ahorita el Corolla está al nombre de mi esposa y ella pues ahorita no está. ¿Tiene que estar ella a fuerza verdad?  
+<soc>Asesor: No, si nos trae el título no.  
+<soc>Cliente: ¿Ok, otra cosa, bueno, si voy el día de hoy ¿crees que se puede hacer todo eso?  
+<soc>Asesor: Sí, ahora mismo sí, haríamos todo el proceso en cuestión de 1 hora, estaríamos llenando aplicación, revisando el vehículo, viendo todo lo del contrato y usted se va manejando el vehículo que se va a llevar y si todo le parece, ahora mismo le entregamos el vehículo.  
+<soc>Cliente: ¿Bueno, otra cosa, los comprobantes de ingreso, hay algún problema en eso?  
+<soc>Asesor: No, si no tiene comprobante de ingreso no lo traiga, ese no es ningún problema. Lo que sí me interesa que traiga es su identificación vigente.  
+<soc>Cliente: Ok. Y creo que con eso ya sí se puede hacer eso porque como tal ahorita no tengo como. Bueno, va a ser principios de mes, entonces pues tengo que pagar renta y todo eso, entonces como tal no tengo como nada más el puro carro caro para entregar y o sea, no tengo nada de dinero para dar como de enganche.  
+<soc>Asesor: Claro, le aseguro que se lo vamos a agarrar, ese no es inconveniente. ¿Busca un sedán, verdad? ¿O qué vehículo busca?  
+<soc>Cliente: Un sedán, sí.  
+<soc>Asesor: Ok, sí, perfecto. Solo con el vehículo, una vez el vehículo ande bien del motor y la transmisión, eso es lo importante y acá se lo agarramos, no importa el año del vehículo.  
+<soc>Cliente: Ok, bueno, entonces pues mándame la dirección y pues yo te voy para allá.  
+<soc>Asesor: Ok, perfecto, entonces acá lo esperemos.  
+<soc>Cliente: Gracias.  
+<soc>Asesor: Bueno, gracias. Bye.  

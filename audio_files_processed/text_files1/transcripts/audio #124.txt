@@ -1,0 +1,15 @@
+<soc>Asesor: Bueno, buen día, tengo un gusto con el caballero Eduardo les saludo de acá del dealer de autos. Le quería dar una información de cómo nosotros trabajamos.  
+<soc>Cliente: Sí, cuenteme.  
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa. Vamos a hacer tres años de garantía en moto, transmisión y aire acondicionado. Para calificar con nosotros estaríamos solicitando tres documentos, las cuales serían su identificación, puede ser de aquí o de su país, pero vigente también ocupa un bill, cualquier tipo de bill. Si no está su nombre, no hay problema, solo para confirmar su lugar de residencia y si tiene también un comprobante de ingresos. Pero en dado caso usted le pague en cash y no tenga cómo comprobar ingresos, no hay problema.  
+<soc>Cliente: Me puede mandar en un mensaje a su dirección para poder ir a ver.  
+<soc>Asesor: ¿Y qué día nos podría visitar para ser pendiente?  
+<soc>Cliente: Un miércoles estaría bien, cuando descanse.  
+<soc>Asesor: ¿Y sería su primer crédito usted ya financiado alguna vez?  
+<soc>Cliente: No, nunca, sería mi primer crédito.  
+<soc>Asesor: Excelente, con nosotros lo puede comenzar. ¿Algún vehículo en especial que busque, marca, año o modelo?  
+<soc>Cliente: Me gustaría un 2014 Avalon, un híbrido.  
+<soc>Asesor: No tenemos, fíjese que híbridos vienen Prius y también tengo Teslas que son eléctricos. Ocuparía mínimo unos 1,800 de enganche, no sé si está bien para usted.  
+<soc>Cliente: Solo que tengo una afinidad por las Avalon
+<soc>Asesor: entonces ok, si nos viene una en estos días, yo le notifico.  
+<soc>Cliente: Ok, ok, está bien, ya tiene mi número.  
+<soc>Asesor: Ok, bueno, gracias

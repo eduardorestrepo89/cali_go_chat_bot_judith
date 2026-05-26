@@ -1,0 +1,35 @@
+Speaker A: Please leave your message for three, two, three, eight, six, seven, one, eight, seven, two. Your recording has reached the maximum length.
+Speaker B: To replay your message.
+Speaker C: Press.
+Speaker A: One to delete and rerecord your message.
+Speaker C: Press.
+Speaker D: Three for delivery options.
+Speaker E: Press.
+Speaker A: Four to send the fax.
+Speaker C: Press.
+Speaker F: Six to cancel this message.
+Speaker A: Press star to send this message now.
+Speaker G: Press pound or hang up.
+Speaker B: To replay your message.
+Speaker C: Press.
+Speaker A: One to delete and re record your message.
+Speaker C: Press.
+Speaker D: Three for delivery options.
+Speaker E: Press.
+Speaker A: Four to send a fax press.
+Speaker F: Six to cancel this message.
+Speaker A: Press start to send this message now.
+Speaker G: Press pound or hang up.
+Speaker B: To replay your message.
+Speaker C: Press.
+Speaker A: One to delete and rerecord your message.
+Speaker C: Press.
+Speaker D: Three for delivery options.
+Speaker E: Press.
+Speaker A: Four to send a fax.
+Speaker C: Press.
+Speaker F: Six to cancel this message.
+Speaker A: Press star to send this message now.
+Speaker G: Press pound or hang up.
+Speaker B: Your message has been sent.
+Speaker D: Thank you for calling goodbye, Zweitausendein.

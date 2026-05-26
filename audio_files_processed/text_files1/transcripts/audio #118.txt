@@ -1,0 +1,23 @@
+<soc> Asesor: Hola, buen día, tengo el gusto con Emily, Le saludo de acá del dealer. Quería darle más información de cómo trabajamos, no sé si tiene tiempo de atenderme. 
+
+<soc> Cliente: Ok, está bien puedo atenderte
+
+<soc> Asesor: Le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros le estaríamos solicitando tres documentos: su identificación, puede ser de aquí o de su país, pero vigente; también ocupa un Bill, cualquier tipo de Bill. Si no está su nombre, no hay problema, solo para confirmar dirección y si tiene también un comprobante de ingreso. 
+
+<soc> Cliente: ¿Y cuánto necesito de enganche en busca de carros? ¿Se dan trocas o camioneta familiar? 
+
+<soc> Cliente: Pues no me gustan los carros, pero quiero camioneta. No tienen como tipo van, pero chiquita?. 
+
+<soc> Asesor: Ok, fíjense que la SUV por una de esas ocupa mínimo unos 2200 de enganche. No sé si está bien para usted.¿Sería su primera vez financiando? 
+
+<soc> Cliente: No, ya he financiado antes 
+
+<soc> Asesor: ¿Ya tiene crédito establecido? Bueno, malo, regular. 
+
+<soc> Cliente: malo
+
+<soc> Asesor: Ok, nosotros calificamos cualquier tipo de crédito, si no es inconveniente, incluso con nosotros lo puede mejorar, pero si ocuparía mínimo unos 2200 de enganche para llevarse una SUV, no sé qué le parece. 
+
+<soc> Cliente: ¿Y qué día los puedo visitar y como cuánto quedarían los pagos? 
+
+<soc> Asesor: Los pagos mensuales van desde los 500, aunque si sería necesario que llenemos aplicación, veamos el vehículo que se va a llevar y el plazo del financiamiento para establecer con exactitud el bloque del pago mensual.

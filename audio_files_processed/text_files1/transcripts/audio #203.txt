@@ -1,0 +1,13 @@
+<soc>Asesor: Hola, buen día. ¿Tengo el gusto con Misael? Le saludo del dealer. Quería saber si sigue interesado en comprar un vehículo.
+<soc>Cliente: Sí, me interesa un vehiculo 
+<soc>Asesor: Perfecto. ¿Tiene tiempo para darle más información?
+<soc>Cliente: Claro, cuenteme
+<soc>Asesor: Ofrecemos financiamiento en casa y hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar, necesitaría su identificación, un comprobante de ingresos y un comprobante de domicilio.
+<soc>Cliente: Entendido. Es mi primera vez financiando
+<soc>Asesor: Así es. ¿Busca algún vehículo en especial?
+<soc>Cliente: Una Chevrolet Silverado 2017 cortita.
+<soc>Asesor: Tengo Silverado del 2018 en adelante. ¿Le parece bien? necesitaría unos 3500 de enganche.
+<soc>Cliente: Solo cuento con 3000.
+<soc>Asesor: Con 3000 podemos trabajar. Estamos en el valle de San Fernando.
+<soc>Cliente: Perfecto, le enviaré nuestra dirección por mensaje y nos vemos el viernes.
+<soc>Asesor: Gracias. ¡Hasta luego!

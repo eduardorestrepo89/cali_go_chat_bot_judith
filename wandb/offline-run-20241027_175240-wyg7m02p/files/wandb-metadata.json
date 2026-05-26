@@ -1,0 +1,39 @@
+{
+    "os": "macOS-14.5-x86_64-i386-64bit",
+    "python": "3.11.3",
+    "heartbeatAt": "2024-10-27T22:52:40.157970",
+    "startedAt": "2024-10-27T22:52:40.083961",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/Users/eduardo/Downloads/Maestria/Proyecto de Grado/file_transcriber_cali/src/train.py",
+    "codePathLocal": "src/train.py",
+    "codePath": "src/train.py",
+    "host": "Eduardos-MacBook-Pro.local",
+    "username": "eduardo",
+    "executable": "/usr/local/bin/python3",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2000,
+        "min": 2000,
+        "max": 2000
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2000,
+            "min": 2000,
+            "max": 2000
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 465.62699127197266,
+            "used": 9.554718017578125
+        }
+    },
+    "memory": {
+        "total": 16.0
+    }
+}

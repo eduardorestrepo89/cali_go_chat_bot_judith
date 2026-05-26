@@ -1,0 +1,15 @@
+<soc>Asesor: Hola, buen día. Le saludo desde el dealer. Soy Judith. Hemos intercambiado mensajes por WhatsApp sobre el vehículo que busca. ¿Tiene tiempo para hablar?
+<soc>Cliente: Sí, pensé que la compañía estaba en Fresno.
+<soc>Asesor: Estamos en San Fernando, California. Ofrecemos facilidades de financiamiento. ¿Le interesaría venir?
+<soc>Cliente: No, está un poco lejos.
+<soc>Asesor: Entiendo. Le puedo dejar nuestra información por mensaje y, si se anima, estamos a su disposición. Solo necesita su identificación y un enganche para llevarse un vehículo, sin importar su crédito.
+<soc>Cliente: ¿Dónde está la agencia?
+<soc>Asesor: En el valle de San Fernando, cerca de Los Ángeles.
+<soc>Cliente: Sí, es un poco lejos.
+<soc>Asesor: Lo entendemos. Abrimos hasta los domingos, desde las 10:00 a.m. hasta las 6:00 p.m.
+<soc>Cliente: Puede ser complicado llegar.
+<soc>Asesor: ¿Busca algún vehículo en especial?
+<soc>Cliente: No, no tengo uno en mente, pero está lejos.
+<soc>Asesor: Le enviaré nuestra dirección. ¡Que tenga un buen día!
+<soc>Cliente: Igualmente, muchas gracias.
+

@@ -1,0 +1,27 @@
+<soc>Asesor: Hola, buenas tardes. ¿Con el caballero Edwin? Le saludo de acá del dealer de autos. Nos comunicamos a inicio del mes y quería saber si sigue interesado en comprar un vehículo.
+
+<soc>Cliente: Sí, sí, pero me piden muchos documentos y la verdad es que no tengo papeles. El down payment que tengo es poquito.
+
+<soc>Asesor: Entiendo. De documentos, solo le estaríamos pidiendo su identificación, y para un sedán, necesitaría un mínimo de 1800 de enganche.
+
+<soc>Cliente: Eso me dijo la otra vez.
+
+<soc>Asesor: Así es, como le mencioné, con su identificación nosotros le ayudaríamos. Pero el enganche es importante y no puedo decirle que lo haremos con menos.
+
+<soc>Cliente: ¿Y qué tal si le llevo 1000 primero y me da una semana para traerle los 800 restantes?
+
+<soc>Asesor: Fíjese que trabajar con un down payment diferido requeriría que diera el 80% el día que nos visite. Necesitaría más de 1000 para poder llevarse el vehículo. En este caso, necesitaría unos 1400 para poder llevárselo el día que lo visite, y le daríamos hasta dos semanas para que traiga los otros 400.
+
+<soc>Cliente: ¿Dónde están ubicados ustedes?
+
+<soc>Asesor: Estamos en el Valle de San Fernando. Le voy a dejar nuevamente la dirección por mensaje de texto.
+
+<soc>Cliente: Ok, déjenme la dirección y yo le voy a llamar cuando esté listo. ¿Le puedo llamar a este número, verdad?
+
+<soc>Asesor: Claro, a este número puede llamar o mandar mensajes.
+
+<soc>Cliente: Ok, yo le aviso cuando llegue por ahí.
+
+<soc>Asesor: Entonces estamos en contacto. Que tenga un buen día.
+
+<soc>Cliente: Ok, igualmente.

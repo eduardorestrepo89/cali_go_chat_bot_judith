@@ -1,0 +1,17 @@
+Speaker A: Hola, buenas tardes. En luz con el caballero Josué.
+Speaker B: Sin nada, perdón.
+Speaker A: Mi nombre es Judith, le saludo del diles. Quería saber si sigue interesado en comprar vehículo.
+Speaker B: Oh, sí.
+Speaker A: Nosotros estamos acá en San Fernando, California. Le voy a dejar nuestra dirección. No sé qué día nos podría visitar.
+Speaker B: No sabría decir, creo que a lo mejor la otra semana.
+Speaker A: Ok, perfecto. ¿Y busca algún vehículo en especial? ¿Marca de nuevo modelo?
+Speaker B: Estaba buscando Honda Civic.
+Speaker A: Honda, perfecto. Aquí tengo Honda Civic y Honda Accord del 2018 en adelante. ¿Y sería su primera vez financiando o usted ya ha tenido algún crédito?
+Speaker B: No, no he tenido ningún crédito.
+Speaker A: Ok. Ocuparía mínimo unos 2000 de enganche. No sé si se ven para usted.
+Speaker B: Ok.
+Speaker A: ¿Y los requisitos? Principalmente su identificación vigente, un comprobante domicilio, sinobreno comprobante de ingreso.
+Speaker B: Okay.
+Speaker A: Concordemos día exacto.
+Speaker B: Ok, perfecto.
+Speaker A: Gracias. Ÿ.

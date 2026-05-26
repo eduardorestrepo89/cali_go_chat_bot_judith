@@ -1,0 +1,16 @@
+<soc>Asesor: Buenas tardes, ¿tendré gusto con el caballero Jorge?  Mi nombre es Judith, le saludo del dealer de autos. Quería darle más información sobre cómo trabajamos. ¿Tiene tiempo para atenderme?
+<soc>Cliente: Sí, creo que sí.
+<soc>Asesor: Nosotros hacemos financiamiento en casa y ofrecemos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar, necesitamos tres documentos: identificación vigente, comprobante de ingresos y comprobante de domicilio. ¿Es su primera vez financiando o ya tiene algún crédito?
+<soc>Cliente: No, no tengo crédito porque me espantan un poco, pero la necesidad me hace buscar uno.
+<soc>Asesor: ¿Está buscando un carro?
+<soc>Cliente: No, una troquita para trabajo.
+<soc>Asesor: Tenemos modelos del 2018 en adelante, como Tacoma, Silverado, Colorado y Dodge. ¿Busca alguna en especial?
+<soc>Cliente: Me gustaría una Tacoma Sport.
+<soc>Asesor: Perfecto, aquí tenemos desde $3500 de enganche. ¿Qué le parece?
+<soc>Cliente: Para no hacerle perder tiempo, la cuestión es que, ¿en qué estado están ubicados?
+<soc>Asesor: Estamos en San Fernando, California.
+<soc>Cliente: Estaba en Los Ángeles, pero ahora estoy en Dallas, Texas, así que estamos demasiado lejos.
+<soc>Asesor: Tiene razón. De igual forma, quedo a su disposición.
+<soc>Cliente: Muy amable, le agradezco.
+<soc>Asesor: Gracias, feliz tarde.
+<soc>Cliente: Gracias, igualmente.

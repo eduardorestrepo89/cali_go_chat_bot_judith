@@ -1,0 +1,14 @@
+<soc>Asesor: Hola.  
+<soc>Cliente: Bueno, una pregunta. ¿Si no califico, si no tengo crédito, qué me puede suceder ahí?  
+<soc>Asesor: ¿Ok, primer crédito o mal crédito?  
+<soc>Cliente: Primer crédito.  
+<soc>Asesor: Ok, con primer crédito nosotros le podemos ayudar. Somos un dealer y hacemos financiamiento en casa, así que no hay problema con su crédito. ¿Y ocuparía para calificar su identificación, un comprobante de ingreso y un comprobante de domicilio?  
+<soc>Cliente: Si, te lo mando ahorita.  
+<soc>Asesor: Fíjese que tendría que traerlo personalmente.  
+<soc>Cliente: Oh, ándele pues. Está bien. Entonces sí.  
+<soc>Asesor: No se quería, podría venir personalmente acá al dealer. Estamos en San Fernando, California. Yo le dejo nuestra información por mensajito de texto.  
+<soc>Cliente: Ok, está bien. Entonces no sé cuándo voy, pero voy a ir.  
+<soc>Asesor: ¿Ok, busca algún vehículo en especial, marca, año o modelo?  
+<soc>Cliente: No, una troca.  
+<soc>Asesor: Ok, aquí tengo del año 2019 al 2022. Todos son bajos en milla, título limpio y con tres años de garantía en motor, transmisión y aire acondicionado. Además, le damos el primer mes de garantía gratis. Tenemos abierto de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m. y también los domingos desde las 10:00 a.m. hasta las 6:00 p.m.  
+<soc>Cliente: Okay, perfect.  

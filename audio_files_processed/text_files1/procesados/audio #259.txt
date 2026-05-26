@@ -1,0 +1,21 @@
+Speaker A: Buen día, tengo el gusto con Estuardo.
+Speaker B: Sí, dígame.
+Speaker A: Le saludo de acá del dealer. No sé si tiene tiempo de atender mi llamada.
+Speaker B: Sí, claro, cuénteme.
+Speaker A: Ok, le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros ocuparía solamente su identificación. Puede ser de aquí o de su país, pero vigente. También ocupa un Bill, cualquier tipo de Bill. Si no está su nombre, no hay problema, solo para poder confirmar su dirección y si tiene también un comprobante de ingreso.
+Speaker B: Vaya. ¿Y qué otro? Solamente esos tres requisitos.
+Speaker A: ¿Solo esos tres requisitos? ¿Cuenta con los tres o le haría falta alguno?
+Speaker B: ¿No, pues sí los tengo, solo sería de ver dónde no piden anticipo?
+Speaker A: Si pedimos anticipo, dependiendo del vehículo. ¿Busca carro troca o sub?
+Speaker B: Es un carro normal, un sedán.
+Speaker A: Ok. ¿Y primera vez financiando o ya tiene crédito?
+Speaker B: No, no, es primera vez.
+Speaker A: Ok, por un sedán estaríamos pidiendo mínimo unos uno 800 de enganche. ¿No sé, qué le parece?
+Speaker B: ¿Uno 800 piden siempre o con cuánto cuenta usted? Ah, solo con $1000 tengo ahorita por el momento.
+Speaker A: Ok, véndase con los 1000. Con los 1000. Acá nosotros trabajamos y vemos de qué forma le ayudamos. No sé qué día nos podría visitar.
+Speaker B: ¿Qué días atienden ustedes ahí? ¿Todos los días?
+Speaker A: Sí, de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m. y domingo desde las 10:00 a.m. hasta las 6:00 p.m.
+Speaker B: Sería tal vez el viernes o el sábado dentro de ocho días.
+Speaker A: Ok, perfecto. Entonces ahí le dejo nuestra dirección por un mensajito de texto y estamos en contacto.
+Speaker B: Está bien, gracias.
+Speaker A: Gracias. Feliz día. Bye.

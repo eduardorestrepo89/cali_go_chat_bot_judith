@@ -1,0 +1,14 @@
+Speaker B: Hola, buen día caballero.
+Speaker A: Dime.
+Speaker B: Le saludo de acá del dealer de autos, quería saber si sigue interesado en comprar vehículos.
+Speaker A: ¿Qué parte de San Dealer?
+Speaker B: Nosotros estamos acá en San Fernando, California.
+Speaker A: Estamos lejos, yo estoy aquí en Michigan y Troy. Demasiado lejos.
+Speaker B: ¿Ok, disculpa, creo que la persona de marketing ha puesto mal lo que es la ubicación, disculpa, del caso.
+Speaker A: Será?
+Speaker B: Sí, estamos hasta acá, hasta San Fernando, acá en California. ¿Creo que usted está en Texas, verdad?
+Speaker A: Estaba en Texas, pero ya me mudé, ya estoy en Detroit, Michigan.
+Speaker B: ¿Ah, ok, sí, pero sigue estando súper lejos de California.
+Speaker A: Verdad Bertale? Yo creo que sí, estoy retirado bastante.
+Speaker B: Bueno, de igual forma le dejo ahí nuestra dirección para que cheque, pero si se me hace que estamos bastante lejos.
+Speaker A: Okay, bye.

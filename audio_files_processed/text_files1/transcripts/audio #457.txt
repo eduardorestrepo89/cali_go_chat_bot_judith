@@ -1,0 +1,21 @@
+<soc>Asesor: Hola, buenas tardes, tengo gusto con el caballero Espinosa. 
+<soc>Cliente: Sí señora
+<soc>Asesor: le saludo de acá del dealer, no sé si tiene tiempo de atenderme señor.  
+<soc>Cliente: Claro, si.  
+<soc>Asesor: Bueno, ¿usted está interesado en un vehículo?.  
+<soc>Cliente: Sí, la verdad estoy necesitando un vehiculo pero no quiero estar volteando de arriba a abajo con papeleo, ademas nunca he tenido un credito 
+<soc>Asesor: le comento, nosotros hacemos financiamiento en casa, no hay ningún banco de intermediario, por ende si usted no tiene crédito, con nosotros lo puede comenzar, nosotros se lo podemos reportar, ese no es ningún inconveniente. Con respecto a que usted no tenga talón de cheque, tampoco es problema, yo me imagino que usted le pagan cash, en este caso nos puede traer una carta laboral o el número de su jefe, lo que se le haga más fácil. Y los otros requisitos bien importantes también serían su identificación vigente, 1 bill, cualquier tipo de bill, aunque no sea a su nombre, solo para confirmar dirección.  
+<soc>Cliente: ¿Eso sería lo único?  
+<soc>Asesor: Si, eso es lo único, usted no se preocupe por no tener crédito. Si es su primer crédito, excelente, nosotros se los reportamos y lo puede comenzar con nosotros.  
+<soc>Cliente: Luego ustedes se van y meten la solicitud al banco y salen con que el credito lo hace un banco.  
+<soc>Asesor: puede ser que los lugares a los que usted fue me imagino que hacen financiamiento con banco. Nosotros no trabajamos con banco, el trato es directamente con nosotros.  
+<soc>Cliente: ¿Ok, y usted podría mandarme la dirección para yo verla y ponerme de acuerdo de hacer mi tiempo para poder visitarlo?  
+<soc>Asesor: Claro que sí, se la voy a dejar por un mensajito de texto. Nosotros tenemos abierto de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m. y los domingos desde las 10:00 a.m. hasta las 6:00 p.m. no sé qué día nos podría visitar.  
+<soc>Cliente: Por el motivo de mi trabajo, debo organizar mi tiempo, pero si sería en esta semana. ¿Y qué carros tienen, tienen de usado?  
+<soc>Asesor: Nuestros carros son nuevos del 2018 en adelante. Mínimo ocupa 2000 de enganche, le tengo la marca Honda, Toyota, Nissan, Kia, Ford, Chevy, Mazda, Tesla.  
+<soc>Cliente: Lo mínimo es 2000 de enganche.  
+<soc>Asesor: Sí, es lo más recomendable verdad, que traiga 2000 de enganche para que el mismo día que usted lo visite ese mismo día, se lleve el vehículo.  
+<soc>Cliente: Ah, ok, bueno, lo tendre en cuenta. Si gusta, mándame la dirección. Así con mi tiempo sería durante esa semana o la próxima paraser más sincero, la próxima.  
+<soc>Asesor: Ok, entonces le puedo llamar la próxima semana para concordar día.  
+<soc>Cliente: Ok, igual siempre mándenme la dirección para ver cuánto estoy.  
+<soc>Asesor: Claro, ahí se lo voy a dejar en un mensajito. Bueno, estamos en contacto.

@@ -1,0 +1,54 @@
+<soc>Asesor: Hola, muy buenas tardes caballero, les saludo del dealer, acabamos de estar intercambiando mensajitos, le quería dar un poco más de información de cómo trabajamos. No sé si tiene tiempo de atender mi llamada.
+
+<soc>Cliente: Sí, claro.
+
+<soc>Asesor: Ok, perfecto. Le comento que nosotros somos un dealership, hacemos financiamiento en casa mínimo seis meses y máximo cinco años. Con cuatro meses damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros le estaríamos solicitando tres documentos, los cuales serían su identificación vigente, un comprobante de ingreso y un comprobante de domicilio. ¿Sería en esta ocasión su primer crédito o ya ha financiado alguna vez?
+
+<soc>Cliente: Viera que yo ya financié una, en un dealer pequeño, pues yo creo que fue así en casa, algo así.
+
+<soc>Asesor: ¿No le reportaron el crédito?
+
+<soc>Cliente: No sé porque no, la verdad yo no sé, hasta aquí yo no sé. Ahora ya fui a un dealer más grande, pero sí me dijeron que tenía crédito, o sea que sí, pero me estaban pidiendo 3500 de down payment para una troca, la verdad no los tenía, no los ajustaba, solo tenía en ese momento cuando fui, solo tenía $2000.
+
+<soc>Asesor: ¿Ok, en este momento con cuánto contaría para lo que es el enganche?
+
+<soc>Cliente: No sé cuánto es lo que piden ustedes.
+
+<soc>Asesor: Fíjense que las trocas que nosotros tenemos del año 2018 en adelante, mínimo le estaríamos solicitando unos 3000 de enganche. ¿No sé si está bien para usted?
+
+<soc>Cliente: Pues tendría que ver. ¿Y cómo elige este? Solo tengo el de mi país y si está vigente, y la verdad pues a mí me pagan cash, ve, ando trabajando con un coreano, pesca, paga él.
+
+<soc>Asesor: No hay problema.
+
+<soc>Cliente: No tengo, la verdad no tengo cuenta de banco, nada.
+
+<soc>Asesor: Ok, si le pagan cash no hay problema, nosotros de igual forma le estaríamos ayudando. Acá le tenemos varios vehículos en inventario, solo se trae su identificación y el bill, aunque no sea su nombre, solo para confirmar dirección del bill.
+
+<soc>Cliente: Sí, pues tengo lo de mi aseguranza que me llegan los billes.
+
+<soc>Asesor: Ok, perfecto. Entonces acá nosotros estaríamos en disposición de ayudarle. Tenemos varias trocas en inventario, usted puede venir a ver qué le parece todo, sin ningún compromiso y si le parece todo, el mismo día nosotros le entregamos la troca. Y si aún no tiene el down payment completo, lo que podemos ofrecerle es un down payment diferido, pero eso es bajo aplicación, es decir, usted viene ahora, llena la aplicación, le gusta la troca, le parece todo, se lleva ahora mismo la troca, deja el down payment que tenga y le damos cierto tiempo para que traiga el resto. ¿Y la otra opción sería que venga, llenemos la aplicación y deje apartada la troca? Le estaríamos dando esas dos opciones, no sé qué le parece.
+
+<soc>Cliente: que Tipo de trocas tiene, ¿qué marcas, perdón?
+
+<soc>Asesor: Le tengo en la marca Toyota, en la marca Nissan, Chevy, Ford, Dodge.
+
+<soc>Cliente: Es que ¿los tiene en inventario esos?
+
+<soc>Asesor: Tengo Tacoma, Silverado, Colorado, F-150, Ranger, Frontier, Dodge Ram, de las más comunes, ¿verdad?
+
+<soc>Cliente: Yo ando buscando una, bien sea una Tacoma, una Toyota Tacoma o bien sea una Chevy, una Silverado, como hiciste una de esas marcas. No sé, pues quiero buscar algo que me guste, más que todo la troca que me guste, como dice, que me guste, que sienta, pues.
+
+<soc>Asesor: Aquí le tengo varias, yo sé que hay varias que le pueden interesar. Le tenemos en color blanco, negro, gris, no sé qué día se anima a venir a verlas personalmente.
+
+<soc>Cliente: ¿dónde están ustedes?
+
+<soc>Asesor: Estamos acá en el valle de San Fernando por la Seven Fox, le voy a dejar la dirección por un mensajito para que la cheque ahorita.
+
+
+<soc>Asesor: Ok, y ya cuando tenga el dinero para visitarnos, me puede mandar un mensajito de texto, me puede llamar, 
+
+<soc>Cliente: Sí, está bien, señora. Ya nada más como le digo, miro las fotos y si me gusta algo, pues puedo ir mañana o quizás ahora en la tarde.
+
+<soc>Asesor: Ok, excelente, entonces ahí le dejo nuestra información.
+
+<soc>Cliente: Está bien, señor, gracias. Bueno, gracias.

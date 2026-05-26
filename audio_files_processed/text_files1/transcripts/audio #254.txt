@@ -1,0 +1,43 @@
+<soc>Asesor: Hola, buenas tardes.
+
+<soc>Cliente: Hola, buenas tardes. Veo que me había llamado.
+
+<soc>Asesor: Sí, le llamé porque anteriormente estuvimos intercambiando mensajes sobre su interés en un vehículo. Quería saber si sigue interesado.
+
+<soc>Cliente: Estoy en eso, pero lo que quiero hacer es un intercambio. Tengo una Dodge Journey 2017 y quiero cambiarla por otra mejor. No, todavía no la estoy pagando.
+
+<soc>Asesor: ¿Cuánto debe?
+
+<soc>Cliente: Ahorita debo como unos 10,000 dólares.
+
+<soc>Asesor: Fíjese que en este caso no podríamos ayudarle. Tendría que deber menos o tener el título del vehículo para poder hacer el intercambio. Pero si quiere, le podríamos vender otro vehículo.
+
+<soc>Cliente: ¿Qué tipo de vehículos tienen ahorita? ¿Tienen trocas? Estoy buscando una troca.
+
+<soc>Asesor: Sí, le tengo Chevrolet Colorado, Ford F-150, Dodge Ram, Nissan Frontier y Toyota Tacoma. Los enganches empiezan desde 3,000 dólares.
+
+<soc>Cliente: 3,000 de enganche.
+
+<soc>Asesor: Puede venir sin ningún compromiso a ver el inventario. Nosotros hacemos financiamiento en casa y damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Solo necesita traer su identificación y un recibo de luz, y el recibo no tiene que estar a su nombre.
+
+<soc>Cliente: ¿Cuáles son las identificaciones que ocupan?
+
+<soc>Asesor: Puede ser cualquier identificación con foto, incluso de su país.
+
+<soc>Cliente: Tengo un ID y un recibo de Haití. También tengo el nombre y la cuenta de banco.
+
+<soc>Asesor: Ok, perfecto. ¿Entonces nos puede traer su identificación?
+
+<soc>Cliente: Estoy en el estado de Washington, ¿verdad?
+
+<soc>Asesor: Estamos en San Fernando, California. ¿Usted es de Washington?
+
+<soc>Cliente: Sí, estoy lejos del estado de Washington.
+
+<soc>Asesor: Ok, disculpe, creo que al momento de segmentar nos equivocamos en la dirección. Estamos en San Fernando, en otro estado.
+
+<soc>Cliente: Oh, ya. Bueno, muchísimas gracias por la llamada y por atenderme.
+
+<soc>Asesor: Gracias, que tenga un buen día.
+
+<soc>Cliente: Bye.

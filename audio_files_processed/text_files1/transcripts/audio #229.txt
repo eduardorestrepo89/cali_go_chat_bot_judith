@@ -1,0 +1,20 @@
+<soc>Asesor: Buenos días, ¿tengo el gusto con el caballero Pablo?
+<soc>Cliente: Así es, a la orden.
+<soc>Asesor: Le llamo del dealer de autos. ¿Tiene tiempo para atenderme una consulta? Estamos en San Fernando, California.
+<soc>Cliente: Sí.
+<soc>Asesor: Vi su mensaje. Por el momento no tenemos vehículos con cero enganche, pero tenemos opciones desde 1800 de enganche, del año 2018 en adelante. ¿Le parece bien o con cuánto enganche cuenta?
+<soc>Cliente: Oh, sí tengo. Lo que pasa es que... pero no importa.
+<soc>Asesor: Perfecto. Los requisitos que necesitamos son: identificación vigente, un comprobante de domicilio (cualquier tipo de bill, aunque no esté a su nombre) y un comprobante de ingreso. Si le pagan en efectivo y no puede comprobar ingresos, no hay problema.
+<soc>Cliente: Ok, sí tengo eso.
+<soc>Asesor: ¿Busca algún vehículo en especial, marca, año o modelo?
+<soc>Cliente: Sí, la marca Chevrolet.
+<soc>Asesor: Chevrolet Silverado. Las opciones están desde 3000 de enganche, del año 2018 en adelante. Le daríamos tres años de garantía en motor, transmisión y aire acondicionado. ¿Qué día podría venir a verlos personalmente?
+<soc>Cliente: Me gustaría ir ahora, solo dígame dónde están.
+<soc>Asesor: Le dejo la dirección por mensaje, estamos en el Valle de San Fernando.
+<soc>Cliente: Está bien.
+<soc>Asesor: Avíseme cuando esté en camino para estar pendiente.
+<soc>Cliente: Muchísimas gracias.
+<soc>Asesor: Gracias a usted. Que tenga un feliz día.
+<soc>Cliente: Hasta luego, igualmente.
+<soc>Asesor: Bye.
+<soc>Cliente: Bye.

@@ -1,0 +1,18 @@
+<soc>Asesor: Hola, buenos días. Mi nombre es Judith, ¿tengo el gusto con el caballero Joaquín?. Le llamo del dealer. Hemos estado intercambiando mensajes y quería darle más información sobre el financiamiento de vehículos. ¿Tiene tiempo para atenderme?
+<soc>Cliente: Tengo un momentito rápido, dígame.
+<soc>Asesor: Nosotros hacemos financiamiento en casa y ofrecemos hasta tres años de garantía en transmisión, aire acondicionado y motor. Los requisitos son: identificación vigente (de aquí o de su país), un bill (cualquier tipo) para confirmar dirección, y un comprobante de ingreso, como su último talón de cheque o una carta laboral.
+<soc>Cliente: Ok, ¿algo más?
+<soc>Asesor: ¿Contaría con los tres requisitos?
+<soc>Cliente: Tengo la ID, el número de seguro social, y permiso de trabajo. Pero ningún bill está a mi nombre porque mi teléfono está a nombre de mi hermana. Recibo cheques personalizados y tengo dos trabajos, uno en construcción y otro en una tienda. Puedo dar los números de mis jefes.
+<soc>Asesor: Los números de teléfono de su jefe servirían.
+<soc>Cliente: Estoy sin trabajo por enfermedad. No tengo para pagar el enganche.
+<soc>Asesor: Entiendo, pero necesitaríamos un enganche para ofrecerle un vehículo. Tenemos opciones del 2018 en adelante.
+<soc>Cliente: ¿Cuánto es el enganche?
+<soc>Asesor: Serían 2000 de enganche.
+<soc>Cliente: ¿Y las mensualidades?
+<soc>Asesor: Andan por los 500 al mes, pero necesitaríamos que viniera para llenar la aplicación y establecer un plazo de financiamiento. Puede venir sin compromiso aunque no tenga el enganche.
+<soc>Cliente: No puedo salir ahorita, tengo una semana más de reposo.
+<soc>Asesor: Está bien, le dejaré la dirección por mensaje y cuando esté listo, aquí estamos a la orden.
+<soc>Cliente: Gracias.
+<soc>Asesor: Bye.
+<soc>Cliente: Bye.

@@ -1,0 +1,25 @@
+Speaker A: Hola, buen día.
+Speaker B: Hola, buenos días.
+Speaker A: ¿Buen día caballero, le saludo de acá del dealer, cómo puedo ayudarle?
+Speaker B: Es que estaba preguntando sobre un carro.
+Speaker A: Ok, perfecto. ¿Busca alguna marca o modelo en especial?
+Speaker B: De un Chevy Malibú.
+Speaker A: Un Chevy Malibú, perfecto. ¿Aquí le tenemos del 2018 en adelante, desde los 2500 de enganche, no sé qué le parece, cuánto está el precio? Fíjense que todos nuestros vehículos ya financiados andan de los 20000 en adelante, no les sabría decir con exactitud en cuánto porque esa información no la manejo directamente yo. ¿Caballero, busca algún precio en especial?
+Speaker B: Sí, más o menos uno de 20000 para abajo.
+Speaker A: 20000, máximo 20000. Ok, yo creo que sí, acá le tenemos algunos. ¿Y sería su primera vez financiando? ¿Usted ya ha tenido algún crédito anteriormente?
+Speaker B: No, es la primera vez.
+Speaker A: Perfecto. Los requisitos que solicitamos principalmente sería una identificación vigente, puede ser de aquí o de su país, cuenta con una identificación también si tiene un comprobante de ingreso, no sé si posee algún talón de cheque o el número de su jefe.
+Speaker B: Sí, correcto.
+Speaker A: Ok, y este también ocuparía un Bill, cualquier tipo de Bill, si no está su nombre no hay problema.
+Speaker B: Si, de la cuenta de banco no sé si sirva.
+Speaker A: Ah, ok, perfecto. La cuenta de banco es excelente, de no ser a veces le sirvo como comprobante de ingreso.
+Speaker B: La verdad no sé, es que como apenas abrir la cuenta no tengo muchos ingresos.
+Speaker A: ¿Ok, ese no es ningún problema, el tiempo que usted tenga abierta la cuenta o la cantidad de ingresos que tenga, ese no es problema, solo es como un indicio, verdad? De que usted ya abrió su cuenta y de que está recibiendo ingresos.
+Speaker B: Ok, sí, de hecho si eso es lo que apenas abrí la cuenta hace como un mes, dos meses.
+Speaker A: Ok, perfecto. Con nosotros puede comenzar su crédito, nosotros si reportamos crédito y le tenemos varios vehículos que se adaptan a su presupuesto. ¿No sé qué día nos podría visitar personalmente?
+Speaker B: El día domingo si se puede.
+Speaker A: Perfecto, los domingos tenemos abierto desde las 10:00 a.m. hasta las 6:00 p.m. ¿Más o menos a qué hora?
+Speaker B: Como el mediodía.
+Speaker A: Okay, excellent domingo.
+Speaker B: Okay, muchas gracias.
+Speaker A: Gracias, feliz tarde. Bye.

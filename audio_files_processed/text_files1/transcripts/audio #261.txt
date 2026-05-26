@@ -1,0 +1,19 @@
+<soc>Asesor: Hola, buenas tardes caballero, le saludo desde el dealer de autos. Quería darle más información sobre cómo trabajamos. ¿Tiene tiempo para atender mi llamada?
+<soc>Cliente: Ah, sí, del dealer, por el vehículo que busco.
+<soc>Asesor: Correcto, quería brindarle más información. ¿Tiene un momento?
+<soc>Cliente: Sí, claro.
+<soc>Asesor: Perfecto, le comento que hacemos financiamiento en casa, sin intermediarios bancarios. Ofrecemos hasta tres años de garantía en motor, transmisión y aire acondicionado. Solo necesitamos tres documentos: una identificación vigente (de aquí o de su país), un comprobante de ingresos y un comprobante de domicilio. ¿Es su primera vez financiando? ¿Tiene algún crédito ya?
+<soc>Cliente: No, sería mi primera vez.
+<soc>Asesor: Entendido. ¿Está buscando algún tipo de vehículo en especial? ¿Carro, troca o SUV?
+<soc>Cliente: Estoy buscando un SUV.
+<soc>Asesor: Perfecto, tenemos varios SUV disponibles con un enganche desde $2,500. Marcas como Nissan, Toyota, Honda, Dodge, GMC, Mitsubishi.
+<soc>Cliente: ¿Me puede mandar un link para verlos?
+<soc>Asesor: Claro, con gusto le enviaré algunas fotos y nuestra dirección. Estamos en San Fernando, California. Abrimos de lunes a sábado de 10:00 a.m. a 8:00 p.m., y los domingos de 10:00 a.m. a 6:00 p.m. ¿Qué día podría visitarnos?
+<soc>Cliente: Creo que el sábado.
+<soc>Asesor: Sábado, perfecto.
+<soc>Asesor: Le enviaré las fotografías y la dirección para que nos visite. Nos vemos el sábado.
+<soc>Cliente: Perfecto, muchas gracias.
+<soc>Asesor: Gracias a usted. Que tenga un excelente día.
+<soc>Cliente: Igualmente, buen día.
+<soc>Asesor: Bye bye.
+

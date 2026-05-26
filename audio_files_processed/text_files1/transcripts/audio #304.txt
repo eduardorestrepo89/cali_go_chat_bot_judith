@@ -1,0 +1,56 @@
+<soc>Asesor: Hola, buen día. Tengo el gusto de saludarle. Estuvimos intercambiando mensajes y no sé si tiene tiempo de atenderme en este momento.
+
+<soc>Cliente: Sí, claro.
+
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa y damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar, necesitamos principalmente su identificación, puede ser de aquí o de su país, pero debe estar vigente. También ocupamos un comprobante de ingreso y un comprobante de domicilio. Al comprobante de domicilio no es necesario que sea a su nombre, solo necesitamos confirmar la dirección. Si no tiene cómo comprobar ingresos, no hay problema; solo traiga su identificación y la factura, y con eso le ayudamos.
+
+<soc>Cliente: Sí, porque yo gano en efectivo, me pagan en efectivo.
+
+<soc>Asesor: Ok, no hay problema. Entonces aquí nosotros le ayudamos. ¿Sería su primera vez financiando o ya tiene algún crédito?
+
+<soc>Cliente: No, no, es la primera vez.
+
+<soc>Asesor: Ok, ¿algún vehículo que busque en especial, marca, año, modelo?
+
+<soc>Cliente: Pues uno pequeño.
+
+<soc>Asesor:  Un sedán ocuparía mínimo unos 1800 de enganche, no sé si está bien para usted.
+
+<soc>Cliente: ¿1800?
+
+<soc>Asesor: Sí, eso sería lo que nosotros le estaríamos pidiendo como mínimo. Le tenemos varias opciones en carros, no sé qué día puede venir a verlos.
+
+<soc>Cliente: Exactamente, ¿dónde están ubicados?
+
+<soc>Asesor: En San Fernando, California. Le voy a dejar la dirección exacta por mensaje de texto.
+
+<soc>Cliente: Ok, estoy aquí en Midway.
+
+<soc>Asesor: No había escuchado de ese lugar. Estamos por el lado del valle, a la par de Los Ángeles.
+
+<soc>Cliente: Está retirado. De todos modos, mándenme la información y yo lo chequeo y me puedo comunicar con ustedes.
+
+<soc>Asesor: Ok, perfecto. Estamos abiertos de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m. y los domingos desde las 10:00 a.m. hasta las 6:00 p.m. No sé cuándo tendrá tiempo de visitarnos para estar pendientes.
+
+<soc>Cliente: Probablemente podría visitarlos el próximo fin de semana.
+
+<soc>Asesor: Perfecto. Entonces, ¿le gustaría que le reserve un espacio para el sábado?
+
+<soc>Cliente: Sí, eso estaría bien. ¿A qué hora?
+
+<soc>Asesor: Podemos programar una cita a las 10:00 a.m. ¿Le parece bien?
+
+<soc>Cliente: Sí, está bien para mí.
+
+<soc>Asesor: Excelente. Le enviaré un mensaje de confirmación con la dirección y los documentos que necesitará traer.
+
+<soc>Cliente: Perfecto, muchas gracias.
+
+<soc>Asesor: A usted. Si tiene alguna pregunta antes de su visita, no dude en comunicarse. Estaré aquí para ayudarle.
+
+<soc>Cliente: De acuerdo. Nos vemos el sábado entonces.
+
+<soc>Asesor: ¡Hasta luego! Que tenga un buen día.
+
+<soc>Cliente: Gracias, igualmente.
+

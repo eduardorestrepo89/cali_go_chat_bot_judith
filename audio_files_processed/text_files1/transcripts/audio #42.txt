@@ -1,0 +1,32 @@
+<soc>Asesor: Buen día, ¿cómo te va? Le saludo de acá del dealer, hemos estado intercambiando mensajes. ¿Tiene tiempo de atenderme?
+<soc>Cliente: Bueno.
+<soc>Asesor: Le comento que nosotros hacemos financiamiento en casa, damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros ocuparía solamente tres documentos, los cuales serían su identificación vigente, un comprobante de ingreso y un comprobante de domicilio. No sé si cuenta con los tres requisitos.
+<soc>Cliente: Si, pero no tengo comprobante de ingreso.
+<soc>Asesor: Tiene jefe o trabaja por su cuenta?
+<soc>Cliente: No, tengo jefe.
+<soc>Asesor: Ok, si tiene jefe nos puede traer el número de su jefe, ¿no sé qué le parece?
+<soc>Cliente: Ok, está bien, no hay problema.
+<soc>Asesor: Ok, nos trae el número de su jefe, su identificación, la cual puede ser de su país, pero tiene que estar vigente y el bill, puede ser cualquier tipo de bill donde aparezca su dirección, si no está su nombre no hay problema.
+<soc>Cliente: ¿Ok, y aparte de eso, qué más sería, el down payment?
+<soc>Asesor: ¿Usted busca algún vehículo en especial?
+<soc>Cliente: Yo ahorita quiero un carro económico, no que sea el del año, sino uno económico que pueda transportarme al trabajo nada más.
+<soc>Asesor: Ok, perfecto, aquí le tengo carro sedán y ¿sería su primera vez financiando? ¿Usted ya ha tenido crédito?
+<soc>Cliente: No, primera vez.
+<soc>Asesor: ¿Perfecto, acá le puedo ofrecer varios vehículos, fíjese que el mínimo año que le tengo es el 2018, pero le podemos ayudar desde los 1800 de enganche, no sé qué le parece?
+<soc>Cliente: No, pero ahorita solo tengo 1000.
+<soc>Asesor: Ok, con 1000 trabajaríamos también, solo es cuestión que nos visite para ver qué soluciones nosotros le damos. ¿No sé, qué día nos podría visitar para estar pendiente de su llegada?
+<soc>Cliente: Pues realmente sería este fin de semana porque trabajo y realmente me queda bastante retirado según la dirección que me mandó usted.
+<soc>Asesor: Sí, esa es la dirección, ahí estamos ubicados, el sábado abrimos desde las 10:00 a.m. hasta las 8:00 p.m. y domingo desde las 10:00 a.m. hasta las 6:00 p.m.
+<soc>Cliente: Sí, realmente sería mejor domingo porque como le digo me queda bastante retirado y como ahorita no tengo vehículo, si me quedaría bastante retirado.
+<soc>Asesor: Ok, perfecto, entonces acá nos vemos el día domingo.
+<soc>Cliente: Ok, una consulta, ¿qué tan seguro es el crédito? Porque le soy sincero, yo ya he intentado en otras partes y realmente me dicen que sí por teléfono y ya cuando llego me dicen que no, que no aplico y todo eso.
+<soc>Asesor: Si estaría calificando, eso no es ningún inconveniente dado que es su primer crédito y tiene los requisitos, ¿verdad? Ahorita la cuestión sería el enganche, probablemente se califique para un down payment diferido, es decir, deja lo que tiene, se lleva el vehículo y le damos cierto tiempo para que traiga el resto. Pero eso es bajo aplicación también. Usted deja apartado el vehículo que le gusta y pues después regresa con el resto del dinero. Esas son opciones que le podríamos dar, pero de que usted califica, califica. Ese no es problema. Definitivamente nosotros le ofrecemos un financiamiento en casa, no hay bancos de intermedio. Entonces por eso es que no somos tan quisquillosos con lo que es los requisitos ni el financiamiento. Aquí calificamos cualquier tipo de crédito.
+<soc>Cliente: Ok, sí, porque como les soy sincero, yo ya intenté en otros lados y como le digo, me dicen que sí, pero a la hora que yo llego ya me ponen mucho obstáculo, por decirlo así, ya que me dicen que no por una cosa, ya que me dicen no por otra cosa. Y como le digo, mucho obstáculo, por eso le pido que sea sincera, a ver qué tan favorable es, porque si a la hora que yo llegue me comienzan a poner obstáculos, prácticamente perdería mi tiempo y le haría perder tiempo a la persona que me atienda también.
+<soc>Asesor: Ok, por eso le comenté anteriormente lo del down payment diferido y lo del depósito. Nosotros ahorita los vehículos que tenemos, no le puedo ofrecer un año menor porque no tenemos menos de 2018.
+<soc>Cliente: Sí, sí, sí, sí, eso lo entiendo, pero pongamos el ejemplo, si usted me dicen que sería de 1800 lo menos, ¿cuánto sería?
+<soc>Asesor: Ejemplo, hay algo que se llama down payment diferido. En el down payment diferido nosotros le pedimos al cliente el 80 % del enganche y el mismo día le entregamos el vehículo y le damos hasta dos semanas para que traiga el resto del enganche. No sé si me explico con eso. Esa es la facilidad que nosotros le damos.
+<soc>Cliente: Sí, sí, en pocas palabras, si son 1800, yo entrego los 1000 y tengo prácticamente dos semanas para entregar los otros 800.
+<soc>Asesor: Prácticamente. Fíjense que con unos 800 sí, no sé si podría juntar mínimo unos 1300 de enganche.
+<soc>Cliente: ¿1300 de enganche viene siendo el 80?
+<soc>Asesor: % de 1300 a 1400 viene siendo lo que es el 80 % de 1800 nosotros trabajamos bajo porcentaje, verdad? Como le mencioné, si califica bajo esa modalidad, sería el 80 % del enganche el día que se lleve el vehículo y el 20 % en dos semanas.
+<soc>Cliente: Ok, me parece.

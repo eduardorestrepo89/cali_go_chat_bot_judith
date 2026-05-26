@@ -1,0 +1,31 @@
+<soc>Asesor: Aló, buen día, caballero. Le saludo.
+
+<soc>Cliente: ¿Hola, cómo estás? Es que estoy interesado en un carrito.
+
+<soc>Asesor: Ok, perfecto.  ¿Busca algún vehículo en especial, como marca, año o modelo?
+
+<soc>Cliente: Pues estoy buscando un carrito bueno, barato, bonito y económico. ¿Qué me recomendaría?
+
+<soc>Asesor: Ok, ahorita le tengo carros sedán del año 2018 en adelante, desde $1,800 de enganche. ¿No sé qué le parece?
+
+<soc>Cliente: Yo estoy en Riverside. ¿Cómo hacemos para verlo?
+
+<soc>Asesor: Estamos en San Fernando, California. Si quiere, le dejo nuestra dirección.
+
+<soc>Cliente: San Fernando es muy Lejos de Riverside. 
+
+<soc>Asesor: Estamos como a una hora, aproximadamente hora y media.
+
+<soc>Cliente: ¿Me puede regalar la dirección? A ver si alcanzo a ir y me regalan por quien llegó preguntando.
+
+<soc>Asesor: Ok, perfecto. También le comento que los requisitos que tiene que presentar son principalmente su identificación y el enganche, que son $1,800.
+
+<soc>Cliente: Listo, ok, tranquila.
+
+<soc>Asesor: ¿Y qué día podría visitar para estar pendiente?
+
+<soc>Cliente: Voy a tratar de ir hoy, si no, mañana.
+
+<soc>Asesor: Ok, excelente. Le dejé la dirección por un mensajito de texto para que la chequee.
+
+<soc>Cliente: Ok, bueno, gracias.

@@ -1,0 +1,21 @@
+<soc>Cliente: Hola, ¿me escuchas?
+<soc>Asesor: Sí, le escucho perfectamente.
+<soc>Asesor: Le saludo del concesionario. Quería darle más información sobre cómo trabajamos en el financiamiento de vehículos. ¿Tiene tiempo para atender mi llamada?
+<soc>Cliente: Sí, claro.
+<soc>Asesor: Le comento que nosotros hacemos financiamiento directo. Ofrecemos hasta tres años de garantía en el motor, transmisión y aire acondicionado.
+<soc>Cliente: Perfecto. 
+<soc>Asesor: Para precalificar con nosotros, necesita una identificación, que puede ser de aquí o de su país, pero debe estar vigente. También requerimos un recibo, cualquier tipo de factura. Si no está a su nombre, no hay problema, solo es para confirmar su dirección.
+<soc>Cliente: Tengo todos los requisitos, así que no hay inconveniente.
+<soc>Asesor: Excelente. ¿Sería su primer crédito?
+<soc>Cliente: Sí, busco algo asequible.
+<soc>Asesor: ¿Con cuánto de enganche cuenta?
+<soc>Cliente: No estoy seguro. ¿Cuánto piden ustedes?
+<soc>Asesor: Mínimo andamos pidiendo $1800 de enganche. Los vehículos que tenemos son del año 2019 en adelante. ¿Qué le parece?
+<soc>Cliente: Suena bien. 
+<soc>Asesor: ¿Qué día podría venir a visitarnos?. Puede venir sin ningún compromiso a ver el inventario y ver qué le parece lo que ofrecemos.
+<soc>Cliente: Estoy disponible la próxima semana. ¿Hasta qué hora están abiertos?
+<soc>Asesor: Abrimos hasta las 8:00 p.m. de lunes a sábado y hasta las 6:00 p.m. los domingos.
+<soc>Cliente: Perfecto, entonces planeo visitarlos la próxima semana.
+<soc>Asesor: Ok, le dejaré nuestra dirección y nos vemos la próxima semana.
+<soc>Cliente: Que tenga un buen fin de semana.
+<soc>Asesor: Igualmente, ¡Hasta luego!

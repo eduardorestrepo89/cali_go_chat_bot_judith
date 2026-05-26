@@ -1,0 +1,19 @@
+<soc>Asesor: Hola, buenas tardes, Mi nombre es Judith. Estuvimos intercambiando unos mensajitos y le saludo de acá del dealer por el vehículo que busca.
+
+<soc>Cliente: Oye, cuénteme.
+
+<soc>Asesor: Bueno, le quería comentar que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros estaríamos solicitando tres documentos: su identificación vigente, que puede ser de aquí o de su país; un comprobante de domicilio, y si no está a su nombre, no hay problema; y un comprobante de ingresos. Pero si le pagan en efectivo y no tiene cómo comprobar ingresos, igual lo solucionamos, no hay problema. ¿Busca algún vehículo en especial? ¿Carro, troca o SUV?
+
+<soc>Cliente: No, fíjese que busco un carro, pero realmente no quiero elevar mi presupuesto. Yo tengo entendido que también hay usados, y no quisiera pasar de los $400 al mes.
+
+<soc>Asesor: Perfecto, voy a verificar. Nosotros tenemos vehículos del año 2018 en adelante, ¿verdad?
+
+<soc>Cliente: Sí, pero entonces no creo que hayan de ese precio.
+
+<soc>Asesor: A veces sí nos vienen vehículos con esos pagos, pero también depende mucho del enganche. Si usted deja un enganche alto, se le pueden acomodar los pagos igual. Puede venir sin ningún compromiso a checar los vehículos, a cuánto le quedarían los pagos mensuales, los precios totales, lo que usted necesite.
+
+<soc>Cliente: Lo voy a pensar y cualquier cosa yo me comunico con ustedes.
+
+<soc>Asesor: Ok, ahí le dejo la dirección. Estamos en contacto, que tenga un buen día.
+
+<soc>Cliente: Gracias, igualmente, bendiciones.

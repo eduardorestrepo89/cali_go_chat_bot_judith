@@ -1,0 +1,41 @@
+<soc>Asesor: Aló, hola, buenas tardes, caballero. Les saludo de acá del dealer de autos. Disculpe, estaba en otra llamada, por eso no pude atender su llamada. ¿Tiene tiempo para darle un poco más de información sobre cómo trabajamos?
+
+<soc>Cliente: La verdad, sí. Estoy interesado porque ya logré juntar algo para el enganche. Quería ver cuánto era, que son mil dólares, y qué posibilidades tengo, ya que sería mi primer crédito y recibo en efectivo.
+
+<soc>Asesor: Perfecto, solo tráigame su identificación y yo le ayudo. Si tiene un recibo, cualquier tipo de factura que confirme su dirección, aunque no esté a su nombre, también serviría.
+
+<soc>Cliente: Ok, solamente con eso. Pero les soy sincero, ya fui a dos lugares y me dicen que el banco no lo aprueba porque no tengo crédito. Se ocupa que alguien me avale. Entonces, imagínese, eso también genera gastos y tiempo.
+
+<soc>Asesor: No se preocupe. Nosotros no trabajamos con banco, por eso no somos tan estrictos con los requisitos. Solo con la identificación y el recibo, yo le puedo ayudar. No necesita traer comprobante de ingresos. Si lo deja en el sistema, le aseguro que le vamos a ayudar.
+
+<soc>Cliente: No quiero un carro caro, ¿verdad? Solo busco algo más o menos. Lo que tengo son 800 de enganche, ¿cómo lo manejan?
+
+<soc>Asesor: Con un enganche tan bajo no lo voy a hacer venir. Para que le podamos ayudar, necesita un mínimo de 1800 de enganche.
+
+<soc>Asesor: Nuestros vehículos son del año 2018 al 2023, todos con título limpio. Damos tres años de garantía en motor, transmisión y aire acondicionado. Si trae su identificación, el recibo y 1800 de enganche, le aseguro que el día que nos visite, ese día le damos el vehículo. En cuestión de 1 hora aproximadamente, hacemos el proceso, usted maneja el vehículo y si todo le cuadra, firmamos contrato.
+
+<soc>Asesor: El mismo día le entregamos el vehículo.
+
+<soc>Cliente: ¿Y cómo trabajan los intereses?
+
+<soc>Asesor: De acuerdo con el perfil del cliente. En su caso, como es su primer crédito, trataríamos de trabajar con el mínimo interés que manejamos, que es del 7%. Pero eso tendríamos que verlo el día que usted nos visite, ya con los requisitos en mano.
+
+<soc>Cliente: ¿Y con $1000?
+
+<soc>Asesor: No, tampoco. Los vehículos que tenemos no son tan antiguos, la mayoría son recientes. Necesitamos un mínimo de 1800 de enganche. Si llega a venir alguno que cueste menos, le notificaré.
+
+<soc>Cliente: ¿No podría hablar con el gerente?
+
+<soc>Asesor: Los enganches son fijos de acuerdo a los vehículos. ¿Podrían dar máximo 1000 de enganche?
+
+<soc>Cliente: Sí, ya los tengo. Si yo me voy ahorita, llegaría en la tarde. Me interesa mucho por mi trabajo.
+
+<soc>Asesor: Podemos trabajar un enganche diferido, pero necesitaría siempre un poco más de 1000. Voy a hablar con mi gerente a ver qué me dice y le confirmo.
+
+<soc>Cliente: ¿Cuánto tiempo me estaría confirmando?
+
+<soc>Asesor: Unos 20 minutos.
+
+<soc>Cliente: Ok, gracias.
+
+<soc>Asesor: Bueno, gracias.

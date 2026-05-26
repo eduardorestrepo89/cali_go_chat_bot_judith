@@ -1,0 +1,31 @@
+<soc>Asesor: Buenas tardes, ¿tengo el gusto con Faciel?  Le saludo del dealer. Hemos estado intercambiando algunos mensajes. ¿Tiene tiempo de atender mi llamada?
+<soc>Cliente: Hola, buenas tardes.
+<soc>Asesor: Le quería dar más información sobre el financiamiento. Hacemos financiamiento en casa y ofrecemos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar, solo necesita tres documentos: identificación vigente, comprobante de domicilio y comprobante de ingresos. Si le pagan en efectivo y no tiene cómo comprobar ingresos, de igual forma le ayudamos.
+<soc>Asesor: ¿Está buscando algún vehículo en especial?
+<soc>Cliente: Busco uno que me lleve al trabajo y a casa.
+<soc>Asesor: Para un sedán, necesitaría mínimo $1800 de enganche. Por ejemplo, un Hyundai Elantra o Sonata desde $1800.
+<soc>Cliente: Solo menor enganche.
+<soc>Asesor: ¿Con cuánto de enganche cuenta?
+<soc>Cliente: Tengo $1000.
+<soc>Asesor: Podemos ayudar con un depósito adicional y apartar el vehículo. Otra opción es el pago diferido, dejando el 80% del enganche y el resto en dos semanas. Tenemos seminuevos del 2018 en adelante, con menos de 10,000 millas. ¿Le parece si nos visita con los $1000?
+<soc>Cliente: ¿Puede ser un recibo de Spectrum? Y si no tengo talonario de trabajo, ¿cómo compruebo que me están pagando?
+<soc>Asesor: En ese caso, asumimos que le pagan en efectivo. ¿Tiene jefe o trabaja por su cuenta?
+<soc>Cliente: Tengo un jefe.
+<soc>Asesor: Puede traer una carta laboral o el número de contacto de su jefe.
+<soc>Cliente: Con eso está bien.
+<soc>Asesor: El número de contacto de su jefe sería suficiente. ¿Qué día podría visitarnos?
+<soc>Cliente: Déjame reunir los otros $800 para completar el enganche. No quiero que me pidan fiador.
+<soc>Asesor: Si trae los $1800, es más seguro que le demos el vehículo el mismo día.
+<soc>Cliente: ¿Cuánto tiempo tengo para dar la primera cuota?
+<soc>Asesor: La primera cuota se paga un mes después de la compra.
+<soc>Cliente: ¿Y en cuanto a las placas y el seguro?
+<soc>Asesor: Nosotros le ayudamos con esos trámites y ofrecemos un seguro temporal de tres meses, que cuesta aproximadamente $60 al mes. Después de esos tres meses, deberá buscar su propio seguro.
+<soc>Cliente: Entiendo, un amigo necesitaba un fiador y le dieron dos meses para pagar la primera cuota.
+<soc>Asesor: Con nosotros es un mes, pero dependiendo de la situación, se podría negociar.
+<soc>Cliente: Reuniré todo y traeré los documentos en la última semana del mes.
+<soc>Asesor: Excelente, le enviaré la dirección y estamos en contacto.
+<soc>Cliente: Sí, por favor, mándemela por WhatsApp.
+<soc>Asesor: Ok, le envío la dirección por mensaje de WhatsApp.
+<soc>Cliente: Muchas gracias.
+<soc>Asesor: Gracias a usted. Que tenga una feliz tarde.
+<soc>Cliente: Ok, gracias.

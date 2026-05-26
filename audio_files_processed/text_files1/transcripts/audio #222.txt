@@ -1,0 +1,17 @@
+<soc>Asesor: Hola, buen día, ¿con el caballero Espinosa?.
+
+<soc>Cliente: Sí, señor.
+
+<soc>Asesor: Disculpe la molestia, le saludo del dealer. Estamos abiertos de 10:00 a.m. a 6:00 p.m. ¿A qué hora piensa venir?
+
+<soc>Cliente: Pienso estar ahí entre 10:30 y 11:00.
+
+<soc>Asesor: Perfecto, lo espero.
+
+<soc>Cliente: Creo que me mandó la dirección.
+
+<soc>Asesor: Sí, se la enviaré nuevamente por mensaje.
+
+<soc>Cliente: Ok, gracias.
+
+<soc>Asesor: ¡De nada!

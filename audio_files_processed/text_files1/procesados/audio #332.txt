@@ -1,0 +1,29 @@
+Speaker A: ¿Hola, por qué le saluda el dealer de autos?
+Speaker B: Díganme.
+Speaker A: Sí, tenía una llamada perdida de su número, quería darle más información de cómo trabajamos. No sé si tiene tiempo de atenderme.
+Speaker B: ¿De trabajo en de qué?
+Speaker A: El dealer de autos.
+Speaker B: Caballero, yo pensé que me querían dar trabajo.
+Speaker A: No sé si está interesado en un vehículo.
+Speaker B: Sí, estoy interesado en un vehículo, pero ajá, cuénteme.
+Speaker A: Ok, le comento que nosotros hacemos financiamiento en casa. Vamos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros estaría ocupando tres documentos, los cuales serían su identificación vigente, un comprobante de domicilio, 1 comprobante de trabajo. ¿Ok, sería su primera vez financiando? ¿Usted ya tenía algún crédito?
+Speaker B: No, ahorita no tengo crédito.
+Speaker A: ¿Algún vehículo en especial que se busque? ¿Marca, año o modelo? ¿Ford F 150. Ford F 150?
+Speaker B: No, 250.
+Speaker A: Fíjense que 250 no tenemos en inventario, solo le manejo lo que es trocas. 1502, 1500 no nos vienen.
+Speaker B: ¿Me puedes mandar fotos de las trocas que tienen?
+Speaker A: Claro, yo con uso le mando fotos y si le gusta alguna, no sé qué día nos podría visitar, me manda la dirección también ahí se lo dejo por un mensajito de texto.
+Speaker B: ¿Cuál es tu nombre?
+Speaker A: Mi nombre es Judith.
+Speaker B: Judith, ok, Judith.
+Speaker A: Bueno, estamos a la orden.
+Speaker B: Mándame entonces las fotos que tengas ahí de las trocas.
+Speaker A: Yo con gusto se las dejo.
+Speaker B: ¿So usted no refinancia con los bancos?
+Speaker A: No, nosotros hacemos financiamiento en casa. No hay banco de intermedio. ¿Y si tiene algún vehículo que quiera dejar de intercambio, ya tiene que tenerlo pagado?
+Speaker B: Sí, no, no, no, no tengo vehículo.
+Speaker A: Ok, nosotros hacemos financiamiento en casa, pero también reportamos crédito por si no tiene lo comience.
+Speaker B: Correcto. Bueno, igual me mandas las fotos.
+Speaker A: Sí, sí, ahí se las dejo.
+Speaker B: Va. Muchísimas gracias, Judy.
+Speaker A: Bueno, gracias a ustedes. Bye.

@@ -1,0 +1,39 @@
+<soc>Asesor: Hola, muy buenos días. Seguimos con el caballero Lázaro. Le saludo de acá del dealer. Hace unos días se comunicó con nosotros porque estaba interesado en un vehículo.
+
+<soc>Cliente: ¿De cuál dealer me están hablando?
+
+<soc>Asesor: Estamos aquí en el valle de San Fernando. Le había dejado algunas fotografías y nuestra dirección.
+
+<soc>Cliente: Una pregunta. ¿Cuánto de down payment tengo que tener para poder ir allá con ustedes? Tengo trabajo, mis 40 horas, y tengo mi licencia de manejo.
+
+<soc>Asesor: ¿Está buscando algún carro en específico?
+
+<soc>Cliente: La verdad, estoy buscando un Jeep Grand Cherokee.
+
+<soc>Asesor: ¿Sería su primera vez financiando? ¿Ya ha tenido crédito?
+
+<soc>Cliente: Sí, mi crédito está alrededor de 529 o 550.
+
+<soc>Asesor: Fíjese que le estaríamos solicitando un enganche mínimo de 2500 dólares para un Jeep Grand Cherokee del año 2018 en adelante. ¿Le parece bien?
+
+<soc>Cliente: Estoy buscando un modelo 2022 o 2023.
+
+<soc>Asesor: Perfecto. Tenemos de esos años, pero el enganche mínimo sería de 2500 a 3000 dólares, dependiendo del vehículo que le guste.
+
+<soc>Cliente: Ok, está bien.
+
+<soc>Asesor: ¿Qué día podría venir a verlos personalmente? De lunes a sábado estamos abiertos desde las 10:00 a.m. hasta las 8:00 p.m., y los domingos desde las 10:00 a.m. hasta las 6:00 p.m.
+
+<soc>Cliente: ¿Me podría mandar unas fotos del Grand Cherokee para ver cuál me gusta y poder ir el sábado?
+
+<soc>Asesor: Claro, le voy a enviar fotografías.
+
+<soc>Cliente: Excelente, así podré decidir cuál me interesa para el sábado.
+
+<soc>Asesor: Le dejaré las fotografías para que las revise.
+
+<soc>Cliente: Ok, está bien. Gracias, que tenga buen día y gracias por llamar.
+
+<soc>Asesor: Gracias, muy amable. Que tenga un buen día.
+
+<soc>Cliente: Igualmente, bye.

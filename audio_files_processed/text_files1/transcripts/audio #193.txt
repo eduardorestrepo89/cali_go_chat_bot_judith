@@ -1,0 +1,13 @@
+<soc>Asesor: Hola, buen día, le saluda del dealer de autos. No sé si tiene tiempo de atender mi llamada.
+<soc>Cliente: Ok, cuenteme
+<soc>Asesor:le comento que nosotros hacemos financiamiento en casa, damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros le estaríamos solicitando tres documentos: una identificación vigente, un comprobante de ingresos y un comprobante de domicilio. ¿Sería su primera vez financiando? ¿Usted ha tenido algún crédito?
+<soc>Asesor: No, no he tenido nada.
+<soc>Cliente: ¿Algún vehículo en especial que busque, marca, año o modelo?
+<soc>Asesor: Mire, la verdad yo busco una Chevrolet Silverado o una Toyota Tacoma, pero no nueva, de un año como del 2015 al 2018.
+<soc>Cliente: Ok, perfecto, aquí le tengo Silverado y también le tengo Tacomas, mínimo año 2018. Le puedo ofrecer desde los 3000 de enganche.
+<soc>Asesor: ¿Eso es lo que yo quería saber, cuánto es el enganche de una troca?
+<soc>Cliente: Sí, mínimo 3000. En su caso, que es el primer crédito, ocuparía traer 3000 de enganche para que se la pueda llevar el mismo día que nos visite. Si todo le aparece bien, el mismo día entregamos la Tacoma. No sé qué día puede venir a verlo.
+<soc>Asesor: Mire, la verdad ahorita no cuento con todo completo con el dinero, por eso, eso es lo que yo quería saber para ya, por ejemplo, ya cuando el día que yo ya lo tenga, pues poderlos visitar.
+<soc>Asesor: ¿Ok, más o menos dentro de cuánto sería para estar pendiente?
+<soc>Cliente: Como un mes.
+<soc>Asesor: Ok, perfecto, entonces ahí lo voy a dejar. Nuestra dirección y aquí cuando usted ya esté listo me puede dejar un mensajito o llamar para estar pendiente. Le agradezco mucho, gracias.

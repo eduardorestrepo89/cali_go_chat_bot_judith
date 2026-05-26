@@ -1,0 +1,44 @@
+<soc>Asesor: Hola, buen día, ¿tengo el gusto con Dani?  
+<soc>Cliente: Sí.
+<soc>Asesor: Le saludo de acá del dealer de autos, no sé si tiene tiempo de atender mi llamada.  
+<soc>Cliente: ¿Cómo, cómo dijo?  
+<soc>Asesor: Disculpe, le saludo del dealer de autos por el vehículo que busca, quería darle más información de cómo trabajamos, no sé si puede atender mi llamada.  
+<soc>Cliente: Sí, sí, digo, escucho.  
+<soc>Asesor: Ok, bueno, le comento que nosotros hacemos financiamiento en casa, damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros le estaríamos solicitando solamente tres documentos, los cuales serían su identificación, puede ser de aquí o de su país, pero vigente. Claro, también ocupa un bill, cualquier tipo de bill. Si no está su nombre, no hay problema, solo para confirmar dirección y un comprobante de ingresos. 
+<soc>Cliente: Vale, pero no tengo cómo comprobar ingresos. 
+<soc>Asesor: Ok, en ese caso si no tiene cómo comprobar ingresos, tampoco hay problema, de acuerdo a la información que nos brinde.   
+<soc>Cliente: Claro, yo tengo mi cuenta de banco, ahí están los ingresos que entran, ¿no?  
+<soc>Asesor: Ah, ok, excelente. Entonces un estado de cuenta le funciona perfectamente y ¿busca algún vehículo en especial?.
+<soc>Cliente: ¿Qué vehículos tiene para ver?  
+<soc>Asesor: Carros, trocas y SUV del año 2018 en adelante.  
+<soc>Cliente: ¿Pero camionetitas?  
+<soc>Asesor: Sí, camionetas familiares o pickup.  
+<soc>Cliente: ¿De cinco pasajeros tiene? 
+<soc>Asesor: De cinco pasajeros le tengo varias, desde los 2300 de enganche, le tengo en la marca Nissan, en la marca Toyota, le tengo en la marca Mitsubishi, Kia, Ford, no sé qué día puede venir personalmente a verlas.    
+<soc>Cliente: Ya dígame. ¿Dónde están ubicados más o menos?  
+<soc>Asesor: Estamos acá en el valle de San Fernando. Le voy a dejar la dirección por un mensajito de texto para que se cheque ahí la distancia.  
+<soc>Cliente: Claro, porque mira, yo estoy ahorita en ¿Cómo se llama? En la Quinta, California. En la Quinta por India y yo quería saber más o menos la distancia.  
+<soc>Asesor: Ok, le voy a dejar entonces la dirección. No sé exactamente a qué distancia estamos, pero le voy a compartir la dirección para que usted cheque a ver cuándo nos podría visitar. Tenemos abierto de lunes a sábado hasta las 8:00 p.m. y domingos hasta las 6:00 p.m.  
+<soc>Cliente: Ok, mire, yo soy de New Jersey, pero como mi trabajo se mueve de aquí para allá, estamos en California acá cuatro meses y luego a Texas, me entiendes?  
+<soc>Asesor: Ok, en ese caso lo que nosotros solicitamos es que traiga un bill de California para que le podamos ayudar, sin importar que usted cada cierto tiempo se esté moviendo. Los pagos después como se hacen en línea, pues no hay ningún inconveniente con eso. 
+<soc>Cliente: ¿Un bill, como un bill, un recibo de luz, algo?  
+<soc>Asesor: Sí, puede ser un recibo de agua, de luz, de teléfono. Si no está a su nombre, no hay problema.
+<soc>Cliente: Lo que pasa es que como nosotros viajamos, yo soy de New Jersey y la empresa nos brinda el departamento, ¿me entiendes? Yo no puedo tener un bill de la casa porque nunca es algo fijo.  
+<soc>Asesor: ¿Pero no le llega ningún tipo de bill, sin importar qué bill sea?  
+<soc>Cliente: No, lo que pasa es que llega, pero yo creo que llega al correo de la dueña en la casa.  
+<soc>Asesor: Tendría que conseguir un bill de California 
+<soc>Cliente: ¿Cómo?  
+<soc>Asesor: Si, tendría que conseguir un bill de California. Ese es un requisito indispensable.  
+<soc>Cliente: ¿Cualquier bill de cualquier casa?  
+<soc>Asesor: Bill, no importa de qué dirección.  
+<soc>Cliente: Puede ser de algún amigo. ¿Lo que queremos es una dirección para que quede en la aplicación, verdad?  
+<soc>Asesor: Sí, así es.   
+<soc>Cliente: Ok, y mire, y cómo hago si yo regreso para Jersey, ¿las cuotas las pago con mi tarjeta?  
+<soc>Asesor: Claro que sí, las cuotas las puedes pagar en línea. ¿Y sería su primera vez financiando o ya tenía algún crédito?  
+<soc>Cliente: No, primera vez. 
+<soc>Asesor: Ok, bueno, en ese caso, si no tiene crédito, no hay problema, solo se trae la identificación, el bill y lo que son los estados de cuenta. Con eso es suficiente, no ocupa ningún otro requisito.  
+<soc>Cliente: Ok, entonces mándeme la dirección.  
+<soc>Asesor: Claro que sí, se la enviaré por mensaje de texto. ¿Qué día pasará por el concesionario para estar pendiente?
+<soc>Cliente: El miércoles.
+<soc>Asesor: Perfecto, lo esperamos. Mil gracias.
+<soc>Cliente: Gracias a ustedes. Bye.

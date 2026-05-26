@@ -1,0 +1,69 @@
+<soc>Asesor: Hola, buenas.
+
+<soc>Cliente: Aló, buenas tardes.
+
+<soc>Asesor: Buenas tardes. ¿Con el caballero Mateo, verdad?
+
+<soc>Cliente: Sí, soy yo.
+
+<soc>Asesor: Le llamé anteriormente porque quería darle un poco más de información sobre cómo trabajamos. No sé si tiene tiempo para atenderme ahora.
+
+<soc>Cliente: Sí, ahorita puedo. Salí del trabajo y no pude contestar antes.
+
+<soc>Asesor: Perfecto. Le comento que nosotros ofrecemos financiamiento en casa y damos hasta tres años de garantía en el motor, transmisión y aire acondicionado. Para calificar con nosotros, necesitamos una identificación vigente, que puede ser de aquí o de su país.
+
+<soc>Cliente: Yo soy guatemalteca. Solo tengo mi ID de Guatemala, pero sí está vigente. Vence hasta el 2028.
+
+<soc>Asesor: ¡Perfecto! Entonces eso está bien. ¿Tiene algún recibo de servicios donde viva, aunque no esté a su nombre, solo para confirmar la dirección?
+
+<soc>Cliente: Sí, tengo uno. Trabajo en dos McDonald's.
+
+<soc>Asesor: No hay inconveniente con eso. Puede presentar su último talón de cheque, y eso sirve como comprobante.
+
+<soc>Cliente: Tengo los talones de cheque, pero uno está a nombre de otra persona. Estoy trabajando en dos McDonald's, pero los mismos dueños. En uno tengo mi nombre y en el otro el de otra persona.
+
+<soc>Asesor: Entiendo, entonces puede traer los talones y el de su ID. Ahora, ¿qué tipo de vehículo está buscando? ¿Un Yaris?
+
+<soc>Cliente: Sí, quiero algo que no sea lujoso, solo para trabajar. Busco un Toyota, quizás un modelo 2012 o 2013.
+
+<soc>Asesor: En este momento, tengo Toyota, Honda, Nissan, Kia, Mazda, Ford y Hyundai. Todos los vehículos son del año 2018 en adelante, y necesitaría un enganche mínimo de $1800. Si está interesado en un vehículo más reciente, con gusto le ayudamos.
+
+<soc>Cliente: ¿Hasta qué modelo de Toyota tienen?
+
+<soc>Asesor: Solo tengo Camry y Corolla, y son del año 2018.
+
+<soc>Cliente: ¿Cuánto cuesta el Corolla?
+
+<soc>Asesor: Nuestros vehículos financiados comienzan en más de $20,000. Tendríamos que ver el que le interesa, llenar la aplicación y negociar el plazo del financiamiento para establecer el precio total.
+
+<soc>Cliente: ¿Más de $20,000?
+
+<soc>Asesor: Sí. Puede venir sin compromiso; estamos abiertos de lunes a sábado hasta las 8:00 p.m. y los domingos hasta las 6:00 p.m.
+
+<soc>Cliente: ¿Sólo tienen modelos del 2018?
+
+<soc>Asesor: Sí, por ahora. Es raro que tengamos vehículos del 2017.
+
+<soc>Cliente: Solo me interesa el Corolla, entonces. ¿Me podría decir más o menos cuánto tendría que pagar mensualmente?
+
+<soc>Asesor: Los pagos mínimos están entre $450 y $500, dependiendo del vehículo.
+
+<soc>Cliente: ¿Y a cuántos pagos?
+
+<soc>Asesor: Financiamos hasta cinco años y mínimo seis meses. El plazo se puede negociar según el vehículo y su situación.
+
+<soc>Cliente: Bueno, creo que voy a juntar el dinero y nos comunicamos en un mes.
+
+<soc>Asesor: Excelente. Le dejo mi contacto y nuestra dirección. Cualquier cosa, estoy a su disposición.
+
+<soc>Cliente: Solo que vivo en Dallas.
+
+<soc>Asesor: ¿En Dallas, Texas?
+
+<soc>Cliente: Sí. ¿No tienen agencia aquí?
+
+<soc>Asesor: Lamentablemente, solo estamos en California. Entiendo que está lejos. Mis disculpas por eso.
+
+<soc>Cliente: Sí, es una lástima.
+
+<soc>Asesor: Gracias por su tiempo. Que tenga un excelente día. 

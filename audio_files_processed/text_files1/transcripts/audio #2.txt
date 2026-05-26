@@ -1,0 +1,12 @@
+<soc>Asesor: Buenas tardes tengo el gusto con el caballero Daniel. Mi nombre es Judith, le saludo del dealer de autos. Quería saber si sigue interesado en comprar vehículos.
+<soc>Cliente: ¿Ah, cómo estás? Sí, señora.
+<soc>Asesor: Perfecto. No sé qué día nos podría visitar, estamos acá en San Fernando, California. Le voy a dejar la dirección por un mensajito de texto.
+<soc>Cliente: ¿Me puede enviar la dirección?
+<soc>Asesor: Sí, le envío la dirección por mensajito. En este momento nosotros tenemos abierto de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m. y domingo desde las 10:00 a.m. hasta las 6:00 p.m. No sé qué día podría.
+<soc>Cliente: Ir, no sé si el sábado o el domingo, no sabría, en cualquier momento llego allá.
+<soc>Asesor: Ok, perfecto. ¿Y busca algún vehículo en especial, marca, año o modelo?
+<soc>Cliente: Bueno, bonito y barato.
+<soc>Asesor: Ok, aquí le tengo carros de marcas como Dodge, tengo trocas y camionetas familiares. Nosotros damos tres años de garantía en motor, transmisión y aire acondicionado y el primer mes de aseguranza gratis. Ahí le doy la dirección y cuando usted esté disponible para visitar, nos quedo atenta.
+<soc>Cliente: Ok, listo. Vale, gracias.
+<soc>Asesor: Bueno, gracias.
+

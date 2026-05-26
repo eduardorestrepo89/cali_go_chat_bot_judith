@@ -1,0 +1,10 @@
+Speaker A: Hola, buen día. ¿Tengo el gusto con Miguel?
+Speaker B: Sí, con él habla.
+Speaker A: El día 16 de julio estuvimos intercambiando algunos mensajitos. Acá les saludo del dealer de autos. No me había podido comunicar con usted, no sé si ahora tiene tiempo de atenderme.
+Speaker B: Ahorita soy en mi trabajo, la verdad.
+Speaker A: ¿Ok, como a qué hora le puedo llamar?
+Speaker B: Yo salgo entre las 5:06, y media.
+Speaker A: Ok, perfecto. Entonces le voy a dejar un mensajito con nuestra información para que la cheque y más tarde le voy a llamo de nuevo.
+Speaker B: Ok, muchas gracias.
+Speaker A: Gracias. Bye. Bye.
+Speaker B: Bye, bye. Zweitausendein.

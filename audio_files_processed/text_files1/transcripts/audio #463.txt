@@ -1,0 +1,24 @@
+<soc>Asesor: Hola Luis, buen día.
+<soc>Cliente: Hola, ¿hablan del dealer?
+<soc>Asesor: Le saludo, hemos estado intercambiando mensajes.
+<soc>Cliente: Ah, ok, ¿cómo está eso?
+<soc>Asesor: Muy bien, quería darle más detalles sobre el financiamiento. ¿Tiene tiempo para atenderme?
+<soc>Cliente: Sí, cuéntame.
+<soc>Asesor: Con los documentos que tiene, le ayudamos. ¿Busca algún vehículo en especial?
+<soc>Cliente: No, nada en específico, solo lo más sencillo.
+<soc>Asesor: Puedo ofrecerle un carro sedán de marcas como Honda, Toyota, Nissan, Kia, desde 1800 de enganche.
+<soc>Cliente: Pero no tengo eso.
+<soc>Asesor: ¿Con cuánto cuenta?
+<soc>Cliente: Me habían dicho que 500.
+<soc>Asesor: Hubo un error en la publicidad; nuestros vehículos requieren entre 800 y 1800 de enganche. Con 1500 puede apartar un vehículo, dándole tiempo para traer el resto. Necesitaría al menos 1200 a 1500 de enganche.
+<soc>Cliente: Es complicado ahora; me pasó algo con mi carro.
+<soc>Asesor: Aceptamos carros de intercambio. ¿Tiene algún vehículo con título?
+<soc>Cliente: Tengo un Ford Focus 2001, pero el radiador está dañado. Tengo el título y la factura.
+<soc>Asesor: Si el motor y la transmisión funcionan, lo aceptamos, pero necesitaría más efectivo por ser un 2001.
+<soc>Cliente: ¿Cuánto sería?
+<soc>Asesor: Necesitaríamos ver el vehículo para hacer una oferta. Pero en general, necesitaría unos 500 a 1000 más.
+<soc>Cliente: Está bien, puedo enviarte fotos y me dices.
+<soc>Asesor: Perfecto, mándame las fotos.
+<soc>Cliente: ¿Las envío al WhatsApp de siempre?
+<soc>Asesor: Sí, ahí donde hemos estado hablando.
+<soc>Cliente: Ok, listo. Ya te las envío. Gracias.

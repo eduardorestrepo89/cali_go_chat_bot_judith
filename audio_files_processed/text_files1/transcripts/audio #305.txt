@@ -1,0 +1,23 @@
+<soc>Asesor: Hola, buenos días. ¿Hablo con el caballero Adrián?
+<soc>Cliente: Sí, soy yo. Disculpe, estaba en otra llamada y por eso no pude atender su mensaje.
+<soc>Asesor: No se preocupe, entiendo. Me alegra que me llame. ¿En qué puedo ayudarle hoy?
+<soc>Cliente: Fíjese que estoy interesado en comprar una camioneta. Desde la última vez que hablamos, ya tengo el dinero para el down payment. Me había mencionado que con $2500 podría comenzar, pero quería comentar que no tengo crédito.
+<soc>Asesor: No hay problema, aquí puede iniciar su primer crédito con nosotros. No trabajamos con bancos, así que el trato es directo. Por eso, la situación de su crédito no es un inconveniente. Solo necesitamos algunos requisitos, como su identificación vigente, un comprobante de domicilio, aunque no esté a su nombre, y un comprobante de ingresos.
+<soc>Cliente: Todo está en mi nombre. Tengo mi matrícula, mi pasaporte y mis talones de cheque. Todo está en orden.
+<soc>Asesor: Perfecto. Entonces, usted vive en San Diego, ¿verdad?
+<soc>Cliente: Sí, correcto. Estoy en San Diego. Estoy buscando una camioneta familiar.
+<soc>Asesor: ¿Está interesado en una Tacoma?
+<soc>Cliente: Sí, me gustaría una Tacoma, pero no del año. Estoy buscando una entre 2016 y 2018.
+<soc>Asesor: Entiendo. Actualmente tenemos Tacomas del 2018 en adelante. Para una Tacoma, normalmente solicitamos un enganche mínimo de $3500. ¿Dispone de $3500?
+<soc>Cliente: Tengo $2500. ¿No aplicaría eso para una Tacoma?
+<soc>Asesor: Sí, podría aplicar. Déjeme consultar esto con mi jefe. Además, existe la opción de un down payment diferido. Podría llevarse la Tacoma el mismo día con los $2500 y tener un par de semanas para completar el enganche restante.
+<soc>Cliente: Eso suena bien. Justo vendí mi moto y no puedo seguir gastando mucho en Uber, así que necesito la camioneta pronto. Podría ir a visitarlos el 8 de julio, justo después de que me paguen el 5.
+<soc>Asesor: Perfecto. Si le podemos ayudar de esa manera, no habrá inconvenientes. Asegúrese de traer su identificación, eso es muy importante.
+<soc>Cliente: Sí, no se preocupe, llevaré mi matrícula o mi pasaporte.
+<soc>Asesor: Genial. También necesitará traer el último talón de cheque y un comprobante de domicilio.
+<soc>Cliente: Entendido. Entonces, en cuanto usted me confirme que puedo aplicar con los $2500 y el resto después, estaré listo.
+<soc>Asesor: Voy a hablar con mi jefe ahora mismo y le enviaré un mensaje confirmando.
+<soc>Cliente: Muy bien. Si puedo ir antes, lo haré porque estoy realmente interesado.
+<soc>Asesor: Perfecto. Estamos en contacto.
+<soc>Cliente: Gracias.
+<soc>Asesor: Igualmente, que tenga un buen día.

@@ -1,0 +1,9 @@
+<soc>Asesor: Caballero, le saludo del dealer de autos.  
+<soc>Cliente: Ajá.  
+<soc>Asesor: Hemos estado intercambiando mensajitos, quería saber si tiene tiempo para darle un poco más de información. Estamos acá en San Fernando, California. ¿Usted dónde se encuentra?  
+<soc>Cliente: Ah, estamos lejos. 
+<soc>Asesor: ¿Está en otro estado usted?  
+<soc>Cliente: Yo estoy en Carolina del Norte.  
+<soc>Asesor: Ah, ok. Sí, estamos muy lejos. Entonces creo que ahí nuestra persona encargada tenía mal colocado lo que es el código postal. Ahí las disculpas del caso.  
+<soc>Cliente: Sí, así es. Yo pensé que estaba aquí cerca, decía yo.  
+<soc>Asesor: No.  

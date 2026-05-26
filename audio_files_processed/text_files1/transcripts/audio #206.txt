@@ -1,0 +1,19 @@
+<soc>Asesor: Hola, buenas tardes. ¿Tengo el gusto de hablar con Annie?.
+<soc>Cliente: Sí, soy yo.
+<soc>Asesor: Le saludo de aquí del dealer. Hace una semana se comunicó porque estaba interesada en un vehículo y no había logrado contactarla. ¿Tiene tiempo para que hablemos?
+<soc>Cliente: Claro, dígame.
+<soc>Asesor: Perfecto. Nosotros hacemos financiamiento en casa y ofrecemos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar, solo necesita tres documentos: una identificación vigente, puede ser de aquí o de su país, un recibo de cualquier tipo (no importa si no está a su nombre, solo para confirmar la dirección) y, si tiene, un comprobante de ingreso.
+<soc>Cliente: Ok, no tengo comprobante de ingresos, pero tengo un cheque personal que me dan.
+<soc>Asesor: Una foto de eso le serviría, pero si no tiene, no hay problema. Solo con la identificación y el recibo es suficiente.
+<soc>Cliente: Perfecto. Yo estoy en San Fernando, California.
+<soc>Asesor: Ah, yo estoy en San Francisco.
+<soc>Cliente: ¿Sí, está bastante lejos, verdad? No sé si le interesaría.
+<soc>Asesor: Sí, frecuentemente bajo a San Francisco, pero tengo que ir a Los Ángeles el próximo mes. De hecho, acabo de regresar de una cita y necesito reposar tres días. Dependiendo de los resultados, tal vez pueda ir a finales de este mes o principios del siguiente.
+<soc>Cliente: Excelente. ¿Está buscando algún vehículo en especial, marca, año o modelo?
+<soc>Asesor: Tengo un Malibú 2019, pero estoy buscando una camioneta familiar, una SUV.
+<soc>Cliente: Perfecto, tengo opciones para cinco y ocho pasajeros. Marcas como Toyota, Honda, Dodge, Nissan, Mitsubishi, Kia y Hyundai, desde 2500 de enganche.
+<soc>Asesor: 2500 de enganche, está perfecto.
+<soc>Cliente: Le voy a dejar la dirección por mensaje de texto, y cuando usted esté lista a finales de julio, nos ponemos en contacto nuevamente.
+<soc>Asesor: Ok, perfecto.
+<soc>Cliente: Gracias. Que tenga una bonita tarde.
+<soc>Asesor: Igualmente, gracias. ¡Hasta luego!

@@ -1,0 +1,27 @@
+<soc>Asesor: Hola, buen día. ¿Tengo el gusto de hablar con Elmer? Le saludo desde el dealer. Le quiero dar más información sobre cómo trabajamos, no sé si tiene tiempo de atenderme.
+
+<soc>Cliente: Sí, tengo unos minutos
+
+<soc>Asesor: Ok, perfecto. Para financiarle, estaríamos solicitando tres documentos: su identificación vigente (puede ser de aquí o de su país, pero debe estar vigente), un Bill (de cualquier tipo, no importa si no está a su nombre, es solo para confirmar su dirección) y un comprobante de ingresos. ¿Cuenta con los tres requisitos o tendríamos algún inconveniente?
+
+<soc>Cliente: Sí, cuento con los tres.
+
+<soc>Asesor: Perfecto. ¿Sería su primer crédito o ya ha financiado antes?
+
+<soc>Cliente: No, sería el primero.
+
+<soc>Asesor: ¿Está buscando algún vehículo en especial, alguna marca, año o modelo?
+
+<soc>Cliente: Ando buscando un pequeño, de cuatro cilindros. No importa si es Honda o Toyota.
+
+<soc>Asesor: Perfecto. Aquí tengo opciones desde los 2000 de enganche. Le tengo vehículos del año 2018 en adelante, incluyendo Honda, Toyota, Mazda y Chevy. Tenemos abierto de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m., y los domingos desde las 10:00 a.m. hasta las 6:00 p.m. ¿Qué día nos podría visitar?
+
+<soc>Cliente: ¿Me podría mandar fotos de los carros mientras consigo el comprobante de ingresos en mi trabajo?
+
+<soc>Asesor: Claro, le envío las fotografías. ¿Sería esta semana o la próxima cuando podría visitarnos para estar pendiente?
+
+<soc>Cliente: La próxima semana. De todos modos, estaríamos en contacto.
+
+<soc>Asesor: Excelente. Entonces le dejo las fotografías y estamos en contacto. Que tenga un buen día.
+
+<soc>Cliente: Ok, muchas gracias. Igualmente. Bye.

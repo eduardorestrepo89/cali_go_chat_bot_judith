@@ -1,0 +1,30 @@
+<soc>Asesor: Hola, buenas tardes, ¿hablo con el caballero Jonathan? Soy del dealer de autos, ¿tiene tiempo para atenderme?
+<soc>Cliente: Claro que sí, dígame.
+<soc>Asesor: Perfecto, le comento que nosotros hacemos financiamiento en casa. Ofrecemos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar, solo necesitaría tres documentos: su identificación vigente, que puede ser de aquí o de su país; un recibo para confirmar su dirección, no importa si no está a su nombre; y un comprobante de ingresos. ¿Cuenta con los tres requisitos?
+<soc>Cliente: Sí, sí, los tengo.
+<soc>Asesor: Excelente. ¿Es la primera vez que busca financiar o ya tiene algún crédito?
+<soc>Cliente: Primera vez, primera vez.
+<soc>Asesor: Muy bien. ¿Está buscando algún vehículo en especial, alguna marca, año o modelo?
+<soc>Cliente: Mire, antes que nada, le comento que llevo solo dos meses y medio en mi trabajo, no tengo los tres meses que suelen pedir en otras agencias. ¿Eso sería un problema?
+<soc>Asesor: No, no se preocupe. Nosotros no exigimos un tiempo mínimo laborando. Solo necesitamos su último talón de cheque para comprobar ingresos, con eso es suficiente.
+<soc>Cliente: Perfecto, eso me tranquiliza. Otra cosa, en otro lugar me dijeron que financian el 100 % del vehículo. ¿Ustedes también piden cuota inicial o financian el total?
+<soc>Asesor: Nosotros sí pedimos una cuota inicial. Para un sedán, por ejemplo, el down payment mínimo sería de 1800 dólares.
+<soc>Cliente: Ah, ok, ¿mínimo 1800?
+<soc>Asesor: Así es. Nuestros vehículos son del 2019 en adelante, con pocas millas, títulos limpios, y además ofrecemos tres años de garantía en motor, transmisión y aire acondicionado, junto con un mes de seguro gratis.
+<soc>Cliente: Entendido. ¿Tienen algún Honda Civic disponible?
+<soc>Asesor: Sí, tenemos Honda Civic disponible.
+<soc>Cliente: Y el precio total, ¿depende del plazo, cierto?
+<soc>Asesor: Correcto, dependerá del financiamiento y del porcentaje de interés. Tendríamos que hacer su aplicación para darle una cifra exacta. Lo ideal sería que nos visitara para mostrarle los vehículos y darle más detalles.
+<soc>Cliente: De acuerdo, y ¿dónde está ubicado el concesionario?
+<soc>Asesor: Estamos en el Valle de San Fernando. Le voy a enviar la dirección por mensaje de texto. Abrimos de lunes a sábado.
+<soc>Cliente: Ah, perfecto. Creo que estamos como a 40 minutos, ¿verdad?
+<soc>Asesor: Así es, más o menos. No estamos muy lejos.
+<soc>Cliente: Ok, ¿me puede recordar su nombre?
+<soc>Asesor: Mi nombre es Judith.
+<soc>Cliente: Gracias, Judith.
+<soc>Asesor: Con mucho gusto. ¿Entonces qué día podría visitarnos?
+<soc>Cliente: Tal vez este sábado, pero tengo que confirmar con mi familia porque dependo de su transporte.
+<soc>Asesor: Perfecto, entonces le dejo la dirección y quedo pendiente. Si puede este sábado, aquí estaremos para ayudarle.
+<soc>Cliente: ¡Gracias!
+<soc>Asesor: De nada, que tenga un buen día.
+<soc>Cliente: Igualmente, gracias.

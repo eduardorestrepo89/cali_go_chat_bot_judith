@@ -1,0 +1,27 @@
+<soc>Asesor: Hola, muy buenos días. ¿Tengo el gusto con el caballero David? 
+<soc>Cliente: Sí 
+<soc>Asesor: le saludo del dealer de autos. Recibimos un mensaje que estaba interesado en financiar un vehículo y le quería dar más información. A ver, ok, le comento que nosotros hacemos financiamiento en casa mínimo seis meses y máximo cinco años, cuatro meses. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros le estaríamos solicitando tres documentos, los cuales son una identificación, puede ser de su país o de acá, pero tiene que estar vigente. También ocupa un comprobante de domicilio, puede ser cualquier tipo de bill, donde aparezca su dirección, si no está su nombre no hay ningún problema. ¿Y si tiene también un comprobante de ingreso?
+
+<soc>Cliente: Pues comprobante de ingreso no, porque me pagan cash donde trabajo.
+
+<soc>Asesor: Ok, no sé si tiene el número de su jefe o nos puede traer el número como comprobante de ingreso.
+
+<soc>Cliente: ¿El número de quién?
+
+<soc>Asesor: De su jefe.
+
+<soc>Cliente: Oh, sí, estaría bien, pero si.
+
+<soc>Asesor: Ok, perfecto. Entonces con el número de su jefe le funcione. ¿Con el comprobante de ingreso no tenemos mucho inconveniente, verdad? Pero sí es importante que la identificación sí sea vigente, la que nos presente.
+
+<soc>Cliente: ¿Y es importante también dar down payment?
+
+<soc>Asesor: Claro que sí, depende del vehículo, no sé qué tipo de vehículo busca.
+
+<soc>Cliente: ¿Bueno, si yo quisiera un vehículo sin dar down payment, qué vehículo me daría?
+
+<soc>Asesor: Fíjese que nosotros por el momento no manejamos esa política de dar vehículos con cero down payment. ¿Ok, usted busca esa modalidad? Bueno, si se anima con down payment, nosotros acá tenemos vehículos desde los 2000 de enganche. De igual forma le dejo nuestra información por mensajito de texto y cualquier cosa quedó a la orden.
+
+<soc>Cliente: Ok, gracias.
+
+<soc>Asesor: Bueno, gracias, que tenga un buen día. Bye.

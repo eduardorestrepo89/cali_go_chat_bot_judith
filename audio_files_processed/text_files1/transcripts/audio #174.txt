@@ -1,0 +1,23 @@
+<soc>Asesor: Bueno, buen día. ¿Tengo el gusto con el caballero Salva? ¿Tiene tiempo para hablar ahora?
+<soc>Cliente: Sí, claro que sí tengo tiempo. Disculpe la molestia el otro día.
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Además, el primer mes de aseguranza es gratis. Todos nuestros vehículos son del año 2019 en adelante, con título limpio y bajas millas. Para calificar, necesitaría tres documentos: su identificación, que puede ser de aquí o de su país.
+<soc>Asesor: También necesito un bill, cualquier tipo de bill. Si no está a su nombre, no hay problema, solo es para confirmar dirección.
+<soc>Cliente: ¿Y con lo del enganche, cuánto sería?
+<soc>Asesor: ¿Está buscando carro, troca o SUV?
+<soc>Cliente: No, carro. La verdad, estaba buscando motos, pero me dijeron que no manejan motos, ¿verdad?
+<soc>Asesor: Así es, solo manejamos vehículos. ¿Es su primera vez financiando?
+<soc>Cliente: Sí, es la primera vez. La verdad, no quiero algo muy caro, solo lo necesito para transporte. No ando buscando lujos ni nada así.
+<soc>Asesor: Con $1500 de enganche podríamos ayudarle.
+<soc>Cliente: ¿$1500 mínimo de enganche?
+<soc>Asesor: Sí. Puede venir personalmente a ver los vehículos sin ningún compromiso.
+<soc>Cliente: Claro, si quiere mándeme la dirección exacta y el día que tenga descanso, llego con ustedes directamente.
+<soc>Asesor: ¿Más o menos qué día sería para estar pendiente?
+<soc>Cliente: Les soy sincero, descanso solo los lunes, así que podría venir este lunes o el próximo.
+<soc>Asesor: Ok, excelente. Le dejaré nuestra dirección y nos vemos el próximo lunes, si le parece.
+<soc>Cliente: Muchas gracias. ¿Me dijo su nombre?
+<soc>Asesor: Mi nombre es Judith.
+<soc>Cliente: Mucho gusto, Judith. Muchas gracias por su apoyo.
+<soc>Asesor: Mucho gusto, aquí estamos a la orden. Que tenga un bonito día.
+<soc>Cliente: Muchas gracias, que tenga un buen día.
+<soc>Asesor: Gracias.
+

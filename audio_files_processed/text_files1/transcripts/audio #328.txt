@@ -1,0 +1,47 @@
+<soc>Asesor: Bueno, hola, buen día. Le saludo de acá del dealer de autos. No sé si tiene tiempo de atenderme.
+
+<soc>Cliente: Sí, tengo unos minutos
+
+<soc>Asesor: Ok. Le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros, estaría ocupando tres documentos principalmente: una identificación, puede ser de su país, pero vigente. También ocupa un recibo (bill), cualquier tipo de recibo. Si no está a su nombre, no hay problema, solo para confirmar dirección. Y si tiene también un comprobante de ingreso. ¿Sería su primera vez financiando? ¿Usted ya ha tenido crédito?
+
+<soc>Cliente: Ya tengo crédito.
+
+<soc>Asesor: ¿Bueno, malo?
+
+<soc>Cliente: Bueno.
+
+<soc>Asesor: Ok, perfecto. ¿Y en esta ocasión, usted busca algún vehículo en especial? Marca, nuevo modelo, ¿una camioneta tapada, no?
+
+<soc>Cliente: Camionetao.
+
+<soc>Asesor: Sí, sí le tengo. Le tengo para cinco y para ocho pasajeros desde los $2500 de enganche.
+
+<soc>Cliente: Ese detalle que no tengo enganche, tengo $500 nomás.
+
+<soc>Asesor: Ok. Fíjese que incluso con $2000 trabajaríamos. Las que tenemos aquí son del año 2019 en adelante. ¿Entonces, qué le parece si junta un poco más de enganche? Cuando ya esté listo, pues nos visita. Le voy a dar nuestra dirección por mensaje de texto.
+
+<soc>Cliente: ¿Es que tengo una camioneta, una Suzuki 2005? ¿No agarran carro ustedes?
+
+<soc>Asesor: Sí, sí se la agarramos. La puede traer y traer el título; aquí se la agarramos como parte del enganche.
+
+<soc>Cliente: Sí, porque solo tengo una camioneta y $500.
+
+<soc>Asesor: Perfecto. Entonces así sí podemos trabajar. ¿Sería que usted nos visite, verdad? Y traiga lo que es la Suzuki para que la evaluemos y le digamos cuánto le damos por ella. No sé qué día nos podría visitar. Tenemos abierto de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m. y los domingos desde las 10:00 a.m. hasta las 6:00 p.m.
+
+<soc>Cliente: ¿No puede ser que podamos formarnos por teléfono para ver si puedo aplicar por un carro y así, pues ya llevo la camioneta y los $500? Porque luego si voy y llego allí, me van a decir que no, que no se puede hacer nada, y es mejor saber antes de llegar.
+
+<soc>Asesor: Fíjese que en su situación, si me trae los requisitos, yo le aseguro que sí le ayudamos, pero tenemos que ver la camioneta suya para que la evaluemos con el mecánico y le digamos cuánto le damos por ella. Eso sí no lo podemos hacer en línea, y por eso sí sería necesario, ¿verdad? Su visita para que podamos evaluar la camioneta. Yo le aseguro que le ayudamos; solo se trae su identificación, el recibo, el título de la camioneta, y acá nosotros todo le parece a usted. Al mismo día le entregamos el otro vehículo.
+
+<soc>Cliente: Ok, me manda la ubicación.
+
+<soc>Asesor: Sí, yo se la dejo por mensajito de texto. No sé más o menos qué día podría ser por acá para estar pendiente.
+
+<soc>Cliente: ¿Hoy se puede o no?
+
+<soc>Asesor: Sí, ahora hasta las 8:00 p.m. tengo abierta.
+
+<soc>Asesor: Sí, ahí le voy a dejar nuestra dirección y me notifica cuando venga en camino para estar pendiente.
+
+<soc>Cliente: Ok, está bien.
+
+<soc>Asesor: Bueno, gracias.

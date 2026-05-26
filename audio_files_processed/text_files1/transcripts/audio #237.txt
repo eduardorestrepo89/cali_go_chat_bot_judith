@@ -1,0 +1,21 @@
+<soc>Asesor: Buen día, caballero. Le saludo del dealer de autos. Quería darle más información sobre cómo trabajamos. ¿Tiene tiempo para atenderme?
+
+<soc>Cliente: Mire, ahorita ando en el trabajo.
+
+<soc>Asesor: Entiendo. Le dejo nuestra dirección y cualquier cosa quedo a la orden. ¿Sabe qué día podría visitarnos?
+
+<soc>Cliente: Ah, pues abren los sábados.
+
+<soc>Asesor: Sí, estamos abiertos desde las 10:00 a.m. hasta las 8:00 p.m.
+
+<soc>Cliente: ¿Y los domingos?
+
+<soc>Asesor: También abrimos los domingos, de 10:00 a.m. a 6:00 p.m.
+
+<soc>Cliente: Ok, perfecto. ¿Me podría mandar su número personal?
+
+<soc>Asesor: Claro, se lo enviaré por mensaje.
+
+<soc>Cliente: Gracias, hasta luego.
+
+<soc>Asesor: Hasta luego, que tenga un buen día.

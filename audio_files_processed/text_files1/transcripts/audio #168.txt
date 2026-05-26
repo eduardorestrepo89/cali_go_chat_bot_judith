@@ -1,0 +1,18 @@
+
+<soc>Asesor: Hola, buenas tardes. Buenas tardes, caballero. Le saludo del dealer de autos, no sé si tiene tiempo de atender mi llamada.
+<soc>Cliente: Oiga, ¿dónde están ubicados? ¿En qué estado? Quiero saber, por favor.
+<soc>Asesor: Estamos en San Fernando, California. No le queda tan lejos.
+<soc>Cliente: Pues yo vivo aquí en la Rosmi, cerca de Los Ángeles.
+<soc>Asesor: Ah, ok, estamos cerca, a unos 30-35 minutos aproximadamente.
+<soc>Cliente: Ok, pues estoy buscando un carrito, más o menos una camionetilla.
+<soc>Asesor: Ok, solo busca camionetas, ¿una Honda?
+<soc>Cliente: Sí, una camionetilla de Honda. No quiero carro chico, una camionetilla.
+<soc>Asesor: Fíjese que ahorita en Honda no tengo camionetas, pero sí tengo Toyota, que son igual de pequeñas que la Honda. ¿No sé si le interesaría alguna? Tengo la RAV4 y la 4Runner.
+<soc>Cliente: ¿No puede mandar fotos?
+<soc>Asesor: Sí, le envío fotografías. Para calificar, ocuparía unos $2500 de enganche, su identificación vigente, un comprobante de ingreso y un comprobante de domicilio.
+<soc>Cliente: ¿Qué años tienen?
+<soc>Asesor: Le tengo modelos de 2018, 2019, 2021 y 2022. Por ejemplo, una Toyota 4Runner 2021 que tiene 60,000 millas, con un enganche de $3500. Le voy a compartir la fotografía para que la cheque.
+<soc>Cliente: Ok, está bien.
+<soc>Asesor: ¿qué día nos podría visitar si le llega a gustar?
+<soc>Cliente: Quiero visitar el sábado, pasado mañana quiero visitar los vehículos.
+<soc>Asesor: Ok, perfecto.

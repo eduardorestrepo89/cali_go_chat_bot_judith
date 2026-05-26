@@ -1,0 +1,14 @@
+<soc>Asesor: Hola, buenos días. ¿Tengo el gusto con el caballero Ángel?. Le saludo del dealer de autos, no sé si tiene tiempo de atenderme.  
+<soc>Cliente: Sí, claro.  
+<soc>Asesor: Ok, le comento que nosotros financiamos en casa, damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros le estaríamos solicitando tres documentos, los cuales serían su identificación vigente, puede ser de aquí o de su país. También ocupa un bill, cualquier tipo de bill. Si no está su nombre, no hay problema, es solo para confirmar dirección. Y si tiene también un comprobante de ingresos. Pero si le pagan en cash y no tiene cómo comprobar ingreso, no hay problema. ¿Sería su primera vez financiando? ¿Usted ya ha tenido algún crédito?  
+<soc>Cliente: Permítame, aquí hay mucho ruido. ¿Sería su primera vez financiando o ya ha tenido algún crédito?  
+<soc>Cliente: Primera vez.  
+<soc>Asesor: ¿Algún vehículo en especial que busque? ¿Marca, año o modelo?  
+<soc>Cliente: Un Ford, Ford F, un Ford Subaru.  
+<soc>Asesor: Un Subaru, ok, ocuparía mínimo lo que son unos 2000 de enganche, no sé si está bien para usted.  
+<soc>Cliente: Sí, está bien.  
+<soc>Asesor: ¿Y qué día podría visitarnos para venir a ver personalmente los vehículos? Acá tenemos abierto de lunes a sábado hasta las 8:00 p.m. y los domingos hasta las 6:00 p.m.  
+<soc>Cliente: Ok, el sábado podría ir.  
+<soc>Asesor: Ok, entonces ahí le voy a dejar nuestra dirección por un mensajito de texto y nos vemos el sábado.  
+<soc>Cliente: Ok, gracias.  
+<soc>Asesor: Bueno, gracias a ustedes. Bye.

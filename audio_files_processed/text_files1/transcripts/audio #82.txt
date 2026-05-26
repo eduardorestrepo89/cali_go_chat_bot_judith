@@ -1,0 +1,30 @@
+<soc>Asesor: Hola, buen día.  
+<soc>Cliente: Hola.  
+<soc>Asesor: Tengo el gusto con el caballero Jorge.  
+<soc>Cliente: Ah, sí, claro.  
+<soc>Asesor: Mi nombre es Judith, le saludo de acá del dealer. Estuvimos intercambiando algunos mensajitos, le quería dar más información.  
+<soc>Cliente: ¿Oh, sí, Judith, cómo está? Buenas tardes.  
+<soc>Asesor: Muy bien, buenas tardes. ¿Tiene tiempo para poder atenderme?  
+<soc>Cliente: Sí, un poquito, no mucho, pero sí como unos 10 minutitos más o menos.  
+<soc>Asesor: No lo voy a robar más de 5 min. Bueno, le comento que nosotros acá hacemos financiamiento en casa, damos tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros le estaríamos solicitando tres documentos, los cuales serían una identificación vigente, puede ser de aquí o de su país. También ocupa un comprobante de domicilio, si no está su nombre, no hay problema, solo para confirmar dirección. Ok, y si tiene también un comprobante de ingreso.  
+<soc>Cliente: ¿O sea, serían tres cosas comprobante domicilio, comprobante de ingreso y cuál? 1 documento, 1 identificación me dijo.  
+<soc>Asesor: Exactamente. ¿Si cuenta con los tres requisitos, habría inconveniente con alguno?  
+<soc>Cliente: ¿No, creo que ya sí, sí, sí, tengo los tres. A dónde se encuentra el Dealer?  
+<soc>Asesor: Estamos acá en el valle de San Fernando, le voy a dejar la dirección por un mensajito de texto. No sé qué día nos podría visitar.  
+<soc>Cliente: Aunque ya sí me gustaría lo mejor echar una vuelta y ver si hubiera alguna opción que me beneficiará o algo, alguna opción de que se pudiera. ¿Puedes hacer algo?  
+<soc>Asesor: ¿Claro, busca carro troca o SUV?  
+<soc>Cliente: Una van, una mini van.  
+<soc>Asesor: Ok. Aquí le tengo por ejemplo la Dodge Durango, eso es para ocho pasajeros. ¿La que le tengo en 2021 ocuparía unos 3500 de enganche para una como esa, no sé, qué le parece?  
+<soc>Cliente: No, ando buscando algo más, más este, cómodo como ÿousand. ¿Tienen carros usados también?  
+<soc>Asesor: si todos, tenemos carros seminuevos del 2019 en adelante. Por un carro sedan ocuparía mínimo unos 2000 de enganche.  
+<soc>Cliente: Ah, ok. ¿No tienen más de años anterior?  
+<soc>Asesor: No, por el momento no. ¿Más o menos de qué año busca usted?  
+<soc>Cliente: ¿Pues bueno, más que todo en vez de darle qué año sería como de precio? No ando buscando un carro de precio muy alto.
+<soc>Asesor: ¿De qué precio busca?  
+<soc>Cliente: 10000 o 12000 máximo  
+<soc>Asesor: Por el momento no tenemos. ¿Pero quedaría de notificarle si nos viene alguno de ese precio?  
+<soc>Cliente: Si, este, me gustaría que tal vez me notificara después de que tuviera alguno.  
+<soc>Asesor: Ok. ¿Y sería su primer crédito o usted ya ha financiado alguna vez?  
+<soc>Cliente: No, no, sería primera vez.  
+<soc>Asesor: Ok, perfecto. Bueno, de igual forma le hago la invitación a que nos visite, acá tenemos excelente inventario. Le voy a dejar nuestra dirección por un mensaje.  
+<soc>Cliente: Bye. Bye.  

@@ -1,0 +1,18 @@
+<soc>Asesor: Hola, buen día. tiene tiempo de atender mi llamada, lo llamamos el dealer.
+<soc>Cliente: Claro que sí.
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa. Ofrecemos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar, necesitaría tres documentos: su identificación (puede ser de aquí o de su país), un comprobante de domicilio (puede ser cualquier tipo de bill, incluso si no está a su nombre) y un comprobante de ingresos. ¿Le pagan en efectivo, con cheque o por depósito?
+<soc>Cliente: Me pagan con cheque.
+<soc>Asesor: Perfecto, entonces el último talón de cheque funciona perfectamente.
+<soc>Cliente: Ok, sí, tengo dos trabajos.
+<soc>Asesor: Excelente. ¿Está buscando algún vehículo en especial, alguna marca, año o modelo?
+<soc>Cliente: Pues sí, algo como una troca o un carro, no estoy seguro.
+<soc>Asesor: Tenemos trocas y sedanes disponibles, modelos del 2018 en adelante. Las trocas tienen un enganche desde $3,000, y los sedanes desde $2,000. ¿Qué le parece?
+<soc>Cliente: Ahorita no cuento con esa cantidad.
+<soc>Asesor: ¿Con cuánto cuenta en este momento?
+<soc>Cliente: Tengo $1,000, eso fue lo que puse en la aplicación.
+<soc>Asesor: Entiendo. Con $1,000 de enganche no tenemos un vehículo disponible de inmediato, pero podemos trabajar de dos formas.
+<soc>Cliente: No tienes, entonces ¿para qué seguimos? Ya tengo otro lugar donde ir, solo revisaba esta opción porque me dieron otra.
+<soc>Asesor: Le podemos ofrecer un "down payment" diferido, lo que significa que usted aplica con los $1,000, se lleva el vehículo el mismo día y le damos tiempo para cubrir el resto del enganche.
+<soc>Cliente: No, el punto es no embarcarnos más.
+<soc>Asesor: Entiendo, perfecto.
+<soc>Cliente: No, no, prefiero no seguir.

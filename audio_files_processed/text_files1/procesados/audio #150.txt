@@ -1,0 +1,18 @@
+Speaker A: ¿Hola, buen día, tengo el gusto con el caballero Kelvin?
+Speaker B: Sí.
+Speaker A: Le saludo del dealer de autos, no sé si tiene tiempo de atenderme.
+Speaker B: ¿De dónde?
+Speaker A: De acá del dealer de autos.
+Speaker B: Oh, ve que estoy en el trabajo.
+Speaker A: Ok, bueno, le voy a dejar un mensaje con nuestra información y no sé más o menos que día podría venir a ver los vehículos.
+Speaker B: ¿Ok, y en qué estado están?
+Speaker A: Están, yo vivo en California.
+Speaker B: Yo vivo en Pasadina. No sé cuánto tiempo estamos.
+Speaker A: Estamos como 45 min.
+Speaker B: Ok, ok.
+Speaker A: Entonces ahí le dejo la dirección por si tiene tiempo de pasar esta semana.
+Speaker B: Ok, si. ¿Y con cuánto le da un payment?
+Speaker A: Busca carro o troca o su.
+Speaker B: Bien sea una toca o un automóvil.
+Speaker A: Ok, por un carro se dan mínimo 1800 de enganche y por una troca mínimo 3000.
+Speaker B: Okay. Zweitausendein.

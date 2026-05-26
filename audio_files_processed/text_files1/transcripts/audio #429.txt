@@ -1,0 +1,11 @@
+<soc>Cliente: Aló, buenas tardes.  
+<soc>Asesor: Buen día. ¿Tengo el gusto con Steven?  
+<soc>Cliente: Sí, con él tiene el gusto.  
+<soc>Asesor: Mi nombre es Judith, le saludo del dealer de autos. No sé si tiene tiempo de atenderme.  
+<soc>Cliente: Sí, sí.  
+<soc>Asesor: Ok. Una consulta. Fíjese que nosotros estamos acá en San Fernando, California. ¿Usted está en este estado?
+<soc>Cliente: Ay, está muy lejos.  
+<soc>Asesor: ¿Sí, verdad? Vi su número y me imaginé que quizás estaba en otro estado.  
+<soc>Cliente: No, yo recientemente, hace 15 días, me vine de California.
+<soc>Asesor: Okay, dale gracias.
+<soc>Cliente: Gracias.  

@@ -1,0 +1,28 @@
+<soc>Asesor: ¿Buenos días, con el caballero Teo? Les saludo de acá del dealer, mi nombre es Judith. Estuvimos intercambiando mensajes la semana pasada que usted buscaba un Toyota Corolla o un Honda Civic.  
+<soc>Cliente: ¿De dónde me están llamando?  
+<soc>Asesor: De acá del dealer en San Fernando, California. Ok, sí, no sé si sigue interesado en comprar vehículos, yo le mandé algunas fotografías en nuestra dirección la semana pasada. Estamos acá en el valle de San Fernando y le tenemos Corollas y también Civics.  
+<soc>Cliente: Le tenemos Civic?.  
+<soc>Asesor: ¿Sí, ya nos ha visitado?  
+<soc>Cliente: ¿Sí a mí me mandaron fotos?  
+<soc>Asesor: No sé si tendría interés en visitarnos caballero.  
+<soc>Cliente: Ahorita estoy trabajando.  
+<soc>Asesor: Tenemos abierto de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m. y los domingos desde las 10:00 a.m. hasta las 6:00 p.m.  
+<soc>Cliente: Ok, si me da tiempo paso este fin de semana.  
+<soc>Asesor: Ok, perfecto. ¿Sería su primera vez financiando? ¿Usted ya tiene crédito?  
+<soc>Cliente: yo tengo, sí tengo crédito.  
+<soc>Asesor: ¿Ok, está bueno, malo, regular?  
+<soc>Cliente: ¿Perdón?  
+<soc>Asesor: ¿Está bueno, malo, regular su crédito?  
+<soc>Cliente: No, está bueno.  
+<soc>Asesor: Ok, perfecto. Por un Corolla le estaríamos, o un Civic, le estaríamos solicitando mínimo 2000 de enganche, no sé si está bien para usted.  
+<soc>Cliente: ¿Y eso que no se supone que tiene un buen crédito, no piden enganche o como está?  
+<soc>Asesor: Nosotros no tenemos esa política acá, siempre solicitamos down payment. No sé si usted busca un lugar donde se le puede ayudar con cero enganche.  
+<soc>Cliente: Sí, sí, que requisitos piden ellos. ¿Solo con una identificación?  
+<soc>Asesor: Solo la identificación, con eso es suficiente.  
+<soc>Cliente: ¿Ok, y en qué precio andan los Corollas?  
+<soc>Asesor: Fíjese que todos nuestros vehículos ya financiados son del año 2019 en adelante, desde las 8000.  
+<soc>Cliente: ¿Tendrá fotos o algo para esos carros?  
+<soc>Asesor: Sí, yo con gusto le dejo algunas fotografías.  
+<soc>Cliente: ¿Ok, me las manda por hoy?  
+<soc>Asesor: Ok, con gusto le dejo las fotografías para que los revise y estamos en contacto. Que tenga un buen día.  
+<soc>Cliente: Gracias, igualmente, gracias. Bye.

@@ -1,0 +1,32 @@
+<soc>Cliente: ¿Hola, buen día? Me están llamando para contarme sobre los vehículos. Disculpa que no contesté.
+<soc>Asesor: Le había llamado anteriormente, y hace rato le dejé algunas fotografías. ¿Ahora tiene tiempo para atenderme?
+<soc>Cliente: Sí, ya vi las fotografías.
+<soc>Asesor: Estamos ubicados en el valle de San Fernando.
+<soc>Cliente: Ah, no está tan lejos. Yo soy de Riverside, estamos como a 1 hora.
+<soc>Asesor: Exacto, de Riverside. No hay problema. ¿Sería su primera vez financiando? ¿Ya tenía algún crédito?
+<soc>Cliente: Sí, es la primera vez. Estoy interesado en saber más. ¿Qué vehículos tienen disponibles?
+<soc>Asesor: Actualmente tenemos carros híbridos.
+<soc>Cliente: Excelente, porque justo ahora estoy alquilando un Prius.
+<soc>Asesor: El Prius es muy buen carro. Ahorita lo tengo mínimo con 2600 de enganche, no sé si está bien.
+<soc>Cliente: ¿Y en cuánto me quedaría la mensualidad si doy 2200?
+<soc>Asesor: Fíjese que la mensualidad mínima por un vehículo de esos anda por los 500. Pero sería necesario que llenemos la aplicación y establezcamos el plazo del financiamiento para poder decirle con exactitud cuánto le quedará el pago mensual. Necesitamos que nos visite para llenar el papeleo de la aplicación. Solo ocupa su identificación, puede ser de aquí o de su país, pero debe estar vigente.
+<soc>Cliente: Entiendo. ¿Si doy un poco más de enganche, puede bajar mi mensualidad?
+<soc>Asesor: Sí, eso es negociable. Cuanto más enganche se dé, mejores oportunidades de negociar un pago mensual más bajo tendrá.
+<soc>Cliente: Perfecto. ¿Los vehículos de qué año son?
+<soc>Asesor: Ahorita tengo un 2019 y un 2020.
+<soc>Cliente: ¿Y ustedes ofrecen garantía de algo del carro?
+<soc>Asesor: Sí, damos tres años de garantía en motor, transmisión y aire acondicionado. Todos nuestros vehículos tienen título limpio y son del año 2018 en adelante.
+<soc>Cliente: ¿La garantía de híbrido también está vigente?
+<soc>Asesor: Sí, tenemos garantía vigente.
+<soc>Cliente: ¿Tú me pasaste la ubicación por WhatsApp?
+<soc>Asesor: Sí, se la dejé, pero puedo volver a enviarla. ¿Qué día tendrá tiempo de visitarnos? La dirección es en San Fernando, California. Estamos de lunes a sábado. 
+<soc>Cliente: Me gustaría ir, pero estoy trabajando.
+<soc>Asesor: También estamos abiertos los domingos. No sé si un domingo le quedará tiempo de pasar.
+<soc>Cliente: Ok, ¿y qué tal el martes?
+<soc>Asesor: El martes me parece bien. Me comunicaré con usted a las 9 para confirmar.
+<soc>Cliente: Perfecto.
+<soc>Asesor: Entonces ya tenemos nuestros números y estamos en contacto. 
+<soc>Cliente: Ok, ¿me pueden pasar fotos de los Prius, por favor?
+<soc>Asesor: Con gusto le dejaré fotografías.
+<soc>Cliente: Muchísimas gracias.
+<soc>Asesor: Gracias a usted. ¡Feliz día!

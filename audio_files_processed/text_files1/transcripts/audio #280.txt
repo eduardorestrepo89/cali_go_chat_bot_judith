@@ -1,0 +1,20 @@
+<soc>Asesor: Hola, buen día, ¿tengo el gusto de hablar con Clara?
+<soc>Cliente: Sí, claro, a ver.
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa. Damos tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros, le estaríamos solicitando tres documentos, como su identificación, un bill y un comprobante de ingreso.
+<soc>Cliente: Ah, entiendo.
+<soc>Asesor: ¿Cuenta con los documentos?
+<soc>Cliente: Así es.
+<soc>Asesor: ¿Sería su primera vez financiando o ya ha tenido algún crédito antes?
+<soc>Cliente: No, de hecho, ya tengo otro crédito y no estoy seguro de si voy a calificar.
+<soc>Asesor: No se preocupe, calificamos cualquier tipo de crédito porque hacemos financiamiento en casa. No hay problema.
+<soc>Cliente: Ah, ok.
+<soc>Asesor: ¿Y está buscando algún vehículo en especial, como marca, año o modelo?
+<soc>Cliente: Sí, estaba buscando una camioneta.
+<soc>Asesor: Perfecto. ¿Busca una camioneta familiar o una pick-up?
+<soc>Cliente: No, una pick-up.
+<soc>Asesor: Entiendo. Necesitaría un enganche mínimo de 2500, no sé qué le parece. ¿Y qué día podría venir a verlas personalmente?
+<soc>Cliente: No estoy seguro, pero mándenme la dirección y el horario, y luego yo le digo si puedo pasar.
+<soc>Asesor: Abrimos de lunes a sábado hasta las 8:00 p.m. y los domingos hasta las 6:00 p.m. Le enviaré la dirección por mensaje.
+<soc>Cliente: Perfecto, gracias.
+<soc>Asesor: De nada, que tenga un buen día.
+

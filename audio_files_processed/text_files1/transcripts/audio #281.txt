@@ -1,0 +1,17 @@
+<soc>Asesor: Hola, buen día. ¿Tengo el gusto de hablar con el caballero Salva?
+<soc>Cliente: Sí
+<soc>Asesor: Perfecto. Le hablo del dealer de autos. Quería darle un poco más de información acerca de cómo trabajamos el financiamiento. No sé si tiene tiempo para atenderme.
+<soc>Cliente: Está bien, cuéntame.
+<soc>Asesor: Nosotros ofrecemos financiamiento en casa, lo que significa que todo el proceso se realiza directamente con nosotros. Además, damos hasta tres años de garantía en motor, transmisión y aire acondicionado.
+<soc>Cliente: Eso suena bien. ¿Qué documentos necesito para calificar?
+<soc>Asesor: Para calificar, necesitaríamos tres documentos: una identificación vigente, un comprobante de domicilio, y un comprobante de ingreso.
+<soc>Cliente: Entiendo. ¿Hay algún requisito específico?
+<soc>Asesor: No, no hay problema si algunos de los documentos no están a su nombre. Solo necesitamos confirmar su dirección. ¿Sería su primera vez financiando o ya ha tenido algún crédito?
+<soc>Cliente: No, ya he financiado antes.
+<soc>Asesor: Excelente. Entonces, ¿busca algún vehículo en particular? ¿Tal vez una marca o modelo específico?
+<soc>Cliente: Estoy interesado en una camioneta.
+<soc>Asesor: Muy bien. Para una camioneta, generalmente se requiere un enganche mínimo de 2500. ¿Qué día podría venir a verlas personalmente?
+<soc>Cliente: ¿Me pueden enviar la dirección y el horario? Así veré qué día puedo ir.
+<soc>Asesor: Claro, abrimos de lunes a sábado hasta las 8:00 p.m. y los domingos hasta las 6:00 p.m. Le enviaré la dirección por mensaje.
+<soc>Cliente: Perfecto, gracias.
+<soc>Asesor: De nada. Estoy aquí para ayudarle. Que tenga un buen día.

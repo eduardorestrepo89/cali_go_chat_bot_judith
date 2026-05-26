@@ -1,0 +1,16 @@
+<soc>Asesor: Hola, buenas tardes, le hablo del dealer, no sé si tiene tiempo para atenderme.
+<soc>Cliente: Sí, claro que sí, dígame.
+<soc>Asesor: Perfecto. Mire, le comento que nosotros hacemos financiamiento en casa, damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar, le estaríamos solicitando tres documentos: su identificación vigente, que puede ser de aquí o de su país; también ocupamos un comprobante de domicilio, que puede ser cualquier tipo de recibo, aunque no esté a su nombre, y un comprobante de ingresos.
+<soc>Cliente: Ah, ok, sí, sí, los tengo.
+<soc>Asesor: Excelente. ¿Sería su primera vez financiando un vehículo o ya ha tenido crédito antes?
+<soc>Cliente: No, financiando un carro no, pero ya he financiado otras cosas antes, la verdad.
+<soc>Asesor: Muy bien. ¿Y está buscando algún vehículo en especial, alguna marca, año o modelo en particular?
+<soc>Cliente: No, la verdad no busco algo lujoso, más bien solo algo que me lleve al trabajo y de regreso.
+<soc>Asesor: Perfecto, entiendo. Mire, le puedo ofrecer un sedán, cuatro puertas, cuatro cilindros, año mínimo 2018. Para ese tipo de vehículo ocuparía unos 2000 de enganche, ¿le parece bien?
+<soc>Cliente: Pues sí, estaría bien, pero la verdad, para ser sincero, ahorita no tengo esa cantidad. Apenas el miércoles que me pagan tendría unos 500, pero 2000 así de golpe, pues no los tengo.
+<soc>Asesor: Entiendo, no se preocupe. Nosotros trabajamos con enganches mínimos de 1500, dependiendo de cómo califique y del vehículo que elija. El Down Payment puede andar entre 1500 y 2000. Ya que esté listo y tenga el enganche, puede llamarme o mandarme un mensaje para agendar una cita.
+<soc>Cliente: Oiga, una pregunta. ¿Ustedes manejan alguna facilidad para dar el Down Payment o no?
+<soc>Asesor: Sí, fíjese que damos la opción de Down Payment diferido. En ese caso, tiene que traer el 80 % del enganche y le damos tiempo para completar el resto. El vehículo se lo puede llevar el mismo día. Por eso le comentaba lo de los 1500, porque si los trae, se lleva el carro ese mismo día y le damos hasta dos semanas para pagar los otros 500.
+<soc>Cliente: Ah, ya, perfecto, entendido. Muchas gracias por la información.
+<soc>Asesor: No hay de qué, estamos para servirle. Que tenga un buen día.
+<soc>Cliente: Igualmente, gracias.  

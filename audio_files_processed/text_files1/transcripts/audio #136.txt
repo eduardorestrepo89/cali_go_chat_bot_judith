@@ -1,0 +1,17 @@
+<soc>Asesor: Hola, Mi nombre es Judith, le saluda del dealer de autos. Ok, si quería darle más información sobre cómo trabajamos el financiamiento, no sé si tiene tiempo de atenderme ahorita.  
+<soc>Cliente: Sí, digame.
+<soc>Asesor: Ok. Le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, en transmisión y en aire acondicionado. Para calificar con nosotros le estaríamos solicitando tres documentos, los cuales serían una identificación vigente, un comprobante de ingreso y un comprobante de domicilio. ¿En esta ocasión sería su primera vez financiando, haya tenido algún crédito anteriormente?  
+<soc>Cliente: Ya, ya he financiado.  
+<soc>Asesor: Ok, perfecto. ¿Busca algún vehículo, que busca un sedán, verdad?  
+<soc>Cliente: Sí, un sedan.  
+<soc>Asesor: ¿Alguna marca o modelo en especial?  
+<soc>Cliente: No tanto eso, si por ejemplo yo trabajo para LIF. Pero tengo carro, por eso ando buscando uno.  
+<soc>Asesor: ¿Fíjense que acabe, aunque solo tiene 1000 de enganche, verdad?  
+<soc>Cliente: Ahorita, ahorita honestamente nada más te podría dar 500 y que me dieras un chance para darte más, trabajar para darte más dinero.  
+<soc>Asesor: Ok, entiendo perfectamente. Comentarle que los vehículos que tenemos son del año 2019 al año 2023. Todos son desde las 10,000 millas hasta las 50,000 millas, Título limpio, damos tres años de garantía en motor, en transmisión y aire acondicionado y el primer mes de aseguranza gratis. Pero por el momento las down payment que manejamos mínimos son por los 1500 y sí tendría que traer 1500 para llevarse el vehículo, no sé qué le parece si gusta juntar un poquito más o definitivamente solo busca comprar con lo que usted ya tiene presupuestado.  
+<soc>Cliente: O sea, no dan chance, por ejemplo, que tuviera ya los 500 y en un mes 1000 y así.  
+<soc>Asesor: No, no, fíjese que de esa forma, cuando trabajamos así, el cliente tiene que dejar el 80 % del enganche. En este caso el 80 % son 1500 y le daríamos aproximadamente dos semanas para traer 300 más porque los down payment fijo van desde los 1800, pero desde 1500 se lo podría llevar bajo modalidad de down payment diferido. ¿Ese es el único método que tenemos por el momento, verdad? De igual forma lo voy a compartir nuestra dirección por un mensajito de texto y puede venir sin ningún compromiso.  
+<soc>Cliente: Ok, si me puede mandar la dirección porque si no la vi.  
+<soc>Asesor: Ok, excelente. Entonces ahí se lo dejo por mensajito de texto. Cualquier cosa que va a la orden.  
+<soc>Cliente: Ok, yo di muchas gracias.  
+<soc>Asesor: Gracias. Feliz día. Bye bye.

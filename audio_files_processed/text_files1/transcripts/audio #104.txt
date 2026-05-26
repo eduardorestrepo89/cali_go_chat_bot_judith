@@ -1,0 +1,13 @@
+<soc>Asesor: Bueno, hola, buen día. ¿Con el caballero José Navas?  
+<soc>Cliente: Sí, dígame.  
+<soc>Asesor: Le saludo de acá del dealer. El día de ayer recibí su mensaje que estaba interesado en un vehículo, no sé si tiene tiempo de atenderme.  
+<soc>Cliente: Sí tengo tiempo de atenderte.  
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, en transmisión y aire acondicionado. Para calificar con nosotros le estaríamos solicitando tres documentos, los cuales serían su identificación vigente, un comprobante de ingreso y si tiene también un comprobante de domicilio. Si le pagan cash y no tiene cómo comprobar ingresos, no habría ningún inconveniente, Pero si tiene algún talón de cheque o un estado de cuenta lo puede traer. ¿Ok, sería su primera vez financiando? ¿Usted ya tenía algún crédito?  
+<soc>Cliente: Mire, pues yo antes había sacado, nomás que como le digo, este, ahorita pues mi crédito está un poquito bajo, está en, lo tengo como en 550 por cosas pues que pasaron, pero como estoy trabajando, si me agarra retirado y pues me estaba yendo a trabajar con el carro de mi hija, pero pues ella ya lo cupo y ahorita pues no quería perder ese trabajo, pero ni modo.  
+<soc>Asesor: Ok, nosotros a pesar de la situación de su crédito le estaríamos ayudando. Busca un carro sedán?.  
+<soc>Cliente: Un carrito para el trabajo.  
+<soc>Asesor: Ok, ocuparía unos 2000 de enganche, no sé si está bien para usted. ¿Cómo 2000 de enganche?  
+<soc>Cliente: Sí, tengo el enganche
+<soc>Asesor: Porque los vehículos que le tengo son del 2019 en adelante, todos son limpios, bajos en millas y le daríamos los tres años de garantía Por eso le estaríamos solicitando mínimo unos 2000
+<soc>Cliente: ¿No, mire, yo al caso contaré con 2000 dolares, entiendes?  
+<soc>Asesor: ¿Ok, fíjense que para asegurarle que si le podríamos ayudar ahorita le tenemos un Hyundai Elantra que se va con 1700 de enganche, sería como lo mínimo, verdad? Le voy a dejar nuestra dirección por mensaje de texto, cuando podria visitarnos?

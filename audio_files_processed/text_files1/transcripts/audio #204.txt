@@ -1,0 +1,15 @@
+<soc>Asesor: Hola, buen día, ¿tengo el gusto con Fabiola? Le saludo del dealer de autos. ¿Tiene tiempo para hablar?
+<soc>Cliente: Sí, claro.
+<soc>Asesor: Ofrecemos financiamiento en casa y hasta tres años de garantía en motor, transmisión y aire acondicionado. Necesitaríamos tres documentos: identificación vigente, comprobante de domicilio y comprobante de ingresos.
+<soc>Cliente: Tengo el comprobante de ingresos, pero acabo de empezar a trabajar. ¿Es un problema?
+<soc>Asesor: No, no hay inconveniente. ¿Ha tenido crédito antes?
+<soc>Cliente: No tengo buena puntuación.
+<soc>Asesor: Eso no es un problema. ¿Busca algún tipo específico de vehículo?
+<soc>Cliente: Quiero una SUV cómoda para mis niñas, pero no muy alta.
+<soc>Asesor: Para una SUV, necesitaría un enganche mínimo de 2500; los pagos son desde 550. Para un carro, el enganche es de 2000.
+<soc>Cliente: Eso puedo hacerlo.
+<soc>Asesor: Estamos en el valle de San Fernando. Le enviaré la dirección por mensaje. Estamos abiertos de lunes a sábado de 10:00 a.m. a 8:00 p.m. y domingos de 10:00 a.m. a 6:00 p.m.
+<soc>Cliente: Perfecto, me daré una vuelta pronto.
+<soc>Asesor: Puede enviarme un mensaje o llamarme cuando venga en camino. ¡Que tenga un buen día!
+<soc>Cliente: Igualmente, muy amable.
+<soc>Asesor: Gracias.

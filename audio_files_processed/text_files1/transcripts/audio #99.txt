@@ -1,0 +1,24 @@
+<soc>Asesor: Buenas tardes caballero, le saludo del dealer de autos.  
+<soc>Cliente: Muy buenas tardes señorita  
+<soc>Asesor: Le quería dar un poco más de detalles de cómo trabajamos el financiamiento. ¿Tiene tiempo de atenderme?  
+<soc>Cliente: Sí, claro, sí señorita, que tengo mucho tiempo.  
+<soc>Asesor: Ok, bueno, le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Estaríamos solicitando tres documentos para poder financiarle un vehículo, los cuales serían una identificación vigente, puede ser de aquí o de su país. También ocupa un Bill, el tipo de Bill, si no sea su nombre, no hay problema, solo para confirmar, dirección y si tiene también un comprobante de ingreso.  
+<soc>Cliente: Ok, sí señorita, también, también tengo, yo también tengo Social Security Number, a ver si de pronto ayude o no sería necesario.  
+<soc>Asesor: No es necesario, pero si lo tiene, perfecto. Entonces usted ya tiene crédito, pues aplique.  
+<soc>Cliente: Una tarjeta de crédito. Me la aprobaron, sin embargo, pues vía crédito como tal, no sé si tenga más, sin embargo pues debí aprobar.  
+<soc>Asesor: Perfecto, si le aprobaron la tarjeta de crédito es porque está perfecto, lo que es cuestión de comenzar su crédito.  
+<soc>Cliente: Si ella está por 3000, lo aprobaron por 3000.  
+<soc>Asesor: Ok, perfecto. ¿Busca algún vehículo en especial? ¿Usted marca, año o modelo?  
+<soc>Cliente: Sí, yo pues yo actualmente estaba manejando una Ford F-150 2019, me pareció muy buen vehículo, es de mi patrón y me pareció muy buena camioneta y pues me gustaría adquirir esa camioneta, más sin embargo, pues si no se podría, estaría dispuesto a buscar algo más económico, algo que ustedes me aconsejen.  
+<soc>Asesor: ¿Fíjense que en este caso nosotros le podemos ayudar con una Ford F-150, le tenemos 2018, 2019, 2020, 2021, 2022. Ocuparía mínimo unos 3000 de enganches para llevarsela, no sé, qué le parece?  
+<soc>Cliente: Sí, sí señorita, estaría bien. ¿Una preguntita, en lo del enganche, yo puedo pagarlo con la de crédito? ¿El enganche?  
+<soc>Asesor: Sí, sí puede pagarlo con la tarjeta de crédito.  
+<soc>Cliente: Ok señorita, más o menos así como quedarían los pagos de, digamos, en la camioneta que sea la 2018, por ejemplo.  
+<soc>Asesor: Fíjense que en este caso no le puedo decir con exactitud porque tendríamos que llenar aplicación para ver el plazo del financiamiento. Exactamente, el vehículo que se va a llevar y esos detalles que se ven ya cuando se llena aplicación. Lo que sí le puedo comentar es que nosotros en camionetas como esas, los pagos mínimos son de 600 al mes.  
+<soc>Cliente: Ok, ok, sí señar, ese es el pago mínimo  
+<soc>Asesor: pero si tendríamos verdad Que ver cuál es la que se va a llevar, que negociemos el plazo del financiamiento y esos detalles para poder establecerlo con exactitud. No sé qué día usted nos podría visitar, le voy a dejar la dirección por un mensajito de texto.  
+<soc>Cliente: Sí, yo podría ir el día de mañana, no habría ningún problema.  
+<soc>Asesor: Excelente. Voy a estar pendiente de su visita.  
+<soc>Cliente: Sí, señora. ¿Me envías porfa la dirección del lugar?  
+<soc>Asesor: Claro.  
+<soc>Cliente: Okay. Vale. Muchísimas gracias.

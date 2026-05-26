@@ -1,0 +1,25 @@
+<soc>Asesor: Hola, buenas tardes caballero. Tengo el gusto con Martín.  
+<soc>Cliente: Sí.  
+<soc>Asesor: le saludo de acá del Dealer, estuvimos intercambiando unos mensajitos sobre el vehículo que busca.  no sé si tiene tiempo de atenderme.  
+<soc>Cliente: A ver si tengo unos minutitos. A ver, a ver, dígame.  
+<soc>Asesor: Le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Le estaríamos solicitando solamente tres documentos para poder financiarle un vehículo. Principalmente su identificación, puede ser de aquí o de su país, pero tiene que estar vigente. También ocupa un bill, cualquier tipo de bill. Si no está su nombre, no hay problema, solo para confirmar dirección. Y si tiene también un comprobante de ingresos.  
+<soc>Cliente: El comprobante de ingresos no lo tengo porque me pagan cash, pero puedo pedirlo al banco.  
+<soc>Asesor: Los estados de cuenta del banco le funcionan perfectamente. ¿Se busca algún vehículo en especial, marca, año o modelo?  
+<soc>Cliente: Pues estaba buscando una camioneta pick-up, una troca allá.  
+<soc>Asesor: Ok.  
+<soc>Asesor: Ahorita sí le tengo una Chevrolet Silverado y una Chevrolet Colorado del año 2018 en adelante.  
+<soc>Asesor: Mínimo ocuparía unos 3500 de enganche. No sé si está bien para usted.  
+<soc>Cliente: Sí, sí, estaría perfecto para mí.  
+<soc>Asesor: Excelente.  
+<soc>Asesor: ¿Y busca tiene algún crédito o sería su primera vez financiando?  
+<soc>Cliente: No, esta sería mi primera vez.  
+<soc>Asesor: Excelente.  
+<soc>Asesor: Con nosotros puede comenzar su crédito.  
+<soc>Asesor: Nosotros hacemos financiamiento en casa, pero si lo reportamos para que el cliente empiece su crédito.  
+<soc>Asesor: Nosotros estamos ubicados acá en el valle de San Fernando. Le voy a dejar la dirección por un mensajito de texto.  
+<soc>Asesor: Y tenemos abiertos de lunes a sábado.  
+<soc>Asesor: Desde las 10:00 a.m. hasta las 8:00 p.m.  
+<soc>Asesor: Y los domingos desde las 10:00 a.m. hasta las 6:00 p.m.  
+<soc>Asesor: No sé qué día le dará tiempo de visitarnos.  
+<soc>Cliente: Pues sería más bien el domingo.  
+<soc>Asesor: Okay, le puedo llamar el sábado para confirmar si puede ese día lunes.  

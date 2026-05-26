@@ -1,0 +1,23 @@
+<soc>Asesor: Hola, buen día. ¿Tengo el gusto con el caballero Ronaldo? Le saludo de acá del dealer. Le quería dar más información de cómo trabajamos. No sé si tiene tiempo de atenderme.
+<soc>Cliente: Sí, lo escucho.
+<soc>Asesor: Ok, solo que nosotros estamos acá en el valle de San Fernando, California. No le queda tan lejos.
+<soc>Cliente: Yo le cuento que estoy aquí en Los Ángeles. ¿Qué tiempo está allá?
+<soc>Asesor:  ¿Busca algún vehículo en especial? ¿Marca, año o modelo? Perfecto. Primera vez financiando. ¿Usted ya tiene crédito?
+<soc>Cliente: No, primera vez financiando.
+<soc>Asesor: Ok, le cuento que nosotros le daríamos hasta tres años de garantía en motor, transmisión y aire acondicionado. Hacemos financiamiento en casa, mínimo seis meses y máximo cinco años. Los requisitos que ocupa principalmente son una identificación, puede ser de aquí o de su país, pero tiene que estar vigente. También ocupa un comprobante de domicilio, que puede ser cualquier tipo de Bill donde aparezca su dirección. Si no está a su nombre, no hay problema.  Y si tiene también un comprobante de ingreso. ¿A usted le pagan cash con cheque por medio de depósito?
+<soc>Cliente: Ahorita, porque no tengo el social. Bueno, eso en pocos meses va a llegar. No tarda mucho, un mes ya me llega el social, por eso me están pagando cash.
+<soc>Asesor: Ok, perfecto. Entonces solo trae la identificación y el Bill y con eso nosotros le ayudamos. Para un carro sedán ocupa mínimo 2000 de enganche, no sé qué le parece.
+<soc>Cliente: No, un poquito menos. ¿Con cuánto cuenta, la verdad? La verdad que cuento como con 1000, 1500 llego así.
+<soc>Asesor: Ok, con 1500 estaríamos trabajando. Ya le compartí la dirección, pero se la voy a enviar nuevamente. No sé más o menos qué día nos podría visitar.
+<soc>Cliente: ¿Ya, más o menos me puedes enviar la ubicación a este número?
+<soc>Asesor: Sí, yo se la voy a dejar por un mensajito de texto. Tenemos abierto de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m. y los domingos desde las 10:00 a.m. hasta las 6:00 p.m. ¿Más o menos qué día nos visitaría para estar pendiente?
+<soc>Cliente: Si es posible, ponme una cita para más despósito. Ahorita estoy en el trabajo, en unas 2 h.
+<soc>Asesor: Tenemos abierto.
+<soc>Cliente: Ahora a las 3:00 p.m. tres y media estoy por ahí. ¿Está bien?
+<soc>Asesor: Ok, perfecto. Entonces ahí le dejo nuestra dirección y nos vemos más tarde.
+<soc>Cliente: Ya, listo. Ahí podemos conversar personalmente.
+<soc>Asesor: Bueno, nos vemos ya.
+<soc>Cliente: Está bien. Linda tarde.
+<soc>Asesor: Bye. Bye.
+<soc>Cliente: Yeah, okay. Linda tarde. Bye.
+

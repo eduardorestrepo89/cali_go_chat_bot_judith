@@ -1,0 +1,49 @@
+<soc>Asesor: Hola, buen día, saludo del dealer de autos. Quería darle más información de cómo trabajamos. No sé si tiene tiempo de atenderme.
+
+<soc>Cliente: Sí, sí, sí, ahorita estoy disponible por unos cuatro minutos.
+
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros, ocuparía su identificación vigente, un comprobante de ingreso y un comprobante de domicilio.
+
+<soc>Cliente: Pero eso sí, me pagan en efectivo.
+
+<soc>Asesor: Si le pagan en efectivo, no hay problema, solo necesita traer la identificación y el Bill, con eso le ayudamos.
+
+<soc>Cliente: Pero, o sea, la identificación la tengo solo en foto porque migración me la quitó cuando entré acá.
+
+<soc>Asesor: ¿Ok, pero la foto que tomó es de la identificación original, verdad?
+
+<soc>Cliente: Sí, solo tengo la parte frontal en foto, pero la parte de atrás solo la tengo en copia.
+
+<soc>Asesor: Ok, fíjese que voy a checar si se la podríamos aceptar así, porque sí tendría que ser la foto de la original, tanto del frente como de la parte de atrás.
+
+<soc>Cliente: Claro, del frente tengo la original, pero de atrás no. Tengo también una partida de nacimiento, pero no tiene foto.
+
+<soc>Asesor: Nosotros sí ocupamos la identificación original, ya que pasamos las fotos por escáner. Si una de las partes no es original, siempre nos marca un error. En este caso, voy a consultarlo. ¿Están en proceso de sacarla nuevamente o esperando que migración se la devuelva?
+
+<soc>Cliente: Estoy esperando el permiso de trabajo, pero no sé cuánto tiempo tomará. El carro me urge porque, como estoy trabajando y usando transporte público, llego tarde y ya me han regañado.
+
+<soc>Asesor: ¿Ok, y con cuánto cuenta de enganche?
+
+<soc>Cliente: Tal vez unos $1000, ¿o cuánto piden?
+
+<soc>Asesor: Fíjese que los carros que tenemos son del año 2019 hasta 2023. El mínimo que estamos pidiendo de enganche es $1800, ya que son vehículos recientes. También damos tres años de garantía en motor, transmisión y aire acondicionado, el primer mes de seguro gratis y son vehículos con título limpio.
+
+<soc>Cliente: Si logramos hacer el trato, ¿cuánto sería la cuota mensual?
+
+<soc>Asesor: Las cuotas mensuales que manejamos están entre $450 y $500 al mes.
+
+<soc>Cliente: Ok, tal vez puedo conseguir hasta $1500 para el enganche.
+
+<soc>Asesor: ¿Es la primera vez que financiaría?
+
+<soc>Cliente: Sí, sería la primera vez.
+
+<soc>Asesor: Ok, con $1500 podemos trabajar, pero déjeme checar lo de la identificación y le confirmo.
+
+<soc>Cliente: Perfecto.
+
+<soc>Asesor: Gracias.
+
+<soc>Cliente: Gracias a ustedes.
+
+<soc>Asesor: Ok, le estaré llamando pronto.

@@ -1,0 +1,19 @@
+<soc>Asesor: Hola, bueno, hola, buen día le saludo del dealer de autos. Estamos intercambiando mensajitos y le quería dar más información de cómo trabajamos. No sé si tiene tiempo de atenderme.  
+<soc>Cliente: Oh, sí.  
+<soc>Asesor: Ok. Bueno, le comento que nosotros hacemos financiamiento en casa. Vamos a tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros, le estaríamos solicitando su identificación. Puede ser de aquí o de su país, pero tiene que estar vigente. También ocupa un comprobante de domicilio. Cualquier tipo de Bill donde aparezca su dirección. Si no está su nombre, no hay problema. Y si tiene también un comprobante de ingreso.  
+<soc>Cliente: Ok, cuento con los documentos.  
+<soc>Asesor: Ok. ¿Sería su primera vez financiando hoy o Ha tenido algún crédito?  
+<soc>Cliente: No, de carros no. He sacado cosillas, pero muy pocas.  
+<soc>Asesor: Ok, excelente. ¿Y busca algún vehículo en especial, marca, años o modelo?  
+<soc>Cliente: Pues quería más o menos un Toyota Camry.  
+<soc>Asesor: Ok, aquí le tengo Camry.  
+<soc>Cliente: Como tipo XCE, algo así.  
+<soc>Asesor: Ok, perfecto. Aquí le tengo desde los 2000 de enganche. ¿No sé, qué le parece?  
+<soc>Cliente: Sí, sí, pues sí, está bien.  
+<soc>Asesor: ¿Y qué día puede venir personalmente a verlos? Tenemos abierto de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m. y los domingos desde las 10:00 a.m. hasta las 6:00 p.m.  
+<soc>Cliente: ¿Posible pudiera ir este miércoles, pasado mañana?  
+<soc>Asesor: Si, Excelente. Entonces ahí lo voy a dejar de dirección por un mensajito de texto. ¿Cuál es su nombre? ¿Disculpen?  
+<soc>Cliente: Es Yafet Antonio.  
+<soc>Asesor: Ok, ya sabe, entonces ahí le dejo nuestra dirección y nos vemos mañana.    
+<soc>Cliente: Ok, muchísimas gracias.  
+<soc>Asesor: Gracias a usted. Que tenga un buen día. Bye.  

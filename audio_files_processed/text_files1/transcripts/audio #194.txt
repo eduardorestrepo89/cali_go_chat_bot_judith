@@ -1,0 +1,12 @@
+<soc>Asesor: Buenas tardes, ¿tengo el gusto con el caballero Jesús? le saludo del dealer de autos, no sé si tiene tiempo de atenderme.
+<soc>Cliente: Ok, cuenteme
+<soc>Asesor: le comento que somos financiamiento en casa, damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros le estaríamos solicitando tres documentos: su identificación vigente, un comprobante de ingreso y un comprobante de domicilio.
+<soc>Cliente: Y me pagan en cash.
+<soc>Asesor: Ok, si le pagan cash no hay problema, solo traiga la identificación y el bill y con eso le ayudamos. ¿Usted ya ha financiado alguna vez o sería su primer crédito?
+<soc>Cliente: Primer crédito.
+<soc>Asesor: ¿Algún vehículo en especial que busque, marca, año o modelo?
+<soc>Cliente: No, en especial ninguno. Disculpe, en especial ninguno, sería de vez.
+<soc>Asesor: Ok, aquí le tengo varios carros, se dan desde los 1800 de enganche, también le tengo camionetas familiares, le tengo trocas, tengo aproximadamente 300 vehículos en inventario. No sé qué día nos puede venir a ver, estamos acá en San Fernando, California, por un sedán mínimo 1800.
+<soc>Cliente: 1800, ok. ¿Este es su número?
+<soc>Asesor: Sí, ese es mi número. No sé más o menos qué día nos podría visitar para estar pendiente.
+<soc>Cliente: el sabado esta bien.

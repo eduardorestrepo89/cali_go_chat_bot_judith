@@ -1,0 +1,19 @@
+<soc>Asesor: Hola, buenas tardes.
+
+<soc>Cliente: Hola.
+
+<soc>Asesor: Buenas tardes. Mi nombre es Judith. Nos comunicamos hace algunos días desde el dealer de autos. Quería saber si sigue interesado en visitarnos.
+
+<soc>Cliente: ¿Visitarlos para qué?
+
+<soc>Asesor: Se comunicó con nosotros porque estaba interesado en adquirir un vehículo.
+
+<soc>Cliente: Ah, ya veo. Estoy un poco ocupado en este momento, pero luego los llamo para ver qué opciones hay.
+
+<soc>Asesor: Perfecto, quedo a su disposición.
+
+<soc>Cliente: Igual.
+
+<soc>Asesor: Gracias.
+
+<soc>Cliente: Ok, adiós.

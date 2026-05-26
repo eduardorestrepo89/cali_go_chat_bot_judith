@@ -1,0 +1,18 @@
+<soc>Asesor: Hola, buen día. ¿Hablo con el caballero Herrera?
+<soc>Cliente: Sí, soy yo.
+<soc>Asesor: Le saludo del dealer. Quería darle más detalles sobre nuestro financiamiento. ¿Tiene tiempo para atenderme?
+<soc>Cliente: Sí, tengo tiempo.
+<soc>Asesor: Necesitamos tres documentos: su identificación vigente, un comprobante de domicilio y un comprobante de ingreso. ¿Los tiene?
+<soc>Cliente: Sí, los tengo.
+<soc>Asesor: Excelente. ¿Es su primera vez financiando un vehículo?
+<soc>Cliente: Sí.
+<soc>Asesor: No se preocupe, calificamos todo tipo de crédito. ¿Busca algún vehículo en particular?.
+<soc>Cliente: No, solo un sedán cómodo.
+<soc>Asesor: Tengo Honda, Toyota y Mazda desde $2,000 de enganche.
+<soc>Cliente: ¿Puedo apartar uno con $1,000?
+<soc>Asesor: Sí, podemos ofrecerle un down payment diferido. Puede apartar el vehículo y traer el resto después.
+<soc>Cliente: Perfecto, voy a la tienda a aplicar.
+<soc>Asesor: Estamos abiertos hasta las 8:00 p.m. Le enviaré la dirección por mensaje.
+<soc>Cliente: Muchas gracias.
+<soc>Asesor: Que tenga un buen día, nos vemos más tarde.
+<soc>Cliente: ¡Hasta luego!

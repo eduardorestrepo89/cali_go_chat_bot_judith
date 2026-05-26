@@ -1,0 +1,31 @@
+<soc>Asesor: Hola, buenas tardes, caballero. Lo saludo del concesionario de autos.
+<soc>Cliente: ¿Oh, cómo está?
+<soc>Asesor: Muy bien, gracias. Tenía una llamada perdida de su número.
+<soc>Cliente: Sí, sí, yo me acuerdo. ¿Ayer hablamos, verdad?
+<soc>Asesor: Sí, estuvimos hablando acerca de los vehículos. No sé qué día podrá venir a verlos personalmente.
+<soc>Cliente: Pues fíjese que ahorita no puedo, esta semana estoy trabajando y estoy fuera de la ciudad, pero quería saber qué tipos de carros tienen ahí.
+<soc>Asesor: Claro, tenemos sedanes, trocas y camionetas familiares. ¿Busca alguna marca o modelo en especial?
+<soc>Cliente: Pues no estoy seguro.
+<soc>Asesor: Aquí le tengo opciones de Honda, Toyota, Nissan, Kia, Ford, Chevrolet, Mazda, y Volkswagen. También tenemos Tesla con un enganche desde $1,800. El enganche dependerá del vehículo, pero con alrededor de $800 podría llevarse uno.
+<soc>Cliente: Órale, dice Tesla, ¿qué más tiene?
+<soc>Asesor: Tenemos Honda, Chevy, Toyota, Mazda, y Hyundai. En sedanes, tenemos los más deportivos como el Civic y el Accord.
+<soc>Cliente: Ok. ¿De Chevy no tiene?
+<soc>Asesor: Sí, tenemos el Chevy Malibu y el Impala.
+<soc>Cliente: Ok. ¿Y el Tesla, qué años son?
+<soc>Asesor: Los Tesla que tenemos son del 2019, 2020 y 2021, y están disponibles desde $2,500 de enganche.
+<soc>Cliente: Ok, ok. ¿No tienes fotos de los carros?
+<soc>Asesor: Claro que sí, con gusto se las enviaré. ¿No tiene WhatsApp, verdad?
+<soc>Cliente: Sí tengo WhatsApp, pero no me entra nada.
+<soc>Asesor: Le mandé fotos y la dirección hace unas horas, pero no se entregaron. Le enviaré la información por mensaje normal.
+<soc>Cliente: Sí, para ver qué es lo que tienen y darme una idea de lo que busco.
+<soc>Asesor: Ok, le enviaré las fotografías por mensaje normal.
+<soc>Cliente: Ok. ¿Este, este, este quiere decir que no tiene troca del Chevy, verdad?
+<soc>Asesor: Sí, tenemos la Silverado y la Colorado.
+<soc>Cliente: ¿Y de Jeep? ¿No tiene Jeeps?
+<soc>Asesor: Sí, tengo Jeep. Disponemos de Grand Cherokee, Cherokee, Renegade, Patriot, y también de Wrangler.
+<soc>Cliente: Ok. ¿No tienes una Trackhawk o una SRT de Jeep?
+<soc>Asesor: No, por el momento no tengo esas versiones, pero le notificaré si llega alguna.
+<soc>Cliente: Envíame las fotos.
+<soc>Asesor: Ok, perfecto.
+<soc>Cliente: Bye.
+<soc>Asesor: ¡Hasta luego! Cuídese.

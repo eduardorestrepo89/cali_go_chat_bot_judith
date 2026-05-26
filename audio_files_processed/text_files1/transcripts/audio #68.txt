@@ -1,0 +1,14 @@
+<soc>Asesor: Hola, buen día, tengo el gusto con Soriano.  
+<soc>Cliente: Sí.  
+<soc>Asesor: Le saludo de acá del dealer, no sé si tiene tiempo de atender mi llamada.  
+<soc>Cliente: Bueno, estoy trabajando, pero dígame.  
+<soc>Asesor: Ok, les comento que nosotros hacemos financiamiento en casa, damos tres años de garantía en motor, transmisión y aire acondicionado para poder adquirir un vehículo con nosotros si necesitaría dar enganche. Sin embargo, si no tiene crédito, no hay problema, le ayudamos, pero ocuparía mínimo 2000 de enganche para un carro sedán.  
+<soc>Cliente: Ok, no, pues estoy trabajando en eso de hacerlo para dar lo de enganche ahorita.  
+<soc>Asesor: Ok, perfecto. Comentarle que los requisitos que ocuparía serían tres: una identificación vigente, un comprobante de ingreso y un comprobante de domicilio.  
+<soc>Cliente: Ok.  
+<soc>Asesor: ¿Sería su primera vez en este caso que va a financiar, verdad?  
+<soc>Cliente: Sí.  
+<soc>Asesor: Ok, acá nosotros le ayudamos, le damos tres años de garantía, el primer mes de aseguranza gratis y con 2000 se puede llevar un carro mínimo año 2018, máximo un 2020, dependiendo de la marca y el modelo. Acá le tenemos excelente inventario. No sé más o menos dentro de cuánto tiempo usted estaría listo para poder llamarle y recordarle.  
+<soc>Cliente: Pues la verdad no sé, yo quizás les llamaría.  
+<soc>Asesor: Ok, perfecto. Entonces este es mi contacto, de igual forma le dejo nuestra dirección y estamos a la orden.  
+<soc>Cliente: ¡Okay, bye!   

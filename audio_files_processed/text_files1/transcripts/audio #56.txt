@@ -1,0 +1,16 @@
+<soc>Asesor: ¿Bueno, buenas tardes, con el caballero Jacal?  
+<soc>Cliente: Sí 
+<soc>Asesor: buenas tardes, mi nombre es Judith.  
+<soc>Asesor: El día de ayer recibí unos mensajitos que está interesado en un vehículo. Les saludo de Cali go Auto, le quería dar más información, no sé si tiene tiempo.  
+<soc>Cliente: Ah, sí, dígame. Buenas tardes.  
+<soc>Asesor: Buenas tardes. Le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, en transmisión y aire acondicionado. Para calificar con nosotros le estaríamos solicitando tres documentos, los cuales serían una identificación vigente, un comprobante de ingreso, 1 comprobante de domicilio  
+<soc>Cliente: Disculpe, ¿de qué es? ¿Me dijo?  
+<soc>Asesor: Del dealer de autos, de los vehículos.  
+<soc>Cliente: Ah, sí, sí. 
+<soc>Asesor: ¿Ah, sí, busca algún vehículo especial? 
+<soc>Cliente: Sí, un auto familiar.  
+<soc>Asesor:  Acá le tengo varias su familiares del año 2019 en adelante. Le estaríamos dando hasta tres años de garantía en motor, en transmisión y aire acondicionado. Y ocuparía mínimo unos 2500 de enganche. ¿No sé, qué le parece?    
+<soc>Cliente: Ah, ok, ok. Entonces le puedo llamar en unos minutitos para consultar con mi esposa nada más y ya.  
+<soc>Asesor: Claro. Y pasarían en estos días, si le parece bien a su esposa.  
+<soc>Cliente: Ah, sí, sí, en esta semana, en estos días ya.
+  

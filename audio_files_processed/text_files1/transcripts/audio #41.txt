@@ -1,0 +1,14 @@
+<soc>Asesor: Hola, hola, buen día. ¿Tengo el gusto con el caballero Tomás?.
+<soc>Cliente: Sí.
+<soc>Asesor: Le saludo de acá del dealer de autos. El día de ayer nos dejó un mensajito de que está interesado en un vehículo.  
+<soc>Cliente: Ah, sí, sí, estoy interesado, pero quería saber qué es lo que se necesita. 
+<soc>Asesor: Con gusto le doy la información. Le comento que nosotros somos un dealership, hacemos financiamiento en casa y damos tres años de garantía en motor, en transmisión y en aire acondicionado. Para calificar con nosotros ocuparía lo que es una identificación vigente, puede ser de aquí o de su país. También ocupa un bill, cualquier tipo de bill. Si no está a su nombre no hay problema, es solo para confirmar dirección. 
+<soc>Cliente: Ok, si yo tengo eso y tengo un pasaporte. ¿Con eso se hace?  
+<soc>Asesor: Sí, con eso está perfecto. ¿Y sería su primera vez financiando, verdad?
+<soc>Cliente: Sí, la verdad es la primera vez.  
+<soc>Asesor: ¿Ok, qué busca? ¿Carro, troca o SUV, busca un vehículo en especial? ¿Sedán, troca, camioneta familiar?  
+<soc>Cliente: Camioneta.  
+<soc>Asesor: Ok, ocuparía mínimo unos 2500 de enganche, ¿qué le parece? Aquí le tengo del 2019 hasta el 2023 con tres años de garantía en motor, transmisión y aire acondicionado. Además, el primer mes de aseguranza es gratis. ¿Y qué día puede venir personalmente acá al dealer? Estamos ubicados en San Fernando, California. Le voy a dejar la dirección por un mensaje de texto.  
+<soc>Cliente: Mándame la dirección para poder llegar allí.  
+<soc>Asesor: Ok, ¿más o menos qué día de esta semana podría pasar para estar pendiente? 
+<soc>Cliente: Esta semana voy a ver qué día voy a ir por allá para hablar.

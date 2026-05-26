@@ -1,0 +1,13 @@
+<soc>Asesor: Buenos días, ¿hablo con el caballero Rey?
+<soc>Cliente: Sí, buenos días.
+<soc>Asesor: Perfecto, le saludo del dealer en San Fernando, California. Quería confirmar si tiene tiempo para visitarnos.
+<soc>Cliente: ¿A cuánta distancia están de Gardena?
+<soc>Asesor: Estamos aproximadamente a 35-40 minutos, dependiendo del tráfico.
+<soc>Cliente: ¿Qué tipo de vehículos tienen?
+<soc>Asesor: Usted preguntó por una Toyota Tacoma de cuatro puertas y cuatro cilindros, y la tenemos disponible. Estamos abiertos hasta las 8:00 p.m.
+<soc>Cliente: Ok.
+<soc>Asesor: ¿Podrá pasar hoy?
+<soc>Cliente: ¿Ya me mandó la dirección?
+<soc>Asesor: Sí, se la envié por mensaje de texto, pero se la puedo dejar nuevamente por si acaso.
+<soc>Cliente: No, está bien, gracias.
+<soc>Asesor: De nada. Nos vemos más tarde.

@@ -1,0 +1,17 @@
+<soc>Asesor: Hola, buen día, ¿tengo el gusto con Jesús?
+<soc>Cliente: Sí, dígame.
+<soc>Asesor: Le saludo desde el concesionario. Quería darle información sobre cómo trabajamos. ¿Tiene tiempo para mi llamada?
+<soc>Cliente: Sí, dígame.
+<soc>Asesor: Hacemos financiamiento interno y ofrecemos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para financiar, necesitamos tres documentos: identificación vigente, recibo de servicios y comprobante de ingreso.
+<soc>Cliente: ¿El talón de cheque está bien?
+<soc>Asesor: Sí, es suficiente. ¿Busca algún vehículo en especial?
+<soc>Cliente: Sí, una Sienna o algo similar.
+<soc>Asesor: No tenemos Sienna, pero ofrecemos una Dodge Durango y una Dodge Journey, ambas con capacidad para ocho pasajeros y un enganche desde 3000 dólares.
+<soc>Cliente: ¿3000? Me dijeron que era menos.
+<soc>Asesor: ¿Cuánto tiene?
+<soc>Cliente: Como 1000 o 1500 dólares.
+<soc>Asesor: Para SUVs necesitamos al menos 2000 dólares. Le enviaré nuestro contacto y estamos abiertos de lunes a sábado de 10:00 a.m. a 8:00 p.m. y los domingos de 10:00 a.m. a 6:00 p.m. ¿Cuándo podría visitarnos?
+<soc>Cliente: Esta semana estoy ocupado. Podría ser hasta el martes de la próxima semana.
+<soc>Asesor: Perfecto, le enviaré la dirección y estaremos en contacto.
+<soc>Cliente: Gracias.
+<soc>Asesor: ¡Felicidades! Hasta luego.

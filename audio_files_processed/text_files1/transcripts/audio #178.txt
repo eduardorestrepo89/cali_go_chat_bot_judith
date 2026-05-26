@@ -1,0 +1,17 @@
+<soc>Asesor: Hola, buen día. ¿Tengo el gusto con el caballero Checo? Les saludo de acá del dealer. Hemos estado intercambiando mensajitos y quería saber si tiene tiempo para atenderme.
+<soc>Cliente: Sí, está bien.
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa. Todos nuestros vehículos son del año 2018 en adelante y le estaríamos solicitando solo tres documentos para poder financiarle. ¿Cuáles serían? Su identificación vigente, que puede ser de aquí o de su país, pero debe estar vigente. También necesita un bill, cualquier tipo de bill; si no está a su nombre, no hay problema, solo es para confirmar dirección, y si tiene un comprobante de ingresos. ¿Tiene todos los requisitos o habría inconveniente con alguno?
+<soc>Cliente: Si quiere, ahorita reviso y le regreso la llamada.
+<soc>Asesor: Está bien. Si no tiene alguno, no hay problema, con solo la identificación vigente de su país, le ayudamos.
+<soc>Cliente: Traigo la licencia.
+<soc>Asesor: Perfecto, con eso es suficiente. Los otros documentos son opcionales, pero con la identificación podemos ayudarle. ¿Este sería su primer crédito? ¿Ha tenido alguna vez crédito?
+<soc>Cliente: No, va a ser el primero.
+<soc>Asesor: ¿Está buscando algún vehículo en especial?
+<soc>Cliente: Sí, una camioneta familiar.
+<soc>Asesor: Perfecto, tenemos varias camionetas familiares desde $2500 de enganche, del año 2018 al 2022. ¿Le parece bien?
+<soc>Cliente: ¿Y dónde se encuentran?
+<soc>Asesor: Estamos en el valle de San Fernando, cerca de Burbank. Le voy a dejar la dirección por un mensajito de texto. Estamos abiertos de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m. y los domingos desde las 10:00 a.m. hasta las 6:00 p.m. ¿Qué día podría visitarnos?
+<soc>Cliente: Ah, sí, el domingo.
+<soc>Asesor: Ok, perfecto.
+<soc>Cliente: Ok, bye.
+

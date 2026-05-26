@@ -1,0 +1,10 @@
+<soc>Asesor: Buenas tardes, tengo el gusto con Roberto.  
+<soc>Cliente: Dígame.  
+<soc>Asesor: Les saludo de acá del dealer de autos. A finales de mayo nos comunicamos que estaba interesado en un vehículo. Quería saber si sigue interesado en visitarnos o si ya consiguió vehículo por otro lado.  
+<soc>Cliente: ¿En dónde se encuentran ustedes? Señorita.  
+<soc>Asesor: Estamos acá en el valle de San Fernando.  
+<soc>Cliente: Pero mire, si pudiera llegar, llegó el fin de semana
+<soc>Asesor: Claro, acá lo esperamos y puede venir el fin de semana. Abrimos de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m. y domingo desde las 10:00 a.m. hasta las 6:00 p.m.  
+<soc>Cliente: Está bien, le agradezco.  
+<soc>Asesor: Muchas gracias.  
+<soc>Cliente: Ok, a usted gracias.  

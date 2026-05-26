@@ -1,0 +1,8 @@
+Speaker A: Hola, buen día, tengo el gusto con el caballero Kevin. ¿Hola, me escuchas ahora?
+Speaker B: Me escucho, dígame con quién quiero comunicarse.
+Speaker A: Mi nombre es Judith, me quiero comunicar con Kervin.
+Speaker B: Sí, con él habla.
+Speaker A: Disculpen la molestia, nos comunicamos hace aproximadamente un mes. Les saludo del dealer de autos y quería saber si siguen interesados en comprar vehículos.
+Speaker B: Pero me pueden mandar información porque ahorita yo dejo toda la noche y recién estoy llegando y voy a descansar.
+Speaker A: Ok, ahí le voy a dejar nuestro directo por un mensajito de texto. No sé qué día nos podría visitar. Ok, tenemos abierto sábado y domingo. Ahí le dejo la dirección y los horarios para que chequen.
+Speaker B: Ok, señorita, gracias. Bye.

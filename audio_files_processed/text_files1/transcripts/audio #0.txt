@@ -1,0 +1,19 @@
+<soc>Asesor: ¿Hola como se encuentra?  
+<soc>Asesor: Le saludo del dealer de autos.  
+
+<soc>Cliente: ¿Ok, de cuál?  
+<soc>Asesor: De acá en San Fernando, California. Tenía unos mensajitos ahí que estaba interesado en un vehículo.  
+<soc>Cliente: ¿De dónde?  
+<soc>Asesor: Del dealer de autos en San Fernando, California.  
+<soc>Cliente: ¿Ok, de cuál era?  
+<soc>Asesor: De Cali Go Autos.  
+<soc>Cliente: Ok.  
+<soc>Asesor: Le quería dar más información de cómo trabajamos. No sé si tiene tiempo de atenderme.  
+<soc>Cliente: ¿Sí, pero nomás quiero ir al punto, me entiendes?
+<soc>Asesor: Ok, gusta que le envíe la dirección.  
+<soc>Cliente: ¿Porque a veces me dicen que sí y luego voy y no tengo ahorita down payment, pero si me da un poco de tiempo, si puedo conseguirlo, 
+<soc>Cliente: pero pues sin el auto, pues no lo puedo conseguir más pronto, me entiendes?.  
+<soc>Asesor: Ok, fíjese que nosotros si ocupamos que traiga un down payment, 
+<soc>Asesor: no le podemos ayudar con cero enganche. Mínimo ocuparía unos 1800 de enganche para que se pueda usar.  
+<soc>Cliente: Ok, gracias. Entonces olvidenme  
+<soc>Asesor: Bueno, gracias a ustedes. Bye bye 

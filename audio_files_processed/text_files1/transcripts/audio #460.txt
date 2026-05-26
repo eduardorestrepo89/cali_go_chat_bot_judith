@@ -1,0 +1,7 @@
+<soc>Cliente: Hola, tengo el gusto de hablar con Joana.
+<soc>Asesor: Sí, soy yo.
+<soc>Cliente: Les saludo de acá del dealer de autos. Quería darle más información sobre cómo trabajamos. No sé si tiene tiempo para atenderme.
+<soc>Asesor: Ahorita no tengo mucho tiempo, pero sí me gustaría que me dejara la información por mensaje o texto. Solo bríndeme la dirección y lo que necesito saber, porque ahorita no puedo hablar, pero sí puedo textear.
+<soc>Cliente: Ok, entonces le enviaré la información por mensaje.
+<soc>Asesor: Ok, gracias.
+<soc>Cliente: Gracias. Bye.

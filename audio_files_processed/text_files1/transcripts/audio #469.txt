@@ -1,0 +1,14 @@
+<soc>Asesor: Hola, buen día. ¿Tengo el gusto con el caballero Esteban? Le saludo del dealer. Hace unos días intercambiamos mensajes y vi que le interesa un vehículo. ¿Tiene tiempo para atender mi llamada?
+<soc>Cliente: Sí, un poco. Estoy manejando y quería algo rápido. Tengo mal crédito y estoy arreglándolo con una compañía, pero no veo resultados. Ya quiero un carrito. ¿Ustedes financian directamente o a través de bancos?
+<soc>Asesor: Nosotros hacemos financiamiento en casa, el trato es directamente con nosotros y calificamos cualquier tipo de crédito. Necesitamos su identificación (puede ser de aquí o de su país), un comprobante de domicilio (cualquier factura con su dirección) y un comprobante de ingresos.
+<soc>Cliente: Ok, muy bien. ¿Dónde están ubicados?
+<soc>Asesor: Estamos en el valle de San Fernando, como a una hora de Riverside.
+<soc>Cliente: Ah, sí, San Fernando.
+<soc>Asesor: Le enviaré la dirección por mensaje de texto. ¿Qué día podría visitarnos?
+<soc>Cliente: Creo que el fin de semana. Estoy en Laredo recogiendo una carga, manejo un camión grande.
+<soc>Asesor: ¿Busca algún vehículo en especial, alguna marca, año o modelo?
+<soc>Cliente: Vi algo como un Marquis, un Grand Marquis o algo así.
+<soc>Asesor: Tenemos un excelente inventario, estoy seguro de que le gustará alguno de nuestros vehículos. Le compartiré nuestra dirección y me comunico con usted el sábado para confirmar la cita.
+<soc>Cliente: Sí, está bien, por favor.
+<soc>Asesor: Bueno, gracias. Que tenga un excelente martes.
+<soc>Cliente: Igualmente, gracias. Hasta luego.

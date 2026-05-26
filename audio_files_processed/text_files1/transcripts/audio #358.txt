@@ -1,0 +1,17 @@
+<soc>Asesor: Hola, muy buenos días, caballero. Le saludo del dealer, mi nombre es Judith. Hace unos días estuvimos intercambiando mensajitos y le compartí algunas fotos de nuestros vehículos. No tuve respuesta y quería confirmar si sigue interesado en algún vehículo. No sé si tiene tiempo en este momento
+
+<soc>Cliente: si, como no, cuenteme.
+
+<soc>Asesor: Le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Estaríamos solicitando solamente tres documentos para poder financiarle un vehículo: su identificación vigente, un comprobante de ingreso y un comprobante de domicilio. ¿Contaría con los tres requisitos o habría inconveniente con alguno?
+
+<soc>Cliente: Sí los tengo.
+
+<soc>Asesor: Perfecto. ¿Y busca algún vehículo en especial, marca, año o modelo?
+
+<soc>Cliente: Estaba viendo una Chevrolet Silverado.
+
+<soc>Asesor: Ok, perfecto. Acá le tenemos desde 3,500 de enganche del año 2019 en adelante. No sé qué le parece. ¿Sería su primera vez financiando o ya tiene algún financiamiento anterior?
+
+<soc>Cliente: Ya tuve.
+
+<soc>Asesor: Ok, excelente. Entonces, solo con la identificación, el recibo (bill) y el comprobante de domicilio, y el enganche, nosotros le estaríamos ayudando. No importa si su crédito está bueno, malo, regular o si es su primer crédito. Nosotros le ayudamos a mejorar el crédito o a comenzarlo. Tenemos abierto de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m., y los domingos desde las 10:00 a.m. hasta las 6:00 p.m. Le voy a compartir toda nuestra información por mensajito y la próxima semana, cuando ya esté listo, me puede contactar, ya sea por llamado o por mensaje. 

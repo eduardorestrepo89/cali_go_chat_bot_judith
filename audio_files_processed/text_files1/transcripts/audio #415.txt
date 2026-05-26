@@ -1,0 +1,16 @@
+<soc>Asesor: Buenas tardes Alonso, mi nombre es Judith, nos comunicamos hace como un mes. Le saludo del dealer de autos, quería saber si sigue interesado en comprar un vehículo.
+<soc>Cliente: Sí.
+<soc>Asesor: Ok, ¿y qué día nos puede visitar? Le voy a dejar la dirección por mensaje de texto.
+<soc>Cliente: Lo que pasa es que, de hecho, fui a un dealer, pero no tengo comprobante de ingresos.
+<soc>Asesor: No, con nosotros no necesita comprobante de ingresos, solo necesita su identificación vigente, un comprobante de domicilio que puede ser cualquier tipo de recibo aunque no esté a su nombre y el enganche de mil dólares. Y aquí estamos abiertos de lunes a sábado hasta las 8:00 p.m. y los domingos hasta las 6:00 p.m. No sé qué día se puede dar la vuelta. Le aseguro que aunque no traiga comprobante de ingresos, nosotros le ayudamos.
+<soc>Cliente: ¿Me puede mandar la dirección? Puedo ir el domingo.
+<soc>Asesor: Domingo. Perfecto, ahí le dejo la dirección por un mensajito de texto.
+<soc>Cliente: Ok, bueno, cuánto down payment hay que dar?
+<soc>Asesor: Depende del vehículo que busque. ¿Qué tipo de vehículo busca?
+<soc>Cliente: Un Chevrolet Camaro o una Chevrolet Colorado.
+<soc>Asesor: Ok, aquí le tengo. ¿Y es la primera vez financiando? ¿Ya ha tenido crédito?
+<soc>Cliente: Es la primera vez.
+<soc>Asesor: Ok, ocupa mínimo unos 1800 de enganche. Ahí le voy a dejar nuestra dirección. Y el domingo puede revisar la variedad en Chevrolet Camaro y Chevrolet Corolla que tenemos en colores como blanco, gris y negro.
+<soc>Cliente: Ok, si me manda toda la información.
+<soc>Asesor: Ok, perfecto. Entonces así quedamos. Que tenga una excelente tarde.
+<soc>Cliente: Ok, bye.

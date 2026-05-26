@@ -1,0 +1,49 @@
+<soc>Asesor: Hola, buen día. ¿Tengo el gusto con el caballero Juan?
+
+<soc>Cliente: Sí, buenos días.
+
+<soc>Asesor: Le saludo desde el dealer de autos. Hemos estado intercambiando mensajes, y no sé si tiene tiempo de atenderme.
+
+<soc>Cliente: Sí, claro.
+
+<soc>Asesor: Perfecto. Comento que nosotros hacemos publicidad en redes sociales. Usted mencionó que estaba interesado en adquirir un vehículo. ¿Qué busca exactamente? ¿Ya ha visitado Cali Go Autos?
+
+<soc>Cliente: No, no sé cuál es. 
+
+<soc>Asesor: Nosotros somos Cali Go Autos Autos, estamos en San Fernando, California. Para calificar con nosotros, necesitaría tres documentos: una identificación vigente, un comprobante de ingreso y un comprobante de domicilio.
+
+<soc>Cliente: Oh, ya sé cuál es. Creo que vi la publicación esta mañana, alrededor de las 7:11.
+
+<soc>Asesor: Exactamente.
+
+<soc>Cliente: Ahora sí lo escucho.
+
+<soc>Asesor: Le comento que hacemos financiamiento en casa y damos tres años de garantía en motor, transmisión y aire acondicionado. ¿Sería su primera vez financiando? ¿Usted ya tiene crédito?
+
+<soc>Cliente: El problema es que tengo mal crédito.
+
+<soc>Asesor: No hay problema, nosotros aprobamos cualquier tipo de crédito. ¿Está buscando algún vehículo en especial, marca y modelo?
+
+<soc>Cliente: Estaba buscando una troca del 2015 o más reciente.
+
+<soc>Asesor: Tengo vehículos desde 2018, con enganches a partir de $3500. ¿Qué le parece?
+
+<soc>Cliente: ¿$3500 de enganche? 
+
+<soc>Asesor: ¿Cuánto tiene disponible?
+
+<soc>Cliente: $2000 por ahora.
+
+<soc>Asesor: Con $3000 le podemos ayudar. Con $2000 sería difícil.
+
+<soc>Cliente: Sí, entiendo. Me podría mandar la dirección de dónde están ubicados y trataré de ir a visitarlos cuando tenga los $3000.
+
+<soc>Asesor: Claro, ¿cuándo cree que podría pasar por acá? Para enviarle un mensaje cuando se acerque la fecha.
+
+<soc>Cliente: Tal vez el fin de semana, como el sábado.
+
+<soc>Asesor: Perfecto, le dejaré nuestra dirección. Nos vemos el fin de semana.
+
+<soc>Cliente: Ok, está bien. Muchísimas gracias. ¡Feliz día!
+
+<soc>Asesor: Gracias, igualmente. ¡Hasta luego!

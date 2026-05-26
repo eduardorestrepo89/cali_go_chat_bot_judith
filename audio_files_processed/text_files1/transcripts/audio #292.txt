@@ -1,0 +1,18 @@
+<soc>Asesor: Hola, buenas tardes, ¿hablo con Dominic?
+<soc>Cliente: Sí, dígame.
+<soc>Asesor: Le saludo del dealer de autos. Nos comunicamos hace unos días y quería saber si sigue interesado en comprar un vehículo.
+<soc>Cliente: ¿Qué requisitos piden para los vehículos?
+<soc>Asesor: Principalmente necesitamos una identificación vigente, que puede ser de aquí o de su país. También un comprobante de domicilio, que puede ser cualquier factura, aunque no esté a su nombre. Y si tiene un comprobante de ingreso, sería ideal, pero no es obligatorio. ¿Es su primera vez financiando un carro?
+<soc>Cliente: Sí, solo he comprado en efectivo antes.
+<soc>Asesor: ¿Busca algún vehículo específico?
+<soc>Cliente: Busco un vehículo cómodo.
+<soc>Asesor: Tengo varios en inventario, como Honda, Toyota y Kia, desde $1,800 de enganche. También tengo algunos híbridos y eléctricos. ¿Cuándo podría venir a verlos?
+<soc>Cliente: ¿Dónde están ubicados?
+<soc>Asesor: Estamos en San Fernando. Le enviaré la dirección por mensaje. Abrimos de lunes a sábado de 10:00 a.m. a 8:00 p.m. y domingos hasta las 6:00 p.m.
+<soc>Cliente: ¿Y los precios?
+<soc>Asesor: Oscilan desde $20,000 en adelante. Necesitaríamos su visita para llenar la aplicación y determinar su tasa de interés, que empieza en el 7%.
+<soc>Cliente: Entendido. ¿Me puede dar la dirección?
+<soc>Asesor: Claro, se la enviaré. ¿Cuándo podría venir?
+<soc>Cliente: El martes de la próxima semana.
+<soc>Asesor: Perfecto, ahí estaremos. Gracias y que tenga un buen día.
+<soc>Cliente: Gracias. Igualmente.

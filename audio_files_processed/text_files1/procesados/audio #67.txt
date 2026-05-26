@@ -1,0 +1,17 @@
+Speaker A: No. Hola, buen día. Tengo el gusto con Juan Carlos.
+Speaker B: Sí, hola.
+Speaker A: Le saludo del dealer de autos. Quería darle más información de cómo trabajamos, no sé si tiene tiempo de atenderme.
+Speaker B: Sí.
+Speaker A: Ok. Le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros le estaríamos solicitando solamente tres documentos, los cuales serían una identificación vigente, un comprobante de ingreso 1, comprobante de domicilio.
+Speaker B: Si los tengo.
+Speaker A: Perfecto. ¿Y sería su primera vez financiando? ¿Usted ya ha tenido anteriormente un crédito?
+Speaker B: No, primera vez.
+Speaker A: Excelente. ¿Algún vehículo en especial que usted busque? ¿Marca, año, modelo?
+Speaker B: Pues no sé cuánto. ¿Con cuál más o menos? Primer comprador.
+Speaker A: ¿Ok, busca carro, troca o sub.
+Speaker B: Carro? Como de siete pasajeros.
+Speaker A: Ÿ. Ok, una sub de siete pasajeros, las tenemos desde los 2500 de enganche le tengo del año 2018 en adelante. ¿No sé qué día usted podría venir personalmente al dealer a verla? Le voy a dejar la dirección por un mensaje de texto. Estamos acá en San Fernando, California.
+Speaker B: Ok, mándame la dirección y a lo mejor mañana. Si mañana puedo o el domingo.
+Speaker A: Ok, perfecto. Entonces ahí le dejo nuestra dirección para que cheque y estamos ahí pendientes.
+Speaker B: Sí, muchas gracias.
+Speaker A: Bueno, gracias. Feliz día. Bye.

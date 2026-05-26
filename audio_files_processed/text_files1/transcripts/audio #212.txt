@@ -1,0 +1,31 @@
+<soc>Asesor: Buenas tardes, ¿tengo el gusto con el caballero Carlos?.
+
+<soc>Cliente: Ah, sí, soy yo.
+
+<soc>Asesor: Disculpe la molestia. Hemos estado intercambiando mensajes sobre el vehículo que busca. Le compartí la dirección, estamos en San Fernando, California.
+
+<soc>Cliente: ¿En San Fernando? ¿Dónde queda eso?
+
+<soc>Asesor: Estamos cerca de Los Ángeles. ¿De dónde es usted?
+
+<soc>Cliente: Yo estoy en Ontario.
+
+<soc>Asesor: Ontario, perfecto. ¿Le interesaría venir hasta San Fernando?
+
+<soc>Cliente: Hijo, la verdad es que me queda un poco lejos.
+
+<soc>Asesor: ¿Le queda muy lejos?
+
+<soc>Cliente: Sí, lo que pasa es que no tengo carro ahorita, y moverme es complicado.
+
+<soc>Asesor: Entiendo. Si le parece, puedo dejarle la dirección y, si en algún momento se anima a venir o está cerca, aquí estamos a su disposición.
+
+<soc>Cliente: Sí, mándeme la dirección y lo checo.
+
+<soc>Asesor: Claro, le comento que nosotros ofrecemos financiamiento en casa, damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Solo necesita su identificación para calificar, no importa cómo esté su crédito. Tenemos un excelente inventario de carros, camionetas y SUVs.
+
+<soc>Cliente: Perfecto, mándeme la dirección.
+
+<soc>Asesor: Ahí se la dejo. Si decide venir, no dude en contactarnos. ¡Que tenga un buen día!
+
+<soc>Cliente: Igualmente, gracias. ¡Hasta luego!

@@ -1,0 +1,19 @@
+<soc>Asesor: Hola, buen día. ¿Tengo el gusto con el caballero Carlos?
+<soc>Cliente: Hola, señorita. Sí.
+<soc>Asesor: Disculpe la molestia. Ayer nos dejó mensajes diciendo que estaba interesado en un vehículo.
+<soc>Cliente: ¿De qué dealer me habla?
+<soc>Asesor: De Caligo Autos, estamos en San Fernando, California.
+<soc>Cliente: Oh, claro. Ya hablé con ustedes, pero solo recibí información de unos pocos vehículos.
+<soc>Asesor: Entiendo. ¿Está buscando camionetas?
+<soc>Cliente: Sí, camionetas o vans. Quiero saber si, por ejemplo, una Yukon 2015 o 2017 necesitaría un down payment de 2,500 o 3,000. Quiero ir al grano.
+<soc>Asesor: Claro, le voy a enviar una foto del vehículo y el monto del down payment.
+<soc>Cliente: Por favor. Quiero actuar rápido, ya que he solicitado información a otros lugares, pero me piden muchos requisitos.
+<soc>Asesor: Podemos ayudarle con su identificación vigente y un comprobante de domicilio, aunque no esté a su nombre y un comprobante de ingresos.
+<soc>Cliente: Tengo eso, pero no tengo un comprobante de ingresos porque gano en efectivo.
+<soc>Asesor: No hay problema. Podemos hacer una carta en su trabajo para justificar sus ingresos.
+<soc>Cliente: Estoy seguro de que aquí me pueden ayudar.
+<soc>Asesor: Le dejo las fotografías de los vehículos. ¿Qué día podría visitarnos?
+<soc>Cliente: Si me gusta alguno, le diré a mi esposa esta noche. Iría solo y quiero llevarme la camioneta el fin de semana.
+<soc>Asesor: Perfecto, le envío las fotos en unos minutos.
+<soc>Cliente: Muchas gracias.
+<soc>Asesor: Gracias a usted. Lo esperamos.

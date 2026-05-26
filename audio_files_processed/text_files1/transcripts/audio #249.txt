@@ -1,0 +1,12 @@
+<soc>Asesor: Buenas tardes, ¿tengo el gusto con el señor o la señora Márquez? Le saludo de acá del dealer de autos, y quería saber si sigue interesada en comprar un vehículo.
+<soc>Cliente: ¿De qué dealer me habla, disculpe?
+<soc>Asesor: De Cali Go Autos. Usted nos contactó a través de nuestras redes sociales hace algunos días, mostrando interés en un vehículo.
+<soc>Cliente: Pero, ¿dónde están ubicados ustedes?
+<soc>Asesor: Estamos en el Valle de San Fernando. Le voy a dejar la dirección por mensaje de texto. ¿No sabe qué día podría visitarnos?
+<soc>Cliente: Sí, es que yo vivo un poco lejos.
+<soc>Asesor: No sé si le interesaría venir.
+<soc>Cliente: Es que lo que pasa es que no tengo carro para ir hasta allá.
+<soc>Asesor: Entiendo. De todas formas, le dejo nuestra dirección por si se anima a visitarnos. Siempre estamos aquí para ayudarle.
+<soc>Cliente: Igualmente, gracias por la información.
+<soc>Asesor: Si tiene alguna pregunta o necesita más información, no dude en llamarnos. ¡Que tenga un buen día!
+<soc>Cliente: Gracias, usted también.

@@ -1,0 +1,9 @@
+Speaker A: Hola, hola, buenas tardes caballero, les saludo del dealer de autos. Quería ser vehículo.
+Speaker B: Dígame.
+Speaker A: Quería saber si sigue interesado en comprar un vehículo.
+Speaker B: Sí, pero por el momento no, no tengo el enganche.
+Speaker A: ¿Ok, más o menos dentro de cuánto tiempo estaría listo para poder llamarle nuevamente o dejarle un mensajito de recordatorio?
+Speaker B: Por el fin de mes.
+Speaker A: Ok, perfecto. Entonces así quedamos. ¿Cuál es su nombre? ¿Disculpe?
+Speaker B: Samuel.
+Speaker A: Okay, Samuel. Gracias, mi amable. Feliz tarde.

@@ -1,0 +1,19 @@
+<soc>Asesor: Buen día, tengo el gusto con Estuardo. Le saludo de acá del dealer. No sé si tiene tiempo de atender mi llamada.  
+<soc>Cliente: Sí, claro, cuénteme.  
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros ocuparía solamente su identificación. Puede ser de aquí o de su país, pero vigente. También ocupa un Bill, cualquier tipo de Bill. Si no está su nombre, no hay problema, solo para poder confirmar su dirección y si tiene también un comprobante de ingreso.  
+<soc>Cliente: Vaya. ¿Y qué otro? Solamente esos tres requisitos.  
+<soc>Asesor: Solo esos tres requisitos ¿Cuenta con los tres o le haría falta alguno?  
+<soc>Cliente: ¿No, pues sí los tengo, solo sería de ver dónde no piden anticipo?  
+<soc>Asesor: Si pedimos anticipo, dependiendo del vehículo. ¿Busca carro troca o sub?  
+<soc>Cliente: Es un carro normal, un sedán.  
+<soc>Asesor: Ok. ¿Y primera vez financiando o ya tiene crédito?  
+<soc>Cliente: No, no, es primera vez.  
+<soc>Asesor: Ok, por un sedán estaríamos pidiendo mínimo unos 1,800 de enganche. ¿No sé, qué le parece?  
+<soc>Cliente: solo con $1,000 tengo ahorita por el momento.  
+<soc>Asesor: Ok, vengase con los 1,000. Con los 1,000. Acá nosotros trabajamos y vemos de qué forma le ayudamos. No sé qué día nos podría visitar.  
+<soc>Cliente: ¿Qué días atienden ustedes ahí? ¿Todos los días?  
+<soc>Asesor: Sí, de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m. y domingo desde las 10:00 a.m. hasta las 6:00 p.m.  
+<soc>Cliente: Sería tal vez el viernes o el sábado dentro de ocho días.  
+<soc>Asesor: Ok, perfecto. Entonces ahí le dejo nuestra dirección por un mensajito de texto y estamos en contacto.  
+<soc>Cliente: Está bien, gracias.  
+<soc>Asesor: Gracias. Feliz día. Bye.  

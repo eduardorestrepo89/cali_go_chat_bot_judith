@@ -1,0 +1,27 @@
+<soc>Asesor: Hola, buenos días. ¿Tengo el gusto de hablar con el caballero Pedro?
+<soc>Cliente: Sí, hola, buenos días.
+<soc>Asesor: Buenos días. Le llamaba del dealer para darle más información sobre cómo trabajamos.
+<soc>Cliente: Ajá. ¿Qué pasó? ¿Cómo es eso?
+<soc>Asesor: Bueno, le comento que ofrecemos financiamiento en casa. Damos hasta tres años de garantía en el motor, la transmisión y el aire acondicionado. Para financiar un vehículo, solo necesitamos tres documentos: una identificación vigente, un comprobante de domicilio (puede ser un bill, y no hay problema si no está a su nombre) y un comprobante de ingreso.
+<soc>Cliente: Sí, tengo todo eso.
+<soc>Asesor: Perfecto. ¿Sería su primera vez financiando o ya ha tenido experiencia en esto?
+<soc>Cliente: No, ya he financiado antes.
+<soc>Asesor: Entiendo. ¿Y cómo está su crédito, bueno, malo o regular?
+<soc>Cliente: Pues, está bien, no le voy a echar mentiras. Pero, a veces, por cuestiones de la vida, las cosas pueden complicarse.
+<soc>Asesor: No se preocupe. Si su crédito está un poco complicado, de igual forma siempre le ayudamos con el financiamiento. Lo que ofrecemos es un financiamiento directo, sin intermediarios ni bancos; todo el trato es con nosotros.
+<soc>Cliente: Está bien, eso suena mucho mejor, porque así los pagos se hacen directamente aquí, no con un banco.
+<soc>Asesor: Exactamente. ¿Está buscando algún vehículo en especial, como marca, año o modelo?
+<soc>Cliente: Solo necesito un carro que me lleve y me traiga al trabajo, no importa mucho la marca.
+<soc>Asesor: Perfecto, tenemos varios sedanes desde 1800 de enganche.
+<soc>Cliente: ¿Cuánto?
+<soc>Asesor: Desde 1800 de enganche.
+<soc>Cliente: Oh, ¿1800? Pensé que se podría ser con 1000.
+<soc>Asesor: Si solo tiene 1000, podemos ver de qué forma le ayudamos. Le voy a dejar nuestra dirección.
+<soc>Cliente: ¿Dónde están?
+<soc>Asesor: Estamos en San Fernando, California.
+<soc>Cliente: Oh, en San Fernando.
+<soc>Asesor: ¿Le queda lejos?
+<soc>Cliente: Sí, un poco, pero puedo buscar cómo llegar.
+<soc>Asesor: Le dejaré nuestra dirección y si encuentra cómo venir un día, estaremos aquí para atenderle.
+<soc>Cliente: Ándale, pues.
+<soc>Asesor: Muchas gracias, que tenga un buen día.

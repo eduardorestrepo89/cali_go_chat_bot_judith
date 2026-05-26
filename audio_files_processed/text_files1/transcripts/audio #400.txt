@@ -1,0 +1,19 @@
+<soc>Asesor: Hola, buenas tardes.  
+<soc>Cliente: ¿Sí, quién habla?  
+<soc>Asesor: Le llamé hace un momento. Le saludo de acá del dealer de autos. Quería saber si está interesado en comprar vehículo.  
+<soc>Cliente: Estaba buscando uno, pero no para ahorita, solo estábamos viendo precios, pero ya que me habló, cuánto cuesta una?. ¿Una CRB qué cuesta?  
+<soc>Asesor: Fíjense que nosotros ahorita no le tenemos CRB. ¿Usted solo busca esa?  
+<soc>Cliente: Sí, porque hay unas que salieron las de dos 4 turbo.  
+<soc>Asesor: Ok, 2024.  
+<soc>Cliente: Sí.  
+<soc>Asesor: Ok. Fíjense que por el momento no le tenemos de esas en inventario, pero si nos viene alguna, yo con gusto le notifico, le voy a dar mensajitos y fotos.  
+<soc>Cliente: Si, pues estaba buscando a ver para cuándo y pues el precio, primero es el precio, a ver hasta dónde llega el dinero.  
+<soc>Asesor: Claro.  
+<soc>Cliente: Para poder cotizar.  
+<soc>Asesor: Perfecto. Sí, la verdad no le podría dar como lo que son números exactos, porque como le menciono, no nos ha venido ninguna de ese año que se busca y las que nos vienen son del 2018 al 2022 y se venden súper rápido. Pero si nos viene alguna exactamente como la que usted busca, yo con gusto le voy a compartir nuestra información. 
+<soc>Cliente: ¿Y las camionetas familiares qué precio tienen? Por ejemplo, si es 2018, fíjese.  
+<soc>Asesor: El precio de las camionetas familiares anda arriba de los 25000. Si sería necesario como llenar aplicación para saber exactamente el plazo del financiamiento, el porcentaje de interés y el precio total del vehículo.  
+<soc>Cliente: Ok, ok. Bueno, vamos a ver, ahorita estoy trabajando. Tal vez yo en estos días le voy a echar una llamadita. Ya tengo su número acá.  
+<soc>Asesor: Ok, perfecto. Si termina decidiendo por una de menor año, acá estamos a la orden.  
+<soc>Cliente: Ok, muchas gracias.  
+<soc>Asesor: Gracias. Feliz tarde. Bye.

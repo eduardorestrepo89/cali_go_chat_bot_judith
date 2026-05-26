@@ -1,0 +1,14 @@
+Speaker A: Por favor, deje su mensaje para 323-407-0873.
+Speaker B: Para volver a escuchar su mensaje, oprima un.
+Speaker C: Para continuar grabando, oprima Dos.
+Speaker D: Para borrar y volver a grabar su mensaje, oprima Tres.
+Speaker E: Para opciones de entrega, oprima Cuatro.
+Speaker F: Para enviar un fax, oprima Seis.
+Speaker G: Para cancelar este mensaje, apriete la estrella.
+Speaker H: Para enviar este mensaje ahora, oprima el.
+Speaker I: Signo de número Zweitausendein o cuelgue.
+Speaker H: Para volver a escuchar su mensaje, oprima un.
+Speaker C: Para continuar grabando, oprima Dos.
+Speaker D: Para borrar y volver a grabar su mensaje, oprima tres.
+Speaker E: Para opciones de entrega, oprima cuatro.
+Speaker F: Para enviar un fax, oprima seis.

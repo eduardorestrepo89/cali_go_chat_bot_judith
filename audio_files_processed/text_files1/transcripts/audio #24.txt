@@ -1,0 +1,21 @@
+<soc>Asesor: Hola, buen día, caballero. Les saludo del dealer de autos. ¿Está disponible para hablar un momento?
+
+<soc>Cliente: Sí, claro. ¿Qué información me tienes?
+
+<soc>Asesor: Vimos que cuenta con $1,200 de enganche. ¿Está buscando un sedán?
+
+<soc>Cliente: Sí, busco un coche, pero no muy caro, unos $6,000 como máximo.
+
+<soc>Asesor: Entiendo. Para un sedán, necesitaríamos un enganche de al menos $1,800. También tenemos opciones de camionetas, pero el enganche mínimo sería de $2,500.
+
+<soc>Cliente: La verdad, por ahora solo tengo $1,200. ¿Puedo juntar más para un mejor enganche?
+
+<soc>Asesor: Sí, si puede reunir $1,500, podríamos trabajar con eso.
+
+<soc>Cliente: Perfecto, déjame juntar el dinero y te llamo.
+
+<soc>Asesor: Claro, le enviaré nuestra dirección por mensaje. ¡Espero su llamada!
+
+<soc>Cliente: Gracias, hasta luego.
+
+<soc>Asesor: Hasta luego.

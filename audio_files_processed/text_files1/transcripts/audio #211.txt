@@ -1,0 +1,39 @@
+<soc>Asesor: Hola, buenas tardes. ¿Cómo puedo ayudarle hoy?
+
+<soc>Cliente: Buenas tardes. Estoy interesado en comprar un vehículo, pero tengo algunas preguntas.
+
+<soc>Asesor: Claro, con gusto. ¿Busca alguna marca o modelo en particular?
+
+<soc>Cliente: Estoy pensando en un Toyota Corolla.
+
+<soc>Asesor: Excelente elección. ¿Está buscando alguna opción de financiamiento?
+
+<soc>Cliente: Sí, me gustaría saber sobre las opciones de financiamiento.
+
+<soc>Asesor: Perfecto. Nosotros ofrecemos financiamiento en casa con requisitos mínimos. Solo necesitaría una identificación vigente y un comprobante de ingresos.
+
+<soc>Cliente: ¿Qué tipo de comprobante de ingresos necesitan?
+
+<soc>Asesor: Puede ser un talón de cheque o una carta de su empleador. Si trabaja por su cuenta, un estado de cuenta bancario también funciona.
+
+<soc>Cliente: Entiendo. También tengo algunas preguntas sobre el enganche.
+
+<soc>Asesor: Claro. Para el Toyota Corolla, el enganche mínimo sería de 3000. Eso le permite acceder a financiamiento a tasas competitivas.
+
+<soc>Cliente: ¿Y qué pagos mensuales puedo esperar?
+
+<soc>Asesor: Dependiendo del precio del vehículo y el plazo de financiamiento, los pagos podrían rondar entre 400 y 500 al mes. Pero eso lo definimos en el momento de hacer la solicitud.
+
+<soc>Cliente: Perfecto. ¿Qué día podría ir a ver los vehículos?
+
+<soc>Asesor: Estamos abiertos todos los días de 10:00 a.m. a 6:00 p.m. ¿Hay un día que le funcione mejor?
+
+<soc>Cliente: Podría ir el sábado en la mañana.
+
+<soc>Asesor: Excelente. Le esperaré el sábado a las 10:00 a.m. para que podamos revisar los modelos disponibles.
+
+<soc>Cliente: Muchas gracias por la información.
+
+<soc>Asesor: A usted. Nos vemos el sábado. ¡Que tenga un excelente día!
+
+<soc>Cliente: Igualmente, hasta luego.

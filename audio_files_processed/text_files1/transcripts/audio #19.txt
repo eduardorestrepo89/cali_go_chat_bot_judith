@@ -1,0 +1,14 @@
+<soc>Cliente: Hola, buenas tardes. mi nombre es Judith, le llamé anteriormente de acá del dealer para saber si está interesado en visitarnos.
+<soc>Cliente: Ah, sí, oiga, estaba buscando un carro que tuviera el tercer asiento.
+<soc>Asesor: Tres filas de asiento, tengo varias SUVs desde los 3000 de enganche, no sé qué le parece.
+<soc>Cliente: ¿3000 de enganche?
+<soc>Asesor: Sí. ¿O con cuánto cuenta usted?
+<soc>Cliente: No lo sé, necesitaría ver el carro que me guste y luego decirle, ¿sabe qué? Si me gusta este carro y para saber cuánto piden de down para ese carro.
+<soc>Asesor: Ok, perfecto, aquí le tengo del 2018 en adelante, sería bueno que nos visitara. Los requisitos que ocupa traer solo son su identificación, puede ser de aquí o de su país, pero tiene que estar vigente. Si tiene también un bill donde aparezca su dirección, si no está a su nombre, no hay problema. Y si tiene también un comprobante de ingreso.
+<soc>Cliente: Sí tengo. ¿A ver, me podrías mandar la ubicación? ¿En qué ciudad están?
+<soc>Asesor: Estamos acá en San Fernando, California. Le voy a dejar la dirección por un mensajito de texto, no sé qué día nos podría visitar.
+<soc>Cliente: Sí, me lo puedes mandar, no hay problema.
+<soc>Asesor: Ok, ahí se lo voy a dejar entonces y ya cuando, no sé qué día más o menos estaría listo para poder estar pendiente de su visita.
+<soc>Cliente: Sí, claro que sí, puedo el sabado
+<soc>Asesor: Ok, bueno, ahí estamos en contacto. Que tenga una bonita tarde.
+<soc>Cliente: Igualmente.

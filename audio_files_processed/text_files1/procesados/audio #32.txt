@@ -1,0 +1,10 @@
+Speaker A: Buenas tardes.
+Speaker B: Sí, bueno.
+Speaker A: Tengo gusto con el caballero Carlos.
+Speaker B: Oh, sí.
+Speaker A: Mi nombre es Judith, le saludo de acá del dealer. Quería saber si sigue interesado en comprar vehículos.
+Speaker B: Oh, sí, pero bueno, sí, pero ahorita no, pronto, pronto no creo.
+Speaker A: ¿Ok, más o menos dentro de cuánto tiempo estaría listo para llamarle?
+Speaker B: Ÿousand Um.
+Speaker A: Okay, perfect.
+Speaker B: Okay, gracias, bye.

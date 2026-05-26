@@ -1,0 +1,45 @@
+<soc>Asesor: Bueno, hola, buen día. Le saludo de acá del dealer.
+
+<soc>Cliente: Ah, sí. ¿Y cuál sería el costo? ¿Cuál sería el enganche que usted necesitaría?
+
+<soc>Asesor: ¿Ok, tiene su identificación vigente?
+
+<soc>Cliente: Si, tengo identificacion de México.
+
+<soc>Asesor: Ok, con su identificación vigente le ayudaríamos. ¿También ocupa un Bill? Si no está a su nombre, no hay problema, solo para confirmar dirección. Y si tiene también un comprobante de ingreso.
+
+<soc>Cliente: Oh, sí, sí. Pues eso me dedico a trabajar.
+
+<soc>Asesor: Perfecto. ¿Y busca algún vehículo en especial, marca, año o modelo?
+
+<soc>Cliente: Pues algún modelo ya viejito, no, Cristo, muy reciente porque está calmigo.
+
+<soc>Asesor: Ok, fíjese que yo le tengo varios carros sedán, trocas y camionetas familiares, pero todos son del año 2018 en adelante. ¿Mínimo ocuparía unos 1,800 de enganche, no sé, qué le parece?
+
+<soc>Cliente: ¿Y los pagos mensuales cómo serían?
+
+<soc>Asesor: Andan mínimo por los 450 en adelante. Dependería del vehículo y el plazo del financiamiento.
+
+<soc>Cliente: Bueno, entonces mi pregunta es porque la otra vez fui a uno y ya, pues lo que uno da, creo que es puro, puro payment, ¿no? Claro, eso no cuenta para ningún pago de ningún tamaño. ¿Disculpe, eso no cuenta ya como para no va incluido ya en el precio del vehículo, verdad?
+
+<soc>Asesor: Fíjese que el enganche es un porcentaje del precio del vehículo. En este caso, nosotros sí lo tomamos en cuenta, o sí, es como el porcentaje, es un cierto porcentaje del valor del vehículo.
+
+<soc>Cliente: ¿Pero está ubicado en Los Ángeles, verdad?
+
+<soc>Asesor: Estamos acá en San Fernando, California. ¿Le queda lejos?
+
+<soc>Cliente: Sí, que estoy aquí en Santa Ana.
+
+<soc>Asesor: Ok, le voy a dejar nuestra dirección y si se anima a visitarnos, quedamos a la orden.
+
+<soc>Cliente: Ah, bueno, muy amable.
+
+<soc>Asesor: Entonces ahí le voy a dejar también nuestros horarios. Estamos abiertos hasta los días domingos también.
+
+<soc>Cliente: Ah, bueno, muy amable. Entonces por ahí si me animaría, por ahí llegaré estos días.
+
+<soc>Asesor: Ok, perfecto. Entonces ahí les dejo nuestra dirección y estamos en contacto. Que tenga un buen día.
+
+<soc>Cliente: Igualmente, gracias.
+
+<soc>Asesor: Gracias. Bye.

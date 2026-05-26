@@ -1,0 +1,22 @@
+<soc>Asesor: Hola, buen día! ¿Tengo el gusto de hablar con el caballero Hernández?. Le saludo de acá del dealer de autos Cali Go. Ayer nos dejó un mensajito que se ha interesado en un vehículo y le quería dar más información. No sé si tiene tiempo para atenderme.
+<soc>Cliente: ¿En qué parte están?
+<soc>Asesor: Acá en San Fernando, California, ¿le queda muy lejos o dónde vive usted?
+<soc>Cliente: Linda Vista, ok.
+<soc>Asesor: Bueno, al terminar la llamada le puedo dejar nuestra dirección para que chequee más o menos. No sé qué día podría venir usted acá a ver los vehículos. Tenemos carros, trocas y SUV.
+<soc>Cliente: ¿Qué marca tienen?
+<soc>Asesor: Tenemos varias marcas, como Mazda, Toyota, Honda, Nissan, Kia, Ford, Chevy, Hyundai y Tesla. También tenemos trocas y camionetas familiares, y sedanes. ¿No sé si usted busca algo en especial?
+<soc>Cliente: Ajá, pero ¿en cuánto sale cada uno? Por ejemplo, un Nissan, un coche, ¿cuánto sale?
+<soc>Asesor: Fíjese que todos nuestros vehículos son del año 2019 en adelante, y los precios van desde los 20,000 dólares en adelante. Pero para saber con exactitud en cuánto le va a salir un vehículo, sería necesario llenar una aplicación. Ya llenando la aplicación podemos ver con exactitud el porcentaje de interés y el plazo del financiamiento para establecer lo que es el pago mensual y el precio total. Todos nuestros vehículos son de 2019 en adelante, son bajos en millaje, tienen título limpio y le estaríamos dando tres años de garantía en motor, transmisión y aire acondicionado.
+<soc>Cliente: ¿Cuánto sería el pago mensual?
+<soc>Asesor: Los pagos van desde los 500 dólares mínimo. Si usted busca otro rango de pago, ¿de cuánto más o menos necesita checar?
+<soc>Cliente: Necesito ir para checar precios.
+<soc>Asesor: Ok, si gusta, puede venir sin ningún compromiso, no hay problema. Yo le voy a dejar nuestra dirección. No sé qué día nos podría visitar. Ajá, pero ¿está lejos?
+<soc>Cliente: San Fernando, yo estoy acá en Linda Vista.
+<soc>Asesor: Ok, si se anima a venir, le dejo la dirección. Estamos a la orden.
+<soc>Cliente: De todos modos, voy a ver qué día, porque los días que descanso son los jueves.
+<soc>Asesor: Ok, jueves descansa.
+<soc>Cliente: Ajá, los días jueves.
+<soc>Asesor: Ok, perfecto. Entonces ahí le dejo la información.
+<soc>Cliente: Ah, bueno, sino, está bien.
+<soc>Asesor: Pues ahí se la dejo y si se anima, estamos a la orden. Que tenga un buen día.
+<soc>Cliente: Igualmente.

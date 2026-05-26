@@ -1,0 +1,16 @@
+<soc>Asesor: ¿Hola, buen día, tengo el gusto con el caballero Kelvin? Le saludo del dealer de autos, no sé si tiene tiempo de atenderme.  
+<soc>Cliente: ¿De dónde?  
+<soc>Asesor: De acá del dealer de autos.  
+<soc>Cliente: Oh, ve que estoy en el trabajo.  
+<soc>Asesor: Ok, bueno, le voy a dejar un mensaje con nuestra información y no sé más o menos qué día podría venir a ver los vehículos.  
+<soc>Cliente: ¿Ok, y en qué estado están?  
+<soc>Asesor: Estamos en California.  
+<soc>Cliente: Yo vivo en Pasadena. No sé cuánto tiempo estamos.  
+<soc>Asesor: Estamos como 45 min.  
+<soc>Cliente: Ok, puedo ir 
+<soc>Asesor: Entonces ahí le dejo la dirección por si tiene tiempo de pasar esta semana.  
+<soc>Cliente: Ok, sí. ¿Y con cuánto de down payment?  
+<soc>Asesor: Busca carro o troca o SUV.  
+<soc>Cliente: Bien sea una troca o un automóvil.  
+<soc>Asesor: Ok, por un carro se dan mínimo 1800 de enganche y por una troca mínimo 3000.  
+<soc>Cliente: Okay. 

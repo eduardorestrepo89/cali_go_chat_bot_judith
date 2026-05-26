@@ -1,0 +1,19 @@
+
+<soc>Asesor: Hola, buen día. Con el caballero Yesha Arlet. quería saber si siguen interesados en comprar vehículos.
+<soc>Cliente: ¡Claro! Yo estoy interesado.
+<soc>Asesor: Ok, solo que desde 2016 no manejamos; solo vehículos del 2018 en adelante. ¿Está bien para usted?
+<soc>Cliente: ¿Ajá, y qué? Yo lo que quiero es una Honda CR-V o un Toyota Corolla.
+<soc>Asesor: Aquí le tengo también Corollas. Los Corollas están disponibles desde 2000 de enganche y la CR-V desde 3000. También necesitaría su identificación vigente, un comprobante de ingreso y un comprobante de domicilio.
+<soc>Cliente: ¿Cuánto de ingresos se necesita por un carro?
+<soc>Asesor: Para un carro, 2000 y para una camioneta como la que busca, mínimo unos 2500 a 3000.
+<soc>Cliente: Pero hace poco me llamó alguien, compañero suyo, y me dijo que con 1000 de enganche me daba un carro. ¿Un compañero trabaja para la jalisía también?
+<soc>Asesor: No, seguramente no era mi compañero. Aquí no manejamos ese tipo de enganche, caballero, porque los vehículos que tenemos son del 2019 al 2023, todos son bajos en millas y con título limpio. No manejamos vehículos con 1000 de enganche.
+<soc>Cliente: Pues qué extraño, porque me dijo que trabajaba para la jarisía. De hecho, así me salía en la pantalla quién me estaba llamando. Así me salía también.
+<soc>Asesor: Lo raro es que solo yo me he estado comunicando con usted y aquí tengo toda nuestra conversación y todas las llamadas que le he hecho. De hecho, quedan grabadas en nuestro sistema. Nadie más se ha comunicado con usted; solamente he sido yo la persona que le ha mensajeado y que le ha estado llamando.
+<soc>Cliente: No, no, un caballero me llamó y me dio otra dirección.
+<soc>Asesor: Estamos aquí en San Fernando, California.
+<soc>Cliente: Ah, él me había dado otra dirección.
+<soc>Asesor: Pues es posible que sea otro dealer, caballero, sin duda alguna.
+<soc>Cliente: Es que me confundí.
+<soc>Asesor: Ok, sí, no hay ningún inconveniente. De igual forma, le comparto nuestra dirección para que confirme que no me había comunicado anteriormente con usted. Quedo a su orden. Gracias, mi amable. Bye.
+

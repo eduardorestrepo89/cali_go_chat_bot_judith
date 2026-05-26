@@ -1,0 +1,10 @@
+<soc> Asesor: Aló, hola, buen día.  
+<soc> Cliente: Hola, buenos días.  
+<soc> Asesor: Hablo con el señor Bean.  
+<soc> Cliente: Con quién hablo yo.  
+<soc> Asesor: Le saludo de acá del dealer de autos, nos comunicamos hace algunas semanas y quería saber si sigue interesado en comprar vehículos.  
+<soc> Cliente: ¿A qué dealer está llamando? Porque fíjense que ya cotice en varios, pero no sé cuál de todos esos que me llama ahorita.  
+<soc> Asesor: Somos cali go autos, estamos acá en San Fernando, California.  
+<soc> Cliente: ¿Si yo hablé con ustedes, creo yo, no? Que iba a pasar. Si yo iba a pasar tal vez de jueves, de jueves a viernes creo, porque hoy, hoy voy para los Ángeles. Yo todavía estoy acá en Costa Mesa y hoy viajo para los Ángeles. Entonces pienso que jueves o viernes voy a estar pasando por ahí.  
+<soc> Asesor: Ok, perfecto. Entonces le voy a enviar nuestra dirección, se lo voy a compartir nuevamente para que la tenga ahí a la vista y nos vemos ya sea mañana o el viernes.  
+<soc> Cliente: Ok, está bien, sí, me parece. Gracias. Bye.  

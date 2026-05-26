@@ -1,0 +1,27 @@
+<soc>Asesor: Hola, hola, buen día caballero! Le saludo del dealer de autos. Estuvimos intercambiando mensajitos a través de las redes sociales y usted está interesado en un vehículo.
+<soc>Cliente: Sí señora.
+<soc>Asesor: Sí, le quería dar más información, no sé si tiene tiempo de atenderme.
+<soc>Cliente: ¿De dónde eres tú?
+<soc>Asesor: De Huntington Park. Estamos acá en San Fernando, California, en Los Ángeles. Ok, estamos aproximadamente a 40 minutos de Los Ángeles.
+<soc>Cliente: Sí, señora.
+<soc>Asesor: ¿Le interesaría visitarnos?
+<soc>Cliente: Me gustaría saber cómo es el proceso para adquirir un carro con ustedes.
+<soc>Asesor: Ok, fíjese que nosotros le estaríamos dando tres años de garantía en motor, transmisión, aire acondicionado y el primer mes de aseguradora gratis. Para calificar con nosotros, ocuparía su identificación vigente, un comprobante de ingreso y un comprobante de domicilio.
+<soc>Cliente: Ok, una preguntita, yo soy colombiano.
+<soc>Asesor: Ok, no hay ningún problema. Si tiene la identificación de su país, esa le funciona.
+<soc>Cliente: ¿Ok, pregunta, cuánto es lo mínimo de enganche?
+<soc>Asesor: ¿Busca carro, troca o SUV?
+<soc>Cliente: ¿Cómo?
+<soc>Asesor: ¿Busca algún vehículo en especial? ¿Sedán, troca, camioneta, familiar?
+<soc>Cliente: Una Kia Sportage.
+<soc>Asesor: Ok, y ¿es su primera vez financiando? ¿Ya tiene crédito?
+<soc>Cliente: No, pues es que yo había sacado, cuando llegué hace como casi dos años, un carro por Ganas Autos, pero la verdad me fue mal porque las cuotas no me servían y me las dejaron muy caras, entonces tuve que dejar de pagar y entregar el carro.
+<soc>Asesor: Ok, perfecto, no hay ningún problema. Le voy a dejar nuestra dirección y el día que nos pueda visitar, me notifica.
+<soc>Cliente: Ok, pero no me has dicho cuánto es lo mínimo de enganche.
+<soc>Asesor: Ah, perdón, sí. Fíjese que por una Kia Sportage, mínimo ocupa unos 2,500 o 1,500. ¿No sé qué le parece? ¿Con cuánto cuenta usted?
+<soc>Cliente: No, pues contaba por ahí con 2,000 hasta el momento. Sí, pero entonces quería saber también, digamos, yo sé que de pronto depende del préstamo o algo así, que digamos quedan las cuotas, porque la verdad con Ganas Autos fue muy mal por las cuotas. Me pusieron unas cuotas de 290 quincenales y eso es algo ilógico.
+<soc>Asesor: Ok, fíjese que en esta ocasión nosotros los vehículos que tenemos son del 2019 en adelante, y lo que son camionetas familiares, el pago mínimo mensual que manejamos es de 600. No le puedo ofrecer una cuota mensual menor dado que los vehículos son recientes.
+<soc>Cliente: ¿Ok, cuánto fue que me dijiste de cuota mensual?
+<soc>Asesor: Lo mínimo, fíjese que en camionetas familiares andan mínimo por los 600. Ok, no sé si le interesaría, a veces nos vienen algunas que son un poco más baratas en el pago mensual, pero por el momento no le puedo ofrecer nada más barato.
+<soc>Cliente: Okay, listo.
+<soc>Asesor: Okay, perfecto.

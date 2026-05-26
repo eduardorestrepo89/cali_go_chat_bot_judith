@@ -1,0 +1,28 @@
+<soc>Asesor: Hola, buenas tardes.  Le saludo desde el dealer y quería darle más información sobre el financiamiento de los vehículos. ¿Tiene tiempo para atender mi llamada?
+<soc>Cliente: Sí, claro que sí.
+<soc>Asesor: Excelente. Nosotros ofrecemos financiamiento en casa y damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar, necesitaría tres documentos: una identificación vigente (puede ser de aquí o de su país), un comprobante de domicilio (puede ser cualquier tipo de bill, incluso si no está a su nombre), y un comprobante de ingreso. ¿Tendría algún inconveniente con alguno de estos requisitos o cuenta con todos?
+<soc>Cliente: Yo trabajo, pero me pagan en efectivo.
+<soc>Asesor: No hay problema si le pagan en efectivo. Al llenar la aplicación, solo necesitaríamos que traiga su identificación y el bill para confirmar la dirección.
+<soc>Cliente: Ok, ¿y cómo serían los pagos?
+<soc>Asesor: ¿Está buscando un carro, troca o SUV?
+<soc>Cliente: Solo un auto.
+<soc>Asesor: Perfecto. ¿Es su primera vez financiando o ya ha tenido algún crédito?
+<soc>Cliente: No, es mi primera vez.
+<soc>Asesor: Entiendo. El enganche mínimo para un auto sería de $1,800. Tenemos opciones como Toyota, Nissan, Kia, Chevy, Ford, y Mazda. ¿Cuándo podría venir al dealer para ver los vehículos en persona?
+<soc>Cliente: Una consulta, ¿cuánto sería la mensualidad?
+<soc>Asesor: Para autos privados, el enganche mínimo sería de $2,500 y los pagos mensuales empiezan en $550. Pero para establecer el plazo del financiamiento y la tasa de interés exacta, tendríamos que llenar la aplicación.
+<soc>Cliente: Entiendo. ¿Y cuánto sería la mensualidad para un Honda Accord?
+<soc>Asesor: Para un Honda Accord, el enganche comenzaría en $2,000, y las mensualidades rondarían los $500.
+<soc>Cliente: ¿Y cuáles son los autos más económicos?
+<soc>Asesor: Los más económicos que tenemos en este momento serían Nissan, Hyundai y Kia, con enganches desde $1,800 y mensualidades alrededor de los $450.
+<soc>Cliente: Solo consultaba para tener una idea.
+<soc>Asesor: Perfecto. Como mencioné, las mensualidades varían entre $450 y $500, dependiendo del vehículo y del plazo. Carros como el Prius o el Honda tienen mensualidades más altas debido a su precio.
+<soc>Cliente: ¿De qué depende el monto de la mensualidad?
+<soc>Asesor: Depende del precio total del vehículo y del plazo del financiamiento. Para calcularlo, necesitamos llenar la aplicación, determinar la tasa de interés y ver qué opciones de pago se ajustan a usted. El plazo mínimo es de seis meses y el máximo es de cinco años y cuatro meses. Si opta por un plazo más corto, el pago mensual será más alto.
+<soc>Cliente: Ok, ¿me podría enviar la dirección? He aplicado a varios dealers y no estoy seguro de cuál es.
+<soc>Asesor: Claro, estamos en el Valle de San Fernando. Le enviaré nuestra dirección por mensaje de texto. ¿Le parece bien que nos visite el próximo sábado?
+<soc>Cliente: Sí, el próximo sábado está bien.
+<soc>Asesor: Perfecto. Me comunicaré con usted la próxima semana para confirmar. Le envío la dirección por mensaje ahora mismo.
+<soc>Cliente: Excelente, gracias.
+<soc>Asesor: Gracias a usted. Que tenga una feliz tarde.
+<soc>Cliente: Igualmente. Bye.

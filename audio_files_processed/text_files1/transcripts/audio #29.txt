@@ -1,0 +1,9 @@
+<soc>Asesor: Hola, buenas tardes caballero. Le saludo del dealer de autos nuevamente. Quería saber si sigue interesado en visitarnos.
+
+<soc>Cliente: Hola, le escucho.
+
+<soc>Asesor: Quería saber si está interesado en comprar vehículos financiados. Nos habíamos comunicado anteriormente.
+
+<soc>Cliente: Ya compré uno.
+
+<soc>Asesor: Ok, bueno, gracias por la información. Si necesita algo más en el futuro, no dude en contactarnos. ¡Que tenga un buen día! 

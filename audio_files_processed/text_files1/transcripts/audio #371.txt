@@ -1,0 +1,19 @@
+<soc>Asesor: Hola, muy buenas tardes. Tengo el gusto de hablar con el caballero Misael.
+
+<soc>Cliente: Sí, señor.
+
+<soc>Asesor: Hemos estado intercambiando mensajes sobre el vehículo que busca. No sé si tiene tiempo para atender mi llamada.
+
+<soc>Cliente: Sí, está bien.
+
+<soc>Asesor: Ok, Misael, le comento que nosotros somos un dealer y ofrecemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros, solo necesita tres documentos: su identificación vigente, un comprobante de ingreso y, si tiene, un comprobante de domicilio. El comprobante de domicilio, si no está a su nombre, no hay problema, solo es para confirmar la dirección. Si le pagan en efectivo, nos puede traer incluso el número de su jefe.
+
+<soc>Asesor: ¿Sería su primera vez financiando? ¿Ya tiene crédito?
+
+<soc>Cliente: No, sería la primera vez.
+
+<soc>Asesor: ¿Está buscando algún vehículo en especial?
+
+<soc>Cliente: Como un Mustang?
+
+<soc>Asesor: No tengo deportivos por el momento, le podría ofrecer un Honda Civic o un Toyota. No sé si está abierto a ver opciones entonces le dejaré nuestra dirección y estamos en contacto. Que tenga un excelente día. ¡Gracias!

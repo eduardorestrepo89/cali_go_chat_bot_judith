@@ -1,0 +1,22 @@
+<soc>Asesor: Hola, buenos días, ¿tengo el gusto con Néstor? Les saludo de acá del dealer. No sé si tiene tiempo de atender mi llamada.
+<soc>Cliente: Sí, dígame.
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa. Damos tres años de garantía en motor, transmisión y aire acondicionado. Para calificar, ocuparía tres documentos: su identificación vigente, un comprobante de ingreso y un comprobante de domicilio.
+<soc>Cliente: Ok, le voy a ser sincero. Yo recién llegué a EE.UU. hace siete meses y ahora quiero trabajar de Uber, entonces necesito un carro y estoy viendo la posibilidad de comprar uno a pagos. No sé si yo califico.
+<soc>Asesor: Claro que sí, nosotros hacemos financiamiento en casa, no pedimos que el cliente tenga crédito. ¿Ocuparía mínimo unos $2000 de enganche para un carro sedán?
+<soc>Cliente: Estoy con $1800 ahorita, ¿1800 trabajan?
+<soc>Asesor: Tenemos varios sedanes con los cuales podemos aplicar. ¿Qué día puede venir personalmente?
+<soc>Cliente: Quisiera saber si tienen el carro que estoy buscando, una Toyota CHR.
+<soc>Asesor: Fíjese que por el momento no tenemos CHR. Tengo varias camionetas familiares, pero de esas no tenemos en Toyota ahorita. Solo tengo sedanes: Camry, Corolla, Prius, y Tacomas.
+<soc>Cliente: ¿Y el Honda Civic Hatchback?
+<soc>Asesor: Ese sí lo tengo, en color azul.
+<soc>Cliente: Estoy buscando un color plata o plomo.
+<soc>Asesor: De momento solo tengo el azul, pero voy a checar si en alguna otra localidad tenemos uno de ese color y le notificaré.
+<soc>Cliente: ¿Y más o menos en cuánto está el azul y de qué año es, cuánto millaje tiene?
+<soc>Asesor: Es un año 2019, tiene 50,000 millas. Los precios dependen del plazo del financiamiento, tendríamos que aplicar para ver el tiempo de financiamiento y el porcentaje de interés.
+<soc>Cliente: ¿Cuál es el porcentaje de interés y dónde queda la dirección?
+<soc>Asesor: Comenzamos desde el 7 % en adelante y estamos ubicados en San Fernando. Le voy a dejar la dirección por un mensaje de texto.
+<soc>Cliente: Ok, ¿cuánto es el precio de ese carro?
+<soc>Asesor: No tengo los precios a la mano, pero voy a verificar y le comparto la información.
+<soc>Cliente: Ok, muchas gracias.
+<soc>Asesor: Gracias, que tenga un bonito día.
+<soc>Cliente: Igualmente, bye.

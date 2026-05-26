@@ -1,0 +1,63 @@
+<soc>Asesor: Buenas tardes, caballero. Les saludo del dealer de autos. Le quería dar más información sobre cómo trabajamos. No sé si tiene tiempo de atender mi llamada.
+
+<soc>Cliente: Sí, claro que sí.
+
+<soc>Asesor: Ok, comentarle que nosotros hacemos financiamiento en casa y damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros, le estaríamos solicitando tres documentos: una identificación vigente, un comprobante de ingreso y un comprobante de domicilio. ¿Sería su primera vez financiando? ¿Usted ya ha tenido algún crédito?
+
+<soc>Cliente: Sí, saqué mi carro hace como noviembre del año pasado.
+
+<soc>Asesor: ¿Y lo está pagando todavía?
+
+<soc>Cliente: Sí, lo saqué en Ganas Auto.
+
+<soc>Asesor: Ok, perfecto. ¿Y busca algún vehículo en especial, marca, año o modelo?
+
+<soc>Cliente: Quería ver dos opciones: una camioneta pick up no muy nueva, la quiero para el trabajo, del 2015, 2016, o la que menos nueva tengas. Y la otra opción sería un Prius, hasta qué modelo tienes.
+
+<soc>Asesor: Ok, fíjese que por el momento no tengo Prius, se nos han terminado, pero lo que son camionetas pick up sí tengo, pero solo del 2018 en adelante, desde los $3500 de enganche. No sé si le gustaría ver opciones.
+
+<soc>Cliente: ¿Por ejemplo, tienes alguna RAM?
+
+<soc>Asesor: Sí, le tengo dos RAMs.
+
+<soc>Cliente: ¿Cabina sencilla o doble cabina?
+
+<soc>Asesor: No, doble cabina; no tengo cabina sencilla por el momento.
+
+<soc>Cliente: ¿Y esa cabina doble cuánto, aproximadamente, sería la mensualidad, dando los $3500 de down payment?
+
+<soc>Asesor: Las mensualidades mínimas en trocas andan por los $600 aproximadamente. Tendríamos que ir a la aplicación para poder ver con exactitud cuánto le quedaría.
+
+<soc>Cliente: $600 y eso es mensual, ¿verdad?
+
+<soc>Asesor: Sí, mensual.
+
+<soc>Cliente: ¿Y en cuestión de carros híbridos tienes? ¿Qué carros tienes híbridos?
+
+<soc>Asesor: Fíjese que nos van a salir unos Hyundai en unos días. Le notificaría si le interesa. También le tengo Tesla, en color rojo, blanco y azul, del 2019 y 2020.
+
+<soc>Cliente: ¿Qué costo tiene el 2019?
+
+<soc>Asesor: Se van con $3000 de enganche. El precio total de esos vehículos anda arriba de los $25,000. Tendría que llenar una aplicación para ver el porcentaje de interés y cuánto le quedaría, pero la mensualidad sería de aproximadamente $600.
+
+<soc>Cliente: Ok, y de esos, más o menos, ¿promedio, depende de la aplicación? ¿A un mínimo cuánto es la mensualidad?
+
+<soc>Asesor: Eso sería también mensual, alrededor de $600, porque esos vehículos son un poco caros.
+
+<soc>Cliente: Sí, por eso buscaba algo un poquito más económico, porque me muevo mucho. Quiero ahorrar un poco en combustible. Me gustan mucho los Prius. Quería ver si podía conseguir uno del 2021 o 2022, pero no sé si tienen información sobre cuándo podrían llegarles.
+
+<soc>Asesor: Fíjese que los Prius nos llegan seguido. Cada vez que tenemos nuevo inventario, llegan Prius rápido y se venden. Le notificaría en cuanto nos venga alguno, probablemente la próxima semana ya tengamos aquí.
+
+<soc>Cliente: Ok, sí, me interesaría un Prius. Quiero explicarle que no tengo una forma de comprobar el cheque; todo mi ingreso lo hago en efectivo. Pero puedo pedirle a la empresa donde trabajo que me haga una carta desglosando lo que me pagan semanalmente. No sé si eso sería suficiente.
+
+<soc>Asesor: Claro que sí, eso funciona perfectamente como comprobante de ingreso.
+
+<soc>Cliente: Ok, y el comprobante de domicilio no importa que no tenga mi nombre, ¿verdad? Porque donde vivo no está a mi nombre.
+
+<soc>Asesor: No hay problema, mientras pueda confirmar la dirección.
+
+<soc>Cliente: Ok. En Ganas, me acuerdo que le mandé la cotización y me hicieron como una precalificación. Con esa precalificación yo fui a comprarlo y terminé en San Fernando en un Ganas Auto que no sabía que existía. Me dijeron que sí, que estaba aprobado y todo eso. Pero con ustedes, ¿hay posibilidad de hacer algo similar? Quiero tener certeza de dónde ir a comprar mi coche.
+
+<soc>Asesor: Claro, lo entiendo perfectamente. Si ya tiene trabajado su crédito, es 100% seguro que va a calificar nuevamente. No sería inconveniente. Si puede dejarnos su número y enviar sus documentos por el chat, eso ayudaría.
+
+<soc>Cliente: Ok, y entonces usted se estaría comunicando conmigo para decirme cuándo llegaría el carro o si les llega. Mire, yo no tengo prisa. Quiero comprarme el coche o la camioneta, cualquiera de los dos. La camioneta me gustaría que fuera cabina sencilla, ya que la quiero para trabajar. Se me hace un poco más lujosa, pero me quita espacio. Así que le agradecería si me recomienda si le llega alguna camioneta pick up de cabina sencilla o, en su defecto, el carro que le estoy mencionando.

@@ -1,0 +1,21 @@
+<soc>Cliente: Buenas tardes. ¿Quién habla?  
+<soc>Asesor: Le saludo de acá del dealer. No sé qué día se puede dar la vuelta. Anteriormente ya le había dejado nuestra dirección, ¿se la puedo compartir nuevamente? Abrimos de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m. y los domingos desde las 10:00 a.m. hasta las 6:00 p.m.  
+<soc>Cliente: Al domingo.  
+<soc>Asesor: Domingo. Perfecto.  
+<soc>Cliente: ¿Qué autos son?  
+<soc>Asesor: Le tengo autos gasolina y le tengo híbridos y también eléctricos del año 2018 en adelante. En marcas como Toyota, Honda, Hyundai, Nissan, Ford, Tesla.  
+<soc>Cliente: ¿Cuánto?  
+<soc>Asesor: 2000 de enganche.  
+<soc>Cliente: 2000 de enganche. ¿Una Honda también 2000 de enganche?.  
+<soc>Asesor: No, el Honda sería que por los 2000 a 2500, dependiendo el precio.  
+<soc>Cliente: ¿Dependiendo del carro, no?  
+<soc>Asesor: Sí, dependiendo. Ya el domingo que haga la visita, pues acá con 2014 le aseguro que sale manejando. Ya si le gusta un vehículo un poco más reciente, un poco más equipado, probablemente no.  
+<soc>Cliente: Busco uno para la familia. Digamos una camioneta.  
+<soc>Asesor: Ah, una SUV le tengo para cinco pasajeros y para ocho. Para cinco pasajeros tengo desde los 2500 y para ocho desde los 3000.  
+<soc>Cliente: ¿1000 engancha para una de ocho pasajeros?  
+<soc>Asesor: Sí, sí, para una de cinco pasajeros desde los 2500 que tengo de 2019 al 2023, con tres años de garantía en botón, transmisión y aire acondicionado. Y el primer mes de seguro gratis.  
+<soc>Cliente: ¿Son carros usados o como seminuevos?
+<soc>Asesor: Son carros seminuevos desde el 2018 en adelante y con poco millaje, ¿Y sería su primer crédito ya financiado alguna vez?  
+<soc>Cliente: No, primera vez.  
+<soc>Asesor: Perfecto. Ahí le dejo la dirección por mensajito y nos vemos el domingo.
+<soc>Cliente: Bueno. Gracias, papá. Gracias.

@@ -1,0 +1,33 @@
+<soc>Asesor: Hola, muy buenas tardes. ¿Tengo el gusto con el caballero Adán?
+<soc>Cliente: Ajá, sí, soy yo. Dígame.
+<soc>Asesor: ¿Podemos intercambiar unos mensajitos por WhatsApp sobre el vehículo que busca? No sé si tiene tiempo para atenderme.
+<soc>Cliente: ¿Qué vehículo?
+<soc>Asesor: Bueno, no me especificó cuál vehículo le interesa. Aquí tenemos trocas. ¿Está buscando algo en especial?
+<soc>Cliente: Sí, estamos buscando una troca.
+<soc>Asesor: Ok, le tengo Silverado, Colorado, F-150, y Tacoma.
+<soc>Cliente: Estoy interesado en una Ram, Frontier o la Silverado.
+<soc>Asesor: Perfecto. Tenemos modelos del 2018 en adelante, con enganche desde 3500 dólares.
+<soc>Cliente: ¿Y en cuánto salen?
+<soc>Asesor: Ah, perdón, desde los 3500 de enganche puede llevarse una. Aunque, ya terminó la promoción de "regalarlas" [risas].
+<soc>Cliente: No, no, me refiero a cuánto cuestan.
+<soc>Asesor: Los precios de nuestras trocas van desde 30,000 dólares en adelante. Ahorita, lo más económico que le puedo ofrecer es una Colorado 2019. Está con 2000 de enganche y su precio es de 22,000 dólares.
+<soc>Cliente: No, prefiero una Ranger o la F-150. ¿Qué modelo es?
+<soc>Asesor: Tenemos la Ford F-150 y también la Ranger.
+<soc>Cliente: ¿Qué versión tienen?
+<soc>Asesor: Tenemos versiones 4x4 y 4x2. ¿Está buscando algo en particular?
+<soc>Cliente: No, algo sencillo, la versión normal, no me gusta la XLT.
+<soc>Asesor: Perfecto. Igual, estarían desde los 3500 de enganche. ¿Cuándo podría venir a verlas personalmente?
+<soc>Cliente: A verlas, ¿y en dónde están ubicados?
+<soc>Asesor: Estamos en San Fernando, California.
+<soc>Cliente: San Fernando me queda bien lejos.
+<soc>Asesor: ¿Usted está en Riverside, verdad? Estamos a un poco más de una hora. No sé si le interesaría venir hasta acá. Tenemos abierto también los domingos hasta las 6:00 p.m.
+<soc>Cliente: Pues mándeme la dirección y me doy una vuelta.
+<soc>Asesor: Perfecto. Además, ofrecemos tres años de garantía en motor, transmisión y aire acondicionado. Los requisitos principales son su identificación y un comprobante de domicilio. Si no tiene cómo comprobar ingresos, no hay problema.
+<soc>Cliente: No, no tengo comprobante porque me pagan en efectivo.
+<soc>Asesor: No hay problema, solo con su identificación y el comprobante de domicilio está bien, aunque no esté a su nombre.
+<soc>Cliente: No, sí tengo mi dirección a mi nombre.
+<soc>Asesor: Excelente. ¿Y sería su primera vez financiando?
+<soc>Cliente: No, ya he tenido crédito y he sacado otro carro anteriormente.
+<soc>Asesor: Perfecto, entonces no debería haber problema. Tenemos un excelente inventario. ¿Cuándo cree que podría pasar por aquí para que estemos al pendiente?
+<soc>Cliente: Perfecto. Ok, ¡ándale!, paso el domingo
+<soc>Asesor: Muchas gracias. Que tenga un excelente día. ¡Bye!

@@ -1,0 +1,23 @@
+<soc>Asesor: Hola, muy buen día caballero, le saludo de acá del dealer.  
+<soc>Cliente: Sí, dime.  
+<soc>Asesor: Hemos estado intercambiando mensajitos por el vehículo que busca y le quería dar más información, no sé si tiene tiempo de atenderme.  
+<soc>Cliente: Sí, dale.  
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa. Vamos hasta tres años de garantía en motor, transmisión y aire acondicionado. Le estaríamos solicitando tres documentos para poder financiarle un vehículo, los cuales serían una identificación vigente, un comprobante de ingreso, 1 comprobante de domicilio.  
+<soc>Cliente: El comprobante de ingreso de domicilio lo tengo, pero el de ingresos no se pagan cash. Sí.  
+<soc>Asesor: Ok, no hay problema. En este caso solo su identificación y el bill con eso es suficiente. De acuerdo a la información que brinda su ingreso así queda en el sistema. ¿Usted sería primera vez que está aplicando un crédito o ya tiene crédito establecido?  
+<soc>Cliente: No, primera es.  
+<soc>Asesor: ¿Busca algún vehículo en especial?  
+<soc>Cliente: Pues la verdad tengo una Honda Civic 2007 que quisiera, pues no sé si me lo reciban en parte de pago o algo y como mejorar un carrito que no sea muy costoso y dar una plática.  
+<soc>Asesor: Perfecto. ¿Buscaría otras Honda, puede ser una?  
+<soc>Cliente: Hondita bien, 1 camioneta o una camioneta o qué así? O un Nissan.  
+<soc>Asesor: Ok, aquí le tenemos varios vehículos de la búsqueda. Tengo varios Honda, varios Nissan y varias camionetas. ¿Para que le podamos agarrar su camioneta, tiene que traer la camioneta y el título?  
+<soc>Cliente: Sí, yo tengo el título y tengo inclusive ayer le pagué aseguranza.  
+<soc>Asesor: Perfecto. ¿Y qué día podría visitarnos para que venga a ver personalmente el inventario y podamos negociar?  
+<soc>Cliente: ¿Y a dónde es? ¿Cómo se llama su empresa?  
+<soc>Asesor: Se llama Cali Go Autos, estamos acá en San Fernando, California.  
+<soc>Cliente: ¿Cali Go Autos? Ah, no, eso es una rata. Qué pena contigo, pero no, yo ya saqué un carro y me robaron $3200, me lo robaron y eso no, no.  
+<soc>Asesor: Ok, perfecto. Bueno, igual quedamos a la orden.  
+<soc>Cliente: Tengo Judith no, no, porquería, de verdad no deberías trabajar con la porquería rápido.  
+<soc>Asesor: Ok, bueno, gracias entonces por la indicación y de igual forma pues se va a la orden. Que tenga un bonito día.  
+<soc>Cliente: ¿Ya me robaron 3200, que más?  
+<soc>Asesor: Ok, gracias por tu tiempo. 

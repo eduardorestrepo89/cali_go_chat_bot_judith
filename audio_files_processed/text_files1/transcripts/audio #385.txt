@@ -1,0 +1,20 @@
+<soc>Asesor: Buenas tardes. Tengo el gusto con el caballero Kelvin. Sí, le saludo de acá del dealer. No sé si tiene tiempo de atenderme.
+<soc>Cliente: Sí, sí, cuenteme
+<soc>Asesor: Ok. Nosotros hacemos financiamiento en casa. Ofrecemos garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros, le estaremos solicitando tres documentos: su identificación, que puede ser vigente.
+<soc>Cliente: Ok.
+<soc>Asesor: También necesitamos un recibo, cualquier tipo de recibo. Si no está a su nombre, no hay problema; solo necesitamos confirmar su dirección. Y si tiene también un comprobante de ingresos.
+<soc>Cliente: ¿Cuánto es el monto mínimo que necesito para calificar con ustedes?
+<soc>Asesor: Ok. ¿Está buscando un carro, una camioneta o algún otro tipo de vehículo?
+<soc>Cliente: Estoy buscando carro o camioneta, algo accesible.
+<soc>Asesor: Ok. ¿Es su primera vez buscando financiamiento o ya tiene crédito?
+<soc>Cliente: He estado buscando, pero como co-prestatario.
+<soc>Asesor: Ok, perfecto. Para un préstamo le estaríamos solicitando un enganche mínimo de 2500 dólares. ¿Eso está dentro de sus posibilidades?
+<soc>Cliente: ¿Cuántas millas tienen más o menos los vehículos?
+<soc>Asesor: Las opciones que tenemos son del 2019 en adelante. Las millas andan entre 20,000 y 30,000. No tenemos vehículos de menor año. Le voy a dejar nuestra dirección por mensaje de texto. Estamos ubicados en San Fernando, California. ¿Qué día podría visitarnos para estar pendientes?
+<soc>Cliente: ¿Están ubicados en San Fernando? Sí, me queda cerca, a unos 20 minutos.
+<soc>Asesor: Ok, perfecto. Entonces le compartiré nuestra dirección. Abrimos de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m. y los domingos desde la mañana hasta las 6:00 p.m.
+<soc>Cliente: Ok.
+<soc>Asesor: ¿Podría pasar este fin de semana?
+<soc>Cliente: Sí, claro, el domingo. Pero por el momento solo tengo 2000.
+<soc>Asesor: Ok, perfecto. Véngase con los 2000. Nosotros lo podemos ayudar con el Down payment.
+<soc>Cliente: Perfecto. Gracias.

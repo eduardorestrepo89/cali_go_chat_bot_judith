@@ -1,0 +1,33 @@
+<soc>Asesor: Hola, muy buenos días. Estuvimos intercambiando algunos mensajitos por WhatsApp. Quería darle más información sobre cómo trabajamos. No sé si tiene tiempo para atender mi llamada.
+
+<soc>Cliente: Sí, acabo de salir a break.
+
+<soc>Asesor: Ok. Bueno, le comento que nosotros tenemos vehículos del año 2018 en adelante. Nuestro financiamiento es en casa, es decir, hacemos el financiamiento nosotros mismos, sin bancos como intermediarios. Damos tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros, principalmente necesitaría su identificación, que puede ser de aquí o de su país, pero debe estar vigente. También necesitaría los siguientes requisitos que le voy a mencionar. Si no tiene alguno, no hay inconveniente. Lo que sí es indispensable es su identificación. Puede traer también el pasaporte. Está perfecto. Además, necesitaría un recibo (Bill) donde aparezca su dirección. Si no está a su nombre, no hay problema; solo es para confirmar la dirección. Y también un comprobante de ingreso. Esos son los requisitos. ¿Contaría con los tres o cuál habría algún inconveniente?
+
+<soc>Cliente: Ok, me interesaría la Dodge Durango. ¿Tiene una Durango ahí, no?
+
+<soc>Asesor: Sí, le tenemos Dodge Durango desde los $3000 de enganche. No sé qué día podría venir a verla personalmente.
+
+<soc>Cliente: ¿Cuándo, cuándo? ¿A dónde está ubicado? Yo vivo en Downey.
+
+<soc>Asesor: Nosotros estamos acá en el valle de San Fernando. No le queda tan retirado.
+
+<soc>Cliente: ¿Está por el 60, no?
+
+<soc>Asesor: Sí, exactamente. Tenemos abierto de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m., y los domingos desde las 10:00 a.m. hasta las 6:00 p.m.
+
+<soc>Cliente: Ok, ok. Entonces, voy a ir el sábado a ver el carro. aunque solo tengo 2000 de down payment
+
+<soc>Asesor: Perfecto. Le dejo la dirección y estamos en contacto. Vamos a ver de qué forma trabajamos con los $2000. Siempre buscamos la forma de ayudarle al cliente y le ofrecemos facilidades. Podemos ofrecer un down payment diferido, pero es cuestión de que nos visite y, al ver el vehículo, podemos entrar en negociación.
+
+<soc>Cliente: Ok, entonces, voy a verlos al rato. Si puedo, salgo temprano; si no, el sábado.
+
+<soc>Asesor: Perfecto. Cualquier cosa que necesite, estoy a la orden. Si puede pasar ahora, bien; si no, nos vemos el sábado.
+
+<soc>Cliente: ¿Me mandan la dirección, por favor?
+
+<soc>Asesor: Sí, se la dejo por un mensajito. Que tenga un buen día.
+
+<soc>Cliente: Gracias.
+
+<soc>Asesor: A la orden.

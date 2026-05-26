@@ -1,0 +1,23 @@
+<soc>Asesor: Hola, buenos días. ¿Tengo el gusto de hablar con María?
+<soc>Cliente: Sí, ¿quién habla?
+<soc>Asesor: Le saludo de aquí del concesionario de autos. No sé si tiene tiempo para atender mi llamada.
+<soc>Cliente: Oh, sí, claro.
+<soc>Asesor: Perfecto. Le comento que nosotros ofrecemos financiamiento directo. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros, necesitamos tres documentos: su identificación, que puede ser de aquí o de su país, pero debe estar vigente. También requerimos un recibo, cualquier tipo de factura. Si no está a su nombre, no hay problema, solo es para confirmar su dirección. Y, si es posible, un comprobante de ingresos.
+<soc>Cliente: Lo único es que mis licencias de conducir no tienen la dirección actual; tienen la dirección anterior.
+<soc>Asesor: Ok, no hay problema. ¿Y sería su primera vez financiando? ¿Ya tiene crédito?
+<soc>Cliente: No, ya he tenido crédito antes.
+<soc>Asesor: ¿Fue bueno o malo? ¿Está buscando algún vehículo en especial, alguna marca o año moderno?
+<soc>Cliente: Me gustaría un SUV, pero que califique y que sea económico; eso es lo único que pido.
+<soc>Asesor: Perfecto. Aquí tenemos varias SUV disponibles. Las SUV comienzan con un enganche de $2500, y los carros sedán desde $2000. ¿Qué día podría venir personalmente a ver los vehículos? Estamos ubicados en el Valle de San Fernando. Le dejaré la dirección exacta por mensaje de texto. Estamos abiertos de 9:00 a.m. a 8:00 p.m. hoy y de 10:00 a.m. a 6:00 p.m. mañana.
+<soc>Cliente: Ok, entonces tal vez podría ir mañana.
+<soc>Asesor: Perfecto, le enviaré nuestra dirección por mensaje de texto para que la revise.
+<soc>Cliente: Una pregunta, ¿el enganche sería de más de $2000 en cualquier carro?
+<soc>Asesor: En los carros sedán, el enganche mínimo es de $2000, y en las SUV, es de $2500. Todos los vehículos que tenemos son del 2019 en adelante, están en excelente estado y le damos el primer mes de seguro gratis.
+<soc>Cliente: Perfecto, eso suena genial. Quiero asegurarme de entender bien todo antes de tomar una decisión.
+<soc>Asesor: Claro, aquí estamos para ayudarle. Su satisfacción es nuestra prioridad.
+<soc>Cliente: Muchas gracias. Aprecio la información.
+<soc>Asesor: No hay de qué. Le enviaré un mensaje con la dirección y mi número directo, por si tiene alguna otra pregunta antes de venir.
+<soc>Cliente: ¡Excelente! Espero poder visitarlos mañana.
+<soc>Asesor: Esperamos su visita, María. Que tenga un excelente día.
+<soc>Cliente: Igualmente, gracias. ¡Hasta mañana!
+<soc>Asesor: Hasta mañana.

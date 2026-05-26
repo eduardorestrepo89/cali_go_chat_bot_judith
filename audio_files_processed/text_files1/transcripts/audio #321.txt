@@ -1,0 +1,8 @@
+<soc>Asesor: Buen día, ¿tengo el gusto de hablar con el cliente? Le saludo desde el dealer de autos. Recibí un mensaje indicando que está interesado en un vehículo.
+<soc>Cliente: Hola, sí, me gustaría cambiar mi carro por un modelo 2021.
+<soc>Asesor: Perfecto, ¿podría darme más detalles sobre su vehículo actual?
+<soc>Cliente: Es que todavía debo un dinero de mi carro actual.
+<soc>Asesor: Entiendo. ¿Cuánto es lo que debe?
+<soc>Cliente: Debo $1000.
+<soc>Asesor: Fíjese que nosotros aceptamos intercambios, pero el vehículo debe estar completamente pagado. En este caso, no podríamos hacer el intercambio hasta que pague el saldo pendiente. Sin embargo, si le gustaría adquirir otro vehículo, con gusto le ayudamos a encontrar uno.
+<soc>Cliente: Está bien, entiendo. Gracias por la información.

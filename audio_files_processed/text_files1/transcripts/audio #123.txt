@@ -1,0 +1,11 @@
+<soc>Asesor: Hola, buen día. ¿Tengo el gusto con Miguel?
+<soc>Cliente: Sí, con él habla.
+<soc>Asesor: Le saludo del dealer de autos. Estuvimos intercambiando mensajes el 16 de julio. ¿Tiene tiempo de atenderme?
+<soc>Cliente: Ahora estoy en el trabajo.
+<soc>Asesor: Entiendo. ¿A qué hora podría volver a llamarle?
+<soc>Cliente: Salgo entre las 5:06 y 5:30.
+<soc>Asesor: Perfecto. Le enviaré un mensaje con nuestra información y le llamaré más tarde.
+<soc>Cliente: Muchas gracias.
+<soc>Asesor: De nada, ¡hasta luego!
+<soc>Cliente: Bye.
+

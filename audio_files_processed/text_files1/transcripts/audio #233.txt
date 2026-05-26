@@ -1,0 +1,9 @@
+<soc>Asesor: Hola, buen día. Soy Judith del dealer. Recibí su consulta sobre financiamiento de un vehículo. ¿Tiene tiempo para hablar?
+<soc>Cliente: Sí, claro. Estoy interesado en un vehículo porque las cuotas de mi Nissan Altima 2021 son muy altas, alrededor de 800 al mes, y no puedo seguir así. Busco un Hyundai o Kia del 2018-2019 y cuotas de aproximadamente 600 al mes, para disminuir gastos.
+<soc>Asesor: Entiendo. Para financiar, necesitamos su identificación vigente, un comprobante de domicilio y uno de ingresos. ¿Piensa regresar su vehículo actual?
+<soc>Cliente: Sí, quiero devolverlo porque no puedo pagar las cuotas.
+<soc>Asesor: Perfecto. Para financiar un vehículo, necesitaría al menos 2500 de enganche, especialmente considerando su crédito actual. Lo más recomendable sería que realice el proceso de calificación antes de devolverlo, para evitar que afecte más su crédito.
+<soc>Cliente: Está bien, ¿me puedes enviar la dirección para saber si trabajan hoy?
+<soc>Asesor: Claro, le enviaré la información por mensaje. Estoy a su disposición.
+<soc>Cliente: Muchas gracias.
+<soc>Asesor: Que tenga un buen día.

@@ -1,0 +1,19 @@
+<soc>Asesor: Hola, buenas tardes, le saludo del dealer.  
+<soc>Cliente: Sí, dígame.  
+<soc>Asesor: Estamos mensajeando acá a través de WhatsApp sobre el vehículo que busca. No sé si tiene tiempo de atenderme.  
+<soc>Cliente: Sí, dígame.  
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa. Ofrecemos tres años de garantía en motor, transmisión y aire acondicionado. Para poder calificar con nosotros ocupa una identificación vigente, puede ser de aquí o de su país. También ocupa un Bill, si no está su nombre no hay problema, solo para confirmar dirección y si tiene también un comprobante de ingresos.  
+<soc>Cliente: ¿Ya, y de cuánto sería el enganche?  
+<soc>Asesor: ¿Busca carro, troca o SUV?  
+<soc>Cliente: Pues andamos buscando un carro económico más que todo para transportarnos para el trabajo.  
+<soc>Asesor: Ok, ocuparía unos 1800 de enganche, le tenemos vehículos del año 2018 en adelante en marcas como Nissan, Toyota, Kia, Ford, Hyundai. ¿Y sería su primera vez financiando? ¿Usted ya tiene crédito?  
+<soc>Cliente: No, no es primera vez.  
+<soc>Asesor: Ok, excelente.  
+<soc>Cliente: Nosotros acá les andamos buscando opciones, buscando a ver cómo podemos hacer porque si se batalla bastante acá con eso de movilizarse para el trabajo.  
+<soc>Asesor: Es una necesidad, verdad? Tener un vehículo. Nosotros hacemos el financiamiento en casa, si no tiene crédito, acá le ayudamos y se los reportamos para que lo comience a hacer. Los requisitos, como le dije, pues si solo tiene su identificación, con eso le ayudamos, pero si también tiene un Bill, aunque no esté su nombre y algún talón de cheque que le pueda servir como comprobante de ingresos, lo puede traer.  
+<soc>Cliente: Si, eso sí lo tenemos, solo que ahorita yo estaba haciendo eso, pero en sí quien haría todas las gestiones sería mi esposo.  
+<soc>Asesor: Ok, perfecto. Le voy a compartir nuestra dirección por mensajito de texto. No sé más o menos dentro de cuánto estarían listos para visitarnos.  
+<soc>Cliente: Podría ser el fin de semana, día sábado.  
+<soc>Asesor: Perfecto, excelente. Entonces ahí le voy a compartir nuestra dirección y me pongo en contacto el día sábado para que me confirme.  
+<soc>Cliente: Gracias señor, muy amable.  
+<soc>Asesor: Gracias, feliz tarde. Bye bye. Gracias.

@@ -1,0 +1,18 @@
+Speaker A: ¿Hola, hola, hablo con Judith?
+Speaker B: ¿Hola, buen día, mi nombre es Judith, le saludo del dealer de autos, cómo puedo ayudarle?
+Speaker A: Claro que si Judith, no hablas con Juan de Dillerbus. Llamaba de pronto como para verificar cuál era el error que tenía la llamada.
+Speaker B: Ok, perfecto, está bien.
+Speaker A: Ok, no, nada más para verificar, cuéntame un poquito de cuál es el error que han experimentado.
+Speaker B: Lo que sucede es que la llamada también entraba al número personal de Ruth.
+Speaker A: ¿Ruth es Esther?
+Speaker B: Sí, exacto.
+Speaker A: Ok, ok, vale. ¿Y en este caso, sabes si esta llamada que te acabo de hacer también le entró a ella?
+Speaker B: No, no sé si le habrá entrado, dado que hace poco estuvieron en reunión verificando eso. No sé si ya pudieron configurar la forma de que no entrara su número personal.
+Speaker A: Sí, de hecho esta llamadita era para eso, para verificar si le estaba entrando a ella también. O sea, como para verificar si solamente te marcó a ti o si también le marcó a ella. Entonces no sé si hay una forma de verificar si sí le entró, porque la gracia es dejar eso listo para no incomodarla de pronto que le entren llamadas o algo así.
+Speaker B: Ok, ahorita mismo le pregunto, yo le voy a dejar un mensajito a ella.
+Speaker A: ¿Perfecto, estás ahí con ella?
+Speaker B: No, por mensajito lo voy a avisar.
+Speaker A: Ok, super. Entonces me confirmas por el grupo.
+Speaker B: Ok, excelente. Ahí le confirmo.
+Speaker A: Excellente. Muchas gracias Judith, que estés.
+Speaker B: Gracias, muy amable. Ÿ.

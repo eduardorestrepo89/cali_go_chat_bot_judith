@@ -1,0 +1,17 @@
+<soc>Asesor: Hola, buenas tardes caballero, le saluda Bendele.
+<soc>Cliente: Hola.
+<soc>Asesor: Quería darle más información de cómo trabajamos. No sé si tiene tiempo para atender mi llamada.
+<soc>Cliente: Sí, sí, está bien.
+<soc>Asesor: Ok, le comento que tenemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para poder financiarle, le estaríamos solicitando tres documentos, los cuales serían su identificación vigente, un comprobante de domicilio y un comprobante de ingreso. ¿Le hace falta alguno de estos? Aquí lo solucionamos. Ahorita estamos en San Fernando, California. Le voy a mandar la dirección por un mensajito de texto. ¿No sé qué día tendrá tiempo de visitarnos?
+<soc>Cliente: ¿La otra semana? Sí, yo tengo los tres documentos.
+<soc>Asesor: Ok, la otra semana. Excelente. ¿Busca algún vehículo en especial, marca, año o modelo?
+<soc>Cliente: No, solo un vehículo cómodo, no tan caro, que sea accesible.
+<soc>Asesor: Ok, aquí le tengo sedanes. ¿Sería su primer crédito o ya ha tenido crédito anteriormente?
+<soc>Cliente: No, sería el primero.
+<soc>Asesor: Perfecto. Ocuparía unos $1,800 de enganche para un carro sedán. No sé si eso está bien para usted o con cuánto cuenta.
+<soc>Cliente: ¿Cuánto? ¿$1,800?
+<soc>Asesor: Sí, eso es lo que requerimos.
+<soc>Cliente: Ah, hay que dejar enganche.
+<soc>Asesor: Fíjese que con nosotros sí necesitaría un enganche. Los vehículos que le ofrecemos son del 2019 en adelante. Le comparto nuestra dirección y la otra semana, cuando usted esté listo para visitarnos, me lo hace saber para estar pendiente.
+<soc>Cliente: Ok, muy amable. Gracias por la información.
+<soc>Asesor: Gracias a usted. Aquí estamos a la orden. Que tenga una bonita tarde.

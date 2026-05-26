@@ -1,0 +1,19 @@
+<soc>Asesor: Bueno, buen día. Le saludo de acá del dealer. ¿Me escucha?
+<soc>Cliente: ¿Sí, con quién hablo?
+<soc>Asesor: Mi nombre es Judith, le llamo del dealer de autos. Hace unos días traté de comunicarme con usted para darle más información sobre cómo trabajamos. ¿Tiene tiempo de atenderme?
+<soc>Cliente: Sí, ahora le puedo atender.
+<soc>Asesor: Perfecto. Estamos ubicados en San Fernando, California. No sé qué tan lejos le queda eso.
+<soc>Cliente: Estoy en San Diego.
+<soc>Asesor: Ok. ¿Tendría la disposición de venir hasta acá, San Fernando?
+<soc>Cliente: Depende si tienen el vehículo que estoy buscando.
+<soc>Asesor: Claro, le comento que hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar, solo necesita tres documentos: una identificación vigente, que puede ser de aquí o de su país; un comprobante de ingreso; y un comprobante de domicilio.
+<soc>Cliente: Entiendo.
+<soc>Asesor: ¿Sería su primera vez financiando, o ya tiene algún crédito?
+<soc>Cliente: No tengo ningún crédito de ningún tipo.
+<soc>Asesor: Está bien. ¿Y qué vehículo busca?
+<soc>Cliente: Estoy buscando una camioneta Chevrolet Suburban 2009.
+<soc>Asesor: Lamentablemente, no tengo de ese año en inventario. Solo manejo vehículos del 2018 en adelante, desde los 3000 de enganche.
+<soc>Cliente: No es demasiado nueva, pero tengo mis reservas sobre los modelos más recientes.
+<soc>Asesor: Entiendo. Si cambia de opinión y se anima por una opción más reciente, aquí estaré para ayudarle.
+<soc>Cliente: Gracias por la información.
+<soc>Asesor: De nada. Que tenga un buen día.

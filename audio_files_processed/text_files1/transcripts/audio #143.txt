@@ -1,0 +1,27 @@
+<soc>Asesor: Hola, buen día. Buen día caballero, le saludo del dealer de autos. Perdón, le saludo del dealer de autos, no sé si me escucha. 
+
+<soc>Cliente: Sí, dígame. 
+
+<soc>Asesor: Nos comunicó por las redes sociales que estaba interesada en un vehículo y le quería dar más información, no sé si tiene tiempo de atenderme. 
+
+<soc>Cliente: Hola, sí, sí dígame 
+
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa, damos hasta tres años de garantía en motor, en transmisión y en aire acondicionado. Para calificar con nosotros ocuparía tres documentos, su identificación, un Bill y 1 comprobante de ingresos. ¿sería su primera vez financiando hoy ha tenido crédito? 
+
+<soc>Cliente: No, es un primero financiero. 
+
+<soc>Asesor: ¿Algún vehículo en especial que usted busque? ¿Marca, año o modelo? 
+
+<soc>Cliente: un Sedan accord. 
+
+<soc>Asesor: Perfecto, aquí le tengo del 2018 al 2023 con los tres años de garantía, el primer mes de seguranza gratis, que lo tenemos desde los 2300 de enganche, no sé qué le parece. 
+
+<soc>Cliente: Bueno, estaría viendo mis ingresos, cómo están 
+
+<soc>Asesor: más o menos dentro de cuánto estaría listo para visitarnos para estar pendiente
+
+<soc>Cliente: tal vez el otro sábado. 
+
+<soc>Asesor: ¿Ok, entonces ahí le voy a dejar nuestra dirección por un mensajito de texto para que la chequen y nos vemos de este sábado al siguiente, verdad? 
+
+<soc>Cliente: si, bueno, gracias.

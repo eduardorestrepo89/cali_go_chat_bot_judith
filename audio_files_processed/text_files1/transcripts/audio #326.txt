@@ -1,0 +1,37 @@
+<soc>Asesor: Hola, buen día.  Le saludo de acá del dealer de autos. Recibimos su mensajito a través de las redes sociales que le interesa financiar un vehículo. No sé si tiene tiempo de atenderme.
+
+<soc>Cliente: ¿A dónde están ustedes?
+
+<soc>Asesor: Estamos acá en el valle de San Fernando, no le queda tan lejos. ¿En qué ciudad vive?
+
+<soc>Cliente: La Puerta, cuentame 
+
+<soc>Asesor: Ok, si gusta, le voy a compartir nuestra dirección por un mensajito de texto para que cheque más o menos. Creo que no estamos tan retirados. Aquí le daríamos hasta tres años de garantía en motor, transmisión y aire acondicionado, el primer mes de seguro gratis. Todos nuestros vehículos son del año 2018 en adelante, bajos en millaje y con título limpio. Para calificar con nosotros solo le estaríamos solicitando una identificación vigente, puede ser de aquí o de su país. También ocupa un recibo (Bill), cualquier tipo de recibo. Si no está a su nombre, no hay problema, solo para confirmar su dirección, y si tiene también un comprobante de ingreso. Pero si no tiene cómo comprobar ingreso porque le pagan en efectivo, no hay problema, nosotros aquí le ayudamos.
+
+<soc>Cliente: A mí me depositan de mi cuenta de banco.
+
+<soc>Asesor: ¿Ok, podría ser un estado de cuenta? O si tiene la app en línea, nosotros ahí podemos chequear lo que es el estado de cuenta. ¿Sería su primera vez financiando? ¿Usted ya ha tenido crédito?
+
+<soc>Cliente: No, primera vez 
+
+<soc>Asesor: Ok, perfecto. ¿Más o menos qué día nos podría visitar para estar pendiente?
+
+<soc>Cliente: ¿Ustedes abren los sábados?
+
+<soc>Asesor: Sí, hasta las 8:00 p.m. los sábados. ¿Y le iba a preguntar, busca algún vehículo en especial, marca, año o modelo?
+
+<soc>Cliente: Me gustan los SUV.
+
+<soc>Asesor: ¿Ok, aquí le tengo varias SUV desde los $2500 de enganche. No sé qué le parece.
+
+<soc>Cliente: Me gusta como el Balda, todo eso.
+
+<soc>Asesor: Aquí le tengo varias, entonces sé que más de alguna le va a gustar. Le voy a dejar nuestra dirección y si puede, el sábado acá estamos a la orden. Tenemos abierto desde las 10:00 a.m. hasta las 8:00 p.m.
+
+<soc>Cliente: el domingo tal vez.
+
+<soc>Asesor: Ok, perfecto. Entonces ahí le dejo nuestra dirección.
+
+<soc>Cliente: Gracias.
+
+<soc>Asesor:  ¡Hasta luego!

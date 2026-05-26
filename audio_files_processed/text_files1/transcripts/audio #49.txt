@@ -1,0 +1,7 @@
+<soc>Asesor: Hola, muy buen día. Tengo el gusto con Luis.  
+<soc>Cliente: Sí.  
+<soc>Asesor: Le saludo de acá del dealer de autos. Quería saber si sigue interesado en visitarnos.  
+<soc>Cliente: ¿Fíjense que por el momento no, porque he tenido un problemita, se me ha cocinado un gasto extra, entonces ahorita no puedo ponerme una cuota encima, verdad?  
+<soc>Asesor: Okay.  
+<soc>Cliente: Perfecto. Muchas gracias.  
+<soc>Asesor: Gracias. Feliz fin de semana. Bye. Bye. Igual.   

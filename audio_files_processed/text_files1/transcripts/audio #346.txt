@@ -1,0 +1,38 @@
+<soc>Asesor: Hola, muy buenas tardes. ¿Tiene tiempo en este momento para atenderme?
+
+<soc>Cliente: Sí, claro, un poquito.
+
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa. Ofrecemos tres años de garantía en motor, transmisión y aire acondicionado. Le estaríamos solicitando solamente tres documentos para poder financiarle. Principalmente, su identificación, que puede ser de aquí o de su país, pero debe estar vigente. También necesitamos un comprobante de ingreso, pero si no tiene, no hay problema.
+
+<soc>Cliente: Tengo mis cheques.
+
+<soc>Asesor: Ah, el último talón de cheques le funciona. Y también necesitamos un Bill, cualquier tipo de Bill.
+
+<soc>Cliente: ¿El del teléfono puede ser?
+
+<soc>Asesor: Sí, el del teléfono puede ser. ¿Y sería su primera vez financiando? ¿Usted ya tiene créditos?
+
+
+<soc>Cliente: No, nunca he tenido un carro.
+
+<soc>Asesor: Ok. ¿Y busca algún vehículo en especial? ¿Marca, año o modelo?
+
+<soc>Cliente: No, no en especial, pero tengo como $2000, $2500 de enganche.
+
+<soc>Asesor: Ok, perfecto. ¿Le gustaría llevarse un sedán? No sé, ¿qué le parece? Nosotros estamos en San Fernando, California. ¿No sé si le interesaría venir hasta acá? Porque veo que usted está en San Diego, ¿verdad?
+
+<soc>Cliente: Sí, estoy en San Diego.
+
+<soc>Asesor: Le aseguro que nosotros le ayudamos. Solo traiga los requisitos y el enganche, y el mismo día le entregamos el vehículo. Sé que estamos aproximadamente a 3 horas y media de camino, pero le ofreceremos un excelente inventario para que se lleve un vehículo y facilidades en el financiamiento. Le voy a dejar nuestra dirección. Estamos abiertos de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m., y también los domingos desde las 10:00 a.m. hasta las 6:00 p.m.
+
+<soc>Cliente: Ok, perfecto. Mándame un WhatsApp si gusta, mándame un WhatsApp y ahorita me manda la dirección.
+
+<soc>Asesor: Ok, perfecto. ¿Más o menos qué día nos visitaría para estar pendientes?
+
+<soc>Cliente: Yo creo que la próxima semana.
+
+<soc>Asesor: Ok, perfecto. Entonces le dejo un WhatsApp con la dirección y me comunico la próxima semana para confirmar su cita.
+
+<soc>Cliente: Sí, por favor. Muchas gracias.
+
+<soc>Asesor: Gracias. Que tenga una bonita tarde.

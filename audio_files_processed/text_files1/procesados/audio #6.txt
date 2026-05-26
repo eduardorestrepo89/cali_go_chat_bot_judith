@@ -1,0 +1,10 @@
+Speaker A: Hola, buen día caballero, mi nombre es Judith, le saludo del dealer de autos.
+Speaker UNK: Ajá, buen día señor.
+Speaker A: Sí, hemos estado intercambiando mensajitos, pero no nos habíamos podido comunicar por llamada, incluso ya le había dejado en nuestra dirección. Quería saber si sigue interesado en venir a ver los vehículos.
+Speaker UNK: Ah, sí, es que lo que pasa es que no hemos tenido tiempo, por eso no hemos ido.
+Speaker A: Ok. Abrimos de lunes a sábado desde las 10:00 a.m. hasta las ocho de las 12 y domingo desde las 10:00 a.m. hasta las 6:00 p.m.
+Speaker UNK: Ok, está bien.
+Speaker A: Entonces le comparto nuevamente nuestra dirección. No sé más o menos qué día podría pasar para estar pendiente.
+Speaker UNK: Pues no le podría decir más o menos qué día con exactitud, pero sí, en estos días puedo ver si llego.
+Speaker A: Ok, perfecto. Entonces ahí dejo nuestra dirección y cualquier cosa queda a la orden.
+Speaker UNK: Ok, está bien señor. Gracias.

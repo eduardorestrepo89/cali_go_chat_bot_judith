@@ -1,0 +1,17 @@
+<soc>Asesor: Buenas tardes caballero, le saludo del dealer de autos.  
+<soc>Cliente: ¿Hola, cómo estás?  
+<soc>Asesor: Muy bien. Le quería dar más información de cómo trabajamos, no sé si tiene tiempo de atenderme.  
+<soc>Cliente: Sí, cuénteme.
+<soc>Asesor: ¿Sería su primera vez, verdad? ¿Buscando un financiamiento?  
+<soc>Cliente: Sí, es que yo apenas llegué a finales de enero de Venezuela y tengo tres o cuatro meses trabajando en una empresa y 2 en otra, porque yo trabajo en dos. Pero los bancos me han pedido movimientos bancarios muy antiguos y no los tengo. 
+<soc>Asesor: Nosotros hacemos financiamiento en casa, no en banco. Por lo general los dealers cuando hacen financiamiento en banco son un poco más quisquillosos con los requisitos y todo eso. Mire, a nosotros no nos importa qué tanto lleve en su trabajo, ni qué tanto sea su ingreso, nosotros le ayudamos. Lo importante para nosotros es que nos presente los requisitos, los cuales son una identificación vigente, un comprobante de domicilio y un comprobante de ingreso. El comprobante de ingreso, como le explico, no es necesario que usted tenga mucho movimiento en su cuenta, si es que nos va a traer un estado de cuenta, si nos trae un talón de cheque, puede ser el último talón de cheque, también nos sirve. 
+<soc>Cliente: Sí, tengo todos los requisitos.  
+<soc>Asesor: Ok.  
+<soc>Cliente: Yo tengo eso, tengo mi social, tengo mi permiso de trabajo. Gracias a Dios. Apenas llegué de Venezuela, como vine legal, lo primero que hice fue pagar $410 para el permiso de trabajo y de una vez me llegó, como al mes me llegó mi social y mi permiso de trabajo. Es una maravilla porque hay personas de aquí que me dicen que tienen tiempo esperando eso.  
+<soc>Asesor: Es una gran ventaja, la verdad. ¿Con cuánto de enganche cuenta o qué tipo de vehículo busca?  
+<soc>Cliente: No, yo realmente, bueno, yo estoy solo aquí. Mi familia quedó en Colombia y yo estoy solo. No puede ser algo tan grande tampoco, algo que me lleve y me traiga amiguita. 
+<soc>Asesor: Sí, en ese caso pues le ofrecería lo que es un carro sedán, ocuparía mínimo unos $2000 de enganche. Los vehículos que yo le tengo son del año 2019 en adelante. Todos son títulos limpios en motor, transmisión y aire acondicionado.  
+<soc>Cliente: Ok, buenísimo.  
+<soc>Asesor: Vale, nosotros estamos en San Fernando, California. Creo que aún le quedamos un poquito lejitos de Orange, donde está.  
+<soc>Cliente: Ah, San Fernando. Sí, un poquito lejitos. Pero querer es poder, pues siempre y cuando yo pueda llevar mis $2000, por ejemplo, mi documento y todo aquello. Y bueno, por lo menos que me digan, bueno, venga dentro de una semana a buscar su carro, yo voy tranquilo.  
+<soc>Asesor: Nosotros el mismo día de la visita le entregamos el vehículo. Siempre cuando a usted le parezca bien nuestros vehículos y todo lo que le ofrecemos, el mismo día se lo entregamos.

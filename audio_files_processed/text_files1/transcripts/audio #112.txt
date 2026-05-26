@@ -1,0 +1,21 @@
+<soc>Asesor: Hola, buenos días, tengo el gusto con el caballero Rudy Mendoza.  
+<soc>Cliente: ¿Quién habla?  
+<soc>Asesor: Mi nombre es Judith, le saludo de acá del dealer de autos. Nos comunicamos hace unos días por mensajitos, quería darle un poco más de información de cómo trabajamos, no sé si tiene tiempo de atenderme.  
+<soc>Cliente: ¿Ok, dígame por dónde está, por dónde está?  
+<soc>Asesor: Estamos acá en San Fernando, California, por las 65 Fox.  
+<soc>Cliente: Ok, díganme.  
+<soc>Asesor: Ok, le comento que nosotros hacemos financiamiento en casa, mínimo seis meses y máximo cinco años, cuatro meses. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar con nosotros solamente estaría ocupando tres documentos, los cuales serían su identificación, puede ser de aquí o de su país, pero tiene que estar vigente. También ocupa un comprobante de domicilio que puede ser cualquier tipo de bill. Si no está su nombre no hay ningún problema, nosotros acá le ayudamos. Y si tiene también un comprobante de Ingreso cuenta con estos documentos?  
+<soc>Cliente: si, sino que me pagan cash.    
+<soc>Asesor: ¿Trabaja por su cuenta o tiene jefe?  
+<soc>Cliente: No, trabajo para alguien.  
+<soc>Asesor: Ok, nos puede traer el número de su jefe como comprobante de ingreso o una carta laboral si no se le dificulta. Claro. ¿Ok, sería su primera vez financiando o usted ya ha tenido algún crédito?  
+<soc>Cliente: Pues pequeño crédito, si son pequeños, pero ya para un carro algo más grande.  
+<soc>Asesor: No, no hay problema. Nosotros el financiamiento que le ofrecemos es en casa y calificamos cualquier tipo de crédito y con nosotros también puede mejorar su crédito o lo puede comenzar. ¿Usted busca algún vehículo en especial, marca, año o modelo?  
+<soc>Cliente: Si estoy buscando uno que sea una troca, no sé si seminuevo, no sé cómo trabajan ustedes. ¿Qué tipo de vehículos tiene?  
+<soc>Asesor: Claro, con respecto a los vehículos que nosotros le tenemos ahorita le tengo varias trocas en inventario. Le tengo la Toyota Tacoma, la Chevrolet Silverado, la Chevrolet Colorado, la Ford F-150, la Nissan Frontier, la Dodge Ram. Le tengo las trocas del año 2018 en adelante, son seminuevas. ¿En millaje andan entre los 10,000 hasta las 60,000 millas, ahí depende la troca, Y los down payment desde los 3,000 de enganche. no sé qué día usted puede venir personalmente acá al dealer a ver las trocas.  
+<soc>Cliente: Pues yo les aviso que pasa que como ahorita pues usted sabe que también el trabajo está muy bajo y entonces como yo tengo que estar juntando el down payment para poder agarrar un carro.  
+<soc>Asesor: Claro que sí, más o menos dentro de cuántos días o semanas para así llamarle nuevamente después.  
+<soc>Cliente: No le puedo decir porque si yo le voy a decir aquí a una semana y yo no quiero quedar mal con ustedes y no, no, no le puedo dar un día específicamente.  
+<soc>Asesor: Ok, perfecto. Entonces yo le voy a dejar ahí nuestra dirección y nuestros datos y luego nos comunicamos. cuando usted esté listo me puede llamar o dejar un mensajito para que podamos programar día de cita. 
+<soc>Cliente: Va, ok, está bien. Gracias.  
+<soc>Asesor: Ok, gracias. Que tenga un excelente día.

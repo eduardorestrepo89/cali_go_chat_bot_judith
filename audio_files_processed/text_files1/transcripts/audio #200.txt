@@ -1,0 +1,13 @@
+<soc>Asesor: Hola, buen día. Tengo el gusto con el caballero Arlen Amador. Mi nombre es Judith y le saludo de Caligo Autos. Hemos estado intercambiando mensajes por redes sociales. ¿Tiene tiempo para atenderme?
+<soc>Cliente: Sí, ok, cuenteme.
+<soc>Asesor: Nosotros hacemos financiamiento en casa y damos hasta tres años de garantía en motor, transmisión y aire acondicionado. Para calificar, necesitamos tres documentos: identificación vigente, comprobante de ingreso y comprobante de domicilio.
+<soc>Cliente: Es que yo trabajo, pero me pagan en cash.
+<soc>Asesor: No hay inconveniente si le pagan en efectivo. Solo con la identificación y el comprobante de domicilio le ayudamos. ¿Es su primera vez financiando o ya ha tenido algún crédito?
+<soc>Cliente: Primera vez.
+<soc>Asesor: Perfecto. ¿Busca algún vehículo en especial? ¿Marca, año o modelo?
+<soc>Cliente: No, un carro sedán cómodo.
+<soc>Asesor: Tengo sedanes del año 2019 en adelante, todos con título limpio. El primer mes de seguro es gratis, y necesita un enganche mínimo de $2000. ¿Qué le parece?
+<soc>Cliente: ¿Dónde están ubicados?
+<soc>Asesor: Estamos cerca de Los Ángeles, en el valle de San Fernando. Le enviaré nuestra dirección por mensaje de texto.
+<soc>Cliente: Ah, ok. Creo que vivía en California, ¿verdad?
+<soc>Asesor: Sí, estaba en California, pero nuestra única localidad es en California.

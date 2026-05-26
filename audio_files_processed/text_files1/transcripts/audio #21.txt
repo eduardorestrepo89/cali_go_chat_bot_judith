@@ -1,0 +1,75 @@
+<soc>Asesor: Hola, buenas tardes caballero. Mi nombre es Judith. Le llamé anteriormente porque quería darle más información sobre cómo trabajamos aquí en el dealer.
+
+<soc>Cliente: Ok.
+
+<soc>Asesor: ¿Tiene tiempo de atenderme?
+
+<soc>Cliente: Sí.
+
+<soc>Asesor: Ok. ¿Sigue interesado, verdad? Porque lo tenía registrado en mi base de datos.
+
+<soc>Cliente: Bueno, sí, por lo que he visto en el video que me enviaste y en el mensaje.
+
+<soc>Asesor: Ok. Le comento que nosotros hacemos financiamiento en casa. Damos hasta tres años de garantía en motor, transmisión y aire acondicionado. También le ofrecemos el primer mes gratis de seguro. Para calificar con nosotros, solo necesita una identificación vigente, que puede ser de aquí o de su país.
+
+<soc>Cliente: Ok, tengo una pregunta. Si la dirección donde estoy viviendo no coincide con la del ID, ¿eso me causará problemas?
+
+<soc>Asesor: No, no hay ningún inconveniente. Lo importante es que el comprobante de domicilio sea de donde usted está viviendo actualmente.
+
+<soc>Cliente: Ok.
+
+<soc>Asesor: ¿Sería su primera vez financiando o ya ha tenido algún crédito?
+
+<soc>Cliente: Te seré sincero. Tengo la documentación en regla, pero por problemas ajenos no he podido financiar autos recientemente. El último que tuve sufrió un accidente y se declaró pérdida total. Me interesa su financiamiento porque entiendo que ustedes trabajan directamente, sin bancos. ¿Es correcto?
+
+<soc>Asesor: Sí, todo el proceso es directo con nosotros, y también reportamos su crédito para ayudar a mejorarlo.
+
+<soc>Cliente: Bien. Soy trabajador independiente, hago Uber y eso podría servir como referencia.
+
+<soc>Asesor: No hay problema. Si no tiene un comprobante físico de ingresos, una captura de pantalla de su aplicación o un estado de cuenta de su banco funciona bien.
+
+<soc>Cliente: Tengo acceso a esa información, puedo proporcionarle un estado de cuenta donde se reflejan los depósitos.
+
+<soc>Asesor: Excelente. ¿Y busca algún vehículo en especial, marca, año o modelo?
+
+<soc>Cliente: Estoy buscando un sedán híbrido, sería mi primera opción.
+
+<soc>Asesor: Aquí tenemos opciones híbridas. Para un vehículo así, necesitaría un enganche mínimo de 2500. Nos llegan del 2019 en adelante.
+
+<soc>Cliente: ¿Y qué híbridos tienen?
+
+<soc>Asesor: Actualmente, tenemos el Hyundai Ioniq y el Toyota Prius. También contamos con modelos totalmente eléctricos de Tesla.
+
+<soc>Cliente: No, eléctricos no me interesan.
+
+<soc>Asesor: Entendido. Entonces, tenemos el Hyundai Ioniq y el Prius. ¿No sé qué día podría visitarnos? Estamos en San Fernando, California.
+
+<soc>Cliente: Vivo en Los Ángeles, así que estamos cerca. Pero me dijiste que solo tienen esos dos híbridos.
+
+<soc>Asesor: Correcto. Pero si está interesado en un vehículo de gasolina, tenemos Hondas, Kias, Fords, Chevys, Volkswagens, y una amplia variedad que no consume tanto combustible.
+
+<soc>Cliente: Ok, del híbrido, ¿qué modelo del Hyundai Ioniq tienen?
+
+<soc>Asesor: Solo tenemos el Ioniq. Es una marca relativamente nueva de Hyundai. El Prius es más conocido, por supuesto.
+
+<soc>Cliente: Sí, he escuchado de él.
+
+<soc>Asesor: Perfecto. ¿Cuándo podríamos establecer una cita para que nos visite?
+
+<soc>Cliente: Primero necesito asegurar el enganche. Tenía alrededor de 2000, pero si el mínimo son 2500, tendría que completar esa cantidad. Cuando lo tenga, te llamo y fijamos la cita.
+
+<soc>Asesor: Excelente. Te voy a enviar nuestra dirección por mensaje de texto. Mi nombre es Judith, guarda este contacto y cuando tengas todo el enganche, me notificas.
+
+<soc>Cliente: Perfecto.
+
+<soc>Asesor: También te ofrezco la opción de un enganche diferido. Si tienes 2000, puedes dejarlos como enganche y te damos un plazo para que traigas los otros 500 y te lleves el vehículo el mismo día que nos visites.
+
+<soc>Cliente: Eso suena bien.
+
+<soc>Asesor: Entonces, ahí tienes la opción si decides venir antes. Estoy aquí para ayudarte.
+
+<soc>Cliente: Muchas gracias por tu ayuda, Judith.
+
+<soc>Asesor: Gracias a ti. Que tengas una excelente tarde.
+
+<soc>Cliente: Igualmente, hasta luego.

@@ -1,0 +1,19 @@
+<soc>Asesor: Bueno, hola, muy buen día. Tengo un gusto con el caballero Joaquín.
+<soc>Cliente: A la orden.
+<soc>Asesor: Le saludo de acá del dealer. Hemos estado intercambiando mensajitos por WhatsApp y le quería dar más información de cómo trabajamos. No sé si tiene tiempo de atenderme.  
+<soc>Cliente: Dígame.  
+<soc>Asesor: Ok, una consulta, nosotros estamos acá en San Fernando, California. ¿No le queda tan lejos?.  
+<soc>Cliente: Estoy en Alhambra, California.  
+<soc>Asesor: Sí. No sé si le interesaría venir hasta por acá.  
+<soc>Cliente: Es lo que estaba yo viendo, que si está un poco retirado.  
+<soc>Asesor: Si y es la única localidad que nosotros tenemos. Lo que si le puedo asegurar es que tenemos muchas facilidades para el financiamiento y solo con su identificación y el enganche nosotros le damos un vehículo.  
+<soc>Cliente: Yo ando buscando una Tacoma de modelo más o menos reciente.  
+<soc>Asesor: Ok. Lo tengo del 2018 en 2022 desde los 3500 de enganche. No sé qué le parece.  
+<soc>Cliente: ¿Me podrías mandar foto al ratito?  
+<soc>Asesor: Sí, claro que sí, yo le dejo algunas fotografías y también le voy a dejar nuestra dirección. ¿Y sería su primera vez financiando? ¿Usted ya tiene crédito?  
+<soc>Cliente: No, es mi primera vez, de hecho, este, vengo llegando a California, estuve en Carolina del Sur cinco meses.  
+<soc>Asesor: Ah, ok, perfecto. Pues con nosotros puede comenzar su crédito. Tenemos abierto de lunes a sábado desde las 10:00 a.m. hasta las 8:00 p.m. y los domingos desde las 10:00 a.m. hasta las 6:00 p.m. no sé qué día nos podría visitar.  
+<soc>Cliente: A lo mejor un domingo.  
+<soc>Asesor: Ok, excelente. Entonces le voy a dejar nuestra dirección y le voy a dejar las fotografías. Bueno, quedamos en contacto, que tenga un buen día.  
+<soc>Cliente: Órale, bendiciones.  
+<soc>Asesor: Amén, bye.
